@@ -1,0 +1,74 @@
+{
+  "id": "asclepias-oenotheroides",
+  "family": "Apocynaceae",
+  "genus": "Asclepias",
+  "scientific_name": "",
+  "common_name": "Zizotes Milkweed",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Sap type",
+      "text": "Copious white milky latex."
+    },
+    {
+      "label": "Habit",
+      "text": "Perennial herb, usually about 10–50 cm tall; several stems arise from a thick rootstalk, with stems ascending to decumbent and often branched from the base."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Opposite to sub-opposite; typically decussate."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Ovate to lanceolate leaves on petioles; margins often conspicuously wavy/undulate; leaf surfaces can be short-hairy, especially along veins."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Lateral/axillary umbels on upper nodes; commonly one cluster per node and often short-peduncled."
+    },
+    {
+      "label": "Flower color",
+      "text": "Greenish-white to yellowish, sometimes with cream or pink tones in the corona."
+    },
+    {
+      "label": "Gynostegium detail",
+      "text": "Very long, slender corona hoods extend above the stigmatic head and flare or bow outward near their tips; internal horns are present. This hood shape is exceptionally diagnostic."
+    },
+    {
+      "label": "Fruit",
+      "text": "Milkweed follicle with comose seeds."
+    },
+    {
+      "label": "Flowering texas",
+      "text": "April–November."
+    },
+    {
+      "label": "Identification",
+      "text": "At flower level, the very long slender corona hoods rise above the central gynostegium—an unusually strong Texas milkweed character."
+    },
+    {
+      "label": "Identification",
+      "text": "Opposite broad leaves with conspicuously wavy margins."
+    },
+    {
+      "label": "Identification",
+      "text": "Low, several-stemmed habit with lateral/axillary umbels."
+    },
+    {
+      "label": "Identification",
+      "text": "Use a macro view to separate the corona hoods, central gynostegium, and reflexed corolla parts."
+    },
+    {
+      "label": "Joey field note",
+      "text": "Joey Santore's South Texas macro photographs make the decisive floral anatomy especially easy to learn: long narrow hoods/corona surrounding the central gynostegium, with the reflexed corolla visible below."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "8f4afe63425708c829b8eee60aeb2d97e253d64a1d2b580abc6303531c03ee0f",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

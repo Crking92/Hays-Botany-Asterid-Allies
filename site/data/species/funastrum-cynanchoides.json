@@ -1,0 +1,66 @@
+{
+  "id": "funastrum-cynanchoides",
+  "family": "Apocynaceae",
+  "genus": "Funastrum",
+  "scientific_name": "Funastrum cynanchoides",
+  "common_name": "Climbing milkweed / fringed twinevine",
+  "look_here_first": "Look at an OPPOSITE HEART-BASED LEAF with generally FLAT (not wavy) margins, then follow its axil to a clustered UMBEL of little creamy to rosy pink star flowers with a GLOSSY WHITE five-part corona in the center. The flowers are relatively SMALL, with petals about 3–6 mm, unlike large brown/orange F. crispum corollas (~20mm across).",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Perennial twining milkweed vine with white latex and slender flexible stems (no tendrils)."
+    },
+    {
+      "label": "Stems",
+      "text": "Thin, often sprawling/twining green stems; fine short curved trichomes occur on stems and flower stalks."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite simple petiolate blades often ovate, lanceolate, or slightly arrow-shaped and typically cordate at base; widest variable ~0.7–4.5 cm; margins usually PLANE rather than crispate or strongly wavy."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Axillary umbel-like cymes, sometimes appearing as rounded bouquet of many little flowers; compare size of ONE open flower rather than head size alone."
+    },
+    {
+      "label": "Flowers",
+      "text": "Cream/white or rose-tinged five-lobed spreading corolla, petal lobes ~3–6mm, often pink at tips and fringed/ciliate at petal margins. Corolla inner face can be minutely hispidulous to nearly smooth (Flora of North America)."
+    },
+    {
+      "label": "Corona",
+      "text": "Five glossy white swollen ovoid corona lobes around the milkweed gynostegium, often with cream/green/pink base; central coronas are NOT unopened flower buds or petals."
+    },
+    {
+      "label": "Fruit",
+      "text": "Usually lone slender oblong to lanceolate follicle ~6–9cm long, curved-hairy, with 20–50 brown winged seeds bearing silky coma."
+    },
+    {
+      "label": "Identification",
+      "text": "cream-to-pink small five-petaled stars in umbel-like heads"
+    },
+    {
+      "label": "Identification",
+      "text": "five plump brilliant white oval corona lobes"
+    },
+    {
+      "label": "Identification",
+      "text": "mostly flat-edged cordate ovate-lanceolate opposite leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "thin twining stems with white latex"
+    },
+    {
+      "label": "Identification",
+      "text": "seeds in slender follicle with white silky coma"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f1bcf42bd49737f5c8059b69660b976f05d8d6a2cf08da9f99c63ffd6908df4f",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

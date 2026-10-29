@@ -1,0 +1,74 @@
+{
+  "id": "dichondra-recurvata",
+  "family": "Convolvulaceae",
+  "genus": "Dichondra",
+  "scientific_name": "Dichondra recurvata",
+  "common_name": "Oakwoods ponyfoot",
+  "look_here_first": "LOOK BELOW THE LEAVES: a prostrate rooting mat of alternate, entire, kidney-shaped leaves on thin petioles. Look for tawny silky hairs (especially underneath). Find a tiny PALE, 5-lobed flower and trace its VERY SHORT flower/fruit stalk: the upper end hooks sharply DOWNWARD (recurved), not just a drooping leaf stalk. At maturity compare fruit (3–4 mm) with its persistent five sepals (~2.9–3.8 mm). Larger leaves alone are NOT enough to separate this species from Carolina ponyfoot.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Creeping perennial rooting at nodes; dense low mat, leaves held above shallow/subterranean creeping stolons."
+    },
+    {
+      "label": "Identification",
+      "text": "Blades round to kidney-shaped with a conspicuous basal notch, entire/wavy edges, several basal radiating palmate veins; ALTERNATE on runners."
+    },
+    {
+      "label": "Identification",
+      "text": "Stems and lower leaf surfaces conspicuously tawny silky-hairy (sericeous), often more hairy underneath than on upper surface."
+    },
+    {
+      "label": "Identification",
+      "text": "Single tiny pale-green to white cup/funnel flower, five corolla lobes, from an axil; look UNDER leaves, not for showy morning-glory trumpets."
+    },
+    {
+      "label": "Identification",
+      "text": "CRITICAL: the upper end of the short pedicel hooks/recurves downward near the calyx. Photograph the entire attached stalk, not a fallen fruit."
+    },
+    {
+      "label": "Identification",
+      "text": "Five rather broadly rounded, overlapping, persistent sepals (2.9–3.8 mm in fruit per FNA) typically shorter to barely longer than the mature 3–4 mm fruit."
+    },
+    {
+      "label": "Identification",
+      "text": "Fruit a 2-lobed hairy capsule with fragile wall and separating lobes; do NOT confuse the sepals with flower petals."
+    },
+    {
+      "label": "Growth habit",
+      "text": "Perennial, clonal creeping mat in gravelly oak woodland, disturbed sites, lakeshore margins; often only a few centimeters high aboveground. Roots form at nodes; perennial slender stolons commonly shallow or just below soil surface."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Alternate, not opposite; one leaf per node along creeping shoot (dense nodes may give a paired appearance)."
+    },
+    {
+      "label": "Leaves",
+      "text": "Rounded/reniform blades with cordate basal notch and entire or subtly wavy margins; palmate veins 5–7 in local Williamson flora. FNA typical 20–30 mm long and 30–40 mm wide, with broad individual ranges; a local UT Williamson account measured smaller material (<5–23 x <10–30 mm). Do not require a rigid cutoff."
+    },
+    {
+      "label": "Leaf surface",
+      "text": "Silky tawny hairs on stems, more dense beneath the blade and on margins, sparse on upper leaf face. Inspect with hand lens; leaf hair is supporting, not exclusive, identification."
+    },
+    {
+      "label": "Petiole",
+      "text": "Long relative to small hidden inflorescences. Flora of North America reports 20–170 mm including long extremes; UT Williamson County flora measured roughly 10–35 mm on local material."
+    },
+    {
+      "label": "Flowers",
+      "text": "Tiny, solitary to paired axillary flowers; five broad lobes of a fused pale-green or creamy-white funnel/cup corolla, approximately 3.1–4 mm FNA (local measured examples can be smaller). Persistent, five-lobed calyx outside corolla."
+    },
+    {
+      "label": "Pedicel",
+      "text": "FNA: 5–13 mm, conspicuously recurved near tip. UT Williamson: very short, hooked and downward-pointing, increasing toward fruit, to roughly 12 mm; photograph the full pedicel and whether the curve is immediately below flower."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "73a1721cac8ce4da014462f9f901bb9d696012c366d95e49e2f274bfd1e101bf",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

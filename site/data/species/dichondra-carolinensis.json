@@ -1,0 +1,74 @@
+{
+  "id": "dichondra-carolinensis",
+  "family": "Convolvulaceae",
+  "genus": "Dichondra",
+  "scientific_name": "Dichondra carolinensis",
+  "common_name": "Carolina ponyfoot",
+  "look_here_first": "LOW MAT of small smooth-edged KIDNEY-SHAPED leaves, each on a long upright petiole from a creeping/rooting stem. Follow the stem: leaves are ALTERNATE, not opposite. Turn leaves over to find a solitary tiny PALE GREEN or CREAM five-lobed flower, much shorter-stalked than the leaves. If distinguishing from another Dichondra, check the fruiting stalk: usually STRAIGHT or barely bent and the FIVE persistent sepals LONGER than the little two-lobed capsule. Do NOT rely on round leaves alone.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Prostrate stolon-forming perennial herb only a few cm high; many rounded kidney-shaped leaves on ascending petioles create the visual mat."
+    },
+    {
+      "label": "Identification",
+      "text": "Leaves ALTERNATE along creeping stolons; blades simple, kidney-shaped (reniform), cleft/notched at the base, with an ENTIRE (untoothed) margin."
+    },
+    {
+      "label": "Identification",
+      "text": "Several main PALMATE veins radiate from the notch/petiole junction rather than one single midrib."
+    },
+    {
+      "label": "Identification",
+      "text": "Tiny solitary flower sits in a leaf axil usually below the leaf canopy; pale green/cream corolla with five short lobes, not a yellow composite head."
+    },
+    {
+      "label": "Identification",
+      "text": "Green CALYX of five separate often hairy sepals persists as petals disappear and enlarges with maturing fruit."
+    },
+    {
+      "label": "Identification",
+      "text": "Fruit matures into a tiny distinctly two-lobed dry capsule; in D. carolinensis its persistent sepals are generally noticeably longer than the capsule."
+    },
+    {
+      "label": "Identification",
+      "text": "To separate close Dichondra look-alikes, a roughly straight/nonnodding pedicel in fruit is more useful than whether one leaf looks bigger or greener."
+    },
+    {
+      "label": "Growth habit",
+      "text": "Mat-forming or loose creeping cover, with subterranean/at-surface slender stolons rooting at nodes, leafy tips standing to approximately 5 cm in the central-Texas detailed specimen treatment. Often hidden amongst grass and leaf litter."
+    },
+    {
+      "label": "Life cycle",
+      "text": "Perennial herb, creeping and rooting along stolons."
+    },
+    {
+      "label": "Stem",
+      "text": "Slender runners at or just beneath soil surface, occasional aboveground red-green hairy stems; local UT treatment notes two-armed strigose hairs on green organs, often not visible without a hand lens."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Helically ALTERNATE—one petiolate leaf per node, NOT true opposite pairs. Dense runners can make nearby petioles appear paired; physically trace one stem."
+    },
+    {
+      "label": "Leaves",
+      "text": "Simple, kidney-shaped to suborbicular; rounded or slightly indented tip, deeply cordate/notched petiole base, smooth/ENTIRE margins, variable minute hairs. UT local specimens approximately 10–23 mm long by 10–30 mm wide; FNA broader 3–25 by 6–30 mm including extremes."
+    },
+    {
+      "label": "Leaf venation",
+      "text": "Palmate, several major veins (UT reports commonly 3, 5, or 7) diverging from the petiole base; veins conspicuous on underside when leaf is flipped."
+    },
+    {
+      "label": "Petiole",
+      "text": "Long, upright/slightly oblique leaf stalk: FNA commonly 10–50 mm, sometimes to 105 mm; much longer than tiny flower stalk in typical specimens. Petiole is attached at the BASE notch, not centrally on the leaf blade."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "0be32b15f27fd3aadeeb64d7233b4af626348f15d8c28b344ccbcbbdc171eeb8",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

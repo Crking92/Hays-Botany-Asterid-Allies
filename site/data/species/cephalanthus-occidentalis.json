@@ -1,0 +1,50 @@
+{
+  "id": "cephalanthus-occidentalis",
+  "family": "Rubiaceae",
+  "genus": "Cephalanthus",
+  "scientific_name": "Cephalanthus occidentalis",
+  "common_name": "Buttonbush / Common Buttonbush",
+  "look_here_first": "Start with the inflorescence and leaf arrangement. Buttonbush has distinctive spherical white flower heads with projecting styles that look like pincushions, plus opposite or whorled glossy entire leaves on a wet-site shrub.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "winter-deciduous many-stemmed shrub"
+    },
+    {
+      "label": "Identification",
+      "text": "branches often opposite or in whorls of 3"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves opposite or whorled, simple and entire"
+    },
+    {
+      "label": "Identification",
+      "text": "interpetiolar stipules"
+    },
+    {
+      "label": "Identification",
+      "text": "spherical white flower heads"
+    },
+    {
+      "label": "Identification",
+      "text": "long projecting styles create pincushion appearance"
+    },
+    {
+      "label": "Identification",
+      "text": "round fruiting balls of nutlets"
+    },
+    {
+      "label": "Identification",
+      "text": "strong association with pond margins, streams, and riparian wetlands"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Opposite/whorled glossy leaves + stipules + spherical pincushion flower heads = high-confidence buttonbush."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "17ccec13f9e95d14e9985ce992825e3c99d4d977f8c6e8e32a7e652cc0f7b60d",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

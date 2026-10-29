@@ -1,0 +1,66 @@
+{
+  "id": "funastrum-crispum",
+  "family": "Apocynaceae",
+  "genus": "Funastrum",
+  "scientific_name": "Funastrum crispum",
+  "common_name": "Wavyleaf twinevine",
+  "look_here_first": "FLATTEN A MATURE LEAF in view: leaf edge often WAVY/crisped and blade narrow TRIANGULAR, with heart-shaped base. Then inspect an OPEN FLOWER face: large (~20 mm across), brownish/orange to green, 5 broad spreading lobes; white-pink fleshy corona inside. Unlike climbing milkweed F. cynanchoides, flowers generally are larger and lack the many cream/rose-tinged little petals. Confirm flowers and fruit when leaf margins are not obviously curled.",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Perennial herbaceous, twining and trailing milkvine; multiple long slender stems and white milky latex."
+    },
+    {
+      "label": "Stems",
+      "text": "Cylindrical twining stems up to ~2 mm diameter; short DOWNWARD-CURVED simple hairs (0.1–0.2 mm) plus inconspicuous glandular hairs; no tendrils."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite, decussate, simple, short-petiolate, typically triangular to narrowly triangular blades (about 25–75 mm long), cordate at base; often wavy/crispate edges but sometimes almost flat. Many upper sun leaves are narrower; leaf pairs may be unequal in size."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Axillary umbel-like cymes, often roughly hemispheric clusters of up to ~9 comparatively large flowers on a short hairy peduncle."
+    },
+    {
+      "label": "Flowers",
+      "text": "Corolla five-lobed, rotate, roughly 20 mm across, lobes about 10 mm long; upper-facing petals orange to brown or greenish, short-ciliate along margins; typically glabrous inside. Corolla color changes with age, so use leaf edge and larger flowers together."
+    },
+    {
+      "label": "Corona",
+      "text": "Five fleshy thumb-like segments, often pink/rose and white, visibly constricted around midlength (Flora of North America key). These are NOT separate petals; inspect central milkweed gynostegium and pollinia."
+    },
+    {
+      "label": "Fruits",
+      "text": "One or two long slender follicles, often ~10–13 cm; seeds furnished with silky white hairs (coma). Pods can be more diagnostic than flower color when mature."
+    },
+    {
+      "label": "Identification",
+      "text": "leaf margins often strongly crisped/wavy"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow triangular opposite heart-based leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "larger brown/orange-green starry corollas ~20 mm diameter"
+    },
+    {
+      "label": "Identification",
+      "text": "flower crown of pink-white thick coronas with median waist"
+    },
+    {
+      "label": "Identification",
+      "text": "short-haired axillary cymes, white milky latex"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "73d76649fc7bea88d8ad7582eb7e248aeffeecceb4c4f1cdd8968f6d5a6ddfd3",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "amsonia-longiflora",
+  "family": "Apocynaceae",
+  "genus": "Amsonia",
+  "scientific_name": "Amsonia longiflora",
+  "common_name": "Tubular bluestar",
+  "look_here_first": "View flower SIDE-ON: corolla tube (20–)28–41(–45) mm, much longer than A. ciliata at 6–9(–10) mm. Measure the whole tube with a ruler. A frontal flower view cannot establish tube length.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Perennial herb with narrow-leaved stems and tubular flowers."
+    },
+    {
+      "label": "Leaves",
+      "text": "Simple narrow stem leaves; examine attachment at node."
+    },
+    {
+      "label": "Flowers",
+      "text": "Five corolla lobes above an exceptionally long narrow tube, (20–)28–41(–45) mm."
+    },
+    {
+      "label": "Fruit",
+      "text": "Paired slender follicles; obtain a mature fruit view."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "6b6b156991e90d1d24cc40d941db0fc75b6c9aa4678671a84d9f42e7a57c9d8a",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

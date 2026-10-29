@@ -1,0 +1,34 @@
+{
+  "id": "amsonia-ciliata",
+  "family": "Apocynaceae",
+  "genus": "Amsonia",
+  "scientific_name": "Amsonia ciliata",
+  "common_name": "Fringed bluestar",
+  "look_here_first": "Inspect flowers SIDE-ON and measure the narrow corolla tube: 6–9(–10) mm. A. longiflora is (20–)28–41(–45) mm. Check sepals (0.8–1.8(–2) mm), leaves and eventual follicles. Do not assign var. texana from species-only records.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Upright perennial herb with leafy stems."
+    },
+    {
+      "label": "Leaves",
+      "text": "Simple narrow leaves; inspect nodes and leaf margins for hairs."
+    },
+    {
+      "label": "Flowers",
+      "text": "Five-lobed salverform flowers; tube 6–9(–10) mm; sepals 0.8–1.8(–2) mm."
+    },
+    {
+      "label": "Fruit",
+      "text": "Paired narrow follicles; confirm from mature specimens."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "107587a49ecbba6a8b07c4f4320ad2143f8fc59ae91662f55c98206cd73319e6",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

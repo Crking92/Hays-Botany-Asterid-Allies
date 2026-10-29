@@ -1,0 +1,17 @@
+{
+  "id": "cryptantha-texana",
+  "family": "Boraginaceae",
+  "genus": "Cryptantha",
+  "scientific_name": "Cryptantha texana",
+  "common_name": "Texas cryptantha",
+  "look_here_first": "Small hairy annual with narrow leaves and tiny white flowers in curled branches; examine calyx hairs and mature nutlets for species recognition.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "fb2c976d3a29583d7b2e38bd22c3def4015ad20a26634a63468c4ab3b7ed1089",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

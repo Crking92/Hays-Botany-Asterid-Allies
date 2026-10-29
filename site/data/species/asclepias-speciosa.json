@@ -1,0 +1,38 @@
+{
+  "id": "asclepias-speciosa",
+  "family": "Apocynaceae",
+  "genus": "Asclepias",
+  "scientific_name": "Asclepias speciosa",
+  "common_name": "Showy Milkweed",
+  "look_here_first": "Inspect white-tomentose stems and broad opposite leaves; then large rose-purple umbels and the conspicuously star-like individual flowers, hoods and horns.",
+  "key_traits": [
+    {
+      "label": "Leaf arrangement",
+      "text": "opposite"
+    },
+    {
+      "label": "Identification",
+      "text": "tall stout perennial with white-tomentose shoots"
+    },
+    {
+      "label": "Identification",
+      "text": "broad opposite hairy leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "large rose-purple umbels with spreading petals and conspicuous hoods/horns"
+    },
+    {
+      "label": "Identification",
+      "text": "milky latex"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "52f7476a01ee610b92746f3a066aad65c1beeb2f83d1263fd86f5fba81d27c8e",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

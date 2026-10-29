@@ -1,0 +1,58 @@
+{
+  "id": "convolvulus-equitans",
+  "family": "Convolvulaceae",
+  "genus": "Convolvulus",
+  "scientific_name": "",
+  "common_name": "Texas Bindweed",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Perennial."
+    },
+    {
+      "label": "Habit",
+      "text": "Low trailing/procumbent to decumbent herb, often under 15 cm tall; several-stemmed from the base."
+    },
+    {
+      "label": "Root",
+      "text": "Taprooted and also creeping horizontally."
+    },
+    {
+      "label": "Latex",
+      "text": "Milky."
+    },
+    {
+      "label": "Stem",
+      "text": "Tough, cylindric, tomentose to velvety."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate; mostly arrow-shaped with backward-pointing basal lobes, but may become more broadly lobed; soft-hairy/velvety."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Axillary cyme, usually 1–2 flowers."
+    },
+    {
+      "label": "Sepals",
+      "text": "Outer sepals roughly 7–7.5 mm in Williamson County material, rounded/cupped and densely hairy."
+    },
+    {
+      "label": "Corolla",
+      "text": "Broadly funnel-shaped, around 15 mm long and about 20 mm across; white with pink/rose-toned panels."
+    },
+    {
+      "label": "Fruit",
+      "text": "Small capsule; calyx persists around fruit."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c81f63bab2f8de3c49337c2ae2bac54c8016750c896c253511ef6725bd13cdc9",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

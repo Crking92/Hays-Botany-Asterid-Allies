@@ -1,0 +1,54 @@
+{
+  "id": "asclepias-curassavica",
+  "family": "Apocynaceae",
+  "genus": "Asclepias",
+  "scientific_name": "Asclepias curassavica",
+  "common_name": "Tropical Milkweed",
+  "look_here_first": "Check red to scarlet reflexed corolla lobes around bright yellow or orange-yellow corona hoods, then inspect the opposite, relatively smooth narrow leaves. Verify the milky latex and erect, often branched habit. Contrast with native butterfly milkweed, which has alternate hairy leaves and clear/watery sap.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Erect, often branching short-lived perennial or subshrub in frost-free settings; frequently grown as an annual in colder conditions; commonly about 0.3–0.9 m in Texas descriptions."
+    },
+    {
+      "label": "Sap type",
+      "text": "White milky latex; avoid skin or eye contact."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Leaves mainly opposite; some descriptions report whorls of three. Never infer opposite strictly from a single crowded node."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Narrowly oblong to lanceolate blades, mostly 6–13 cm long, usually short-stalked, tapering/pointed at the tip; stems and leaves nearly smooth to minutely hairy."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Umbel-like clusters at upper nodes or upper leaf axils; several showy flowers per cluster."
+    },
+    {
+      "label": "Flower color",
+      "text": "Typically scarlet to red-orange reflexed corolla lobes contrasting with yellow to orange-yellow hooded corona; horticultural color forms can vary."
+    },
+    {
+      "label": "Gynostegium detail",
+      "text": "Five corona hoods are present; Kew's Cayman Islands description records erect hoods with projecting horns. Unlike the viridis/asperula pair, do not confuse the yellow hoods with the red corolla lobes."
+    },
+    {
+      "label": "Fruit",
+      "text": "Slender spindle-shaped follicle, roughly 6–10 cm long, with comose seeds."
+    },
+    {
+      "label": "Flowering texas",
+      "text": "June–October noted in TPWD's guide, but cultivated plants can bloom outside that window with favorable weather."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "4da13d6737366d8fd046397161b3ff353be4e92444284339d15ea5865c98a255",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

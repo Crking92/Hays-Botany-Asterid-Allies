@@ -1,0 +1,38 @@
+{
+  "id": "asclepias-syriaca",
+  "family": "Apocynaceae",
+  "genus": "Asclepias",
+  "scientific_name": "Asclepias syriaca",
+  "common_name": "Common Milkweed",
+  "look_here_first": "Look for tall clonal stems with broad opposite leaves, then dense rounded axillary umbels and individual five-hooded flowers; do not use pink color alone.",
+  "key_traits": [
+    {
+      "label": "Leaf arrangement",
+      "text": "opposite"
+    },
+    {
+      "label": "Identification",
+      "text": "tall rhizomatous perennial with milky latex"
+    },
+    {
+      "label": "Identification",
+      "text": "broad opposite elliptic-ovate leaves, often pale and hairy beneath"
+    },
+    {
+      "label": "Identification",
+      "text": "dense rounded pinkish-purple axillary umbels"
+    },
+    {
+      "label": "Identification",
+      "text": "inflated follicles often with soft tubercles"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c68df25f8f38a8eb7059dfd356e357fc7b92a205b708a677f5db3dc4c95d1c41",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

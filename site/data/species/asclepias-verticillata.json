@@ -1,0 +1,58 @@
+{
+  "id": "asclepias-verticillata",
+  "family": "Apocynaceae",
+  "genus": "Asclepias",
+  "scientific_name": "",
+  "common_name": "Whorled Milkweed",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Slender herbaceous perennial, usually about 30–90 cm tall."
+    },
+    {
+      "label": "Root",
+      "text": "Short, relatively superficial rootstalk."
+    },
+    {
+      "label": "Sap type",
+      "text": "Milky white latex."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Mostly whorled, commonly 3–4 leaves per node in TPWD's Texas treatment; other references may describe broader variation."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Sessile or nearly sessile; extremely narrow linear to filiform blades, usually somewhat revolute and essentially glabrous."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Solitary or paired clusters at upper nodes, few- to many-flowered."
+    },
+    {
+      "label": "Flower color",
+      "text": "Small greenish-white flowers, sometimes externally purple-flushed."
+    },
+    {
+      "label": "Gynostegium detail",
+      "text": "Corona hoods with horns; flower structure is much smaller and more delicate than broad-leaved milkweeds such as A. viridis."
+    },
+    {
+      "label": "Fruit",
+      "text": "Narrow follicles typical of Asclepias."
+    },
+    {
+      "label": "Flowering texas",
+      "text": "May–November."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "84f04e4399c545e0eaab33010c513b76fead7cc944abb9d9bb2866de2e077c22",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

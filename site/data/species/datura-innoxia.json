@@ -1,0 +1,17 @@
+{
+  "id": "datura-innoxia",
+  "family": "Solanaceae",
+  "genus": "Datura",
+  "scientific_name": "Datura innoxia",
+  "common_name": "Downy thornapple",
+  "look_here_first": "LOOK HERE FIRST: Look for broad, softly hairy gray-green leaves and large upright trumpet-shaped flowers. Inspect the calyx and the rounded prickly seed capsule to distinguish it from other Datura species.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "5e543a8bf21a1830c4b1813a781e42138d597e46007d1ece4cb31345adb468af",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

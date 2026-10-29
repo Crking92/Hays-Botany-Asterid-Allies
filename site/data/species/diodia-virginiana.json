@@ -1,0 +1,17 @@
+{
+  "id": "diodia-virginiana",
+  "family": "Rubiaceae",
+  "genus": "Diodia",
+  "scientific_name": "Diodia virginiana",
+  "common_name": "Virginia buttonweed",
+  "look_here_first": "LOOK HERE FIRST: opposite narrow leaves, interpetiolar stipules, and four-lobed tubular flowers in the leaf axils.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "efaa91e87826659b6191041fbf0bcf39469b79fc8dc45c76c364ddd31e18bcf6",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

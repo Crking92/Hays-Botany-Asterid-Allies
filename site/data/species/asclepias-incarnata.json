@@ -1,0 +1,46 @@
+{
+  "id": "asclepias-incarnata",
+  "family": "Apocynaceae",
+  "genus": "Asclepias",
+  "scientific_name": "Asclepias incarnata",
+  "common_name": "Swamp Milkweed",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Erect perennial milkweed of wet ground, stream margins, and other moist sites."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Leaves opposite on the stem."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Leaves narrow and elongate, giving the plant a noticeably slender-leaved look."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Rounded terminal and upper-axillary umbels."
+    },
+    {
+      "label": "Flower color",
+      "text": "Pink to rose, sometimes paler."
+    },
+    {
+      "label": "Sap type",
+      "text": "Milky latex."
+    },
+    {
+      "label": "Look here first",
+      "text": "Start with the wet-site habitat, erect habit, narrow opposite leaves, and rounded pink flower umbels."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c82ef47b4e7d8960af26ab4ba98144ff121e151a875bba1d3230c85171f11cfe",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "asclepias-viridis",
+  "family": "Apocynaceae",
+  "genus": "Asclepias",
+  "scientific_name": "",
+  "common_name": "Green Milkweed",
+  "look_here_first": "Look at a mature leaf first: usually oblong to ovate, relatively broad, with a blunt, rounded or shortly acute tip. Then check the flower: five reddish-purple hoods form the corona, but there is no conspicuous projecting horn. Compare the relatively short corona segments with the much longer pale green corolla lobes; confirm against narrow, taper-tipped A. asperula.",
+  "key_traits": [
+    {
+      "label": "Sap type",
+      "text": "Thick milky white latex"
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Irregularly arranged, alternate to subopposite (occasionally opposite); do not treat apparently opposite leaves as a definitive identification character."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Usually broad oblong to ovate (sometimes lanceolate), approximately 1–6 cm wide; tip obtuse/rounded to shortly acute, entire margins sometimes gently wavy."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Crowded terminal umbel-like clusters; additional lateral umbels may occur at a few upper nodes. Both this species and A. asperula can make dense clusters, so cluster looseness alone is unreliable."
+    },
+    {
+      "label": "Flower color",
+      "text": "Pale-green corolla lobes surrounding a corona with frequently rose to purplish-red hoods; colors vary."
+    },
+    {
+      "label": "Gynostegium detail",
+      "text": "Five pouch-like corona hoods are present. They lack a clearly projecting horn; an incipient horn/rudiment may be visible within a hood pocket (UT Williamson County description). Corona segments are generally less than half the length of the pale-green corolla lobes (Flora of North America comparison)."
+    },
+    {
+      "label": "Growth habit",
+      "text": "Perennial with stems spreading or decumbent to ascending, sometimes upright, often to roughly 50–60 cm; habit alone overlaps with A. asperula."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "883eea42aa701ca797a1f2519a231a7016260e4f4149f4bb2eb1b18fc4033d6b",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

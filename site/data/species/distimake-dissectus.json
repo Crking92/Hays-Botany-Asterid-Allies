@@ -1,0 +1,54 @@
+{
+  "id": "distimake-dissectus",
+  "family": "Convolvulaceae",
+  "genus": "Distimake",
+  "scientific_name": "",
+  "common_name": "Alamo Vine",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Trailing or twining herbaceous vine; stems sparsely hirsute to glabrous."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Alternate."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Blades about 4–7 cm long by 4–10 cm wide in FNA, palmately (5–)7(–9)-lobed nearly to the base; lobes lance-elliptic with irregularly sinuate, crenate, dentate, or pinnatifid margins."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Flowers usually solitary, sometimes in small 2–3-flowered cymes."
+    },
+    {
+      "label": "Sepals",
+      "text": "Oblong, about 18–25 mm, mucronate, enlarging/persisting around the fruit."
+    },
+    {
+      "label": "Corolla",
+      "text": "White with a purplish/rose-purple throat, usually about 30–45 mm long."
+    },
+    {
+      "label": "Anthers",
+      "text": "Distinctively spirally twisted."
+    },
+    {
+      "label": "Fruit",
+      "text": "Capsule about 1–2 cm, surrounded by an enlarged persistent calyx; seeds black and glabrous."
+    },
+    {
+      "label": "Flowering",
+      "text": "April–November in Flora of North America."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "90bbaf516233821652e7c3f5008791e4e655ac19d559bd23661719e2160ae34c",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

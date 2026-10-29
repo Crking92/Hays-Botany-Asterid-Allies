@@ -1,0 +1,17 @@
+{
+  "id": "datura-wrightii",
+  "family": "Solanaceae",
+  "genus": "Datura",
+  "scientific_name": "Datura wrightii",
+  "common_name": "Sacred datura",
+  "look_here_first": "Large white funnel-shaped flowers, hairy lobed leaves and rounded spiny seed capsules; verify against other Datura.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "9da5da7b8b01a26b3c522400715cf85146d5e8251a1b92182735ecb6deea6d76",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

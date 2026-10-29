@@ -1,0 +1,54 @@
+{
+  "id": "asclepias-tuberosa",
+  "family": "Apocynaceae",
+  "genus": "Asclepias",
+  "scientific_name": "",
+  "common_name": "Butterfly Milkweed",
+  "look_here_first": "Orange umbels alone do not prove butterfly milkweed: check typically alternate, hairy leaves and unusually clear/watery sap; tropical milkweed has opposite (sometimes irregularly grouped) smoother leaves, milky latex and usually red-orange corollas with contrasting yellow corona hoods.",
+  "key_traits": [
+    {
+      "label": "Sap type",
+      "text": "Clear to watery sap; notably lacks the typical milky latex of most Asclepias."
+    },
+    {
+      "label": "Stem",
+      "text": "Stout, clustered from the crown, erect to spreading, conspicuously hairy/pilose."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Alternate; leaves often crowded and can appear irregularly approximate."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Highly variable; narrow-lanceolate to broadly oblanceolate/oblong-lanceolate, usually 3–12 cm long, short-petiolate to nearly sessile, surfaces conspicuously hairy."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Terminal to subterminal branching system bearing several- to many-flowered umbelliform cymes; overall cluster often rounded to flat-topped."
+    },
+    {
+      "label": "Flower color",
+      "text": "Usually vivid orange; yellowish or reddish forms can occur."
+    },
+    {
+      "label": "Gynostegium detail",
+      "text": "Orange to yellowish gynostegium; corona hoods contain horns. Corolla lobes are reflexed."
+    },
+    {
+      "label": "Fruit",
+      "text": "Elongate follicle, gray-green to brownish, with short hairs; seeds comose."
+    },
+    {
+      "label": "Root",
+      "text": "Deep woody/tuberous rootstock or taproot."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3914ff838dbb4af4e3d7c786ec7a38234ac3809ad56680a57efb2142e28184e7",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

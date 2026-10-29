@@ -1,0 +1,62 @@
+{
+  "id": "cynanchum-unifarium",
+  "family": "Apocynaceae",
+  "genus": "Cynanchum",
+  "scientific_name": "Cynanchum unifarium",
+  "common_name": "Talayote",
+  "look_here_first": "Find the FLOWER CLUSTER where it meets an opposite-leaf node. Talayote has MANY very small (~5 mm wide) pale yellow-green flowers with WHITISH petal margins on a branching/racemelike AXILLARY cyme; larger Matelea milkvines have much showier netted or longitudinally striped flowers. An older plump smooth green follicle (7.5–9.5 cm long) and a line of short hairs running along each internode give excellent confirmation.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Perennial vigorous herbaceous twining vine with white milky latex; many stems may arise from base"
+    },
+    {
+      "label": "Identification",
+      "text": "Stems usually cylindrical, tough, slender ~2 mm diameter, short-hairy, hairs often arranged as a LINE along each internode"
+    },
+    {
+      "label": "Identification",
+      "text": "Leaves opposite/decussate with petioles ~10–55 mm; blades deeply heart-shaped at base, often ~2–10 cm long with acute to acuminate tips"
+    },
+    {
+      "label": "Identification",
+      "text": "Axillary many-flowered racemelike cyme, often 10 or more tiny flowers, with secondary 1–2-flowered cymules and zigzag rachis"
+    },
+    {
+      "label": "Identification",
+      "text": "Flowers about 5 mm across, green-yellow with thin white margin around short petals, not the showy dark reticulate large green Matelea stars"
+    },
+    {
+      "label": "Identification",
+      "text": "Corolla campanulate-rotate, lobes ~3 mm, bearing inner marginal ridges; corona of five fleshy segments, 3-lobed near apex"
+    },
+    {
+      "label": "Identification",
+      "text": "Fruit large PLUMP smooth glabrous green follicle, not muricate, ~75–95 mm x 30–33 mm; commonly blunt toward tip"
+    },
+    {
+      "label": "Identification",
+      "text": "Seeds flattened with brown winged margins and a tuft of white silky coma hairs"
+    },
+    {
+      "label": "Phenology",
+      "text": "Regional flowering typically late spring into fall; field photo date and local weather should be considered."
+    },
+    {
+      "label": "Leaf venation",
+      "text": "Principal veins conspicuous and raised below; heart-shaped leaf form overlaps Matelea, Gonolobus and certain other Apocynaceae."
+    },
+    {
+      "label": "Latex caution",
+      "text": "White latex also occurs in Matelea and other milkvines; it is not a safe stand-alone genus discriminator."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c4d557cfddd70172d1cffb1ae8a5d0d7bcaa9ac9e401f8b045f40e4fce701918",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

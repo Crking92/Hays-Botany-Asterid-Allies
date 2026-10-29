@@ -1,0 +1,54 @@
+{
+  "id": "chthamalia-biflora",
+  "family": "Apocynaceae",
+  "genus": "Chthamalia",
+  "scientific_name": "Chthamalia biflora",
+  "common_name": "Star milkvine",
+  "look_here_first": "Look for a low, densely hairy plant with dark maroon-to-brown star-shaped flowers, commonly paired close to the stem and heart-shaped leaves. Then inspect the milkweed gynostegium in the flower center.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "low decumbent or trailing herb, often about 7–40 cm"
+    },
+    {
+      "label": "Identification",
+      "text": "stems and leaves densely hirsute with long hairs plus minute glandular hairs"
+    },
+    {
+      "label": "Identification",
+      "text": "sessile or subsessile inflorescences usually 1–2-flowered"
+    },
+    {
+      "label": "Identification",
+      "text": "maroon to dark-brown non-reticulate rotate-campanulate corolla"
+    },
+    {
+      "label": "Identification",
+      "text": "corolla lobes commonly reflexed and hairy on the inner surface"
+    },
+    {
+      "label": "Identification",
+      "text": "five-part ring corona with incurved appendages arching over the anthers"
+    },
+    {
+      "label": "Identification",
+      "text": "central gynostegium conspicuous at close range"
+    },
+    {
+      "label": "Identification",
+      "text": "densely muricate, hairy follicle"
+    },
+    {
+      "label": "Identification",
+      "text": "plant may be noticeably malodorous when handled"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "7d604136128770ea4dd9e378e1006d7eae5fadfea839dba61c54171e9853b181",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

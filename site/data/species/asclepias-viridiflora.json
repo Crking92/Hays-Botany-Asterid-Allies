@@ -1,0 +1,46 @@
+{
+  "id": "asclepias-viridiflora",
+  "family": "Apocynaceae",
+  "genus": "Asclepias",
+  "scientific_name": "Asclepias viridiflora",
+  "common_name": "Green Comet Milkweed / Green-flowered Milkweed / Wand Milkweed",
+  "look_here_first": "Start with the inflorescence position and flower color. Green comet milkweed has tight greenish flower clusters, often from upper leaf axils, with hoods/corona held compactly; leaves are opposite and relatively broad, and the plant lacks the bright green-white spreading flower look of A. viridis.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial milkweed"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite simple leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "green to yellow-green flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "compact umbels often lateral/upper-axillary"
+    },
+    {
+      "label": "Identification",
+      "text": "hoods shorter and more compact than in A. viridis"
+    },
+    {
+      "label": "Identification",
+      "text": "milky latex"
+    },
+    {
+      "label": "Identification",
+      "text": "follicles slender and erect to ascending"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "A. viridis has larger green-and-white flowers with broad spreading reflexed corolla lobes and more prominent pale hoods. A. viridiflora is more uniformly greenish and compact-flowered."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c2fdbfb83b00f728bb7a79275f03805d2aba63380a2d400ec026eb56d945cfbe",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

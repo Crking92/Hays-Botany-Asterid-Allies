@@ -1,0 +1,17 @@
+{
+  "id": "capsicum-annuum",
+  "family": "Solanaceae",
+  "genus": "Capsicum",
+  "scientific_name": "Capsicum annuum",
+  "common_name": "Chile pepper",
+  "look_here_first": "LOOK HERE FIRST: examine a small white, five-lobed flower arising singly or in a pair from a leaf axil; the leaves are simple with smooth (entire) margins, and a shallow persistent calyx sits at the base of the developing pepper fruit.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b77d4a76cc507aa675b9b285285bbeb41a57957495c060fa145dc4b46d20caa3",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

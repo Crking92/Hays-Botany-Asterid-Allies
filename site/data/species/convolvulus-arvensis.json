@@ -1,0 +1,58 @@
+{
+  "id": "convolvulus-arvensis",
+  "family": "Convolvulaceae",
+  "genus": "Convolvulus",
+  "scientific_name": "",
+  "common_name": "Field Bindweed",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Perennial."
+    },
+    {
+      "label": "Habit",
+      "text": "Twining or trailing vine with long branches; often prostrate on bare ground or climbing nearby vegetation."
+    },
+    {
+      "label": "Root",
+      "text": "Deep taproot with fleshy belowground caudex."
+    },
+    {
+      "label": "Latex",
+      "text": "Milky."
+    },
+    {
+      "label": "Stem",
+      "text": "Ridged, tough, essentially glabrous in local material."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate; oblong to narrowly ovate/lanceolate, with hastate or sagittate spreading basal lobes."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Axillary, usually 1–2 flowers."
+    },
+    {
+      "label": "Sepals",
+      "text": "Short, about 3–4.3 mm in Williamson County material."
+    },
+    {
+      "label": "Corolla",
+      "text": "Broadly funnel-shaped, about 15–20 mm long and 21–30 mm across; white/cream, sometimes pinkish outside."
+    },
+    {
+      "label": "Fruit",
+      "text": "Rounded capsule; persistent style base may form a point."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "4cc27dfee59a8f09ca80300b99e57ea16ba4146572e3afb815ee4c5f6faae364",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

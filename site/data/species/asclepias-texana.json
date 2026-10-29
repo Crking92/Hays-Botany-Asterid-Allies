@@ -1,0 +1,46 @@
+{
+  "id": "asclepias-texana",
+  "family": "Apocynaceae",
+  "genus": "Asclepias",
+  "scientific_name": "",
+  "common_name": "Texas Milkweed",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Sap type",
+      "text": "Milky white latex"
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Strictly opposite"
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Elliptic to oblong-lanceolate, dark glossy green, smooth surface"
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Compact, snow-white umbels on thin peduncles"
+    },
+    {
+      "label": "Flower color",
+      "text": "Pure snow-white corolla and corona"
+    },
+    {
+      "label": "Gynostegium detail",
+      "text": "Prominent white hoods forming a symmetrical star-like corona"
+    },
+    {
+      "label": "Growth habit",
+      "text": "Semi-woody base, multi-stemmed bush habit (30-50 cm)"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "622e15b4711d43de9b0620a7ab4507a897e50fd8f4f7e4026c0e503bc88ce886",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

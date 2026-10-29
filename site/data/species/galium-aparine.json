@@ -1,0 +1,17 @@
+{
+  "id": "galium-aparine",
+  "family": "Rubiaceae",
+  "genus": "Galium",
+  "scientific_name": "Galium aparine",
+  "common_name": "Cleavers",
+  "look_here_first": "Clinging hooked hairs on weak square stems and whorled narrow leaves, with tiny greenish flowers and paired bristly burr fruits.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "e7ad50d09cd9080d06ae5a936bbf9992ce44d485d987551893eabb6220a06418",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

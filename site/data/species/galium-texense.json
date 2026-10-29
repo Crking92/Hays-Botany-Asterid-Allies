@@ -1,0 +1,17 @@
+{
+  "id": "galium-texense",
+  "family": "Rubiaceae",
+  "genus": "Galium",
+  "scientific_name": "Galium texense",
+  "common_name": "Texas bedstraw",
+  "look_here_first": "Examine whorled narrow leaves, small four-part flowers, and hairy or smooth paired fruits.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "46b7640bb6baa487b024e7b83de13055e25b7ac262b131fbbd15422209fa198f",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

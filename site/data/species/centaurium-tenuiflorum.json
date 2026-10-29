@@ -1,0 +1,17 @@
+{
+  "id": "centaurium-tenuiflorum",
+  "family": "Gentianaceae",
+  "genus": "Centaurium",
+  "scientific_name": "Centaurium tenuiflorum",
+  "common_name": "Slender centaury",
+  "look_here_first": "Look for opposite sessile leaves and small five-lobed pink flowers; confirm the elongated tubular corolla, stamens and capsule.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c42d0cb2a293cacf6d9b9f9425096b4dd4eb6a3b8c3c8f443fac5abad387778d",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

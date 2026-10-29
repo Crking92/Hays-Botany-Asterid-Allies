@@ -1,0 +1,38 @@
+{
+  "id": "cordia-boissieri",
+  "family": "Boraginaceae",
+  "genus": "Cordia",
+  "scientific_name": "Cordia boissieri",
+  "common_name": "Texas olive (anacahuita)",
+  "look_here_first": "LOOK HERE FIRST: Find a large white, trumpet-shaped flower with a yellow throat; then inspect the broad, alternate, slightly rough-textured leaves and the persistent cup-shaped calyx around the developing fruit.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Evergreen to semi-evergreen shrub or small spreading tree; rounded crown and stout branching twigs."
+    },
+    {
+      "label": "Leaves attachment",
+      "text": "Alternate, broadly ovate to elliptic, thick leaves; surfaces may feel rough or sandpapery; check petiole and leaf margins."
+    },
+    {
+      "label": "Flower reproductive",
+      "text": "Large showy white funnel-shaped flowers with yellow center; inspect five spreading corolla lobes and calyx."
+    },
+    {
+      "label": "Fruit seed",
+      "text": "Fleshy pale fruit enclosed partly by the persistent calyx; confirm fruit shape with a later close-up."
+    },
+    {
+      "label": "Stem bud",
+      "text": "Woody twigs; inspect alternate leaf scars and young growth."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "bfc3248ce99fe0ac6f978be7216538e298bce09d87d97f912eaad16acc605170",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}
