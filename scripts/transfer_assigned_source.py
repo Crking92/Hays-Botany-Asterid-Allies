@@ -43,7 +43,7 @@ cards=[]
 for f in sorted((dst/"content/taxa").glob("*/*/*/species.json")):
  d=json.loads(f.read_text())
  assert d["family"] in families and d["genus"]==f.parent.parent.name and d["id"]==f.parent.name
- cards.append({"id":d["id"],"scientific_name":d["scientific_name"],
+ cards.append({"id":d["id"],"scientific_name":d.get("scientific_name"),
   "common_name":d.get("common_name",""),"family":d["family"],"genus":d["genus"],
   "path":f.relative_to(dst).as_posix(),"photo_publication_status":"PRIVATE_ONLY_HOLD"})
 assert len(cards)==conf["installed_species_baseline"],(len(cards),conf["installed_species_baseline"])
