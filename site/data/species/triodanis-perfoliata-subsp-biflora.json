@@ -1,0 +1,34 @@
+{
+  "id": "triodanis-perfoliata-subsp-biflora",
+  "family": "Campanulaceae",
+  "genus": "Triodanis",
+  "scientific_name": "Triodanis perfoliata subsp. biflora",
+  "common_name": "Small Venus's looking-glass",
+  "look_here_first": "Look for upper stem leaves that clasp LESS or taper rather than wrapping broadly. Check the mature capsule: the seed-release pore is often near the TIP rather than the middle as in typical clasping perfoliata. A violet flower by itself cannot distinguish the subspecies.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Small spring annual, often with open flowers above and inconspicuous closed flowers below."
+    },
+    {
+      "label": "Leaves",
+      "text": "Simple alternate leaves; often less conspicuously heart-shaped or clasping than in typical T. perfoliata."
+    },
+    {
+      "label": "Flower",
+      "text": "Individual five-lobed purple open flowers and small closed self-pollinating flowers (cleistogamous) in leaf axils."
+    },
+    {
+      "label": "Fruit",
+      "text": "Inferior capsule with side openings often near apex; needs calibrated ripe side photo before confirming."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c7156fa0eac593a0163f999883b11be1bbc988eabfaf4a0e5592c6a6389601c6",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

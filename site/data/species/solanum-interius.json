@@ -1,0 +1,74 @@
+{
+  "id": "solanum-interius",
+  "family": "Solanaceae",
+  "genus": "Solanum",
+  "scientific_name": "Solanum interius",
+  "common_name": "Plains black nightshade",
+  "look_here_first": "LOOK HERE FIRST · UNARMED green black nightshade with ovate ALTERNATE leaves and WHITE flowers. Most distinctive: an apparently UNEVEN inflorescence (one branch with several flowers, another seeming to carry a single basal flower); anthers medium-length ~1.8–2.5 mm. DEVELOPING fruit has relatively long RECTANGULAR/OBLONG GREEN CALYX lobes with ROUNDED tips. Fully ripe berries commonly 10–14 mm wide and shiny BLACK. This is primarily a GREAT PLAINS species; a similar Hays County plant is not automatically S. interius. Confirm with reproductive detail or hold as Solanum morelloid complex.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Solanaceae: leaves alternate, flowers with joined usually 5-part corolla, 5 pollen-producing anthers, berry fruit. Unarmed morelloids distinguished from the larger prickly Solanum."
+    },
+    {
+      "label": "Identification",
+      "text": "Unarmed green herb or short-lived subwoody perennial to around 1 m; base branching; broad ovate, simple alternate leaves, margins entire or shallowly toothed."
+    },
+    {
+      "label": "Identification",
+      "text": "White five-lobed star-shaped corolla; projecting yellow anthers roughly 1.8–2.5 mm long, longer than S. emulans (1.5–1.8 mm in 2019 revision)."
+    },
+    {
+      "label": "Identification",
+      "text": "UNEVEN-LOOKING inflorescence: a cluster of several flowers and a separate solitary-looking basal flower that is actually differently articulated on a pedicel."
+    },
+    {
+      "label": "Identification",
+      "text": "Green calyx lobes relatively LONG, rectangular-to-oblong, apices rounded, particularly clear in developing fruit (photograph 3)."
+    },
+    {
+      "label": "Identification",
+      "text": "Berries generally mature to glossy purplish-black; around 10–14 mm in diameter (larger than emulans ~6–8 mm); black gloss alone not species-diagnostic."
+    },
+    {
+      "label": "Identification",
+      "text": "Seeds typically ~1.8–2.0 mm; often only 2–4 hardened stone cells per ripe berry. Compare nigrescens 1.2–1.5 mm seeds and >6 stone cells."
+    },
+    {
+      "label": "Identification",
+      "text": "Photos A–C are research field collections Nee 61350, and D is RBGE cultivated material; none is proof of a Hays County occurrence."
+    },
+    {
+      "label": "Habit",
+      "text": "Branching green or slightly straw-colored herb, annual to somewhat persistent under trees; the 2019 revision emphasizes low-forest/shaded and open sand-hill habitats over the Great Plains. Leaf/plant height alone weakly diagnostic."
+    },
+    {
+      "label": "Leaves",
+      "text": "Simple alternate green ovate-broadly ovate leaves, commonly about 4.5–11.2 × 2.3–6.8 cm in revision; wavy to shallowly toothed margins; hairs variable. Do not use leaf holes or pale shade as a species ID character."
+    },
+    {
+      "label": "Flower",
+      "text": "White five-lobed rotate/stellate corollas with yellow anthers approximately 1.8–2.5 mm long. Watch UNEVEN cluster arrangement and the articulation of its solitary-looking basal pedicel (about one-quarter to one-third its length upward according to revision). A hand lens and metric scale are recommended."
+    },
+    {
+      "label": "Fruit",
+      "text": "Round berries GREEN when immature then BLACK and approximately 10–14 mm at maturity. Calyx lobes are relatively long, rectangular, rounded-tipped; in mature fruit the green calyx persists under berry. Figure 22D depicts genuine mature black berries, whereas C is developing fruits. 2–4 sclerotic granules and larger seeds are advanced confirmatory characters."
+    },
+    {
+      "label": "Habitat",
+      "text": "The 2019 monograph calls this primarily a Great Plains nightshade, in open sand hills and shaded low forest/under trees; Texas statewide documented, Hays County local applicability unresolved."
+    },
+    {
+      "label": "Management",
+      "text": "Not a food-identification card. Do not eat berries or leaves; Morelloid nightshade taxonomy is difficult and plants can contain toxic alkaloids. When unsure, photograph flower/anthers, flowering-axis branching and mature fruit/green calyx together."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Main key is an UNEVEN inflorescence with distinctive basal pedicel, medium anthers, long rounded-tip calyx, larger black berries. Multiple structures, never one character alone."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "6c2e8ca9d4c8afe39d85bf27c8e452c1e58f435e985f4d55a3f64f1540e7e1ab",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

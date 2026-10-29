@@ -1,0 +1,38 @@
+{
+  "id": "triodanis-leptocarpa",
+  "family": "Campanulaceae",
+  "genus": "Triodanis",
+  "scientific_name": "Triodanis leptocarpa",
+  "common_name": "Slimpod Venus's looking-glass",
+  "look_here_first": "Find the slender nearly linear inferior ovary and capsule, with narrow upper leaves/bracts and small open flowers high on the spike-like shoot. Photograph pod with ruler before separating from coloradoensis.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Small annual herb of the bellflower family; plant form and flowering-stem architecture help preliminary identification."
+    },
+    {
+      "label": "Leaves",
+      "text": "Simple alternate leaves; upper leaves/narrow bracts dominate flowering portion; lower foliage broader."
+    },
+    {
+      "label": "Flower",
+      "text": "Individual five-lobed usually blue-violet fused corolla at a stem leaf axil; upper open and lower closed flowers may coexist."
+    },
+    {
+      "label": "Fruit",
+      "text": "Long very narrow seed capsule below calyx; dimensions and dehiscence pore need species-matched macro."
+    },
+    {
+      "label": "Stem",
+      "text": "Alternate leafy annual stem with calyx and flower parts above an inferior ovary."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c057f02e6e1f948062f80bd027f584f252a324e6feab0e29994e1746bc81fd6b",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

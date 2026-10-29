@@ -1,0 +1,34 @@
+{
+  "id": "triodanis-perfoliata",
+  "family": "Campanulaceae",
+  "genus": "Triodanis",
+  "scientific_name": "Triodanis perfoliata",
+  "common_name": "Clasping Venus's looking-glass",
+  "look_here_first": "Find upper leaves with broad heartlike bases CLASPING the stem. Individual purple five-lobed flowers occur at leaf axils above an inferior green ovary; tiny selfing closed flowers may occur below. In the typical clasping concept, check a ripe capsule for a seed-release WINDOW around the middle. Never assign a subspecies from flower color alone.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Small spring annual herb with upright leafy stems."
+    },
+    {
+      "label": "Leaves",
+      "text": "Simple alternate leaves, broad upper blades often strongly clasping at leaf base."
+    },
+    {
+      "label": "Flower",
+      "text": "Individual purple five-lobed fused corolla, with five free stamens above an inferior ovary; upper flowers can be open, lower flowers can be closed and self-pollinating."
+    },
+    {
+      "label": "Fruit",
+      "text": "Many-seeded inferior capsule with side pores; position of openings can separate subspecies, but only with a mature side view."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "32482d3d7801bbf93aa14c534dd633479e185e5f4dfebac7e0c68d7785833d42",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

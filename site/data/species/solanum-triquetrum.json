@@ -1,0 +1,74 @@
+{
+  "id": "solanum-triquetrum",
+  "family": "Solanaceae",
+  "genus": "Solanum",
+  "scientific_name": "Solanum triquetrum",
+  "common_name": "Texas nightshade",
+  "look_here_first": "LOOK HERE FIRST · Slender UNARMED scrambling or clump-forming plant with often sharply TRIANGULAR / HASTATE leaves and three-angled green stems. Tiny WHITE (sometimes violet-tinged) five-lobed star flowers have roughly equal SEPARATE yellow anthers and occasionally a shiny green/white eye at the corolla base. Flower clusters usually 3–6. Fruits eventually BRIGHT RED (some local treatments describe dark red to almost black), but NO VERIFIED RIPE-FRUIT PHOTO IS PRESENT in this card. The chief look-alike is introduced bittersweet nightshade (S. dulcamara): usually purple swept-back flowers with more joined anthers and larger branching flower clusters; white dulcamara forms exist. Do not ID on berry color alone.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Solanaceae/Solanum: alternate leaves, 5-parted rotate/stellate corollas, poricidal anthers, and berry fruits."
+    },
+    {
+      "label": "Identification",
+      "text": "Unarmed, thin-stemmed scrambling or ascending herb/subshrub; basal stems may be woody; stems often sharply three-angled / ridged."
+    },
+    {
+      "label": "Identification",
+      "text": "Simple ALTERNATE leaves, often narrow triangular / hastate with basal pointed or rounded lobes, but leaf shape can vary greatly even on one plant."
+    },
+    {
+      "label": "Identification",
+      "text": "WHITE or occasionally purple-tinted star corolla with five pointed lobes and shiny green or greenish-white corolla eye; the eye may require a macro."
+    },
+    {
+      "label": "Identification",
+      "text": "Yellow anthers nearly equal and individually FREE rather than joined into a tube; FNA reports ~3.5–4 mm."
+    },
+    {
+      "label": "Identification",
+      "text": "Small usually 3–6-flowered, unbranched or lightly forked cymes; fruit/flower pedicels insert into little sleeves on inflorescence axis."
+    },
+    {
+      "label": "Identification",
+      "text": "Ripening to shiny RED berries (FNA ~10–15 mm), though local botanical descriptions include dark red/black fruit. Mature fruit NOT yet represented by a photo in gallery."
+    },
+    {
+      "label": "Identification",
+      "text": "Cannot confirm anther pores, eye spots, or fully mature berry just from current Joey field photographs."
+    },
+    {
+      "label": "Habit",
+      "text": "Semiwoody scrambling vine-like herb or subshrub, up to 2 m in FNA (Williamson County specimens often lower). Slender three-angled ridged unarmed shoots; may climb or thread through other shrubs and fences. Not a twining vine in the narrow structural sense."
+    },
+    {
+      "label": "Stems",
+      "text": "Green often distinctly angled/ridged, unarmed (no prickles); at least two ridges may descend from leaf nodes. Woody towards base in older plants."
+    },
+    {
+      "label": "Leaves",
+      "text": "Simple alternate triangular, deltate or hastate, sometimes mostly narrow linear and sometimes basally 2-lobed. Typical FNA ~1.8–5 cm long but variable; do NOT use leaf outline by itself."
+    },
+    {
+      "label": "Flowers",
+      "text": "Usually small WHITE five-part stars, sometimes faint purple; green or green-white shiny eye at bases of corolla lobes (may be hard to see in these photos). Yellow anthers equal and FREE (not fused/cone), ~3.5–4 mm in FNA. Poricidal anthers may eventually open into slits, but terminal pores NOT resolved in current photos."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Often unbranched or forked terminal/leaf-opposed 3–6-flowered cyme; pedicels inserted into sleeves and may droop with open flower. Compare introduced S. dulcamara's larger 7–40-flowered many-branched inflorescence."
+    },
+    {
+      "label": "Fruit",
+      "text": "Shiny red berry usually ~1–1.5 cm in FNA, unlike black berries of Morelloid group; some central Texas reference material documents berries dark red to black and smaller. Color varies—obtain vouchered ripe local fruit photographs before teaching colors as absolute."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "KEY LOOK-ALIKE: S. dulcamara also scrambles, may have hastate leaves, green-eyed flowers and RED fruits. S. triquetrum has smaller 3–6 flower clusters, sharply angled stems, usually WHITE corolla and anthers free/individually distinct. S. dulcamara normally has larger 7–40-flowered branched clusters and reflexed PURPLE lobes (rare white forms). Black-berried American/European morelloids are generally herbs with different reproductive characters."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "61231647c230b693a0c494d8ecd0405bd5a6e19ff8cb3d3535ff7ede3bbe4653",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

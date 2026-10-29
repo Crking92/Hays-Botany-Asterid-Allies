@@ -1,0 +1,46 @@
+{
+  "id": "solanum-nigrum",
+  "family": "Solanaceae",
+  "genus": "Solanum",
+  "scientific_name": "Solanum nigrum",
+  "common_name": "European black nightshade",
+  "look_here_first": "LOOK HERE FIRST · Non-prickly herb with alternate simple oval leaves, small white five-lobed stars, and round berries green when immature, purplish-black or sometimes greenish when mature. DON'T call it from black berries: check yellow anther length (~2–2.5 mm), relatively THICK flower/fruit stalks, and (if a verified specimen) the larger seeds and typically NO hard stone cells in North American fruits. Short anthers point toward S. americanum/emulans; longer rounded calyx lobes and uneven flower branches suggest S. interius. Introduced in Texas.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Solanaceae flowers typically fused five-part corolla and five stamens, superior ovary maturing into a many-seeded berry."
+    },
+    {
+      "label": "Habit",
+      "text": "Unarmed annual or short-lived perennial, sprawling/erect, often to ~1 m, stems glabrous to pubescent, a disturbance-associated plant."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate simple petiolate ovate leaves, entire to coarsely toothed, often 3.5–7 cm long. Variable and not enough for species ID."
+    },
+    {
+      "label": "Flower",
+      "text": "Small white five-pointed corolla, typically 1–1.5 cm across, yellow slender anthers ~2–2.5 mm according to FNA, flowering in short unbranched or forked racemelike clusters. Flower photo has no scale; don't claim photographed exact measurement."
+    },
+    {
+      "label": "Fruit",
+      "text": "Globose ~5–10 mm berries dull to slightly shiny purple-black or green-yellowish at maturity, small calyx spreads to reflexes in fruit. Thickish peduncles and pedicels compared with native North American black nightshades. In North American S. nigrum fruit, stone cells absent—requires specialized safely handled specimen to verify, not photo proof."
+    },
+    {
+      "label": "Habitat",
+      "text": "Disturbed areas, irrigated fields, roadsides and similar waste places; introduced in Texas according to Flora of North America."
+    },
+    {
+      "label": "Management",
+      "text": "Treat as nonnative comparison plant; exact ID needed for management. Do NOT suggest berries edible from visual ID; unripe fruit and foliage may contain toxic glycoalkaloids."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "FNA's most practical S. nigrum confirmation among American morelloids combines thicker peduncles/pedicels, larger seeds, and absence of stone cells in North American fruit. The first photo does NOT prove those internal traits."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "9357a0b4201337d56f87a380884b24430f0127ddf5918cd128efbc1c390dd816",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

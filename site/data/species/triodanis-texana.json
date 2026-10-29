@@ -1,0 +1,38 @@
+{
+  "id": "triodanis-texana",
+  "family": "Campanulaceae",
+  "genus": "Triodanis",
+  "scientific_name": "Triodanis texana",
+  "common_name": "Texas Venus's looking-glass",
+  "look_here_first": "Accepted distinct Triodanis species reported native eastern Texas. Begin with five-lobed purple corolla, alternate leaves and an inferior many-seeded capsule, but accurate species-level separation NEEDS voucher-based leaf, flower and mature capsule macros. Do not use coloradoensis/another species as a photo substitute.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Small annual herb of the bellflower family; plant form and flowering-stem architecture help preliminary identification."
+    },
+    {
+      "label": "Leaves",
+      "text": "Simple alternate leaves; specialist comparison needed for exact blade dimensions and attachment."
+    },
+    {
+      "label": "Flower",
+      "text": "Individual five-lobed usually blue-violet fused corolla at a stem leaf axil; upper open and lower closed flowers may coexist."
+    },
+    {
+      "label": "Fruit",
+      "text": "Inferior capsule with side opening; precise window position unconfirmed in this card."
+    },
+    {
+      "label": "Stem",
+      "text": "Alternate leafy annual stem with calyx and flower parts above an inferior ovary."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "18eeb5e559bdfb5397a73b3521c614b297cc31bc0260450c4de34495b36998ff",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

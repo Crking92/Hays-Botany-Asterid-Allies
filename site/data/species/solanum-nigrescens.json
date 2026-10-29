@@ -1,0 +1,70 @@
+{
+  "id": "solanum-nigrescens",
+  "family": "Solanaceae",
+  "genus": "Solanum",
+  "scientific_name": "Solanum nigrescens",
+  "common_name": "Divine nightshade / slender nightshade",
+  "look_here_first": "LOOK HERE FIRST · An UNARMED herb with ALTERNATE simple green ovate leaves and little WHITE five-lobed flowers. Its yellow anthers are distinctly longer than those of American black nightshade (typically 1.8–2.5 mm versus ca. 0.8–1.5 mm). CONFIRM with mature fruit: S. nigrescens usually has DULL green/dark purplish berries, calyx lobes APPRESSED or spreading against the berry base, and fruit pedicels that spread or droop. S. americanum usually has shiny black berries with tiny calyx lobes STRONGLY REFLEXED backward. Do not assign species confidently from white flowers or immature fruit alone.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Solanaceae/Solanum: mostly alternate foliage, fused five-lobed corolla, five poricidal anthers, and multi-seeded berry; Morelloid black nightshades are unarmed."
+    },
+    {
+      "label": "Identification",
+      "text": "Green unarmed branching herb/short-lived perennial; simple alternate ovate leaves, margins entire to shallowly toothed"
+    },
+    {
+      "label": "Identification",
+      "text": "White 5-lobed rotate/star corolla with projecting yellow relatively elongated anthers"
+    },
+    {
+      "label": "Identification",
+      "text": "Anthers generally 1.8–2.5 mm, elliptic, not almost globose short anthers as in S. americanum"
+    },
+    {
+      "label": "Identification",
+      "text": "Fruit ultimately commonly dark purplish or green/dull rather than glossy black; fruit clusters often have spreading/deflexed stalks"
+    },
+    {
+      "label": "Identification",
+      "text": "Calyx lobes below ripe berry APPRESSED to SPREADING, not strongly reflexed backwards"
+    },
+    {
+      "label": "Identification",
+      "text": "More than five hard sclerotic granules (stone cells) often in berry; specialist character, not a tasting or field-food lesson"
+    },
+    {
+      "label": "Habit",
+      "text": "Annual or short-lived perennial herb, branching, green, unarmed; stems may be sparsely hairy. Habit alone overlaps the Solanum morelloid group."
+    },
+    {
+      "label": "Leaves",
+      "text": "ALTERNATE simple ovate or elliptic green leaves, entire to wavy/toothed edges, pointed tips, petioles evident. Do not call the species from leaves alone."
+    },
+    {
+      "label": "Flowers",
+      "text": "Small white five-part star flowers, clustered; five equal elongated yellow anthers approximately 1.8–2.5 mm long; pale style projects centrally. Flower macros can show relative size, but no quantitative length is proved without a scale."
+    },
+    {
+      "label": "Fruit",
+      "text": "Immature green berries; mature dark purple to black, often dull/glaucous rather than shiny. Fruiting pedicels spreading or deflexed (tend to depart with fallen berries). The short green calyx lobes remain appressed or spreading under the mature fruit, NOT sharply curled away as typical in S. americanum."
+    },
+    {
+      "label": "Habitat",
+      "text": "Fields, open woodland edges, disturbed and moist areas, forest margins. Flora of North America reports Texas but Hays-local nativity verification deferred."
+    },
+    {
+      "label": "Management",
+      "text": "Do not recommend consuming any part based on image ID. Black-nightshade species overlap and their chemistry varies. Field crew: photograph reproductive structures, avoid bare-handed tasting, and make management decisions after firm ID."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Hard pair: American black nightshade. Longer anthers + appressed/spreading calyx + duller fruit + spreading/deflexed pedicels favor nigrescens."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c62ebf75b0b0d4c2ef663098c9adf99b861bd2c324235ae14afbf1dc8e0e90e6",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

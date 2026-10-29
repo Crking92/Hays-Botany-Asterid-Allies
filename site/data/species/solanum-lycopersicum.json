@@ -1,0 +1,50 @@
+{
+  "id": "solanum-lycopersicum",
+  "family": "Solanaceae",
+  "genus": "Solanum",
+  "scientific_name": "Solanum lycopersicum",
+  "common_name": "Tomato",
+  "look_here_first": "Familiar aromatic-hairy scrambling plant with compound/divided leaves, yellow flowers, and large fleshy berries that ripen red, yellow, orange, or other cultivated colors.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Solanaceae/Solanum: alternate leaves, 5-parted rotate/stellate corollas, poricidal anthers, and berry fruits."
+    },
+    {
+      "label": "Identification",
+      "text": "cultigen/escaped annual or short-lived perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "glandular aromatic hairs"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves pinnately divided"
+    },
+    {
+      "label": "Identification",
+      "text": "yellow flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "elongate yellow anthers"
+    },
+    {
+      "label": "Identification",
+      "text": "large multilocular fleshy berries"
+    },
+    {
+      "label": "Identification",
+      "text": "highly variable cultivated fruit"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "The easiest Solanum comparison: yellow flowers but no dense prickly armature like buffalobur, and fruit is far larger and fleshier than the wild nightshades."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "8ca22415c74fad535c90f0dbf7327542b3c2325c80c3a8b43cbccef8020f1f1b",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "solanum-rostratum",
+  "family": "Solanaceae",
+  "genus": "Solanum",
+  "scientific_name": "Solanum rostratum",
+  "common_name": "Buffalobur",
+  "look_here_first": "LOOK HERE FIRST · Find the BRIGHT YELLOW five-lobed flower and examine the anthers: FOUR shorter yellow anthers plus ONE much LONGER CURVED, often dark-tipped anther. Then confirm the DEEPLY CUT leaves and sharp straw-colored prickles on stem, veins and the ENLARGING CALYX. The maturing berry is HIDDEN inside a spiny burr-like calyx, unlike the exposed yellow berries of western horsenettle and silverleaf nightshade. Buffalobur is typically an annual, not a spreading perennial.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Solanaceae/Solanum: alternate leaves, 5-parted rotate or star-shaped corollas, poricidal anthers, and berry fruits; prickles and stellate hairs occur in many species."
+    },
+    {
+      "label": "Identification",
+      "text": "annual, heavily prickly growth"
+    },
+    {
+      "label": "Identification",
+      "text": "alternate green deeply 1–2 times pinnately lobed leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "five-lobed YELLOW corolla"
+    },
+    {
+      "label": "Identification",
+      "text": "FOUR shorter anthers plus ONE much longer curved darker-tipped anther"
+    },
+    {
+      "label": "Identification",
+      "text": "calyx covered in long straw-colored prickles; calyx becomes larger as fruit matures"
+    },
+    {
+      "label": "Identification",
+      "text": "berry concealed within enlarged, spiny burr-like calyx"
+    },
+    {
+      "label": "Habit",
+      "text": "Summer annual, erect to spreading and branching, often 0.2–0.6 m, frequently heavily armed with stiff yellowish prickles. Do not infer annuality from one photograph; use flowering/fruit structures to confirm."
+    },
+    {
+      "label": "Leaf",
+      "text": "Simple ALTERNATE leaves, 1–2 times deeply pinnately lobed; lobes are often broad and rounded. Major leaf veins and petioles can also carry prickles. Inspect a mature leaf, not a newly unfolding one."
+    },
+    {
+      "label": "Flower",
+      "text": "Five-lobed, fused BRIGHT YELLOW corolla, commonly about 1.5–3.5 cm across. Unlike the roughly equal yellow anthers of western horsenettle and silverleaf nightshade, buffalobur has four shorter yellow anthers and a conspicuously longer CURVED anther, often with a dusky reddish-purple tip. Anthers and style are DIFFERENT organs; don't label the slender style as the long anther."
+    },
+    {
+      "label": "Fruit",
+      "text": "The calyx (joined sepals immediately behind the flower) becomes larger and densely prickly as fruit develops. It encloses the rounded fruit, creating a burr-like structure. Mature berry inside is typically small and brown/dry, not a large, freely exposed yellow berry."
+    },
+    {
+      "label": "Prickles",
+      "text": "Check the calyx first, then the stems, petioles and main leaf veins for stiff straw-colored surface prickles. The prickly sphere in the photo is a CALYX enclosing the fruit, not the berry surface itself."
+    },
+    {
+      "label": "Habitat",
+      "text": "Roadsides, disturbed soil, grazed ground and open dry sites. In the Hays/Edwards Plateau/Blackland Prairie encounter area, a familiar prickly summer annual; county-level native scoring remains deferred separately."
+    },
+    {
+      "label": "Management",
+      "text": "Wear durable gloves and avoid gripping mature prickly burrs. If removing from a restoration bed, collect the bur-covered fruit before seed dispersal when practical, avoid disturbing desirable natives, and monitor seedlings. All parts should be treated as potentially toxic; never taste the fruit."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Most useful pairings are western horsenettle and silverleaf nightshade. Flower/anther asymmetry and enclosing prickly fruit calyx diagnose buffalobur more reliably than the mere presence of prickles."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "affdfda8499b7a96c06561f0cf13c161e824049b14c80be8b1dd4ec54995cb34",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}
