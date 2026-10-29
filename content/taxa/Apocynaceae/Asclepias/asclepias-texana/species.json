@@ -1,0 +1,163 @@
+{
+  "id": "asclepias-texana",
+  "entry_type": "species",
+  "family": "Apocynaceae",
+  "subfamily": "Asclepiadoideae",
+  "genus": "Asclepias",
+  "species": "texana",
+  "authority": "Heller",
+  "common_name": "Texas Milkweed",
+  "native_target_zone": true,
+  "county_occurrences_reported": [
+    "Hays",
+    "Travis",
+    "Blanco",
+    "Comal",
+    "Bandera",
+    "Edwards",
+    "Gillespie",
+    "Kerr",
+    "Real",
+    "Uvalde",
+    "Val Verde"
+  ],
+  "tags": [
+    "Monarch Host",
+    "Milky Latex",
+    "Snow-White Flowers",
+    "Opposite Foliage",
+    "Limestone Endemic"
+  ],
+  "morphology_keys": {
+    "sap_type": "Milky white latex",
+    "leaf_arrangement": "Strictly opposite",
+    "leaf_morphology": "Elliptic to oblong-lanceolate, dark glossy green, smooth surface",
+    "inflorescence": "Compact, snow-white umbels on thin peduncles",
+    "flower_color": "Pure snow-white corolla and corona",
+    "gynostegium_detail": "Prominent white hoods forming a symmetrical star-like corona",
+    "growth_habit": "Semi-woody base, multi-stemmed bush habit (30-50 cm)"
+  },
+  "comparisons": {
+    "confused_with": "Asclepias perennis",
+    "key_distinctions": "A. texana is restricted to dry limestone bluffs, canyons, and wooded slopes in Central/West Texas; A. perennis is a wetland species of aquatic margins."
+  },
+  "ecological_notes": {
+    "host_status": "Excellent shade-tolerant host for Monarchs in Edwards Plateau canyon microclimates.",
+    "habitat": "Limestone canyon walls, rocky wooded ravines, and dry bluffs."
+  },
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Blanco",
+    "Comal",
+    "Bandera",
+    "Edwards",
+    "Gillespie",
+    "Kerr",
+    "Real",
+    "Uvalde",
+    "Val Verde"
+  ],
+  "target_zone_count": 11,
+  "native_target_zone_calculated": true,
+  "images": [
+    {
+      "file": "images/01-habit.jpg",
+      "role": "Recognize · leafy stem and compact white flower cluster in habitat",
+      "creator": "",
+      "license": "",
+      "source_page": "https://www.bio.utexas.edu/courses/bio406d/images/pics/asc/asclepias_texana.htm",
+      "direct_image_url": "",
+      "platform": "",
+      "observation_id": "",
+      "photo_id": "",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/02-inflorescence.jpg",
+      "role": "Look closer · many individual white milkweed flowers in one rounded umbel",
+      "creator": "",
+      "license": "",
+      "source_page": "https://www.bio.utexas.edu/courses/bio406d/images/pics/asc/asclepias_texana.htm",
+      "direct_image_url": "",
+      "platform": "",
+      "observation_id": "",
+      "photo_id": "",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/03-flower-macro.jpg",
+      "role": "Look closer · white five-part flowers, buds and central floral structures (ID unverified)",
+      "creator": "",
+      "license": "",
+      "source_page": "https://www.bio.utexas.edu/courses/bio406d/images/pics/asc/asclepias_texana.htm",
+      "direct_image_url": "",
+      "platform": "",
+      "observation_id": "",
+      "photo_id": "",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/04-leaves.jpg",
+      "role": "Look closer · opposite-looking leaf pairs, narrow leaf blades and stem branching",
+      "creator": "",
+      "license": "",
+      "source_page": "https://www.bio.utexas.edu/courses/bio406d/images/pics/asc/asclepias_texana.htm",
+      "direct_image_url": "",
+      "platform": "",
+      "observation_id": "",
+      "photo_id": "",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/05-diagnostic.jpg",
+      "role": "Recognize · multiple white flowering clusters on a branching plant",
+      "creator": "",
+      "license": "",
+      "source_page": "web image search result for Asclepias texana",
+      "direct_image_url": "",
+      "platform": "",
+      "observation_id": "",
+      "photo_id": "",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/public-inat-asclepias-texana-724686037.jpg",
+      "role": "Provisional Texas milkweed exact-species field face; compare white flower clusters and foliage in future diagnostic anatomy review.",
+      "caption": "Individually licensed, research-grade iNaturalist observation photograph of Asclepias texana. Plant-part diagnostic anatomy needs a separate visual check before precise arrows or FINALIZED marking.",
+      "creator": "(c) Sam Kieschnick, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/724686037",
+      "source_observation_page": "https://www.inaturalist.org/observations/395239589",
+      "source_photo_id": "724686037",
+      "source_observation_id": "395239589",
+      "source_taxon": "Asclepias texana",
+      "source_quality_grade": "research",
+      "source_photo_license_code": "cc-by",
+      "source_type": "iNaturalist individually licensed exact-taxon photo verified by current photo API",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/724686037/large.jpg",
+      "public_reuse": "yes, conditional on recorded CC attribution/NC terms and noncommercial education",
+      "changes": "Downloaded iNaturalist photo, resized and reencoded to JPEG without EXIF/GPS; no annotations added.",
+      "source_sha256": "159a243b960a0e36542cf9dd41095c51d47bed76d0be59129758b43785cfcf85",
+      "published_jpeg_sha256": "4526f9cd020ea344d7fba62e12d9e012a64672559815ad4f38b756b26fbfc1db",
+      "published_jpeg_dimensions": [
+        768,
+        1024
+      ],
+      "annotation_pending": true,
+      "photo_organ_validation": "pending independent anatomical visual review"
+    }
+  ],
+  "curation_status": {
+    "photo_metadata_count": 5,
+    "photo_files_present": 5,
+    "photo_backfill_source": "historical taxa.zip migration"
+  },
+  "photo_note": "Broad visual-role descriptions screened from actual installed pixels on 2026-10-17; exact historical image creator/license, independent species identification and microscopic anatomy remain unverified. No arrows certified."
+}

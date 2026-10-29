@@ -1,0 +1,114 @@
+{
+  "id": "triodanis-texana",
+  "entry_type": "species",
+  "family": "Campanulaceae",
+  "genus": "Triodanis",
+  "species": "texana",
+  "scientific_name": "Triodanis texana",
+  "common_name": "Texas Venus's looking-glass",
+  "look_here_first": "Accepted distinct Triodanis species reported native eastern Texas. Begin with five-lobed purple corolla, alternate leaves and an inferior many-seeded capsule, but accurate species-level separation NEEDS voucher-based leaf, flower and mature capsule macros. Do not use coloradoensis/another species as a photo substitute.",
+  "morphology_keys": {
+    "habit": "Small annual herb of the bellflower family; plant form and flowering-stem architecture help preliminary identification.",
+    "leaves": "Simple alternate leaves; specialist comparison needed for exact blade dimensions and attachment.",
+    "flower": "Individual five-lobed usually blue-violet fused corolla at a stem leaf axil; upper open and lower closed flowers may coexist.",
+    "fruit": "Inferior capsule with side opening; precise window position unconfirmed in this card.",
+    "stem": "Alternate leafy annual stem with calyx and flower parts above an inferior ovary."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Triodanis perfoliata",
+      "Triodanis perfoliata subsp. biflora",
+      "Triodanis coloradoensis",
+      "Triodanis leptocarpa",
+      "Triodanis texana",
+      "Lobelia spp."
+    ],
+    "key_distinctions": "Requires flower/calyx, full stem leaf architecture and mature capsule size; purple flower alone not reliable."
+  },
+  "images": [
+    {
+      "file": "images/triodanis-texana-texas-665240815.jpg",
+      "role": "Temple Texas exact species close-up of hairy slender stems and small green axillary structures, with finger scale; no visible ripe dehiscence opening.",
+      "creator": "iNaturalist photographer, CC0 rights waived",
+      "license": "CC0",
+      "source_page": "https://www.inaturalist.org/photos/665240815",
+      "study_use": "yes",
+      "public_reuse": "public_domain",
+      "caption": "Temple Texas exact species close-up of hairy slender stems and small green axillary structures, with finger scale; no visible ripe dehiscence opening."
+    },
+    {
+      "file": "images/triodanis-texana-texas-648663557.jpg",
+      "role": "Temple Texas exact species leafy shoot and broad alternate leaves, including attached small axillary buds/fruits.",
+      "creator": "iNaturalist photographer, CC0 rights waived",
+      "license": "CC0",
+      "source_page": "https://www.inaturalist.org/photos/648663557",
+      "study_use": "yes",
+      "public_reuse": "public_domain",
+      "caption": "Temple Texas exact species leafy shoot and broad alternate leaves, including attached small axillary buds/fruits."
+    },
+    {
+      "file": "images/triodanis-texana-texas-649615636.jpg",
+      "role": "Flower Mound Texas exact species alternating broad leaves and green axillary closed flower/young capsule structures on stem; no ripe pore.",
+      "creator": "John Thomlinson",
+      "license": "CC BY 4.0",
+      "source_page": "https://www.inaturalist.org/photos/649615636",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "caption": "Flower Mound Texas exact species alternating broad leaves and green axillary closed flower/young capsule structures on stem; no ripe pore."
+    }
+  ],
+  "project_inclusion": {
+    "learner_admission_status": "USER_APPROVED",
+    "source_pool_row": 1210,
+    "hays_source_pool_flag": "No",
+    "target_zone_status": "UNRESOLVED",
+    "native_metrics_excluded": true,
+    "range_basis": "Taxon accepted at genus/species rank; no three separate target-county evidence certified."
+  },
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "learner_role": "RANGE_UNRESOLVED",
+  "diagnostic_image_needs": [
+    {
+      "priority": "critical",
+      "role": "Exact-species face photo: whole plant plus several leaves and flower",
+      "status": "MISSING_PHOTO"
+    },
+    {
+      "priority": "critical",
+      "role": "Mature inferior capsule and its lateral pore with mm scale",
+      "status": "MISSING_PHOTO"
+    },
+    {
+      "priority": "high",
+      "role": "Flower front, flower side and calyx lobes",
+      "status": "MISSING_PHOTO"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "image_count": 3,
+    "photo_files_present": 3,
+    "mode": "photo_enrichment",
+    "note": "Three actual JPEGs installed and visually reviewed for photographed structure. Pore and stamen microscale diagnosis still pending; no unverifiable feature arrows."
+  },
+  "scientific_sources": [
+    {
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:258450-2"
+    }
+  ],
+  "curation_status": {
+    "user_approved": true,
+    "source_pool_approved": true,
+    "taxonomy_reviewed": true,
+    "range_reviewed": false,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "provisional": true,
+    "photo_enrichment_pending": true,
+    "visual_status": "general_photo_recognition_installed; micro_diagnostic_incomplete"
+  },
+  "photo_note": "Three exactly identified source photographs added with explicit creator/license source, Texas observations only for coloradoensis/texana. Leptocarpa public-domain and CC BY-SA Commons field references are from outside Texas. None prove historic native county range; actual anatomy/capsule window must be visually verified."
+}

@@ -1,0 +1,251 @@
+{
+  "rank": "family",
+  "name": "Solanaceae",
+  "common_name": "Nightshade family",
+  "project_scope": {
+    "selection_mode": "Central Texas family-first recognition module with seven project-pool genus doors",
+    "note": "The family lesson uses flower/ovary/fruit architecture, then splits into Solanum, Physalis, Datura, Nicotiana, Chamaesaracha, Capsicum and Bouchetia patterns. Native/introduced status remains a separate species-level question."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Look for a fused usually 5-lobed corolla with usually 5 stamens attached to the corolla, then confirm a superior usually 2-carpellate ovary with many ovules. Fruit is usually a many-seeded berry or capsule and the calyx often persists or enlarges.",
+    "vegetative": "Herbs, shrubs, small trees or climbers; leaves usually alternate, simple to lobed or divided, and without stipules. Hairs may be simple, glandular, branched or stellate; prickles occur in some Solanum.",
+    "reproductive": "Flowers mostly bisexual and 5-merous. Corolla lobes are fused; stamens alternate with the lobes. Anthers open by longitudinal slits or apical pores depending on genus.",
+    "fruit": "Usually a many-seeded berry or capsule. Persistent/accrescent calyces are common and become extreme in Physalis.",
+    "field_tip": "Family first: fused 5-part flower + superior many-ovuled ovary + berry/capsule. Genus second: poricidal anthers, inflated calyx, giant trumpet, tobacco tube, or five-eyes habit."
+  },
+  "visual_lesson": {
+    "status": "family_first_batch_001",
+    "teaching_order": "real floral anthers → unequal anther special case → enclosed vs exposed berry → familiar tomato → Physalis husk → Datura capsule → tobacco/other genus comparisons",
+    "intro": "SEE the actual parts, SPOT the fused flower and yellow stamens, NAME ANTHER, COROLLA, CALYX and BERRY, then COMPARE the nightshade genus to inflated Physalis fruit and Datura dry capsules. The newest family examples are real installed Solanum photos. Apical pollen pores and minute anther measurements still need dedicated verified macros; plant parts are not magically visible because their name is written in a caption.",
+    "steps": [
+      {
+        "title": "1 · Solanum door: look straight at the anther cone",
+        "photo_role": "poricidal Solanum anthers",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Solanum_campylacanthum_07.jpg",
+        "image_label": "Solanum poricidal anthers around the style",
+        "image_credit": "CC BY-SA 4.0 — SAplants",
+        "look_for": "Five anthers gathered around the style, each opening near the tip by pores rather than long side slits.",
+        "why_it_matters": "Poricidal anthers are a powerful Solanum clue and connect directly to buzz pollination.",
+        "status": "rights_cleared_reference"
+      },
+      {
+        "title": "1a · On a real nightshade, find the corolla and anthers",
+        "photo_role": "star-shaped corolla / clustered yellow stamens",
+        "anchor_species_id": "solanum-elaeagnifolium",
+        "anchor_image_index": 1,
+        "image_label": "Silverleaf nightshade floral structure",
+        "image_credit": "Alex Abair · CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Solanum_elaeagnifolium_11727226.jpg",
+        "look_for": "Five violet corolla lobes form a STAR around a tight cluster of YELLOW ANTHERS. This is a real photo of silverleaf nightshade; microscopic apical pores still cannot be distinguished in this unannotated frame.",
+        "why_it_matters": "Pairs a real anatomical photo with the words corolla, stamen, anther and style; a five-pointed flower alone is not sufficient family proof.",
+        "status": "installed_exact_species_real_photo_unannotated"
+      },
+      {
+        "title": "1b · See unequal anthers in a Solanum flower",
+        "photo_role": "strongly unequal anthers / heteranthery",
+        "anchor_species_id": "solanum-rostratum",
+        "anchor_image_index": 1,
+        "image_label": "Buffalobur anthers",
+        "image_credit": "Dcrjsr · CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Buffalo_berry_Solanum_rostratum_flower_close.jpg",
+        "look_for": "One much longer curved lower ANTHER and several shorter stamens. This is called HETERANTHERY: the anthers are visibly different in size. Do not assume every Solanum or every nightshade has this special pattern.",
+        "why_it_matters": "An actual species-specific flower difference that teaches why comparing the reproductive parts works better than flower color.",
+        "status": "installed_exact_species_real_photo_unannotated"
+      },
+      {
+        "title": "1c · Watch the calyx grow around a fruit",
+        "photo_role": "enlarged prickly fruiting calyx / enclosed berry",
+        "anchor_species_id": "solanum-rostratum",
+        "anchor_image_index": 2,
+        "image_label": "Buffalobur prickly fruiting calyces",
+        "image_credit": "Dcrjsr · CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Buffalo_berry_prickly-fruits_prickly-stems.jpg",
+        "look_for": "Each green spiny BALL is the enlarging CALYX (joined sepals) wrapped around the developing fruit. The actual mature BERRY is mostly hidden inside, not the outer spines.",
+        "why_it_matters": "Contrasts the nightshade berry with its protective floral covering; prevents mixing up 'fruit' and 'calyx'.",
+        "status": "installed_exact_species_real_photo_unannotated"
+      },
+      {
+        "title": "1d · Compare an exposed berry and persistent sepals",
+        "photo_role": "young berry / calyx / hairy stem",
+        "anchor_species_id": "solanum-elaeagnifolium",
+        "anchor_image_index": 2,
+        "image_label": "Silverleaf nightshade young striped berry",
+        "image_credit": "WDavis1911 · CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Solanum_elaeagnifolium_berries.jpg",
+        "look_for": "Several green-stripe mottled developing berries are EXPOSED beneath small sepals instead of enclosed in one prickly bur. The silvery hairy stems belong to the SAME pictured species, silverleaf nightshade.",
+        "why_it_matters": "Two members of one genus can have very different fruit coverings, even though both make berries.",
+        "status": "installed_exact_species_real_photo_unannotated"
+      },
+      {
+        "title": "1e · Recognize that tomato is also a nightshade",
+        "photo_role": "immature tomato berries and persistent green calyx",
+        "anchor_species_id": "solanum-lycopersicum",
+        "anchor_image_index": 0,
+        "image_label": "Green cultivated tomato berries",
+        "image_credit": "Emőke Dénes · CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Solanales_-_Solanum_lycopersicum_-_40.jpg",
+        "look_for": "The familiar unripe tomatoes are botanically BERRIES, each topped by separate long pointed green CALYX lobes. This is a cultivated/non-native comparison example, not a native Hays County wild species.",
+        "why_it_matters": "Links textbook floral parts to a familiar real plant but protects the distinction between comparison plants and native-only metrics.",
+        "status": "installed_exact_species_real_photo_unannotated"
+      },
+      {
+        "title": "2 · Physalis door: follow the calyx into fruit",
+        "photo_role": "inflated papery calyx enclosing berry",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Physalis_peruviana_calix_open_close-up.jpg",
+        "image_label": "Physalis berry inside inflated calyx",
+        "image_credit": "CC BY-SA 4.0 — Ivar Leidus",
+        "look_for": "The calyx enlarges dramatically after flowering and becomes a bladder-like husk that completely encloses the berry.",
+        "why_it_matters": "An inflated fruiting calyx is the fastest project-pool route to Physalis.",
+        "status": "rights_cleared_reference"
+      },
+      {
+        "title": "3 · Datura door: giant funnel flower → prickly capsule",
+        "photo_role": "large trumpet flower + spiny capsule",
+        "look_for": "Very large white funnel/trumpet flowers followed by a dry capsule, commonly armed with prickles.",
+        "why_it_matters": "Datura is a capsule-producing nightshade and looks nothing like berry-producing Solanum or Physalis once fruiting.",
+        "status": "local_rights_safe_visual_pending"
+      },
+      {
+        "title": "4 · Nicotiana door: long tube → capsule",
+        "photo_role": "tubular corolla + persistent calyx around capsule",
+        "look_for": "Tubular to funnelform flowers, often on viscid/hairy plants, followed by a dry capsule mostly enclosed by the persistent calyx.",
+        "why_it_matters": "This separates tobacco architecture from the starry berry-producing nightshades.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "5 · Chamaesaracha door: low five-eyes",
+        "photo_role": "prostrate habit + pale rotate corolla + exposed berry",
+        "look_for": "Low spreading plants with pale rotate flowers; the calyx enlarges somewhat in fruit but does not inflate into a Physalis lantern and remains shorter than the berry.",
+        "why_it_matters": "It is an excellent local comparison for Physalis and Solanum.",
+        "status": "local_visual_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Solanaceae vs Convolvulaceae",
+        "rule": "Both often have fused funnel-shaped corollas. Solanaceae typically has a superior usually 2-locular ovary with many ovules and a berry/capsule; morning-glory relatives often twine and have different ovary/fruit architecture."
+      },
+      {
+        "title": "Solanaceae vs Boraginaceae",
+        "rule": "Both can have fused 5-part flowers. Classic Boraginaceae often has a scorpioid cyme and four nutlets; Solanaceae usually makes a many-seeded berry or capsule. Broad Boraginaceae includes capsular exceptions, so use the whole reproductive pattern."
+      },
+      {
+        "title": "Solanum vs Physalis",
+        "rule": "Solanum usually advertises a starry corolla and poricidal anther cone with the berry exposed; Physalis completely encloses the berry in a greatly inflated papery calyx."
+      },
+      {
+        "title": "Physalis vs Chamaesaracha",
+        "rule": "Physalis fruiting calyx becomes bladder-like and fully encloses the berry; Chamaesaracha has an accrescent but non-inflated calyx that remains shorter than the berry."
+      },
+      {
+        "title": "Buffalobur vs silverleaf nightshade — same genus, different calyx",
+        "rule": "Buffalobur develops prickly expanding sepals enclosing a rather dry berry, while silverleaf nightshade has exposed striped juvenile berries and later yellow/orange fruit. Compare the calyx, not only corolla colors."
+      },
+      {
+        "title": "Short vs long anthers within Solanum",
+        "rule": "American black nightshade has tiny (often 0.7–1.5 mm) anthers; buffalobur has four shorter anthers and one strongly curved longer anther. A magnifying lens and actual flower close-up are needed."
+      }
+    ],
+    "caveat": "Five newly linked images are existing physically installed canonical species files with per-photo credits. Photo macro of terminal pore, seed/ovary dissection and original-pixel arrow coordinates are still needed; there are no invented arrows. Solanum triquetrum UT voucher public reuse remains under review and dimidiatum CC BY-NC is excluded from this public family lesson."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 7,
+    "genera": [
+      {
+        "genus": "Solanum",
+        "fast_cue": "rotate/starry flower + poricidal anther cone + berry",
+        "role": "primary high-value genus"
+      },
+      {
+        "genus": "Physalis",
+        "fast_cue": "inflated papery fruiting calyx completely enclosing berry",
+        "role": "primary high-value genus"
+      },
+      {
+        "genus": "Datura",
+        "fast_cue": "very large funnel flower + dry prickly capsule",
+        "role": "primary comparison genus"
+      },
+      {
+        "genus": "Nicotiana",
+        "fast_cue": "tubular/funnelform flower + persistent calyx around capsule",
+        "role": "primary comparison genus"
+      },
+      {
+        "genus": "Chamaesaracha",
+        "fast_cue": "low spreading habit + pale rotate flower + non-inflated accrescent calyx",
+        "role": "local five-eyes genus"
+      },
+      {
+        "genus": "Capsicum",
+        "fast_cue": "small star/campanulate flower + exposed berry with persistent small calyx",
+        "role": "wild/cultivated pepper door"
+      },
+      {
+        "genus": "Bouchetia",
+        "fast_cue": "small low nightshade; flower and capsule macro needed",
+        "role": "secondary genus — local visual lesson pending"
+      }
+    ]
+  },
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "Solanum poricidal anther cone",
+      "annotation_goal": "label anther pores, style and corolla"
+    },
+    {
+      "priority": 1,
+      "structure": "Physalis flower → inflated calyx → berry sequence",
+      "annotation_goal": "show the calyx growing around the fruit"
+    },
+    {
+      "priority": 1,
+      "structure": "Datura flower and capsule pair",
+      "annotation_goal": "contrast giant funnel flower with prickly dry capsule"
+    },
+    {
+      "priority": 1,
+      "structure": "Nicotiana tubular flower + capsule",
+      "annotation_goal": "show persistent calyx around capsule"
+    },
+    {
+      "priority": 2,
+      "structure": "Physalis vs Chamaesaracha fruiting calyx",
+      "annotation_goal": "fully inflated/enclosing vs accrescent but open/exposed berry"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Flora of North America — Solanaceae",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=10828"
+    },
+    {
+      "source": "Flora of North America — Solanum",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=130618"
+    },
+    {
+      "source": "Flora of North America — Physalis",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=125280"
+    },
+    {
+      "source": "Flora of North America — Nicotiana",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=122284"
+    },
+    {
+      "source": "Flora of North America — Chamaesaracha",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=106467"
+    },
+    {
+      "source": "Flora of North America — Datura wrightii",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250131444"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-family-first-batch-001",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "cc_by_sa_solanum_physalis_references_live_local_genus_macros_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent",
+    "solanum_family_photo_upgrade": "2026-10-13: five existing real Solanum photo examples mapped to correct installed photo indices, reusing credited images of anthers, variable calyces and berries. No range/science deletions."
+  }
+}

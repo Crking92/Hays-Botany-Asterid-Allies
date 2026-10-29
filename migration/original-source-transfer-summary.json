@@ -1,0 +1,24 @@
+{
+  "status": "ALL_ASSIGNED_FAMILY_ORIGINAL_FILES_BYTE_EXACT_PRIVATE",
+  "repository": "Crking92/Hays-Botany-Asterid-Allies",
+  "source_commit": "515387cbc23b8bf8931141ead9c44c92a7793699",
+  "families": [
+    "Apocynaceae",
+    "Boraginaceae",
+    "Campanulaceae",
+    "Convolvulaceae",
+    "Gelsemiaceae",
+    "Gentianaceae",
+    "Loganiaceae",
+    "Polemoniaceae",
+    "Rubiaceae",
+    "Solanaceae"
+  ],
+  "species": 118,
+  "total_original_files": 693,
+  "original_text_files": 387,
+  "source_media_private_quarantine": 306,
+  "original_files_missing": 0,
+  "public_site_deployed": false,
+  "hub_unchanged": true
+}

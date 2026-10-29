@@ -1,0 +1,194 @@
+{
+  "id": "ipomoea-coccinea",
+  "entry_type": "species",
+  "family": "Convolvulaceae",
+  "genus": "Ipomoea",
+  "species": "coccinea",
+  "authority": "L.",
+  "common_name": "Red Morning-glory",
+  "other_common_names": [
+    "Redstar"
+  ],
+  "project_inclusion": {
+    "mode": "local-occurrence-first",
+    "strict_native_filter_deferred": true,
+    "note": "Documented in Williamson County; local-occurrence-first inclusion."
+  },
+  "morphology_keys": {
+    "life_cycle": "Annual.",
+    "habit": "Twining vine.",
+    "leaves": "Alternate; unlobed to shallowly 3-lobed or with small toothlike lobes.",
+    "sepals": "About 8–9 mm at maturity with a distinctive subterminal fingerlike/awnlike projection.",
+    "corolla": "Small scarlet to light-scarlet, salverform/trumpet-like; limb about 12–17 mm across.",
+    "key": "Small scarlet flowers and awnlike sepal tips separate it quickly from the purple/blue core species."
+  },
+  "look_alikes": [
+    "Ipomoea hederifolia",
+    "Ipomoea quamoclit"
+  ],
+  "curation_status": {
+    "version": "1.0-core",
+    "taxonomy_and_morphology_reviewed": true,
+    "strict_native_filter_deferred": true,
+    "photo_set": "starter diagnostic set",
+    "last_reviewed": "2026-09-30",
+    "photo_metadata_count": 8,
+    "photo_files_present": 5,
+    "photo_backfill_source": "historical taxa.zip migration",
+    "external_display_images_count": 3,
+    "last_visual_reviewed": "2026-10-08"
+  },
+  "images": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "curated taxon reference 1",
+      "creator": "(c) Wayne Longbottom, some rights reserved (CC BY-NC), uploaded by Wayne Longbottom",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/120518",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/156452200/large.jpeg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "156452200",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/02-curated-reference.jpg",
+      "role": "curated taxon reference 2",
+      "creator": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+      "license": "cc-by-sa",
+      "source_page": "https://www.inaturalist.org/taxa/120518",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/181452025/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "181452025",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-same-plant-field-view-1.jpg",
+      "role": "same-observation field view 1",
+      "creator": "no rights reserved",
+      "license": "cc0",
+      "source_page": "https://www.inaturalist.org/observations/248310552",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/443618980/large.jpeg",
+      "platform": "iNaturalist",
+      "observation_id": "248310552",
+      "photo_id": "443618980",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/04-same-plant-field-view-2.jpg",
+      "role": "same-observation field view 2",
+      "creator": "no rights reserved",
+      "license": "cc0",
+      "source_page": "https://www.inaturalist.org/observations/248310552",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/443619122/large.jpeg",
+      "platform": "iNaturalist",
+      "observation_id": "248310552",
+      "photo_id": "443619122",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/05-same-plant-field-view-3.jpg",
+      "role": "same-observation field view 3",
+      "creator": "no rights reserved",
+      "license": "cc0",
+      "source_page": "https://www.inaturalist.org/observations/248310552",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/443619157/large.jpeg",
+      "platform": "iNaturalist",
+      "observation_id": "248310552",
+      "photo_id": "443619157",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ipomoea_coccinea_flowers_leaves_and_stems_-_Fukufukurou.jpg",
+      "role": "Flower, leaf and twining-stem context for red morning-glory",
+      "creator": "Fukufukurou",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ipomoea_coccinea_flowers_leaves_and_stems_-_Fukufukurou.jpg",
+      "platform": "Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution-sharealike",
+      "photo_verified": "Commons file page/license verified 2026-10-08",
+      "diagnostic_visibility": "Shows red-orange flowers, green leaves and twining stems together; useful habit/corolla context, but not a substitute for the reflexed-fruiting-pedicel macro.",
+      "media_storage": "external_direct_url",
+      "scientific_name_verified": "Ipomoea coccinea"
+    },
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/8/81/Ipomoeacoccinea.jpg",
+      "role": "Measured mature-seed plate for reproductive comparison",
+      "creator": "USDA Agricultural Research Service, Systematic Botany and Mycology Laboratory",
+      "license": "Public domain (USDA ARS source collection)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ipomoeacoccinea.jpg",
+      "platform": "Wikimedia Commons / USDA ARS",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "provenance_note": "File is listed in Wikimedia Commons' USDA ARS Systematic Botany and Mycology Laboratory source category, which is marked PD USDA ARS.",
+      "diagnostic_visibility": "Measured-seed reference from the USDA ARS seed-image series; useful for fruiting/nonflowering study.",
+      "media_storage": "external_direct_url",
+      "scientific_name_verified": "Ipomoea coccinea"
+    },
+    {
+      "file": "https://www.missouriplants.com/images/Ipomoea_coccinea_fruits.jpg",
+      "role": "PRIVATE STUDY — fruiting pedicels, capsules and persistent corniform calyx",
+      "creator": "MissouriPlants source photographer",
+      "license": "reuse rights not verified — private study only",
+      "source_page": "https://www.missouriplants.com/Ipomoea_coccinea_page.html",
+      "platform": "MissouriPlants",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "media_storage": "external_direct_url",
+      "scientific_name_verified": "Ipomoea coccinea",
+      "diagnostic_visibility": "High-value fruiting view showing the hanging/reflexed fruiting stage with persistent calyx around capsules—the exact comparison target against I. hederifolia."
+    }
+  ],
+  "field_diagnostics": {
+    "single_best_trait": "Do not stop at 'red morning glory.' Check the calyx and fruiting pedicels: the sepals carry corniform/awnlike terminal appendages, and the pedicels become reflexed beneath the fruit.",
+    "fastest_traits": [
+      "Red to red-yellow salverform corolla about 20–25 mm",
+      "Outer sepals 3–3.5 mm and inner sepals 4.5–5.7 mm",
+      "Corniform/awnlike terminal appendage on the sepals",
+      "Fruiting pedicels reflexed beneath the capsule; flowering pedicels can be ascending/erect",
+      "Twining annual habit"
+    ],
+    "look_alikes": [
+      {
+        "taxon": "Ipomoea hederifolia",
+        "distinction": "FNA separates I. coccinea by reflexed fruiting pedicels (I. hederifolia remains erect in the key comparison) and larger inner sepals, 4.5–5.7 mm versus about 3–4 mm. Red flower color alone is not enough."
+      }
+    ],
+    "unreliable_alone": [
+      "red flower color",
+      "general heart-shaped morning-glory leaf"
+    ]
+  },
+  "diagnostic_photo_targets": [
+    "Side view showing reflexed pedicels",
+    "Macro of outer and inner sepals with corniform appendages",
+    "Flower side and front views at measurable scale",
+    "Mature fruit with persistent calyx",
+    "Whole vine plus representative leaf variation"
+  ],
+  "diagnostic_science_sources": [
+    {
+      "source": "Flora of North America",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416695"
+    }
+  ],
+  "diagnostic_polish": {
+    "status": "specialty-study-fruiting-diagnostic-present-public-equivalent-open",
+    "reviewed": "2026-10-08",
+    "specialty_reference_pass": "2026-10-08",
+    "specialty_photo_notes": [
+      "Private-study fruiting view shows reflexed/hanging fruit stage and persistent calyx",
+      "Reusable fruiting-pedicel plus corniform-sepal macro still open"
+    ],
+    "last_visual_reviewed": "2026-10-08"
+  },
+  "photo_note": " Added licensed whole-vine reproductive context and USDA/ARS measured seed plate 2026-10-08. Exact fruiting-pedicel + persistent-calyx macro remains the key open view. Specialty diagnostic study references added 2026-10-08; public reuse flags are intentionally conservative where source licensing is not verified."
+}

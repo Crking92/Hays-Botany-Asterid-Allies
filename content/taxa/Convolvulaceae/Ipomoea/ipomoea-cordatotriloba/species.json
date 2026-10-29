@@ -1,0 +1,226 @@
+{
+  "id": "ipomoea-cordatotriloba",
+  "entry_type": "species",
+  "family": "Convolvulaceae",
+  "genus": "Ipomoea",
+  "species": "cordatotriloba",
+  "authority": "Dennst.",
+  "common_name": "Tievine",
+  "other_common_names": [
+    "Purple Morning-glory",
+    "Common Morning-glory",
+    "Purple Bindweed"
+  ],
+  "project_inclusion": {
+    "mode": "local-occurrence-first",
+    "strict_native_filter_deferred": true,
+    "note": "Species-level package; local varieties can be split later if useful."
+  },
+  "morphology_keys": {
+    "life_cycle": "Perennial in the Williamson County treatment; broader treatments note substantial variation.",
+    "habit": "Twining or trailing vine with a taproot and long lateral roots.",
+    "leaves": "Alternate; ovate-deltoid to shallowly 3-lobed, cordate at base; leaf shape variable.",
+    "sepals": "Outer sepals about 8–11 mm, usually ciliate/hairy; inner sepals about 10–12 mm.",
+    "corolla": "Pink to purple, usually about 2.5–4.5 cm, darker in the throat.",
+    "key": "Shorter, broader sepals than I. hederacea; perennial rooting habit also helps."
+  },
+  "look_alikes": [
+    "Ipomoea hederacea",
+    "Ipomoea triloba",
+    "Ipomoea lacunosa"
+  ],
+  "curation_status": {
+    "version": "1.2-b132-source-reconciliation",
+    "taxonomy_and_morphology_reviewed": true,
+    "strict_native_filter_deferred": true,
+    "photo_set": "starter diagnostic set",
+    "last_reviewed": "2026-10-05",
+    "photo_metadata_count": 8,
+    "photo_files_present": 5,
+    "photo_backfill_source": "historical taxa.zip migration",
+    "external_display_images_count": 3,
+    "last_visual_reviewed": "2026-10-08"
+  },
+  "images": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "curated taxon reference 1",
+      "creator": "(c) Kristin A. Bakkegard, some rights reserved (CC BY-NC), uploaded by Kristin A. Bakkegard",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/135263",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/26998123/large.jpeg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "26998123",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/02-curated-reference.jpg",
+      "role": "curated taxon reference 2",
+      "creator": "(c) tnewman, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/135263",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/25822803/large.jpeg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "25822803",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/03-same-plant-field-view-1.jpg",
+      "role": "same-observation field view 1",
+      "creator": "(c) Alex Correa, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/402196170",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/738308561/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "402196170",
+      "photo_id": "738308561",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/04-same-plant-field-view-2.jpg",
+      "role": "same-observation field view 2",
+      "creator": "(c) Alex Correa, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/402196170",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/738308557/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "402196170",
+      "photo_id": "738308557",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/05-same-plant-field-view-3.jpg",
+      "role": "same-observation field view 3",
+      "creator": "(c) Alex Correa, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/402196170",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/738308556/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "402196170",
+      "photo_id": "738308556",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ipomoeacordatotriloba.jpg",
+      "role": "Measured seed plate for mature-seed comparison and hybrid work",
+      "creator": "Steve Hurst / USDA ARS",
+      "license": "Public domain (USDA ARS)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ipomoeacordatotriloba.jpg",
+      "platform": "Wikimedia Commons / USDA ARS",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_verified": "Wikimedia file and public-domain provenance verified 2026-10-08",
+      "diagnostic_visibility": "Mature seeds on a uniform background with scale; useful for comparison with I. lacunosa / I. ×leucantha when reproductive material is available.",
+      "media_storage": "external_direct_url",
+      "scientific_name_verified": "Ipomoea cordatotriloba"
+    },
+    {
+      "file": "https://www.sbs.utexas.edu/bio406d/images/pics/cnv/Ipomoea%20cordatotril%20flw2.jpg",
+      "role": "PRIVATE STUDY — side-view flower exposing the calyx and intermediate sepal/corolla proportions",
+      "creator": "UT Austin BIO406D PlantPics",
+      "license": "reuse rights not verified — private study only",
+      "source_page": "https://www.sbs.utexas.edu/bio406d/images/pics/cnv/ipomoea_cordatotriloba.htm",
+      "platform": "UT Austin BIO406D PlantPics",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "media_storage": "external_direct_url",
+      "scientific_name_verified": "Ipomoea cordatotriloba",
+      "diagnostic_visibility": "Excellent teaching angle: flower in side view with sepals visible; use to compare the intermediate calyx against shorter I. triloba and exaggerated I. hederacea."
+    },
+    {
+      "file": "https://james-vankley.com/TransPecosPlants/TransPecosPlants/Convolvulaceae/lrIpomoea_cordatotriloba3.jpg",
+      "role": "PRIVATE STUDY — flower/bud side view with exposed sepals",
+      "creator": "James VanKley",
+      "license": "reuse rights not verified — private study only",
+      "source_page": "https://james-vankley.com/TransPecosPlants/TransPecosPlants/Convolvulaceae/Convolvulaceae.html",
+      "platform": "Trans-Pecos Plants",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "media_storage": "external_direct_url",
+      "scientific_name_verified": "Ipomoea cordatotriloba",
+      "diagnostic_visibility": "Useful second angle showing the calyx and unopened bud; supports outer/inner-sepal teaching until a ruler-scale reusable macro is found."
+    }
+  ],
+  "taxonomic_note": "Current Kew/POWO accepts Ipomoea cordatotriloba at species rank. ITIS/GRIN still recognize the autonym var. cordatotriloba as an infraspecific treatment, while Kew folds var. torreyana into the species. For the learner, the Hays source row 'Ipomoea cordatotriloba var. cordatotriloba' is represented inside this canonical species page rather than duplicated.",
+  "synonyms": [
+    "Ipomoea cordatotriloba var. cordatotriloba (source/infraspecific treatment represented in this species card)",
+    "Ipomoea cordatotriloba var. torreyana (A.Gray) D.F.Austin (Kew synonym of I. cordatotriloba)"
+  ],
+  "infraspecific_lesson": {
+    "Ipomoea cordatotriloba var. cordatotriloba": "Legacy/current-source autonym used by ITIS/GRIN and local source lists. The learner maps it to this species-level card so the same biological concept is not duplicated.",
+    "Ipomoea cordatotriloba var. torreyana": "Current Kew/POWO treats this name as a synonym of Ipomoea cordatotriloba."
+  },
+  "field_diagnostics": {
+    "single_best_trait": "Use the flower and sepals together: a medium 20–38 mm corolla with 8–14 mm lanceolate-to-ovate sepals, then use perennial habit and pubescence as support.",
+    "fastest_traits": [
+      "Perennial twining habit",
+      "Corolla 20–38 mm in FNA",
+      "Sepals 8–14 mm; outer sepals narrower than inner",
+      "Leaves cordate to 3–5(–7)-lobed and too variable to identify alone",
+      "Typical var. cordatotriloba is hairy/ciliate; var. torreyana can be glabrous"
+    ],
+    "look_alikes": [
+      {
+        "taxon": "Ipomoea triloba",
+        "distinction": "I. triloba usually has a 10–20 mm corolla and 6–7 mm sepals; I. cordatotriloba is typically larger in both, although boundaries can approach."
+      },
+      {
+        "taxon": "Ipomoea hederacea",
+        "distinction": "I. hederacea has much more exaggerated long distal sepal portions, abruptly narrowed from a broader base."
+      },
+      {
+        "taxon": "Ipomoea lacunosa",
+        "distinction": "I. lacunosa usually has a small white 15–20(–25) mm corolla and glabrous acuminate sepals; intermediate plants require attention to the I. ×leucantha hybrid possibility."
+      }
+    ],
+    "unreliable_alone": [
+      "leaf lobing",
+      "flower color without scale"
+    ]
+  },
+  "hybrid_caution": {
+    "taxon": "Ipomoea ×leucantha",
+    "note": "FNA reports this hybrid from I. lacunosa × I. cordatotriloba in the southeastern United States. Intermediate small white/lavender plants should not be forced from leaf shape alone.",
+    "useful_checks": [
+      "corolla size",
+      "fruit diameter",
+      "seed size",
+      "full sepal suite"
+    ]
+  },
+  "diagnostic_photo_targets": [
+    "Same-scale flower side view beside I. triloba",
+    "Outer and inner sepals with ruler",
+    "Sepal margin/pubescence macro",
+    "Multiple leaves from one plant to teach variability",
+    "Perennial/rootstock or basal habit context when visible"
+  ],
+  "diagnostic_science_sources": [
+    {
+      "source": "Flora of North America",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250013780"
+    },
+    {
+      "source": "Flora of North America — I. ×leucantha",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250131425"
+    }
+  ],
+  "diagnostic_polish": {
+    "status": "specialty-study-calyx-views-present-public-measured-macro-open",
+    "reviewed": "2026-10-08",
+    "specialty_reference_pass": "2026-10-08",
+    "specialty_photo_notes": [
+      "Two exact-species side/calyx study views now present",
+      "Reusable outer-versus-inner sepal macro with scale still open"
+    ],
+    "last_visual_reviewed": "2026-10-08"
+  },
+  "photo_note": " Added USDA public-domain measured seed plate 2026-10-08; outer/inner sepal macro with scale remains open. Specialty diagnostic study references added 2026-10-08; public reuse flags are intentionally conservative where source licensing is not verified."
+}

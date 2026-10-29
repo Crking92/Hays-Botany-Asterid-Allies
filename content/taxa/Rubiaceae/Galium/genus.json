@@ -1,0 +1,309 @@
+{
+  "rank": "genus",
+  "family": "Rubiaceae",
+  "name": "Galium",
+  "common_group": "bedstraws",
+  "project_scope": {
+    "source": "Live Master Plant Pool 2026-10-12",
+    "species": [
+      "Galium aparine",
+      "Galium texense",
+      "Galium virgatum"
+    ],
+    "canonical_species_at_build": 0,
+    "note": "Genus lesson only; native-range states unchanged."
+  },
+  "shared_genus_recognition": {
+    "look_here_first": "Count the leaflike units at a mature stem node, then inspect stem-edge prickles and flowering shoot length.",
+    "traits": [
+      "Small herbaceous Rubiaceae with four-angled stems and apparent whorls of leaflike organs; two units are enlarged stipules.",
+      "Tiny four-lobed flowers and paired one-seeded dry mericarps.",
+      "All three may have hooked fruit bristles; fruit hooks alone do not identify G. aparine."
+    ],
+    "plain_language": "These slender bedstraws look like they have rings of leaves. In fact two are true opposite leaves and the others are leaflike stipules; inspect the stem's tiny hairs and where the flowers branch from the leaf axils.",
+    "family_bridge": "Rubiaceae commonly has opposite leaves with stipules; Galium's stipules are enlarged and create apparent whorls."
+  },
+  "species_comparison_matrix": [
+    {
+      "character": "Apparent whorl",
+      "Galium aparine": "Usually 6 or 8",
+      "Galium texense": "4",
+      "Galium virgatum": "4",
+      "photo_role": "Numbered mid-node macros"
+    },
+    {
+      "character": "Stem ridge hairs",
+      "Galium aparine": "Backward-pointing hooked prickles",
+      "Galium texense": "Straight bristles to ~0.5 mm",
+      "Galium virgatum": "Short bristles, without hooks",
+      "photo_role": "Matched side-lit stem ridge macros"
+    },
+    {
+      "character": "Mature leaf shape and size",
+      "Galium aparine": "Narrow, typically 13–30+ × 1.5–4+ mm",
+      "Galium texense": "Ovate, to ~8.5 × 4.5 mm",
+      "Galium virgatum": "Elliptic-oblong, ~2–8 × 0.8–2 mm",
+      "photo_role": "Measured flat leaf blades"
+    },
+    {
+      "character": "Abaxial blade",
+      "Galium aparine": "Rough midrib with hooks",
+      "Galium texense": "Raised midrib",
+      "Galium virgatum": "Raised pale blisterlike structures ~0.25 mm",
+      "photo_role": "20× underside macro"
+    },
+    {
+      "character": "Flower-bearing shoot",
+      "Galium aparine": "Branched axillary cymes",
+      "Galium texense": "Axillary several-flowered cymes, peduncle ~15–25 mm",
+      "Galium virgatum": "1–2 flowers close to node, later short leafy cyme",
+      "photo_role": "Complete node-to-flower side views"
+    },
+    {
+      "character": "Flower diameter",
+      "Galium aparine": "~2.2–3 mm",
+      "Galium texense": "~1 mm",
+      "Galium virgatum": "<1 mm",
+      "photo_role": "Measured open corollas"
+    },
+    {
+      "character": "Mature mericarp",
+      "Galium aparine": "~2.2–2.8 × 1.9–2.3 mm",
+      "Galium texense": "~1.4–1.8 × 1.3–1.5 mm",
+      "Galium virgatum": "~1.3–1.9 mm across",
+      "photo_role": "Paired mature fruits with scale"
+    },
+    {
+      "character": "Fruit prickles",
+      "Galium aparine": "Hooked",
+      "Galium texense": "Hooked",
+      "Galium virgatum": "Hooked",
+      "photo_role": "Three-way burr macro; mark shared trait"
+    }
+  ],
+  "field_steps": [
+    "Count several mid-stem whorls: 6–8 plus retrorse stem hooks suggests G. aparine; four suggests G. texense or G. virgatum.",
+    "For four-unit whorls, compare ovate broad blades and longer cymes (texense) versus narrow blades, pale underside structures and short node-bound flowers (virgatum).",
+    "Check flowers and mature fruit with a millimeter scale; stop at Galium sp. when characters disagree."
+  ],
+  "overlap_cautions": [
+    "Fruit hooks are shared, not an exclusive cleavers character.",
+    "G. texense and G. virgatum fruit sizes overlap; use several characters.",
+    "Mature whorl counts and stem armature are more reliable than habit or flower color.",
+    "Leaflike stipules must not all be labeled true leaves.",
+    "This is not a county-native certification or a species-install action."
+  ],
+  "local_source_pool_lookalikes": [
+    {
+      "taxon": "Sherardia arvensis",
+      "difference": "Look for a persistent toothed calyx and funnel-shaped corolla, unlike the tiny rotate Galium flower."
+    },
+    {
+      "taxon": "Diodia virginiana",
+      "difference": "Opposite leaves and distinct stipules, not Galium's apparent multi-membered whorls."
+    },
+    {
+      "taxon": "Cephalanthus occidentalis",
+      "difference": "Woody shrub with spherical flower heads rather than weak-stemmed herb with axillary cymes."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "priority": 1,
+      "role": "Mid-stem whorl",
+      "target": "Count and label true leaves plus leaflike stipules"
+    },
+    {
+      "priority": 1,
+      "role": "Stem ridge",
+      "target": "Show backward hooks versus straight bristles with arrows"
+    },
+    {
+      "priority": 1,
+      "role": "G. texense versus G. virgatum blades",
+      "target": "Show mature blade widths and abaxial raised structures with scale"
+    },
+    {
+      "priority": 1,
+      "role": "Flower-bearing node",
+      "target": "Compare long axillary cyme with short leafy dwarf shoot"
+    },
+    {
+      "priority": 2,
+      "role": "Flower macro",
+      "target": "Show measured open corolla diameter"
+    },
+    {
+      "priority": 2,
+      "role": "Mature fruit macro",
+      "target": "Show measured mericarps and shared hooked bristles"
+    },
+    {
+      "priority": 2,
+      "role": "Whole-plant habit",
+      "target": "Show intact base and architecture"
+    }
+  ],
+  "existing_media_reuse": {
+    "family_module": "content/taxa/Rubiaceae/family.json",
+    "reference": "Existing Galium aparine habit and fruit Wikimedia Commons links are family-level references only; verify creator/license before attaching. No user/Joey IDs invented."
+  },
+  "handoffs": [
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "request": "Confirm G. virgatum raised pale underside structures and short subsessile inflorescence versus G. texense in regional vouchers."
+    },
+    {
+      "lane": "Diagnostic Photo Polish",
+      "request": "Find provenance-verified matched whorl, stem hooks, leaf undersides, cymes and fruit close-ups."
+    },
+    {
+      "lane": "Approved Taxa Installer",
+      "request": "Three source-pool species not canonical at build; install separately only after identity checks."
+    }
+  ],
+  "sources": [
+    {
+      "title": "UT Galium aparine",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pages/Galium%20aparine.html"
+    },
+    {
+      "title": "UT Galium texense",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pages/Galium%20texense.html"
+    },
+    {
+      "title": "UT Galium virgatum",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pages/Galium%20virgatum.html"
+    },
+    {
+      "title": "Existing Rubiaceae family lesson",
+      "path": "content/taxa/Rubiaceae/family.json"
+    }
+  ],
+  "curation_status": {
+    "stage": "genus_photo_led_anatomy_expansion",
+    "visual_status": "four_anatomy_roles_defined; diagnostic_photos_pending",
+    "canonical_species_installed": 0,
+    "updated_at": "2026-10-16"
+  },
+  "look_here_first": "LOOK HERE FIRST — count leaflike units at three mature mid-stem nodes, then photograph a stem ridge under side lighting. Six or eight apparent units plus backward-pointing hooks favors G. aparine. Four units lead to G. texense versus G. virgatum: compare measured blade width, leaf underside and the distance from node to first flower. Confirm with mature fruits and flower size; stop at Galium sp. when the characters disagree.",
+  "genus_diagnostics": {
+    "anatomy_lessons": [
+      {
+        "title": "1 · Count an apparent whorl",
+        "term": "opposite leaves and leaflike stipules",
+        "plain": "The ring around a stem is not made entirely of true leaves; enlarged stipules look like additional blades.",
+        "look_here": "Photograph a mature middle node from directly above with a numbered ring and a millimeter scale.",
+        "why_it_matters": "Six or eight apparent units favor G. aparine; four lead to G. texense or G. virgatum.",
+        "photo_role": "three-species matched mid-node whorls, true leaf/stipule labels after verification",
+        "status": "needs_photo",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "title": "2 · Read the stem's tiny hooks",
+        "term": "retrorse prickles / stem ridge bristles",
+        "plain": "A retrorse prickle points backward toward the plant base; a straight bristle does not hook in the same way.",
+        "look_here": "Side-light the square stem ridge at 10–20× and mark the shoot tip direction.",
+        "why_it_matters": "G. aparine has backward hooks; G. texense and G. virgatum are described with straighter/shorter bristles.",
+        "photo_role": "matched stem-ridge macros with scale and stem-tip direction",
+        "status": "needs_photo",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "title": "3 · Turn a leaf over",
+        "term": "abaxial blade / midrib",
+        "plain": "Abaxial means the lower leaf surface. Compare the raised midrib and any pale tiny blisterlike bumps.",
+        "look_here": "Photograph upper and lower surfaces of mature blades flat against a millimeter grid.",
+        "why_it_matters": "G. texense is broader and ovate; G. virgatum is narrow and may show pale raised underside structures; these need voucher confirmation.",
+        "photo_role": "paired G. texense/G. virgatum leaf blades and abaxial 20× details",
+        "status": "needs_photo",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "title": "4 · Follow the flower stalk",
+        "term": "axillary cyme / peduncle / mericarp",
+        "plain": "A cyme is a small branched flower cluster. A mericarp is one of the paired fruit halves.",
+        "look_here": "Show a complete node-to-flower stalk and a mature paired fruit beside a millimeter scale.",
+        "why_it_matters": "G. texense has longer axillary cymes; G. virgatum flowers can sit close to the node. All three may have hooked fruit, so fruit hooks alone do not diagnose G. aparine.",
+        "photo_role": "matched flowering nodes plus ripe paired mericarps",
+        "status": "needs_photo",
+        "annotation_status": "annotation_pending"
+      }
+    ]
+  },
+  "comparison_cards": [
+    {
+      "title": "Cleavers versus four-whorled bedstraws",
+      "taxa": [
+        "Galium aparine",
+        "Galium texense",
+        "Galium virgatum"
+      ],
+      "look_here_first": "Count 6–8 versus 4 apparent units at mature nodes; check stem-hook direction.",
+      "separator": "G. aparine generally has 6 or 8 units and retrorse hooks; the other two have four units.",
+      "caution": "Whorl number varies with node position; sample several middle nodes.",
+      "photo_roles": [
+        "matched node-count macro",
+        "stem-ridge prickle macro"
+      ]
+    },
+    {
+      "title": "Texas bedstraw versus slender bedstraw",
+      "taxa": [
+        "Galium texense",
+        "Galium virgatum"
+      ],
+      "look_here_first": "Compare mature blade width, underside texture and flower stalk from axil.",
+      "separator": "G. texense typically has broader ovate blades (to about 8.5 × 4.5 mm) and longer several-flowered cymes; G. virgatum has narrower blades (about 2–8 × 0.8–2 mm) and short node-bound flowers.",
+      "caution": "Fruit size overlaps; pale underside structures in G. virgatum need authoritative specimen review.",
+      "photo_roles": [
+        "scaled leaf upper/lower surfaces",
+        "matched complete flowering nodes"
+      ]
+    },
+    {
+      "title": "Bedstraw versus field madder",
+      "taxa": [
+        "Galium aparine",
+        "Galium texense",
+        "Galium virgatum"
+      ],
+      "comparison_taxon": "Sherardia arvensis",
+      "look_here_first": "Inspect persistent calyx teeth and corolla shape.",
+      "separator": "Sherardia has a conspicuous persistent toothed calyx and funnel-shaped corolla; Galium flowers are tiny and rotate.",
+      "caution": "Compare mature flowers and fruits, not apparent leaf whorls alone.",
+      "photo_roles": [
+        "matched flowering nodes",
+        "flower-side calyx macros"
+      ]
+    }
+  ],
+  "visual_comparison": {
+    "status": "photo_roles_defined; no canonical Galium species installed at this review",
+    "installed_photos": [],
+    "external_references": "Rubiaceae family lesson has externally linked G. aparine habit/fruit references; these are not installed or anatomy-verified.",
+    "photo_roles": [
+      {
+        "role": "three-species matched mid-node whorls, true leaf/stipule labels after verification",
+        "status": "needs_photo",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "role": "matched stem-ridge macros with scale and stem-tip direction",
+        "status": "needs_photo",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "role": "paired G. texense/G. virgatum leaf blades and abaxial 20× details",
+        "status": "needs_photo",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "role": "matched flowering nodes plus ripe paired mericarps",
+        "status": "needs_photo",
+        "annotation_status": "annotation_pending"
+      }
+    ],
+    "rights_policy": "Do not assume Wikimedia/UT reference images are locally installed or public-reuse-cleared; verify exact file, creator, image license and visible anatomy before any future selection."
+  }
+}

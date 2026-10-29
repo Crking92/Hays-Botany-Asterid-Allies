@@ -1,0 +1,764 @@
+{
+  "rank": "genus",
+  "name": "Solanum",
+  "family": "Solanaceae",
+  "authority": "L.",
+  "common_group": "Nightshades (including horsenettles, buffalobur and cultivated tomato)",
+  "project_scope": {
+    "study_context": "Central Texas Hays County source-pool visual identification",
+    "species_count": 11,
+    "species_ids": [
+      "solanum-americanum",
+      "solanum-dimidiatum",
+      "solanum-dulcamara",
+      "solanum-elaeagnifolium",
+      "solanum-emulans",
+      "solanum-interius",
+      "solanum-lycopersicum",
+      "solanum-nigrescens",
+      "solanum-nigrum",
+      "solanum-rostratum",
+      "solanum-triquetrum"
+    ],
+    "admission": "Existing species preserved; S. nigrescens added 2026-10-20 by explicit owner approval as provisional comparative field learner, county range remains on hold. Added S. emulans on 2026-10-20 as PROVISIONAL user-directed field look-alike learner; no county-native claim. User-approved provisional S. interius field-ID learner 2026-10-20; Hays county proof not yet adjudicated. User-directed provisional S. nigrum European nonnative comparison 2026-10-20; no native count.",
+    "science_gate": "Retain PROVISIONAL county labels for unverified county-native species; bittersweet COMPARISON_NONNATIVE and tomato COMPARISON_CULTIGEN excluded from native counts.",
+    "media_gate": "37 physical image records currently stored in 11 species cards; the existing unverified-rights UT Texas-nightshade specimen is excluded from the 11-photo public genus gallery. Joey CC BY-NC 4.0 image retained only for this strictly noncommercial educational setting."
+  },
+  "look_here_first": "FIRST SPLIT: PRICKLY or UNARMED? PRICKLY: silver narrow foliage = silverleaf; broad green lobed leaves = western horsenettle; yellow flowers with ONE long curved anther and spiny fruiting calyx = buffalobur. UNARMED SCRAMBLER with red berries: compare Texas nightshade (triangular leaves, usually white flowers, separate anthers) against bittersweet (usually purple swept-back petals, tight anther cone); white bittersweet exists. UNARMED HERB with little white flowers/black berries: compare ANTHER length, ripe berry CALYX direction, pedicels and flower-cluster branching among five close species. Tomato is an obvious cultivated divided-leaf comparison. One color alone never establishes the species.",
+  "genus_diagnostics": {
+    "flower": "A five-parted usually star/rotate COROLLA (petals united at base) and five stamens, often with long yellow anthers clustered around central style. Colors and flower sizes vary widely, and some wild species have unequal anthers.",
+    "anthers": "Solanum often has PORICIDAL anthers: pollen escapes through little terminal pores; in some unarmed species those pores expand into longitudinal slits. Inspect anther shape, length and whether one is much longer: buffalobur has conspicuous unequal anthers (heteranthery). Ordinary front-flower photos do not resolve a pore.",
+    "leaves": "Mostly alternate, simple to lobed or divided; several spiny horsenettles have star-shaped (STELLATE) surface hairs. Silverleaf nightshade has dense silvery scale-like hairs and narrow leaves; tomato has deeply divided foliage; scrambling S. triquetrum often has triangular/hastate leaves.",
+    "stems": "Some plants are UNARMED, some are prickly. Prickles are sharp epidermal emergences, NOT true branch thorns. Inspect stems, leaf veins, leaf underside and calyx; prickle number varies with age and individual.",
+    "calyx": "CALYX = outer SEPALS immediately below the corolla. In some Solanum it stays as a collar around an exposed berry; in S. americanum ripe calyx lobes bend far backward; in S. rostratum the fruiting calyx becomes enlarged and densely spiny enclosing the dry berry.",
+    "fruit": "Solanum fruits are generally berries with multiple seeds: shiny black, shiny red, yellow-orange or variable domesticated tomato berries. Buffalobur encloses its dry berry with a prickly calyx, whereas silverleaf nightshade shows green-striped juvenile berries and later yellow-orange fruit. Never classify unknown berries as edible by fruit color.",
+    "pollination": "Most Solanum anther morphology is associated with vibration/buzz release of pollen by bees; do not infer pollinator identity from the flower image or treat it as a native host-count assertion."
+  },
+  "study_strategy": {
+    "shared_traits": [
+      "Solanaceae family: flowers typically have fused 5-part corolla, stamens attached to the corolla, persistent calyx and a multi-seeded berry or capsule.",
+      "Solanum genus: starry flower morphology and clustered anthers commonly opening through terminal pores or short slits, berry-type fruit, highly variable leaves and prickles.",
+      "Species key: examine fruiting CALYX and anther equality with leaf hair/shape and armature — never use corolla color alone."
+    ],
+    "priority": [
+      "1 · First check armature and LEAVES: broad green, narrowly silver, deeply cut and prickly, or unarmed with triangular or ovate blades.",
+      "2 · Compare flowers: yellow BUFFALOBUR has ONE long curved anther; violet prickly species differ by foliage; red-fruited scramblers differ by REFLEXED purple corolla and close-packed anthers versus separate yellow anthers.",
+      "3 · For black-berried herbs, photograph open flowers with scale, short versus long yellow anthers, whole cluster and mature berry from the side showing green CALYX and pedicels.",
+      "4 · For red berries compare SCRAMBLERS: Texas nightshade has often 3–6 white flowers and arrowhead leaves; bittersweet has often 7–40 branching flowers with purple reflexed petals, but white forms exist.",
+      "5 · Use at least TWO structures. Unmeasured flowers, immature green fruit, a single red or black berry, or county occurrence rumors do not settle species.",
+      "6 · No taste tests, food advice or unrequested county-native certification. Hold unresolved morelloid IDs at genus/complex level."
+    ],
+    "warnings": [
+      "Fruit color alone does not identify nightshades or prove edibility.",
+      "Black-nightshade anther sizes and green fruiting calyces overlap; flower + mature fruit + pedicel clues together are important.",
+      "Historical UT Solanum triquetrum voucher rights unverified: exclude its image from public genus gallery.",
+      "Joey Santore CC BY-NC 4.0 photos are usable only in the strictly noncommercial educational website with source/photographer credit.",
+      "Existing species native-range and introduced/cultivated statuses are preserved. The Hays county audit remains paused."
+    ],
+    "warning": "Use TWO or more structures. Black and red berries are shared among look-alikes; green developing berries do not show mature calyx behavior. Some individual anther and seed characters need ruler or specimen; none is evidence of edibility. Preserve county native classifications and image reuse terms."
+  },
+  "quick_key": [
+    {
+      "if": "Very prickly, deeply lobed foliage, YELLOW flower with FOUR short and ONE long curved anther",
+      "then": "Solanum rostratum · buffalobur — confirm prickly enlarged fruiting calyx"
+    },
+    {
+      "if": "NARROW silvery leaves, violet flower, possible prickles, green-striped young berry",
+      "then": "Solanum elaeagnifolium · silverleaf nightshade — check dense pale leaf surface"
+    },
+    {
+      "if": "Broad green sometimes lobed foliage, prickles, lavender flower, later yellow berry",
+      "then": "Solanum dimidiatum · western horsenettle — look at broad leaves and actual fruit"
+    },
+    {
+      "if": "UNARMED angled scrambler, TRIANGULAR/hastate leaves, few WHITE flowers with separate yellow anthers",
+      "then": "Solanum triquetrum · Texas nightshade — ripe red fruit photo still needed"
+    },
+    {
+      "if": "UNARMED scrambler, usually PURPLE REFLEXED petals, close yellow anther cone, RED berries",
+      "then": "Solanum dulcamara · bittersweet — rare WHITE flowers, so compare cluster and anthers"
+    },
+    {
+      "if": "Tiny WHITE flowers, SHORT anthers, shiny black berry whose little green calyx lobes bend BACK",
+      "then": "Solanum americanum · American black nightshade — inspect ripe calyx"
+    },
+    {
+      "if": "Tiny WHITE flowers, SHORT anthers, calyx APPRESSED/spreading over developing berry; fruit stalk may fall WITH ripe berry",
+      "then": "Solanum emulans · eastern black nightshade — mature berry photo still missing"
+    },
+    {
+      "if": "White flowers, relatively LONGER anthers, dark ripe berries with calyx CLOSE against fruit",
+      "then": "Solanum nigrescens · divine nightshade — use flower and ripe-fruit details together"
+    },
+    {
+      "if": "UNEVEN branching white-flower cluster, medium anthers, relatively LONG rounded green calyx lobes, larger black berry",
+      "then": "Solanum interius · plains black nightshade — Great Plains comparison, Hays occurrence unresolved"
+    },
+    {
+      "if": "White small flowers, comparatively THICKER fruit stalks, dark or greenish ripe berries; North American fruit typically lacks stone cells",
+      "then": "Solanum nigrum · European black nightshade — introduced, stone cells need actual dissection"
+    },
+    {
+      "if": "Cultivated aromatic-hairy plant with DIVIDED foliage, yellow flower and familiar varied domestic berries",
+      "then": "Solanum lycopersicum · tomato — comparison cultigen, not a native plant"
+    }
+  ],
+  "comparison_matrix": [
+    {
+      "character": "Growth / armature",
+      "americanum": "unarmed herb",
+      "emulans": "unarmed herb",
+      "nigrescens": "unarmed herb",
+      "interius": "unarmed Great Plains herb",
+      "nigrum": "unarmed introduced herb",
+      "dulcamara": "scrambling woody-based unarmed perennial",
+      "triquetrum": "angular unarmed scrambler",
+      "elaeagnifolium": "silvery narrow-leaved sometimes prickly perennial",
+      "dimidiatum": "broader green prickly perennial",
+      "rostratum": "densely prickly divided-leaved herb",
+      "lycopersicum": "cultivated hairy/divided-leaf plant"
+    },
+    {
+      "character": "Flower / anthers",
+      "americanum": "white, very short anthers",
+      "emulans": "white, short anthers/longer free filaments",
+      "nigrescens": "white, relatively longer anthers",
+      "interius": "white, medium anthers and uneven cluster",
+      "nigrum": "white, ~2–2.5 mm anthers",
+      "dulcamara": "purple reflexed (rare white); connivent anther cone",
+      "triquetrum": "usually white; distinctly free anthers",
+      "elaeagnifolium": "violet, similar-length anthers",
+      "dimidiatum": "lavender, roughly equal anthers",
+      "rostratum": "yellow; one long curved plus four short",
+      "lycopersicum": "yellow, cone of anthers"
+    },
+    {
+      "character": "Mature fruit / green calyx",
+      "americanum": "shiny black; strongly REFLEXED calyx",
+      "emulans": "dark black; APPRESSED calyx (currently photo of GREEN developing fruit)",
+      "nigrescens": "dark berry with calyx close to base",
+      "interius": "larger black berry, LONG rounded-tip calyx",
+      "nigrum": "black or greenish, stone cells usually absent in North America",
+      "dulcamara": "shiny RED berry with green-purple calyx",
+      "triquetrum": "red by flora; exact mature fruit photo missing",
+      "elaeagnifolium": "yellow-orange mature, young fruit green striped",
+      "dimidiatum": "yellow exposed mature berry",
+      "rostratum": "berry concealed in spiny enlarged calyx",
+      "lycopersicum": "variable cultivated fruit; persistent calyx"
+    },
+    {
+      "character": "Field evidence / scope",
+      "americanum": "county range provisional",
+      "emulans": "county range provisional; green calyx shown",
+      "nigrescens": "county range provisional; ripe berry research photo",
+      "interius": "Great Plains, Hays provisional",
+      "nigrum": "introduced nonnative comparison",
+      "dulcamara": "introduced nonnative; 7 arrows owner-approved",
+      "triquetrum": "Hays provisional, 6 arrows owner-approved; CC BY-NC",
+      "elaeagnifolium": "Hays provisional",
+      "dimidiatum": "Hays provisional",
+      "rostratum": "Hays provisional, 9 arrows owner-approved",
+      "lycopersicum": "cultivated, native-score excluded"
+    }
+  ],
+  "comparison_cards": [
+    {
+      "title": "Prickly: Silverleaf vs Western horsenettle vs Buffalobur",
+      "look_here_first": "Start with leaf texture, shape and anther equality. Silverleaf: NARROW SILVER foliage. Western: BROADER GREEN often lobed foliage. Buffalobur: yellow flower with ONE markedly longer curved anther and spiny enlarged fruiting calyx.",
+      "field_matrix": [
+        {
+          "character": "Foliage and prickles",
+          "elaeagnifolium": "narrow, silvery from hairs; prickles variable",
+          "dimidiatum": "broader green lobed leaves, usually prickly",
+          "rostratum": "deeply cut and very prickly"
+        },
+        {
+          "character": "Flowers",
+          "elaeagnifolium": "violet/blue, roughly equal yellow anthers",
+          "dimidiatum": "lavender, roughly equal anthers",
+          "rostratum": "yellow, FOUR short and ONE long curved anther"
+        },
+        {
+          "character": "Fruit",
+          "elaeagnifolium": "green striped immature, yellow/orange mature",
+          "dimidiatum": "exposed round yellow mature berry",
+          "rostratum": "berry enclosed in densely spiny enlarged calyx"
+        },
+        {
+          "character": "Current photo lesson",
+          "elaeagnifolium": "3 real photo files, habit/flower/immature fruit",
+          "dimidiatum": "2 real sources plus annotated look-alike panels; Vince Hale CC0 fruit",
+          "rostratum": "3 real photos, 9 owner-approved arrows"
+        }
+      ],
+      "caution": "Prickle density varies. Do not claim single-anther pores or individual stellate hairs are visible in whole-plant photographs."
+    },
+    {
+      "title": "Scrambling red berries: Texas nightshade vs Bittersweet",
+      "look_here_first": "Texas: sharply TRIANGULAR/HASTATE leaves, narrow angled stems, usually WHITE flowers with FREE yellow anthers in small clusters. Bittersweet: usually PURPLE strongly REFLEXED petals, CONNIVENT yellow anther cone, larger branching flower clusters. Both can have RED berries; occasional WHITE bittersweet makes flower color alone unreliable.",
+      "field_matrix": [
+        {
+          "character": "Leaves and shoots",
+          "triquetrum": "sharply triangular/hastate leaves; angled unarmed stems",
+          "dulcamara": "ovate/heart-shaped, variable basal lobes; scrambling woody-based vine"
+        },
+        {
+          "character": "Flower",
+          "triquetrum": "usually white, distinctly separated anthers, often 3–6 flowers",
+          "dulcamara": "usually purple swept-back (rare white), crowded anther cone, often 7–40 branched flowers"
+        },
+        {
+          "character": "Fruit stage",
+          "triquetrum": "red fruit described; separate exact ripe-fruit photo missing",
+          "dulcamara": "RIPE red berries, green-purple calyces and pedicels photographed"
+        },
+        {
+          "character": "Photo checks",
+          "triquetrum": "2 licensed Joey Santore views; six owner-approved arrows",
+          "dulcamara": "2 CC0 photos; seven owner-approved arrows"
+        }
+      ],
+      "caution": "A single red berry cannot split the pair. Joey CC BY-NC photos are noncommercial educational only; historical UT triquetrum specimen is excluded from public images."
+    },
+    {
+      "title": "SHORT anthers: American black vs Eastern black nightshade",
+      "look_here_first": "Both unarmed, with small WHITE flowers and SHORT yellow anthers. Compare mature green fruiting CALYX: American has little lobes sharply REFLEXED backward, eastern has lobes APPRESSED/spreading on the berry. Eastern ripe fruit commonly detaches WITH its stalk; American leaves the stalk behind.",
+      "field_matrix": [
+        {
+          "character": "Flower",
+          "americanum": "short plump anthers; comparatively shorter filaments",
+          "emulans": "short anthers, longer free filaments"
+        },
+        {
+          "character": "Ripe calyx",
+          "americanum": "sharply BACK from ripe glossy black berry",
+          "emulans": "CLOSE/spreading; Figure 16D shows developing GREEN berries only"
+        },
+        {
+          "character": "Fruit stalk",
+          "americanum": "often remains on cluster after mature berry falls",
+          "emulans": "often falls with the mature fruit"
+        },
+        {
+          "character": "Photography",
+          "americanum": "species gallery has flower and fruit diagnostic panels",
+          "emulans": "six genuine views; green calyx verified; fully ripe berry macro still needed"
+        }
+      ],
+      "caution": "Do not use immature fruit alone to assign S. emulans; flower and fully mature fruit features are needed for high-confidence field IDs."
+    },
+    {
+      "title": "LONGER anthers: Divine vs Plains vs European black nightshade",
+      "look_here_first": "Flowers overlap. Look for the UNEVEN flowering cluster and long rounded-tipped green calyx of plains black nightshade, more regular flowering and ripe calyx of divine, or thicker stalks and fruit stone-cell features of introduced European black nightshade. Combine several independent traits.",
+      "field_matrix": [
+        {
+          "character": "Flowers",
+          "nigrescens": "anthers longer than americanum/emulans; typical small clusters",
+          "interius": "anthers overlap nigrescens; striking UNEVEN cluster",
+          "nigrum": "~2–2.5 mm anthers; relatively thick stalks"
+        },
+        {
+          "character": "Fruit and calyx",
+          "nigrescens": "dark ripe berry with green 5-lobed calyx against base (photo installed)",
+          "interius": "larger black berries, LONG roughly rectangular ROUND-TIPPED calyx lobes (Fig. 22)",
+          "nigrum": "dark or sometimes greenish mature berry; thick pedicels"
+        },
+        {
+          "character": "Seeds/stone cells",
+          "nigrescens": "smaller seeds, often >6 hard granules",
+          "interius": "larger seeds, about 2–4 hard granules",
+          "nigrum": "North American populations typically lack hard granules; this cannot be proven from an intact fruit photo"
+        },
+        {
+          "character": "Local status",
+          "nigrescens": "county range provisional",
+          "interius": "primarily Great Plains; Hays occurrence unresolved",
+          "nigrum": "introduced, comparison-only"
+        }
+      ],
+      "caution": "Anther measurements overlap. Fruit dissection and provenance may be necessary; none of this confirms Hays native status."
+    }
+  ],
+  "visual_comparison": {
+    "title": "Solanum — 11 species, compare real structures",
+    "subtitle": "11 exact-species licensed JPEGs installed in canonical cards, one representative each. Genus cards reuse only anatomically approved matching photo arrows; open species cards for additional views. Texas nightshade Joey source is NONCOMMERCIAL CC BY-NC.",
+    "memory_rule": "ARMATURE → LEAF → ANTHERS / CLUSTER → FRUITING CALYX. Red/black berry or purple/white flower color NEVER decides the species alone.",
+    "items": [
+      {
+        "species_id": "solanum-rostratum",
+        "scientific_name": "Solanum rostratum",
+        "label": "Buffalobur · ONE long curved anther",
+        "image_url": "content/taxa/Solanaceae/Solanum/solanum-rostratum/images/02-flower-anther.jpg",
+        "image_fit": "contain",
+        "image_role": "Yellow flower close-up showing strongly unequal anthers and long curved lower anther",
+        "caption": "Four short anthers, ONE long curved anther. Yellow flower, prickly calyx. Photo: Dcrjsr; CC BY 4.0. Source and adaptations credited on species card.",
+        "creator": "Dcrjsr",
+        "license": "CC BY 4.0",
+        "license_url": "",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Buffalo_berry_Solanum_rostratum_flower_close.jpg",
+        "markers": [
+          {
+            "label": "4 short anthers",
+            "label_x": 4,
+            "label_y": 9,
+            "target_x": 63,
+            "target_y": 44
+          },
+          {
+            "label": "Long curved anther",
+            "label_x": 60,
+            "label_y": 83,
+            "target_x": 80,
+            "target_y": 60
+          },
+          {
+            "label": "Spiny calyx on bud",
+            "label_x": 2,
+            "label_y": 81,
+            "target_x": 32,
+            "target_y": 35
+          }
+        ],
+        "annotation_status": "Reuse of OWNER-APPROVED annotations from identical canonical species JPEG"
+      },
+      {
+        "species_id": "solanum-elaeagnifolium",
+        "scientific_name": "Solanum elaeagnifolium",
+        "label": "Silverleaf · narrow silvery foliage",
+        "image_url": "content/taxa/Solanaceae/Solanum/solanum-elaeagnifolium/images/01-habit.jpg",
+        "image_fit": "contain",
+        "image_role": "Whole-plant habit with silvery narrow foliage",
+        "caption": "Narrow SILVERY leaf surface; stellate hair rays require magnification. Photo: Alex Abair; CC BY 4.0. Source and adaptations credited on species card.",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "license_url": "",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Solanum_elaeagnifolium_25040800.jpg",
+        "markers": [],
+        "annotation_status": "Genuine documented source JPEG; new genus arrows not inferred."
+      },
+      {
+        "species_id": "solanum-dimidiatum",
+        "scientific_name": "Solanum dimidiatum",
+        "label": "Western horsenettle · fruit",
+        "image_url": "content/taxa/Solanaceae/Solanum/solanum-dimidiatum/images/gbif-manual-6131302561-7c4477abf.jpg",
+        "image_fit": "contain",
+        "image_role": "Additional distinct image candidate; target structures not yet visually verified",
+        "caption": "True Vince Hale fruit photo; compare broader greener foliage in separate views. Photo: Vince Hale; CC0 1.0. Source and adaptations credited on species card.",
+        "creator": "Vince Hale",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source_page": "https://www.gbif.org/occurrence/6131302561",
+        "markers": [],
+        "annotation_status": "Genuine documented source JPEG; new genus arrows not inferred."
+      },
+      {
+        "species_id": "solanum-triquetrum",
+        "scientific_name": "Solanum triquetrum",
+        "label": "Texas nightshade · FREE yellow anthers",
+        "image_url": "content/taxa/Solanaceae/Solanum/solanum-triquetrum/images/joey-inat-485889815.jpg",
+        "image_fit": "contain",
+        "image_role": "White star-shaped flowers with separate yellow anthers, unopened buds, and sharply pointed basal leaf lobes",
+        "caption": "White star flower and individually visible yellow anthers; ripe fruit photo still missing. Photo: Joey Santore; CC BY-NC 4.0. Noncommercial educational display ONLY; Source and adaptations credited on species card.",
+        "creator": "Joey Santore",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/485889815",
+        "markers": [
+          {
+            "label": "WHITE corolla lobe",
+            "label_x": 1,
+            "label_y": 18,
+            "target_x": 45,
+            "target_y": 50
+          },
+          {
+            "label": "Separate YELLOW anthers",
+            "label_x": 69,
+            "label_y": 16,
+            "target_x": 47,
+            "target_y": 41
+          },
+          {
+            "label": "Closed flower BUD",
+            "label_x": 72,
+            "label_y": 84,
+            "target_x": 52,
+            "target_y": 59
+          }
+        ],
+        "annotation_status": "Reuse of OWNER-APPROVED annotations from identical canonical species JPEG"
+      },
+      {
+        "species_id": "solanum-dulcamara",
+        "scientific_name": "Solanum dulcamara",
+        "label": "Bittersweet · RED ripe berries",
+        "image_url": "content/taxa/Solanaceae/Solanum/solanum-dulcamara/images/gbif-manual-5938120478-afc591fbf.jpg",
+        "image_fit": "contain",
+        "image_role": "Ripe bright-red berries, dark five-lobed calyces, fruiting pedicels and basal-lobed leaves",
+        "caption": "Ripe red berries with calyx and pedicels; berry color alone does not split Texas nightshade. Photo: Piermario Maculan; CC0 1.0. Source and adaptations credited on species card.",
+        "creator": "Piermario Maculan",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source_page": "https://www.gbif.org/occurrence/5938120478",
+        "markers": [
+          {
+            "label": "RIPE red BERRY",
+            "label_x": 58,
+            "label_y": 91,
+            "target_x": 55,
+            "target_y": 79
+          },
+          {
+            "label": "Green-purple CALYX",
+            "label_x": 2,
+            "label_y": 73,
+            "target_x": 61,
+            "target_y": 73
+          },
+          {
+            "label": "Fruit PEDICEL",
+            "label_x": 3,
+            "label_y": 90,
+            "target_x": 52,
+            "target_y": 70
+          },
+          {
+            "label": "Basal-lobed LEAF",
+            "label_x": 63,
+            "label_y": 26,
+            "target_x": 38,
+            "target_y": 37
+          }
+        ],
+        "annotation_status": "Reuse of OWNER-APPROVED annotations from identical canonical species JPEG"
+      },
+      {
+        "species_id": "solanum-americanum",
+        "scientific_name": "Solanum americanum",
+        "label": "American black · unarmed habit",
+        "image_url": "content/taxa/Solanaceae/Solanum/solanum-americanum/images/solanum-americanum-provisional-face.jpg",
+        "image_fit": "contain",
+        "image_role": "Leaves, flowers, and green fruit recognizable face",
+        "caption": "Unarmed green plant; anther and ripe reflexed calyx require its species macros. Photo: Eurico Zimbres; CC BY-SA 3.0. Source and adaptations credited on species card.",
+        "creator": "Eurico Zimbres",
+        "license": "CC BY-SA 3.0",
+        "license_url": "",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Solanum_americanum.jpg",
+        "markers": [
+          {
+            "label": "Simple green leaf",
+            "label_x": 2,
+            "label_y": 20,
+            "target_x": 18,
+            "target_y": 38
+          },
+          {
+            "label": "GREEN young berries",
+            "label_x": 63,
+            "label_y": 20,
+            "target_x": 47,
+            "target_y": 30
+          }
+        ],
+        "annotation_status": "Reuse of OWNER-APPROVED annotations from identical canonical species JPEG"
+      },
+      {
+        "species_id": "solanum-emulans",
+        "scientific_name": "Solanum emulans",
+        "label": "Eastern black · GREEN calyx",
+        "image_url": "content/taxa/Solanaceae/Solanum/solanum-emulans/images/06-developing-green-fruit-calyx-figure16d.jpg",
+        "image_fit": "contain",
+        "image_role": "Key diagnostic: GREEN DEVELOPING berries with green calyx lobes appressed/spreading across fruit and attached fruit stalks",
+        "caption": "Verified DEVELOPING green berries with APPRESSED/spreading calyces; not ripe-black fruit. Photo: Michael Nee (photograph); Knapp et al. (2019, Figure 16 layout); CC BY 4.0. Source and adaptations credited on species card.",
+        "creator": "Michael Nee (photograph); Knapp et al. (2019, Figure 16 layout)",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://phytokeys.pensoft.net/article/31738/element/2/116/",
+        "markers": [
+          {
+            "label": "Calyx lobes on upper fruit",
+            "label_x": 50,
+            "label_y": 4,
+            "target_x": 81,
+            "target_y": 27
+          },
+          {
+            "label": "CALYX against green berry",
+            "label_x": 52,
+            "label_y": 93,
+            "target_x": 78,
+            "target_y": 79
+          },
+          {
+            "label": "GREEN immature berry",
+            "label_x": 2,
+            "label_y": 78,
+            "target_x": 61,
+            "target_y": 63
+          },
+          {
+            "label": "Cluster stalk (peduncle)",
+            "label_x": 3,
+            "label_y": 24,
+            "target_x": 44,
+            "target_y": 48
+          }
+        ],
+        "annotation_status": "Reuse of OWNER-APPROVED annotations from identical canonical species JPEG"
+      },
+      {
+        "species_id": "solanum-nigrescens",
+        "scientific_name": "Solanum nigrescens",
+        "label": "Divine · mature berry/calyx",
+        "image_url": "content/taxa/Solanaceae/Solanum/solanum-nigrescens/images/06-single-fruit-calyx-fig03c.jpg",
+        "image_fit": "contain",
+        "image_role": "Ripe black berry, sharply defined five-pointed green fruiting calyx and original 3 mm scale",
+        "caption": "Ripe dark berry with close green calyx lobes and source scale. Not Hays provenance. Photo: Jorge Manuel Valdez-Carrasco; CC BY 4.0. Source and adaptations credited on species card.",
+        "creator": "Jorge Manuel Valdez-Carrasco",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://www.mdpi.com/2223-7747/12/8/1645",
+        "markers": [],
+        "annotation_status": "Genuine documented source JPEG; new genus arrows not inferred."
+      },
+      {
+        "species_id": "solanum-interius",
+        "scientific_name": "Solanum interius",
+        "label": "Plains black · mature berries",
+        "image_url": "content/taxa/Solanaceae/Solanum/solanum-interius/images/04-ripe-black-fruit-figure22d.jpg",
+        "image_fit": "contain",
+        "image_role": "MATURE shiny black berries, exposed green calyx lobes and attached fruit pedicels",
+        "caption": "Real ripe dark fruit; compare UNEVEN cluster and LONG rounded green calyx in other panel. Photo: Tiina Särkinen; CC BY 4.0. Source and adaptations credited on species card.",
+        "creator": "Tiina Särkinen",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://phytokeys.pensoft.net/article/31738/element/2/122/",
+        "markers": [
+          {
+            "label": "RIPE black berry",
+            "label_x": 68,
+            "label_y": 84,
+            "target_x": 88,
+            "target_y": 52
+          },
+          {
+            "label": "Green fruit CALYX",
+            "label_x": 3,
+            "label_y": 81,
+            "target_x": 60,
+            "target_y": 61
+          },
+          {
+            "label": "Curving fruit pedicel",
+            "label_x": 63,
+            "label_y": 6,
+            "target_x": 74,
+            "target_y": 43
+          }
+        ],
+        "annotation_status": "Reuse of OWNER-APPROVED annotations from identical canonical species JPEG"
+      },
+      {
+        "species_id": "solanum-nigrum",
+        "scientific_name": "Solanum nigrum",
+        "label": "European black · flower",
+        "image_url": "content/taxa/Solanaceae/Solanum/solanum-nigrum/images/02-white-flower-yellow-anthers.jpg",
+        "image_fit": "contain",
+        "image_role": "Close flower view: white five-lobed corolla, yellow anthers and hairy pedicel",
+        "caption": "Introduced species with longer anthers and relatively thick stalks. Stone cells NOT seen here. Photo: Calimo; CC BY-SA 3.0. Source and adaptations credited on species card.",
+        "creator": "Calimo",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Solanum_nigrum_flower_close-up.jpg",
+        "markers": [],
+        "annotation_status": "Genuine documented source JPEG; new genus arrows not inferred."
+      },
+      {
+        "species_id": "solanum-lycopersicum",
+        "scientific_name": "Solanum lycopersicum",
+        "label": "Tomato · cultivated berry/calyx",
+        "image_url": "content/taxa/Solanaceae/Solanum/solanum-lycopersicum/images/solanum-lycopersicum-provisional-face.jpg",
+        "image_fit": "contain",
+        "image_role": "Fruiting plant / recognizable fruit face",
+        "caption": "Familiar cultivated berry and calyx, not a Hays native occurrence. Photo: Emőke Dénes; CC BY-SA 4.0. Source and adaptations credited on species card.",
+        "creator": "Emőke Dénes",
+        "license": "CC BY-SA 4.0",
+        "license_url": "",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Solanales_-_Solanum_lycopersicum_-_40.jpg",
+        "markers": [],
+        "annotation_status": "Genuine documented source JPEG; new genus arrows not inferred."
+      }
+    ],
+    "photo_count_installed": 11,
+    "photo_count_external": 0,
+    "part_examples": [
+      {
+        "title": "1 · Flower: COROLLA and yellow anthers",
+        "role": "corolla and anther cluster",
+        "anchor_species_id": "solanum-elaeagnifolium",
+        "image_file": "images/02-flowers-anthers.jpg",
+        "look_for": "Violet star-shaped fused COROLLA surrounding five clustered yellow anthers. Terminal pores too small to verify here.",
+        "why_it_matters": "Shared Solanum flower structure is more dependable than its color."
+      },
+      {
+        "title": "2 · HETERANTHERY: buffalobur",
+        "role": "unequal anther lengths",
+        "anchor_species_id": "solanum-rostratum",
+        "image_file": "images/02-flower-anther.jpg",
+        "look_for": "ONE conspicuous long curved anther and FOUR shorter ones in a yellow flower.",
+        "why_it_matters": "An excellent species-level clue; original arrows approved by owner."
+      },
+      {
+        "title": "3 · CALYX becomes spiny bur",
+        "role": "expanded spiny calyx covering berry",
+        "anchor_species_id": "solanum-rostratum",
+        "image_file": "images/03-prickly-fruit-stem.jpg",
+        "look_for": "Prickly enlarged sepals wrap the hidden fruit; the entire prickly structure is not itself one seed.",
+        "why_it_matters": "Prickly calyx versus exposed berry is a major fruiting distinction."
+      },
+      {
+        "title": "4 · Silver leaf HABIT",
+        "role": "silver narrow leaves",
+        "anchor_species_id": "solanum-elaeagnifolium",
+        "image_file": "images/01-habit.jpg",
+        "look_for": "Narrow silvery blades due to dense tiny hairs, not visible individually at this image scale.",
+        "why_it_matters": "Separates silverleaf from broad greener western horsenettle."
+      },
+      {
+        "title": "5 · Developing calyx APPRESSED",
+        "role": "fruiting calyx on developing berries",
+        "anchor_species_id": "solanum-emulans",
+        "image_file": "images/06-developing-green-fruit-calyx-figure16d.jpg",
+        "look_for": "Actual GREEN developing berry and spreading/appressed lobes. This is NOT a mature black fruit photo.",
+        "why_it_matters": "Illustrates a key contrast to S. americanum's strongly reflexed ripe calyx."
+      },
+      {
+        "title": "6 · Dark ripe BERRY and its calyx",
+        "role": "ripe fruit / calyx",
+        "anchor_species_id": "solanum-nigrescens",
+        "image_file": "images/06-single-fruit-calyx-fig03c.jpg",
+        "look_for": "Real ripe dark berry with five green calyx lobes close against the berry and source scale bar.",
+        "why_it_matters": "Use ripeness and calyx orientation together, then check anthers."
+      },
+      {
+        "title": "7 · REFLEXED purple flower",
+        "role": "scrambling bittersweet flower",
+        "anchor_species_id": "solanum-dulcamara",
+        "image_file": "images/solanum-dulcamara-provisional-face.jpg",
+        "look_for": "Strongly swept-back violet petals and compact yellow CONNIVENT anthers. Some bittersweet flowers can be WHITE.",
+        "why_it_matters": "Compare the anthers, not flower color alone."
+      },
+      {
+        "title": "8 · Texas nightshade WHITE flower",
+        "role": "distinct yellow anthers",
+        "anchor_species_id": "solanum-triquetrum",
+        "image_file": "images/joey-inat-485889815.jpg",
+        "look_for": "Small WHITE flower with more separately visible yellow anthers. Joey Santore CC BY-NC 4.0: NONCOMMERCIAL learner use ONLY.",
+        "why_it_matters": "One safe, verified view of the contrasting red-berried scrambler."
+      },
+      {
+        "title": "9 · RED fruit with dark calyx",
+        "role": "mature red berry",
+        "anchor_species_id": "solanum-dulcamara",
+        "image_file": "images/gbif-manual-5938120478-afc591fbf.jpg",
+        "look_for": "Actual RIPE red bittersweet berries and dark calyx/stalks. Texas nightshade can ALSO make red fruit.",
+        "why_it_matters": "The red color does not prove bittersweet identity."
+      }
+    ],
+    "annotation_policy": "11 licensed, real, previously installed species photographs; only owner-approved arrow targets copied from identical species-photo panels. CC BY-NC Joey content strictly noncommercial. UT specimen with unknown reuse rights EXCLUDED."
+  },
+  "photo_diagnostic_requirements": [
+    {
+      "priority": 1,
+      "pair": "S. americanum vs S. emulans",
+      "features": [
+        "American ripe calyx strongly reflexed vs eastern appressed/spreading; the current eastern photo shows GREEN developing berries.",
+        "True 1 mm scale flower and free filament comparison.",
+        "Examine whether ripe berry detaches with its own pedicel."
+      ],
+      "status": "Both species illustrated, eastern mature black fruit and measured anthers still missing."
+    },
+    {
+      "priority": 1,
+      "pair": "S. nigrescens vs S. interius vs S. nigrum",
+      "features": [
+        "Plains: UNEVEN cluster, long rounded calyx and larger black berries.",
+        "Divine: long anthers and documented ripe dark berry with close green calyx.",
+        "European: introduced; thicker stalks and fruit typically lacking stone cells in North American material, which cannot be read externally."
+      ],
+      "status": "Exact photos available for all; interius 11 owner-approved arrows, European black six arrows awaiting phone review."
+    },
+    {
+      "priority": 1,
+      "pair": "S. triquetrum vs S. dulcamara",
+      "features": [
+        "Texas: sharp triangular leaves, usually white flower with separate yellow anthers; six arrows user approved.",
+        "Bittersweet: purple reflexed corolla, crowded yellow anthers and real ripe red berries; seven arrows user approved.",
+        "Need exact Texas nightshade ripe red fruit and whole bittersweet 7–40-flower cluster."
+      ],
+      "status": "Both field-ID lessons user approved for visible anatomy, missing specialized photo roles retained."
+    },
+    {
+      "priority": 2,
+      "pair": "S. dimidiatum vs S. elaeagnifolium",
+      "features": [
+        "Western broad green leaves and yellow fruit vs silverleaf's narrow silvery leaves and green-striped juvenile fruit.",
+        "Real Western Vince Hale fruit photo exists; do not keep obsolete zero-fruit claim.",
+        "Same-scale leaf surface hair and mature fruit progression remain upgrades."
+      ],
+      "status": "Both species cards enriched; diagnostic micro and additional mature plant views remain."
+    },
+    {
+      "priority": 2,
+      "pair": "S. rostratum heteranthery",
+      "features": [
+        "Four small anthers and one much longer curved anther photographed and approved.",
+        "True prickly enlarged calyx pictured.",
+        "Terminal pore under true microscope remains optional."
+      ],
+      "status": "Core habit/anther/bur lessons user-approved; advanced pore imaging optional."
+    }
+  ],
+  "scientific_sources": [
+    {
+      "title": "Flora of North America — Solanum genus key",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=130618"
+    },
+    {
+      "title": "Flora of North America — Solanum americanum",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=200020575"
+    },
+    {
+      "title": "Flora of North America — Solanum rostratum",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242414375"
+    },
+    {
+      "title": "Flora of North America — Solanum elaeagnifolium",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242417275"
+    },
+    {
+      "title": "Flora of North America — Solanum triquetrum",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250131516"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-seven-solanum-real-photo-genus-20261013",
+    "last_reviewed": "2026-10-20",
+    "canonical_species_count": 11,
+    "physically_present_species_media": 37,
+    "genus_installed_public_safe_photo_panels": 11,
+    "licensed_external_reference_panels": 0,
+    "public_reuse_rights_hold": [
+      "Solanum triquetrum historical UT herbarium image (unverified reuse rights, excluded)"
+    ],
+    "photo_status": "11 exact, previously physically installed, appropriately licensed genus-panel JPEG references, one per species. Existing verified arrows reused on owner-approved sources only.",
+    "status": "GENUS_FIELD_READY_PHOTO_GAPS — 11-species quick key and 4 revised side-by-side comparisons; specialist photography and county range reviews remain deferred.",
+    "science_status": "preserve original species native zone and taxonomy decisions unchanged",
+    "part_gallery_count": 9,
+    "part_gallery_photos": 9,
+    "part_gallery_missing": 0,
+    "solanum_triquetrum_field_enrichment": "FIELD_READY_PHOTO_GAPS — source-verified 2 Joey CC BY-NC photos, six photo arrows, bittersweet CC0 comparison; native-range status held.",
+    "solanum_dulcamara_field_enrichment": "FIELD_READY_PHOTO_GAPS, 2 verified CC0 source photos, 7 arrow markers, mature ripe fruit diagnostic photo present, separate S. triquetrum comparison; mobile arrow check pending.",
+    "genus_closeout": "2026-10-20 11/11 taxa represented in quick key and licensed photo gallery; 4 functional compare lessons; 9 concrete anatomy study views; no native/county adjudication."
+  }
+}

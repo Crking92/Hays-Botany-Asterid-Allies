@@ -1,0 +1,117 @@
+{
+  "id": "triodanis-perfoliata",
+  "entry_type": "species",
+  "family": "Campanulaceae",
+  "genus": "Triodanis",
+  "species": "perfoliata",
+  "scientific_name": "Triodanis perfoliata",
+  "common_name": "Clasping Venus's looking-glass",
+  "synonyms": [
+    "Specularia perfoliata"
+  ],
+  "look_here_first": "Find upper leaves with broad heartlike bases CLASPING the stem. Individual purple five-lobed flowers occur at leaf axils above an inferior green ovary; tiny selfing closed flowers may occur below. In the typical clasping concept, check a ripe capsule for a seed-release WINDOW around the middle. Never assign a subspecies from flower color alone.",
+  "morphology_keys": {
+    "habit": "Small spring annual herb with upright leafy stems.",
+    "leaves": "Simple alternate leaves, broad upper blades often strongly clasping at leaf base.",
+    "flower": "Individual purple five-lobed fused corolla, with five free stamens above an inferior ovary; upper flowers can be open, lower flowers can be closed and self-pollinating.",
+    "fruit": "Many-seeded inferior capsule with side pores; position of openings can separate subspecies, but only with a mature side view."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Triodanis perfoliata subsp. biflora",
+      "Triodanis coloradoensis",
+      "Triodanis leptocarpa",
+      "Triodanis texana",
+      "Lobelia spp."
+    ],
+    "key_distinctions": "Use leaf clasping and mature capsule side-window position; flower color alone cannot separate."
+  },
+  "images": [
+    {
+      "file": "images/perfoliata-wild-stem.jpg",
+      "role": "Whole flowering stem and alternate clasping leaves; exact perfoliata reference",
+      "creator": "Mason Brock (Masebrock)",
+      "license": "Public domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Triodanis_perfoliata_Tennessee.jpg",
+      "study_use": "yes",
+      "public_reuse": "public_domain"
+    },
+    {
+      "file": "images/perfoliata-flower.jpg",
+      "role": "Open five-lobed purple flower and leaf base on stem; Maryland reference",
+      "creator": "Fritzflohrreynolds",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Triodanis_perfoliata_-_Venus'_Looking_Glass_2.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa"
+    },
+    {
+      "file": "images/joey-inat-186093312.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/186093312",
+      "observation_url": "https://www.inaturalist.org/observations/110327074",
+      "observation_id": "110327074",
+      "photo_id": "186093312",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/186093312/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "project_inclusion": {
+    "learner_admission_status": "USER_APPROVED",
+    "source_pool_row": 1209,
+    "target_zone_status": "UNRESOLVED",
+    "native_metrics_excluded": true,
+    "range_basis": "Statewide native designation and Hays Local observation cannot substitute for 3 independently verified target counties."
+  },
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "learner_role": "RANGE_UNRESOLVED",
+  "diagnostic_image_needs": [
+    {
+      "role": "Actual capsule pore with calibrated scale",
+      "status": "NEEDS_PHOTO"
+    },
+    {
+      "role": "Matched leaf attachment with subsp. biflora",
+      "status": "NEEDS_MATCHED_PHOTO"
+    },
+    {
+      "role": "Individual flower from side showing inferior ovary",
+      "status": "NEEDS_MACRO"
+    }
+  ],
+  "scientific_sources": [
+    {
+      "url": "https://www.inaturalist.org/posts/51636-triodanis-quick-tips"
+    },
+    {
+      "url": "https://namethatplant.net/PDFs/PhytoN-Campanuloideae_Morin_2020.pdf"
+    }
+  ],
+  "curation_status": {
+    "source_pool_approved": true,
+    "user_approved": true,
+    "taxonomy_reviewed": true,
+    "range_reviewed": false,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "provisional": true,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "photo_note": "Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending."
+}

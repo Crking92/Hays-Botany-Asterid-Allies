@@ -1,0 +1,367 @@
+{
+  "id": "dichondra-recurvata",
+  "family": "Convolvulaceae",
+  "genus": "Dichondra",
+  "species": "recurvata",
+  "scientific_name": "Dichondra recurvata",
+  "common_name": "Oakwoods ponyfoot",
+  "look_here_first": "LOOK BELOW THE LEAVES: a prostrate rooting mat of alternate, entire, kidney-shaped leaves on thin petioles. Look for tawny silky hairs (especially underneath). Find a tiny PALE, 5-lobed flower and trace its VERY SHORT flower/fruit stalk: the upper end hooks sharply DOWNWARD (recurved), not just a drooping leaf stalk. At maturity compare fruit (3–4 mm) with its persistent five sepals (~2.9–3.8 mm). Larger leaves alone are NOT enough to separate this species from Carolina ponyfoot.",
+  "curation_status": {
+    "taxonomy_reviewed": true,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 7,
+    "photo_files_present": 7,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "field_id_text_reviewed": "2026-10-19",
+    "finished_field_id_pass": "PASS_IN_PROGRESS",
+    "required_to_finish": [
+      "Independent macro verifying complete stalk attachment and mature downward-hooking pedicel (existing photo candidate shows hooked organ but entire origin hidden)",
+      "Caliper or millimeter-scale mature sepals vs capsule side view, matched with D. carolinensis",
+      "Optional verified underside tawny sericeous hair macro",
+      "Old original Chuck Sexton CC BY-NC photo remains restricted for public display when rights filter excludes NC"
+    ],
+    "curated_new_photo_install": "2026-10-19",
+    "annotated_gallery_anatomy_review": "2026-10-19 the two arrow-annotated images opened and corrected flower arrow to real cream corolla lobe. Curved organ candidate viewed but not certified as entire hooked pedicel."
+  },
+  "photo_note": "Curated six exact-species iNaturalist research-grade photos whose individual photo license_code is cc-by, 2026-10-19. Existing Chuck Sexton image unchanged. This is a field-photo lesson, not independent species-voucher certification. Critical true hooked pedicel and mature calyx/fruit measurement photograph still missing. The arrow on flower reference 32243425 was corrected after full installed-file visual readback. Photograph 32243417 may show a hooked green pedicel but its attachment remains hidden; pedagogical caution preserved.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/79462-2",
+  "images": [
+    {
+      "file": "images/inat-7297738.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Chuck Sexton, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/7297738",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    },
+    {
+      "file": "images/research-mat-habit.jpg",
+      "role": "Recognize it · rooted low patch of Dichondra in thin grassy / disturbed soil with leafy runners; source research-grade observation.",
+      "creator": "(c) Sam Kieschnick, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_version_note": "iNaturalist photo-specific API license_code cc-by verified; version not individually rechecked on rendered iNaturalist photo page.",
+      "source_platform": "iNaturalist exact-species research-grade observation",
+      "source_page": "https://www.inaturalist.org/photos/503385966",
+      "source_observation_page": "https://www.inaturalist.org/observations/280287068",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/503385966/original.jpg",
+      "source_photo_id": "503385966",
+      "image_dimensions": [
+        1087,
+        1450
+      ],
+      "original_sha256": "2609fa47fda0c8fce74d365acfae198ec00bb9f58a8c893d19a91a5e5f54f35a",
+      "study_use": "Attributed educational use with CC BY permission",
+      "public_reuse": "Creative Commons Attribution: author and changes notice; check photo-specific license source on reuse",
+      "modifications": "Resized/reencoded JPEG, source EXIF removed; no arrows",
+      "anatomy_arrows": "none",
+      "photo_review": "Verified photo-level CC BY and research-grade taxon on individual iNaturalist observation; source image visible in contact sheet. Species identity remains iNaturalist research-grade, not independently verified from a complete voucher. DO NOT claim hooked pedicel."
+    },
+    {
+      "file": "images/research-leaf-notched.jpg",
+      "role": "Look closer · broad kidney-shaped green leaf with basal notch and entire margin, beside a hand for scale; full petiole attachment not established.",
+      "creator": "(c) Sam Kieschnick, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_version_note": "iNaturalist photo-specific API license_code cc-by verified; version not individually rechecked on rendered iNaturalist photo page.",
+      "source_platform": "iNaturalist exact-species research-grade observation",
+      "source_page": "https://www.inaturalist.org/photos/39569588",
+      "source_observation_page": "https://www.inaturalist.org/observations/25539162",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/39569588/original.jpeg",
+      "source_photo_id": "39569588",
+      "image_dimensions": [
+        1450,
+        1088
+      ],
+      "original_sha256": "cef3c449276dea5ec0b6e1ee0b0faea7325afcf6703c3c2579588da075bad760",
+      "study_use": "Attributed educational use with CC BY permission",
+      "public_reuse": "Creative Commons Attribution: author and changes notice; check photo-specific license source on reuse",
+      "modifications": "Resized/reencoded JPEG, source EXIF removed; one visible anatomical arrow added",
+      "anatomy_arrows": "Provisional manually chosen visible leaf arrow; check original committed JPEG for precise pointer",
+      "photo_review": "Verified photo-level CC BY and research-grade taxon on individual iNaturalist observation; source image visible in contact sheet. Species identity remains iNaturalist research-grade, not independently verified from a complete voucher. DO NOT claim hooked pedicel."
+    },
+    {
+      "file": "images/research-five-lobed-flower.jpg",
+      "role": "Look closer · tiny pale five-lobed cup flower with verified arrow ending on a cream corolla lobe, not on surrounding dry stems. Flower is visible; microscopic pedicel not resolved.",
+      "creator": "(c) Alison Northup, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_version_note": "iNaturalist photo-specific API license_code cc-by verified; version not individually rechecked on rendered iNaturalist photo page.",
+      "source_platform": "iNaturalist exact-species research-grade observation",
+      "source_page": "https://www.inaturalist.org/photos/32243425",
+      "source_observation_page": "https://www.inaturalist.org/observations/20895832",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/32243425/original.jpeg",
+      "source_photo_id": "32243425",
+      "image_dimensions": [
+        1450,
+        1088
+      ],
+      "original_sha256": "db6772aa1e86f8d5bef164eefefef1a3367a5428030c8d1694d6c76917c3cb9f",
+      "study_use": "Attributed educational use with CC BY permission",
+      "public_reuse": "Creative Commons Attribution: author and changes notice; check photo-specific license source on reuse",
+      "modifications": "Resized/reencoded JPEG, source EXIF removed; one visible anatomical arrow added",
+      "anatomy_arrows": "Corrected yellow anatomical arrow on pale upper corolla lobe at (.55,.45) after full image inspection; no fruit stalk arrow claimed.",
+      "photo_review": "Verified photo-level CC BY and research-grade taxon on individual iNaturalist observation; source image visible in contact sheet. Species identity remains iNaturalist research-grade, not independently verified from a complete voucher. DO NOT claim hooked pedicel. Corrected original source recreation 2026-10-19 after visually observing arrow landed on dry twig; source SHA256 unchanged.",
+      "arrow_corrected_20261019": true
+    },
+    {
+      "file": "images/research-low-flower-and-petiole.jpg",
+      "role": "Look closer · tiny whitish flower and nearby leaf petiole/runner; flower stalk curvature not resolved.",
+      "creator": "(c) Alison Northup, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_version_note": "iNaturalist photo-specific API license_code cc-by verified; version not individually rechecked on rendered iNaturalist photo page.",
+      "source_platform": "iNaturalist exact-species research-grade observation",
+      "source_page": "https://www.inaturalist.org/photos/32243440",
+      "source_observation_page": "https://www.inaturalist.org/observations/20895832",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/32243440/original.jpeg",
+      "source_photo_id": "32243440",
+      "image_dimensions": [
+        1450,
+        1088
+      ],
+      "original_sha256": "27286dd0534f63c154db43fdf9579c0130da57c87d012e8c1cd9182b60766304",
+      "study_use": "Attributed educational use with CC BY permission",
+      "public_reuse": "Creative Commons Attribution: author and changes notice; check photo-specific license source on reuse",
+      "modifications": "Resized/reencoded JPEG, source EXIF removed; no arrows",
+      "anatomy_arrows": "none",
+      "photo_review": "Verified photo-level CC BY and research-grade taxon on individual iNaturalist observation; source image visible in contact sheet. Species identity remains iNaturalist research-grade, not independently verified from a complete voucher. DO NOT claim hooked pedicel."
+    },
+    {
+      "file": "images/research-hairy-calyx-and-bud.jpg",
+      "role": "Confirm clue · fuzzy small green floral / young fruit structures against fingertip; not proof of mature capsule size or fully recurved stalk.",
+      "creator": "(c) Alison Northup, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_version_note": "iNaturalist photo-specific API license_code cc-by verified; version not individually rechecked on rendered iNaturalist photo page.",
+      "source_platform": "iNaturalist exact-species research-grade observation",
+      "source_page": "https://www.inaturalist.org/photos/32243422",
+      "source_observation_page": "https://www.inaturalist.org/observations/20895832",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/32243422/original.jpeg",
+      "source_photo_id": "32243422",
+      "image_dimensions": [
+        1450,
+        1088
+      ],
+      "original_sha256": "45bfd3bdbba679f276bb43935a13e1515e65dee665682ba9cbebe968fe636a6d",
+      "study_use": "Attributed educational use with CC BY permission",
+      "public_reuse": "Creative Commons Attribution: author and changes notice; check photo-specific license source on reuse",
+      "modifications": "Resized/reencoded JPEG, source EXIF removed; no arrows",
+      "anatomy_arrows": "none",
+      "photo_review": "Verified photo-level CC BY and research-grade taxon on individual iNaturalist observation; source image visible in contact sheet. Species identity remains iNaturalist research-grade, not independently verified from a complete voucher. DO NOT claim hooked pedicel."
+    },
+    {
+      "file": "images/research-flower-under-canopy.jpg",
+      "role": "Look closer · very short downward-hooked green structure is visible near the flowering/fruiting region among leaf litter. Potential recurved pedicel, but the full continuous attachment and true calyx/fruit identity are not independently certain; do not use as standalone diagnostic proof.",
+      "creator": "(c) Alison Northup, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_version_note": "iNaturalist photo-specific API license_code cc-by verified; version not individually rechecked on rendered iNaturalist photo page.",
+      "source_platform": "iNaturalist exact-species research-grade observation",
+      "source_page": "https://www.inaturalist.org/photos/32243417",
+      "source_observation_page": "https://www.inaturalist.org/observations/20895832",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/32243417/original.jpeg",
+      "source_photo_id": "32243417",
+      "image_dimensions": [
+        1087,
+        1450
+      ],
+      "original_sha256": "47766d3941a42589a463785776e06a369dfee290f9bb3096f79e91e59c29dfb1",
+      "study_use": "Attributed educational use with CC BY permission",
+      "public_reuse": "Creative Commons Attribution: author and changes notice; check photo-specific license source on reuse",
+      "modifications": "Resized/reencoded JPEG, source EXIF removed; no arrows",
+      "anatomy_arrows": "none",
+      "photo_review": "Verified photo-level CC BY and research-grade taxon on individual iNaturalist observation; source image visible in contact sheet. Species identity remains iNaturalist research-grade, not independently verified from a complete voucher. DO NOT claim hooked pedicel. Full-size review flagged conspicuous strongly curved organ as possible diagnostic hooked pedicel, pending exact organ tracing."
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "complete_text_seven_gallery_views_pending_hooked_pedicel_macro",
+    "image_count": 7,
+    "filled_at": "2026-10-19",
+    "note": "Seven physical photos: six photo-specific CC BY exact-name iNat research-grade and original CC BY-NC. Cropped leaf and flower anatomy arrows manually inspected and corrected. One photo suggests sharply bent pedicel but complete organ attachment is not proven; 1 mm-scale mature fruit comparison pending."
+  },
+  "common_names": [
+    "Oakwoods ponyfoot",
+    "Plateau ponyfoot",
+    "Gravel ponyfoot",
+    "Tharp ponyfoot"
+  ],
+  "authority": "Tharp & M.C.Johnst.",
+  "entry_type": "species",
+  "taxonomic_note": "Dichondra recurvata Tharp & M.C.Johnst., accepted by Kew POWO/World Flora Online and FNA. FNA reports endemic to Texas; regional published vouchers exist in Hill Country, including Mason and Enchanted Rock. No user-project BONAP county target-zone audit was performed in this finished-pass step. Do not confuse or synonymize it with D. carolinensis, introduced D. micrantha, D. donelliana, or nursery-marketed 'D. repens'.",
+  "morphology_keys": {
+    "best_field_traits": [
+      "Creeping perennial rooting at nodes; dense low mat, leaves held above shallow/subterranean creeping stolons.",
+      "Blades round to kidney-shaped with a conspicuous basal notch, entire/wavy edges, several basal radiating palmate veins; ALTERNATE on runners.",
+      "Stems and lower leaf surfaces conspicuously tawny silky-hairy (sericeous), often more hairy underneath than on upper surface.",
+      "Single tiny pale-green to white cup/funnel flower, five corolla lobes, from an axil; look UNDER leaves, not for showy morning-glory trumpets.",
+      "CRITICAL: the upper end of the short pedicel hooks/recurves downward near the calyx. Photograph the entire attached stalk, not a fallen fruit.",
+      "Five rather broadly rounded, overlapping, persistent sepals (2.9–3.8 mm in fruit per FNA) typically shorter to barely longer than the mature 3–4 mm fruit.",
+      "Fruit a 2-lobed hairy capsule with fragile wall and separating lobes; do NOT confuse the sepals with flower petals."
+    ],
+    "growth_habit": "Perennial, clonal creeping mat in gravelly oak woodland, disturbed sites, lakeshore margins; often only a few centimeters high aboveground. Roots form at nodes; perennial slender stolons commonly shallow or just below soil surface.",
+    "leaf_arrangement": "Alternate, not opposite; one leaf per node along creeping shoot (dense nodes may give a paired appearance).",
+    "leaves": "Rounded/reniform blades with cordate basal notch and entire or subtly wavy margins; palmate veins 5–7 in local Williamson flora. FNA typical 20–30 mm long and 30–40 mm wide, with broad individual ranges; a local UT Williamson account measured smaller material (<5–23 x <10–30 mm). Do not require a rigid cutoff.",
+    "leaf_surface": "Silky tawny hairs on stems, more dense beneath the blade and on margins, sparse on upper leaf face. Inspect with hand lens; leaf hair is supporting, not exclusive, identification.",
+    "petiole": "Long relative to small hidden inflorescences. Flora of North America reports 20–170 mm including long extremes; UT Williamson County flora measured roughly 10–35 mm on local material.",
+    "flowers": "Tiny, solitary to paired axillary flowers; five broad lobes of a fused pale-green or creamy-white funnel/cup corolla, approximately 3.1–4 mm FNA (local measured examples can be smaller). Persistent, five-lobed calyx outside corolla.",
+    "pedicel": "FNA: 5–13 mm, conspicuously recurved near tip. UT Williamson: very short, hooked and downward-pointing, increasing toward fruit, to roughly 12 mm; photograph the full pedicel and whether the curve is immediately below flower.",
+    "sepals": "Five green calyx lobes, densely ciliate/soft hairy and overlapping. FNA: 2.5–3.2 mm at bloom, 2.9–3.8 mm in fruit. Compare length against mature fruit; they are shorter to only slightly longer, unlike Carolina ponyfoot's sepals longer than fruit.",
+    "fruit": "Two-lobed capsule with hairy developing fruit, each lobe one seeded; FNA 3–4 × 2.8–3.3 mm; fruit wall fragile, breaks irregularly, often fruit lobes separate. A mature fruit is a stronger species key than leaf color.",
+    "habitat": "Disturbed gravelly oak woodland and lakeshore edge, often under tree cover. Williamson County population descriptions and published Texas site flora document regional habitat; do not assume all low patches on urban turf are this species.",
+    "flowering": "FNA February–July in Texas. Timing depends on seasonal conditions; fruit stalk persists beyond bloom.",
+    "field_caution": "D. carolinensis and D. micrantha can look similar vegetatively, and D. donelliana also has a recurved stalk. Use a carefully photographed flower or mature fruit, with mm reference, for strict species discrimination."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Dichondra carolinensis",
+      "Dichondra micrantha",
+      "Dichondra donelliana",
+      "Dichondra argentea",
+      "Hydrocotyle umbellata",
+      "Calyptocarpus vialis",
+      "Phyla nodiflora"
+    ],
+    "key_distinctions": "D. carolinensis typically has straight or barely nodding fruit pedicel and sepals longer than fruits; D. recurvata has sharply recurved stalk near tip, larger mean flower/fruit and sepals shorter or barely longer than fruit. D. micrantha also has recurved pedicel but fruiting sepals only 2–2.5 mm and fruits 2–2.6 mm. D. donelliana's typical blade and pale corolla tend smaller despite also recurved pedicel. D. argentea has conspicuously silvery leaves; round dollarweed leaves have centrally attached peltate petioles and scallops. Straggler daisy has opposite toothed leaves and a yellow composite head; frogfruit has opposite leaves with a raised pale button inflorescence.",
+    "field_comparison_matrix": [
+      {
+        "species": "Dichondra recurvata",
+        "leaf": "Kidney blades, often larger; densely tawny-silky below",
+        "flower": "Pale green/white 3.1–4 mm corolla (FNA)",
+        "fruit": "Pedicel sharply recurved; fruit 3–4 mm; sepals 2.9–3.8 mm",
+        "decision": "Look for hooked fruit stalk AND matched mature sepal/fruit dimensions"
+      },
+      {
+        "species": "Dichondra carolinensis",
+        "leaf": "Kidney, generally smaller, often less densely hairy",
+        "flower": "Cream corolla 1.5–3 mm",
+        "fruit": "Usually straight/barely nodding stalk; sepals 3.5–5 mm and longer than fruit",
+        "decision": "Straight stalk + sepals extending clearly past fruit; inspect several fruits"
+      },
+      {
+        "species": "Dichondra micrantha",
+        "leaf": "Often effectively indistinguishable sterile",
+        "flower": "Tiny cream/green corolla",
+        "fruit": "Recurved stalk; sepal 2–2.5 mm, fruit 2–2.6 mm",
+        "decision": "Use millimeter measurements and verified accepted species; introduced in Texas"
+      },
+      {
+        "species": "Dichondra donelliana",
+        "leaf": "Usually 10–15 mm long, 15–25 mm wide, variable",
+        "flower": "2–3 mm",
+        "fruit": "Also recurved; sepals 2.5–3.8 mm",
+        "decision": "Compare overall dimensions and flora key; one curved pedicel does not prove recurvata"
+      },
+      {
+        "species": "Dichondra argentea",
+        "leaf": "Strong silver-gray hair coating",
+        "flower": "Inconspicuous",
+        "fruit": "Dichondra two-lobed",
+        "decision": "Check leaf hair color and source taxonomy"
+      },
+      {
+        "species": "Hydrocotyle umbellata",
+        "leaf": "Round with scalloped margin and often centrally attached petiole",
+        "flower": "Many tiny blossoms in an umbel",
+        "fruit": "Umbellate fruit cluster",
+        "decision": "Trace petiole insertion and leaf edge; do not trust roundness"
+      },
+      {
+        "species": "Calyptocarpus vialis",
+        "leaf": "Opposite and toothed",
+        "flower": "Tiny YELLOW composite daisy head",
+        "fruit": "Awned cypsela",
+        "decision": "Opposite versus alternate; different flower architecture"
+      },
+      {
+        "species": "Phyla nodiflora",
+        "leaf": "Opposite with teeth mostly toward tip",
+        "flower": "Whitish to purplish dense button on bare long stalk",
+        "fruit": "No solitary 5-part ponyfoot flower",
+        "decision": "Look for frogfruit button and paired leaves"
+      }
+    ],
+    "warning": "A low round-leaved mat without flowers/fruits is best called Dichondra sp. until a complete fruiting stalk can be examined. Measured values overlap individual plants and regional treatments."
+  },
+  "ecological_notes": {
+    "habitat": "Texas endemic according to Flora of North America/World Flora Online. Recorded in disturbed gravelly oak woodlands, lakeshores, and central Texas hill-country flora.",
+    "restoration_relevance": "Native low cover can be valued as a component of natural woodland/edge ground layer. Do not confuse nursery-sold 'Dichondra repens' or silver selections with sourced local D. recurvata.",
+    "conservation_caution": "Species occurrence does not imply county-specific verified native status within user's custom BONAP range, and plant-identification only does not justify a purchase/provenance decision.",
+    "lepidoptera_bees": "Do not invent larval host or bee association scores without linked, species-specific datasets."
+  },
+  "family_genus_teaching": {
+    "family": "Convolvulaceae (morning glory family): Dichondra is a low-growing tiny-flowered relative, not a trumpet-flowered climbing Ipomoea. A small 5-lobed COROLLA and five green SEPALS surrounding the fruit anchor family anatomy.",
+    "genus": "Dichondra: alternate reniform petiolate leaves from creeping rooted runners and very small axillary flowers; separate species by complete pedicel curvature, hairy calyx and mature fruit size.",
+    "species": "D. recurvata: recurved/hooked tip of fruiting stalk, dense tawny silky hairs beneath leaf, calyx roughly matches or is shorter than bigger fruit; D. carolinensis generally has straight stalk and longer sepals.",
+    "crew_question": "Can you turn over a leaf to find tawny hairs, uncover a fruit and TRACE THE WHOLE STALK to see its hook, then compare sepals to capsule under a mm ruler?"
+  },
+  "diagnostic_photo_requirements": [
+    {
+      "priority": "existing",
+      "role": "Recognize it: mat and kidney leaves",
+      "status": "One installed source-labeled photo physically verified for visible mat with scale. Strict source taxon not independently voucher-validated.",
+      "needed": "Ruler and several whole leaves with alternate stem attachment"
+    },
+    {
+      "priority": "critical",
+      "role": "Confirm it: hooked flower/fruit stalk",
+      "status": "NEEDS VERIFIED IMAGE",
+      "needed": "Full 5–13 mm pedicel with upper portion sharply curved near calyx, and stem node where it attaches; image must be original exact taxon and licensed"
+    },
+    {
+      "priority": "critical",
+      "role": "Confirm it: sepals and two-lobed fruit",
+      "status": "NEEDS VERIFIED IMAGE",
+      "needed": "Side view of mature hairy two-lobed capsule with all 5 sepals and 1-mm divisions; compare 2.9–3.8 mm sepals to 3–4 mm fruit"
+    },
+    {
+      "priority": "high",
+      "role": "Look closer: tiny 5-lobed flower",
+      "status": "NEEDS VERIFIED IMAGE",
+      "needed": "Flower face + green overlapping sepals; note color and two pale styles if resolvable"
+    },
+    {
+      "priority": "high",
+      "role": "Look closer: tawny hairs below leaves",
+      "status": "NEEDS VERIFIED IMAGE",
+      "needed": "Macro of leaf underside and petiole showing hairs; do not label botanical structures by guess"
+    },
+    {
+      "priority": "comparative",
+      "role": "Carolina versus recurvata paired field lesson",
+      "status": "TEXT REVIEWED, MATCHED PHOTOS PENDING",
+      "needed": "Two mature fruits on complete pedicels at same size, one straight and one recurved; annotate only independently verified photo pixels"
+    }
+  ],
+  "scientific_sources": [
+    {
+      "source": "Flora of North America, D. recurvata",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250131339",
+      "role": "Taxon description and Texas endemic habitat"
+    },
+    {
+      "source": "Flora of North America, genus Dichondra key",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=109913",
+      "role": "Contrast pedicel and sepals against D. carolinensis, D. micrantha and D. donelliana"
+    },
+    {
+      "source": "UT Austin Plant Resources Center / Williamson County flora",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pdf/Dichondra%20recurvata",
+      "role": "Locally observed anatomy, petiole and pedicel dimensions"
+    },
+    {
+      "source": "World Flora Online accepted name",
+      "url": "https://www.worldfloraonline.org/taxon/wfo-0001297959",
+      "role": "Accepted species name, Texas native range"
+    },
+    {
+      "source": "Texas Parks and Wildlife Mason Mountain WMA flora",
+      "url": "https://tpwd.texas.gov/huntwild/wild/research/highlights/taxa/publications/Singhurst_etal_2007_MasonMtnWMA.pdf",
+      "role": "Regional voucher evidence"
+    }
+  ]
+}

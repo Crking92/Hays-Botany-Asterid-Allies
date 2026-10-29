@@ -1,0 +1,320 @@
+{
+  "rank": "genus",
+  "family": "Campanulaceae",
+  "name": "Triodanis",
+  "look_here_first": "LOOK FIRST at the whole leafy stem, especially how the UPPER LEAVES clasp the stem, then the ripe CAPSULE and its tiny seed-release WINDOW. Individual purple five-lobed flowers identify the group but seldom the species. Lower axils may contain closed (cleistogamous) flowers. Four accepted species plus one perfoliata subspecies from the five pool names.",
+  "shared_traits": [
+    "Small annual herbs, one blue-violet 5-lobed flower at a leaf axil (not a composite capitulum)",
+    "Simple alternate leaves; attachment/clasping is variable",
+    "Inferior ovary becomes a many-seeded capsule with lateral dehiscence openings",
+    "Small closed selfing flowers (cleistogamous) can occur below showy upper open flowers"
+  ],
+  "taxonomy_note": "Triodanis biflora is accepted as Triodanis perfoliata subsp. biflora under Kew and ITIS.",
+  "genus_diagnostics": {
+    "flower": "Single fused corolla with five blue-violet lobes, usually fairly symmetric; five stamens are free, unlike Lobelia's anther tube.",
+    "leaves": "Simple alternate; full leaf bases may clasp the stem strongly in typical perfoliata or be less-clasping in biflora. Photograph several nodes.",
+    "fruit": "Inferior multi-seeded poricidal capsule; dehiscence pore commonly nearer middle in typical T. perfoliata and nearer tip in subsp. biflora; intermediate and hybrid forms occur. Photograph mature fruit side-on and use several structures, not a single ratio.",
+    "stem": "Small slender annual stems. Upper open (chasmogamous) and lower closed (cleistogamous) flowers may occupy different nodes.",
+    "habit": "Open-ground annual bellflower relatives; compare whole stem, not blossom color alone."
+  },
+  "lookalikes": [
+    {
+      "taxon": "Lobelia",
+      "difference": "Bilabiate asymmetrical 2+3 corolla and joined anthers into a tube; Triodanis usually radial blue-violet stars and free stamens."
+    },
+    {
+      "taxon": "Asteraceae",
+      "difference": "Composite many-floret head rather than one five-lobed fused corolla."
+    }
+  ],
+  "visual_comparison": {
+    "title": "Venus's looking-glass: leaf bases, flower anatomy and capsule windows",
+    "subtitle": "All five source-pool taxon cards now have real photographed examples (14 total JPEGs). Seven matched structure views inspected against physical files; two anatomy/capsule-pore targets remain explicitly missing.",
+    "memory_rule": "LOOK AT LEAF BASE, FLOWER HEAD AND CAPSULE. Typical perfoliata clasps stem; biflora often does not. The capsule's tiny opening near middle versus tip is useful but can vary in hybrids.",
+    "part_examples": [
+      {
+        "title": "See the five purple corolla lobes",
+        "role": "open flower",
+        "anchor_species_id": "triodanis-perfoliata-subsp-biflora",
+        "image_file": "images/biflora-bastrop.jpg",
+        "look_for": "One real individual flower has five purple spreading lobes and central style/stigma; this is NOT a whole Asteraceae flower head.",
+        "why_it_matters": "Start with the actual flower structure shared across Triodanis, not color alone.",
+        "photo_status": "installed_verified_unannotated"
+      },
+      {
+        "title": "Find a clasping leaf at the stem",
+        "role": "leaf attachment",
+        "anchor_species_id": "triodanis-perfoliata",
+        "image_file": "images/perfoliata-wild-stem.jpg",
+        "look_for": "Broad alternate leaves cup around the upright stem in typical clasping looking-glass. Notice the small violet flowers just above leaf axils.",
+        "why_it_matters": "Leaf-base attachment is one of the key clues to typical T. perfoliata.",
+        "photo_status": "installed_verified_unannotated"
+      },
+      {
+        "title": "Inspect a tiny closed flower",
+        "role": "cleistogamous flower",
+        "anchor_species_id": "triodanis-perfoliata-subsp-biflora",
+        "image_file": "images/biflora-cleistogamous.jpg",
+        "look_for": "The small upright green enclosed floral structure can self-fertilize without ever opening. This is not the same as a tiny purple blossom.",
+        "why_it_matters": "Teaches cleistogamy—the hidden lower-stem flowers common in the genus.",
+        "photo_status": "installed_verified_unannotated"
+      },
+      {
+        "title": "Recognize coloradoensis narrow bracts",
+        "role": "narrow upper leaves and flower",
+        "anchor_species_id": "triodanis-coloradoensis",
+        "image_file": "images/triodanis-coloradoensis-texas-664638884.jpg",
+        "look_for": "The upright flowering shoot has many long slender green bracts near a small violet flower. Do not mistake the unrelated broad round leaves in the lower background for this plant.",
+        "why_it_matters": "Shows why a complete flowering shoot is vital in comparing coloradoensis with other looking-glasses.",
+        "photo_status": "installed_verified_unannotated"
+      },
+      {
+        "title": "See a slimpod flowering plant",
+        "role": "flower and slender stem",
+        "anchor_species_id": "triodanis-leptocarpa",
+        "image_file": "images/triodanis-leptocarpa-arkansas-whole-plant.jpg",
+        "look_for": "Several separate violet five-lobed flowers occur above narrow leaves/bracts. The long slender green structure directly below the calyx is the hypanthium/ovary area, not a petal.",
+        "why_it_matters": "Connects the flower with the long, slim reproductive body behind its common name.",
+        "photo_status": "installed_verified_unannotated"
+      },
+      {
+        "title": "Examine the slim green hypanthium",
+        "role": "slender hypanthium and calyx",
+        "anchor_species_id": "triodanis-leptocarpa",
+        "image_file": "images/triodanis-leptocarpa-montana-ovary-photo.jpg",
+        "look_for": "Elongated upright ribbed green floral/fruit bodies with narrow calyx lobes are closely visible. The exact dehiscence pore is not clearly confirmed in this image.",
+        "why_it_matters": "Separates observing a slender hypanthium from actually proving a seed-release opening.",
+        "photo_status": "installed_verified_unannotated"
+      },
+      {
+        "title": "See texana leaves and capsule-bearing nodes",
+        "role": "alternate leaves and green fruit",
+        "anchor_species_id": "triodanis-texana",
+        "image_file": "images/triodanis-texana-texas-649615636.jpg",
+        "look_for": "Alternating triangular-to-ovate leaves and compact green axillary capsule/flower structures run up the stem. This is a Texas species-specific vegetative/fruit-context photo, not proof of exact capsule pore.",
+        "why_it_matters": "Offers a real recognition view for a species that had no media while preserving uncertain diagnostic details.",
+        "photo_status": "installed_verified_unannotated"
+      },
+      {
+        "title": "Find the mature capsule window",
+        "role": "dehiscence pore position",
+        "look_for": "On a dry capsule with side lighting and a millimeter ruler, locate the real seed-release window. Typical perfoliata often opens near middle; subsp. biflora often opens near tip; hybrids may be intermediate.",
+        "why_it_matters": "The most memorable but still unphotographed field tie-breaker; do not invent an arrow on a sealed immature capsule.",
+        "photo_status": "needs_photo"
+      },
+      {
+        "title": "Locate ovary insertion and free stamens",
+        "role": "inferior ovary and dissected flower",
+        "look_for": "From the side, find swollen ovary beneath calyx and corolla. With a 10× lens inspect free stamens of Triodanis versus Lobelia's anther tube; matched diagnostic dissection images still needed.",
+        "why_it_matters": "Links genus and family anatomy and prevents confusion with Lobelia.",
+        "photo_status": "needs_photo"
+      }
+    ],
+    "items": [
+      {
+        "label": "Look at the open five-lobed corolla",
+        "scientific_name": "triodanis perfoliata subsp biflora",
+        "image_url": "content/taxa/Campanulaceae/Triodanis/triodanis-perfoliata-subsp-biflora/images/biflora-flowering.jpg",
+        "caption": "One blue-violet open corolla has five spreading lobes. This is a single flower, not an Asteraceae flower head.",
+        "photo_status": "PHYSICAL_JPEG_VERIFIED; no verified arrows"
+      },
+      {
+        "label": "Find the clasping upper leaves",
+        "scientific_name": "triodanis perfoliata",
+        "image_url": "content/taxa/Campanulaceae/Triodanis/triodanis-perfoliata/images/perfoliata-wild-stem.jpg",
+        "caption": "Inspect the points where upper leaves attach to the stem; the broad leaf bases of typical clasping-looking-glass partly wrap the stem.",
+        "photo_status": "PHYSICAL_JPEG_VERIFIED; no verified arrows"
+      },
+      {
+        "label": "Compare Texas small looking-glass",
+        "scientific_name": "triodanis perfoliata subsp biflora",
+        "image_url": "content/taxa/Campanulaceae/Triodanis/triodanis-perfoliata-subsp-biflora/images/biflora-bastrop.jpg",
+        "caption": "Bastrop County exact-taxon open flower closeup with five violet lobes; leaf clasping and mature capsule window are NOT visible.",
+        "photo_status": "PHYSICAL_JPEG_VERIFIED; no verified arrows"
+      },
+      {
+        "label": "Find a closed self-pollinating flower",
+        "scientific_name": "triodanis perfoliata subsp biflora",
+        "image_url": "content/taxa/Campanulaceae/Triodanis/triodanis-perfoliata-subsp-biflora/images/biflora-cleistogamous.jpg",
+        "caption": "The small unopened floral structure is a self-pollinating cleistogamous flower, not a missing petal of the large showy bloom. Low-resolution image: zoom cautiously.",
+        "photo_status": "PHYSICAL_JPEG_VERIFIED; no verified arrows"
+      },
+      {
+        "label": "Coloradoensis: narrow bracts with a purple flower",
+        "scientific_name": "Triodanis coloradoensis",
+        "image_url": "content/taxa/Campanulaceae/Triodanis/triodanis-coloradoensis/images/triodanis-coloradoensis-texas-664638884.jpg",
+        "caption": "Belton, Texas verified photo: slender upper bracts and violet bloom; broad lower background leaves are different plants.",
+        "photo_status": "PHYSICAL_JPEG_VERIFIED",
+        "source_page": "https://www.inaturalist.org/photos/664638884",
+        "creator": "iNaturalist CC0 contributor",
+        "license": "CC0"
+      },
+      {
+        "label": "Coloradoensis: individual violet flower",
+        "scientific_name": "Triodanis coloradoensis",
+        "image_url": "content/taxa/Campanulaceae/Triodanis/triodanis-coloradoensis/images/triodanis-coloradoensis-texas-661149107.jpg",
+        "caption": "Leander, Texas: open five-lobed flower with slender shoot; soft focus, not a dissection.",
+        "photo_status": "PHYSICAL_JPEG_VERIFIED",
+        "source_page": "https://www.inaturalist.org/photos/661149107",
+        "creator": "jjfeiler",
+        "license": "CC BY 4.0"
+      },
+      {
+        "label": "Leptocarpa: flowering and slender ovary",
+        "scientific_name": "Triodanis leptocarpa",
+        "image_url": "content/taxa/Campanulaceae/Triodanis/triodanis-leptocarpa/images/triodanis-leptocarpa-arkansas-whole-plant.jpg",
+        "caption": "Arkansas photo: five-lobed flowers plus visible long narrow green floral body beneath calyx.",
+        "photo_status": "PHYSICAL_JPEG_VERIFIED",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Triodanis_leptocarpa.jpg",
+        "creator": "Mason Brock",
+        "license": "Public domain"
+      },
+      {
+        "label": "Leptocarpa: elongated hypanthium macro",
+        "scientific_name": "Triodanis leptocarpa",
+        "image_url": "content/taxa/Campanulaceae/Triodanis/triodanis-leptocarpa/images/triodanis-leptocarpa-montana-ovary-photo.jpg",
+        "caption": "Montana photo: long narrow ribbed floral/capsule bodies; does not clearly show a dehiscence pore.",
+        "photo_status": "PHYSICAL_JPEG_VERIFIED",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Triodanis_leptocarpa_(7462348440).jpg",
+        "creator": "Matt Lavin",
+        "license": "CC BY-SA 2.0"
+      },
+      {
+        "label": "Texana: leaf and axillary green fruit",
+        "scientific_name": "Triodanis texana",
+        "image_url": "content/taxa/Campanulaceae/Triodanis/triodanis-texana/images/triodanis-texana-texas-649615636.jpg",
+        "caption": "Flower Mound, Texas: alternate broad leaves and green axillary fruiting nodes; precise pore not yet confirmed.",
+        "photo_status": "PHYSICAL_JPEG_VERIFIED",
+        "source_page": "https://www.inaturalist.org/photos/649615636",
+        "creator": "John Thomlinson",
+        "license": "CC BY 4.0"
+      }
+    ]
+  },
+  "curation_status": {
+    "version": "triodanis-all-five-photo-visual-part-pass-2026-10-13",
+    "species_cards_expected": 5,
+    "photo_files_expected": 5,
+    "real_photo_status": "14_PHYSICAL_JPEGS_5_TAXA",
+    "visual_macro_status": "NEEDS_PORES_AND_RARE_TAXON_MICRO",
+    "native_range": "UNRESOLVED",
+    "photo_note": "Reuse 3 already-installed images plus two new biflora Texas/closed-flower views, no duplicate files.",
+    "photo_files_verified": 14,
+    "verified_part_examples": 7,
+    "macro_gaps": [
+      "Actual capsule pore near middle versus tip",
+      "Dissected inferior ovary and calyx side",
+      "Exact-species photo sets for coloradoensis leptocarpa texana"
+    ],
+    "last_visual_review": "2026-10-13",
+    "remaining_structure_gaps": [
+      "Ripe capsule pore side macro with exact position and mm scale",
+      "True inferior ovary side/section and five free stamens",
+      "Matched Lobelia reproductive/anther-tube comparison"
+    ],
+    "no_unverified_arrows": true
+  },
+  "common_group": "Venus's looking-glasses",
+  "field_study_sequence": [
+    "1. Photograph the full stem including leaves toward the base and the top.",
+    "2. Magnify the upper leaf attachments: heart-shaped clasping or narrower less-clasping?",
+    "3. Find an individual five-lobed bloom and its swollen inferior ovary beneath the calyx.",
+    "4. Find an actually ripe capsule and the real pore; note location on capsule with a millimeter scale.",
+    "5. Check whether low nodes bear tiny closed flowers while upper nodes hold open blooms.",
+    "6. Compare species only when enough stem, fruit and flower evidence is visible."
+  ],
+  "quick_key": [
+    {
+      "if": "Broad upper leaves strongly clasp stem; capsule pore around middle in typical concept",
+      "then": "T. perfoliata subsp. perfoliata likely"
+    },
+    {
+      "if": "Upper leaves often less-clasping; pore toward capsule tip",
+      "then": "T. perfoliata subsp. biflora (source 'T. biflora') likely"
+    },
+    {
+      "if": "Long narrow hypanthium, narrow upper bracts, elongated ribbed stem",
+      "then": "Compare T. coloradoensis vs T. leptocarpa with voucher/measurements"
+    },
+    {
+      "if": "Eastern Texas source name, no exact diagnostic fruit photos",
+      "then": "T. texana needs specialist photo review"
+    }
+  ],
+  "comparison_matrix": [
+    {
+      "trait": "Taxonomy",
+      "perfoliata": "Accepted species; typical clasping form",
+      "biflora": "Accepted subspecies of perfoliata",
+      "coloradoensis": "Accepted species",
+      "leptocarpa": "Accepted species",
+      "texana": "Accepted species"
+    },
+    {
+      "trait": "Leaves",
+      "perfoliata": "Broad and clasping",
+      "biflora": "Often less clasping",
+      "coloradoensis": "Narrower upper bracts; tapered lower leaves",
+      "leptocarpa": "Narrow upper bracts and stem leaves",
+      "texana": "Exact species macro still required"
+    },
+    {
+      "trait": "Capsule",
+      "perfoliata": "Pore often middle in typical subspecies",
+      "biflora": "Pore often near apex",
+      "coloradoensis": "Very narrow hypanthium; measured photo needed",
+      "leptocarpa": "Slim pod; measured photo needed",
+      "texana": "Pore location not verified"
+    }
+  ],
+  "taxonomy_notes": [
+    "Source Triodanis biflora maps to accepted Triodanis perfoliata subsp. biflora; don't double count.",
+    "Native Texas state-wide does not certify project 3-county nativity.",
+    "No realistic confirmed arrows until exact pore and stamen position visually checked.",
+    "Morphological separation between typical T. perfoliata and source-name T. biflora can be complicated by hybrid/intermediate plants. Pore position is generally middle versus apical, not an infallible trait in all individuals."
+  ],
+  "diagnostic_photo_checklist": [
+    "Actual pore-window closeups with annotated verified location for both subspecies",
+    "Full shoot/clasping leaf junctions at matched scale",
+    "Coloradoensis, leptocarpa and texana whole-plant and mature capsule photos, licensed",
+    "Inferior ovary calyx side macro, pollen and stamens",
+    "Do not duplicate unrelated T. biflora as an accepted separate species"
+  ],
+  "scientific_sources": [
+    {
+      "url": "https://namethatplant.net/PDFs/PhytoN-Campanuloideae_Morin_2020.pdf"
+    },
+    {
+      "url": "https://www.inaturalist.org/posts/51636-triodanis-quick-tips"
+    },
+    {
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60442705-2"
+    },
+    {
+      "title": "2025 Journal of Botanical Research Institute of Texas: species and hybrid identification caution",
+      "url": "https://journals.brit.org/jbrit/article/download/1398/1432/1075"
+    },
+    {
+      "title": "Texas Triodanis field photo guidance",
+      "url": "https://www.inaturalist.org/posts/51636-triodanis-quick-tips"
+    },
+    {
+      "title": "Flora of North America/Morin treatment",
+      "url": "https://namethatplant.net/PDFs/PhytoN-Campanuloideae_Morin_2020.pdf"
+    }
+  ],
+  "project_scope": {
+    "source_pool": "Master Plant Pool 1206–1210",
+    "canonical_species_count": 4,
+    "subspecies_count": 1,
+    "canonical_taxa_ids": [
+      "triodanis-perfoliata",
+      "triodanis-perfoliata-subsp-biflora",
+      "triodanis-coloradoensis",
+      "triodanis-leptocarpa",
+      "triodanis-texana"
+    ],
+    "range_review": "All target-zone county native statuses UNRESOLVED, exclude native metrics.",
+    "photo_coverage_status": "Five taxon cards each with physical exact-taxon photo; 14 images (2 perfoliata, 3 biflora, 3 coloradoensis, 3 leptocarpa, 3 texana)"
+  }
+}

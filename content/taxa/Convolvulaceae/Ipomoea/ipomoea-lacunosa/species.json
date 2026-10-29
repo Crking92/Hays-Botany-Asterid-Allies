@@ -1,0 +1,245 @@
+{
+  "id": "ipomoea-lacunosa",
+  "entry_type": "species",
+  "family": "Convolvulaceae",
+  "genus": "Ipomoea",
+  "species": "lacunosa",
+  "authority": "L.",
+  "common_name": "Whitestar",
+  "other_common_names": [
+    "Small White Morning-glory"
+  ],
+  "project_inclusion": {
+    "mode": "local-occurrence-first",
+    "strict_native_filter_deferred": true,
+    "note": "Native to Texas according to Kew; retained here primarily for field relevance."
+  },
+  "morphology_keys": {
+    "life_cycle": "Annual.",
+    "habit": "Twining vine.",
+    "leaves": "Cordate-ovate to deltate-ovate, entire or 3(–5)-lobed; glabrous or sparsely hairy.",
+    "sepals": "Elliptic-oblong to lanceolate, usually 11–14 mm, ciliate, acuminate.",
+    "corolla": "Usually white, sometimes pink-tinged; about 15–20(–25) mm.",
+    "key": "Small white flower + 11–14 mm pointed sepals; compare with I. triloba and I. cordatotriloba."
+  },
+  "look_alikes": [
+    "Ipomoea triloba",
+    "Ipomoea cordatotriloba"
+  ],
+  "curation_status": {
+    "version": "1.0-core",
+    "taxonomy_and_morphology_reviewed": true,
+    "strict_native_filter_deferred": true,
+    "photo_set": "starter diagnostic set",
+    "last_reviewed": "2026-09-30",
+    "photo_metadata_count": 9,
+    "photo_files_present": 5,
+    "photo_backfill_source": "historical taxa.zip migration",
+    "external_display_images_count": 4,
+    "last_visual_reviewed": "2026-10-08"
+  },
+  "images": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "curated taxon reference 1",
+      "creator": "(c) Frances, all rights reserved, uploaded by Frances",
+      "license": "license not supplied by API",
+      "source_page": "https://www.inaturalist.org/taxa/135262",
+      "direct_image_url": "https://static.inaturalist.org/photos/95734692/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "95734692",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/02-curated-reference.jpg",
+      "role": "curated taxon reference 2",
+      "creator": "(c) Frances, all rights reserved, uploaded by Frances",
+      "license": "license not supplied by API",
+      "source_page": "https://www.inaturalist.org/taxa/135262",
+      "direct_image_url": "https://static.inaturalist.org/photos/95734506/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "95734506",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/03-same-plant-field-view-1.jpg",
+      "role": "same-observation field view 1",
+      "creator": "(c) Arnan Pawawongsak, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/212078023",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/374795981/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "212078023",
+      "photo_id": "374795981",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/04-same-plant-field-view-2.jpg",
+      "role": "same-observation field view 2",
+      "creator": "(c) Arnan Pawawongsak, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/212078023",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/374796058/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "212078023",
+      "photo_id": "374796058",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/05-same-plant-field-view-3.jpg",
+      "role": "same-observation field view 3",
+      "creator": "(c) Arnan Pawawongsak, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/212078023",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/374796070/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "212078023",
+      "photo_id": "374796070",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ipomoealacunosa.jpg",
+      "role": "Measured mature-seed plate for lacunosa versus I. ×leucantha reproductive comparison",
+      "creator": "USDA Agricultural Research Service, Systematic Botany and Mycology Laboratory",
+      "license": "Public domain (USDA ARS source collection)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ipomoealacunosa.jpg",
+      "platform": "Wikimedia Commons / USDA ARS",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "provenance_note": "File is listed in Wikimedia Commons' USDA ARS Systematic Botany and Mycology Laboratory source category, which is marked PD USDA ARS.",
+      "diagnostic_visibility": "Measured-seed reference from the USDA ARS seed-image series; directly supports the seed-size hybrid check when compared with I. ×leucantha material.",
+      "media_storage": "external_direct_url",
+      "scientific_name_verified": "Ipomoea lacunosa"
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ipomoea_lacunosa_721553173.jpg",
+      "role": "Exact-species same-observation field view A for flower, calyx and leaf context",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ipomoea_lacunosa_721553173.jpg",
+      "platform": "Wikimedia Commons / iNaturalist",
+      "observation_id": "393650144",
+      "photo_id": "721553173",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution",
+      "photo_verified": "species identity and license verified from Commons/iNaturalist metadata 2026-10-08",
+      "diagnostic_visibility": "Same-observation exact-species context image; retain as a paired field view and do not claim a specific micro-character unless visually confirmed in the learner.",
+      "media_storage": "commons_redirect_url",
+      "scientific_name_verified": "Ipomoea lacunosa"
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ipomoea_lacunosa_721553194.jpg",
+      "role": "Exact-species same-observation field view B for flower, calyx and leaf context",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ipomoea_lacunosa_721553194.jpg",
+      "platform": "Wikimedia Commons / iNaturalist",
+      "observation_id": "393650144",
+      "photo_id": "721553194",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution",
+      "photo_verified": "species identity and license verified from Commons/iNaturalist metadata 2026-10-08",
+      "diagnostic_visibility": "Same-observation exact-species context image; useful as a paired view for confirming flower/leaf form, while the side-view calyx macro remains the specialized target.",
+      "media_storage": "commons_redirect_url",
+      "scientific_name_verified": "Ipomoea lacunosa"
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ipomoea_lacunosa_flower_side_view_calyx_and_pedicel_-_Fukufukurou.jpg",
+      "role": "STUDY / LICENSE-REVIEW — flower side view specifically showing calyx and pedicel",
+      "creator": "Fukufukurou",
+      "license": "Wikimedia Commons file — exact license tag needs final file-page verification before public reuse",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ipomoea_lacunosa_flower_side_view_calyx_and_pedicel_-_Fukufukurou.jpg",
+      "platform": "Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "review",
+      "media_storage": "commons_redirect_url",
+      "scientific_name_verified": "Ipomoea lacunosa",
+      "diagnostic_visibility": "Purpose-built side view showing the calyx and pedicel; directly addresses the most important remaining lacunosa flower-angle gap."
+    }
+  ],
+  "field_diagnostics": {
+    "single_best_trait": "Small usually white corolla plus acuminate medium-length sepals. If it looks intermediate with tievine, consider the I. ×leucantha hybrid instead of forcing the ID.",
+    "fastest_traits": [
+      "Corolla usually white, 15–20(–25) mm",
+      "Sepals (8–)11–14 mm, acuminate, ciliate-margined and glabrous on the surfaces",
+      "Annual twining vine",
+      "Fruit about 10–13 mm diameter",
+      "Leaves entire or 3(–5)-lobed; lobing is not decisive"
+    ],
+    "look_alikes": [
+      {
+        "taxon": "Ipomoea triloba",
+        "distinction": "Both can be small-flowered; I. lacunosa is usually white and has longer acuminate sepals, whereas I. triloba sepals are typically about 6–7 mm."
+      },
+      {
+        "taxon": "Ipomoea cordatotriloba",
+        "distinction": "I. cordatotriloba usually has a larger lavender flower and perennial habit, but hybridization produces intermediates."
+      },
+      {
+        "taxon": "Ipomoea ×leucantha",
+        "distinction": "FNA gives the hybrid a smaller 6–15(–20) mm corolla and 7–8 mm fruits; lacunosa fruits are 10–13 mm. FNA also reports lacunosa seeds 5–6 mm versus 3.2–4 mm in the hybrid."
+      }
+    ],
+    "unreliable_alone": [
+      "white flower",
+      "leaf lobing"
+    ]
+  },
+  "hybrid_caution": {
+    "taxon": "Ipomoea ×leucantha",
+    "parentage": "Ipomoea lacunosa × Ipomoea cordatotriloba",
+    "priority": "high",
+    "note": "This is a genuine identification trap in Texas/southeastern material; fruit and seed size become especially useful when flowers are intermediate."
+  },
+  "diagnostic_photo_targets": [
+    "Flower side view showing calyx and pedicel",
+    "Sepal macro showing acuminate tips and ciliate margins",
+    "Mature capsule with scale",
+    "Seed macro with scale",
+    "Matched comparison with I. triloba and I. cordatotriloba"
+  ],
+  "photo_candidates": [
+    {
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ipomoea_lacunosa_721553194.jpg",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "role_to_verify": "whole flower/leaf context; verify diagnostic visibility before promotion"
+    },
+    {
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ipomoea_lacunosa_721553173.jpg",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "role_to_verify": "alternate exact-species view; verify calyx/leaf/fruit visibility before promotion"
+    }
+  ],
+  "diagnostic_science_sources": [
+    {
+      "source": "Flora of North America",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=230002831"
+    },
+    {
+      "source": "Flora of North America — I. ×leucantha",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250131425"
+    }
+  ],
+  "diagnostic_polish": {
+    "status": "specialty-side-calyx-view-present-license-and-fruit-scale-open",
+    "reviewed": "2026-10-08",
+    "specialty_reference_pass": "2026-10-08",
+    "specialty_photo_notes": [
+      "Commons side-view calyx/pedicel file is present for study with reuse held at review",
+      "Final file-license verification and reusable mature capsule with scale remain open"
+    ],
+    "last_visual_reviewed": "2026-10-08"
+  },
+  "photo_note": " Added USDA/ARS public-domain measured seed plate 2026-10-08. A rights-cleared side-view calyx/pedicel and mature capsule with scale remain the strongest open visual needs. Added two newly Commons-verified CC BY same-observation exact-species views. Specialized side-view calyx/pedicel and measured mature-capsule roles remain open. Specialty diagnostic study references added 2026-10-08; public reuse flags are intentionally conservative where source licensing is not verified."
+}

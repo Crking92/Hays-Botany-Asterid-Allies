@@ -1,0 +1,199 @@
+{
+  "id": "matelea-reticulata",
+  "entry_type": "species",
+  "family": "Apocynaceae",
+  "genus": "Matelea",
+  "species": "reticulata",
+  "scientific_name": "Matelea reticulata",
+  "authority": "(Engelm. ex A.Gray) Woodson",
+  "common_name": "Pearl milkvine",
+  "synonyms": [
+    "Gonolobus reticulatus Engelm. ex A.Gray",
+    "Vincetoxicum reticulatum (Engelm. ex A.Gray) A.Heller"
+  ],
+  "taxonomic_note": "Accepted by current Kew/POWO and Flora of North America.",
+  "look_here_first": "Look at the flower first: broad flat pale-green lobes are strongly netted with dark green lines, and the center has conspicuous silvery reflective anther appendages—the 'pearl.'",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "24-county boundary audit 2026-10-14: Hays, Travis qualify; Williamson are out-of-zone and cannot count toward PASS. Prior citation/evidence text preserved in range_audit; third native county not verified.",
+    "range_guardrail": "No county inferred from statewide or ecoregion range. Legacy names are counted only where taxonomic concept is reconciled.",
+    "native_range_last_reviewed": "2026-10-14",
+    "range_audit": {
+      "date": "2026-10-14",
+      "decision": "UNRESOLVED",
+      "confidence": "high for exclusion of counties not in project zone; prior county-locality evidence retained without fresh specimen reinspection",
+      "prior_status": "PASS",
+      "prior_count": 3,
+      "prior_counties": [
+        "Hays",
+        "Travis",
+        "Williamson"
+      ],
+      "valid_target_counties": [
+        "Hays",
+        "Travis"
+      ],
+      "excluded_counties": [
+        "Williamson"
+      ],
+      "reason": "Old PASS counted an excluded county. UNRESOLVED is not FAIL or proof of absence; verify a third accepted county before PASS.",
+      "original_range_basis": "Hays — UT PRC Purola Preserve records the species among naturally occurring, non-introduced plants. Travis — UT PRC Travis County herbarium includes multiple Matelea reticulata specimens. Williamson — UT PRC Vascular Plants of Williamson County provides a detailed county treatment.",
+      "source_document": "content/taxa/Apocynaceae/Matelea/matelea-reticulata/SOURCES.txt",
+      "rule_source": "PROJECT_RULES.md — Target zone; three qualifying native counties"
+    }
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "twining perennial with milky latex",
+      "opposite deeply cordate leaves; stems and petioles conspicuously hairy",
+      "rotate broad corolla lobes strongly dark-reticulate and glabrous adaxially",
+      "corona reduced to a very low yellow undulate ring",
+      "silvery reflective apical anther appendages",
+      "8–15 cm fusiform follicle, sparsely to moderately muricate"
+    ],
+    "milkweed_vine_training": "Use fused corolla plus corona/gynostegium and follicle armature; preserve modern genus placement even when older/source labels use Matelea."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Matelea edwardsensis",
+      "Gonolobus suberosus var. granulatus"
+    ],
+    "key_distinctions": "Matelea edwardsensis: M. reticulata is flatter and strongly net-reticulated, glabrous inside, denser-haired, with a highly reduced corona and silvery center; M. edwardsensis is more campanulate with mostly longitudinal lines, hairy inside, and obvious fleshy corona segments. Gonolobus suberosus var. granulatus: Anglepod has larger uniformly olive-green non-reticulate flowers and a smooth sharply angled fruit; pearl milkvine has netted flowers and a muricate follicle."
+  },
+  "tags": [
+    "Apocynaceae",
+    "Matelea",
+    "Pearl milkvine",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-species-merge-010+video-Y7A530PjEbU",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "joey_family_context": true,
+    "joey_enhanced": true
+  },
+  "photo_note": "Saved Joey Santore video frames installed locally for private study. The selected views were visually checked and chosen for diagnostic teaching value.",
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "Y7A530PjEbU",
+      "timestamp": "02:40",
+      "record_id": "Y7A530PjEbU-07",
+      "role": "whole flower / source label",
+      "rights": "private study; public reuse not assumed"
+    },
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "Y7A530PjEbU",
+      "timestamp": "03:00",
+      "record_id": "Y7A530PjEbU-08",
+      "role": "flower underside / corolla hairs / sepals",
+      "rights": "private study; public reuse not assumed"
+    },
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "Y7A530PjEbU",
+      "timestamp": "03:15",
+      "record_id": "Y7A530PjEbU-09",
+      "role": "reticulate corolla / center / nectar",
+      "rights": "private study; public reuse not assumed"
+    }
+  ],
+  "images": [
+    {
+      "file": "images/matelea-reticulata_flower-source-label_02-40.jpg",
+      "role": "Front view of the reticulate green flower held close to the camera.",
+      "caption": "Matelea reticulata flower from above. The netted/reticulate corolla surface and pale central reproductive structure are visible; this is the main flower-recognition frame.",
+      "diagnostic_roles": [
+        "whole flower",
+        "source-labeled flower"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=Y7A530PjEbU",
+      "source_record_id": "Y7A530PjEbU-07",
+      "timestamp": "02:40",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/matelea-reticulata_abaxial-corolla-hairs-sepals_03-00.jpg",
+      "role": "Underside of the flower showing the corolla hairs and sepals.",
+      "caption": "Underside of Matelea reticulata flower. Look at the hairy abaxial corolla surface and the sepals behind it; this angle adds characters that are hidden in a normal face-on photo.",
+      "diagnostic_roles": [
+        "abaxial corolla surface",
+        "corolla hairs",
+        "sepals"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=Y7A530PjEbU",
+      "source_record_id": "Y7A530PjEbU-08",
+      "timestamp": "03:00",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/matelea-reticulata_reticulate-corolla-center-nectar_03-15.jpg",
+      "role": "Close face-on view emphasizing the reticulate corolla and central flower structure.",
+      "caption": "Close face-on Matelea reticulata flower emphasizing the netted corolla pattern and central reproductive structure. Pair it with the underside view for a more complete flower ID.",
+      "diagnostic_roles": [
+        "reticulate corolla",
+        "central reproductive structure",
+        "nectar context"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=Y7A530PjEbU",
+      "source_record_id": "Y7A530PjEbU-09",
+      "timestamp": "03:15",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/public-inat-matelea-reticulata-753117117.jpg",
+      "role": "Provisional exact-species public photo of netleaf milkvine / pearl milkvine. Confirm reticulate flower markings and pubescence where visible; detailed gynostegium and corolla-underside anatomy remains pending.",
+      "caption": "Individually licensed, research-grade iNaturalist observation photograph of Matelea reticulata. Plant-part diagnostic anatomy needs a separate visual check before precise arrows or FINALIZED marking.",
+      "creator": "(c) Jane Weeden, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/753117117",
+      "source_observation_page": "https://www.inaturalist.org/observations/409582139",
+      "source_photo_id": "753117117",
+      "source_observation_id": "409582139",
+      "source_taxon": "Matelea reticulata",
+      "source_quality_grade": "research",
+      "source_photo_license_code": "cc-by",
+      "source_type": "iNaturalist individually licensed exact-taxon photo verified by current photo API",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/753117117/large.jpg",
+      "public_reuse": "yes, conditional on recorded CC attribution/NC terms and noncommercial education",
+      "changes": "Downloaded iNaturalist photo, resized and reencoded to JPEG without EXIF/GPS; no annotations added.",
+      "source_sha256": "f8ac4dde13188ab23e520728f14f41b92d11e53d72d78ca948f33b04dbcbb919",
+      "published_jpeg_sha256": "b04a6e5e406983520a44660ce2d949954359cf887c6e24a5453e2c882d84535a",
+      "published_jpeg_dimensions": [
+        1024,
+        576
+      ],
+      "annotation_pending": true,
+      "photo_organ_validation": "pending independent anatomical visual review"
+    }
+  ],
+  "diagnostic_image_needs": [
+    "Whole-vine/leaf attachment view and mature follicle/seed close-up."
+  ],
+  "native_metrics_excluded": true
+}

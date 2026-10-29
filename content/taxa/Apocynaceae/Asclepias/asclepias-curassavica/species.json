@@ -1,0 +1,205 @@
+{
+  "id": "asclepias-curassavica",
+  "entry_type": "species",
+  "family": "Apocynaceae",
+  "subfamily": "Asclepiadoideae",
+  "genus": "Asclepias",
+  "species": "curassavica",
+  "authority": "L.",
+  "scientific_name": "Asclepias curassavica",
+  "common_name": "Tropical Milkweed",
+  "other_common_names": [
+    "Bloodflower",
+    "Scarlet Milkweed",
+    "Mexican Butterfly Weed"
+  ],
+  "taxonomy": {
+    "accepted_name": "Asclepias curassavica L.",
+    "accepted": true,
+    "authority_source": "Kew Plants of the World Online"
+  },
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_role": "NON_NATIVE_COMPARISON",
+    "target_zone_status": "COMPARISON_NON_NATIVE",
+    "range_basis": "Kew Plants of the World Online treats Texas as an introduced area; TPWD marks A. curassavica a non-native milkweed. Explicit user request for nursery/field look-alike training.",
+    "verified_native_target_counties": [],
+    "include_in_native_only_metrics": false
+  },
+  "native_target_zone": false,
+  "look_here_first": "Check red to scarlet reflexed corolla lobes around bright yellow or orange-yellow corona hoods, then inspect the opposite, relatively smooth narrow leaves. Verify the milky latex and erect, often branched habit. Contrast with native butterfly milkweed, which has alternate hairy leaves and clear/watery sap.",
+  "morphology_keys": {
+    "habit": "Erect, often branching short-lived perennial or subshrub in frost-free settings; frequently grown as an annual in colder conditions; commonly about 0.3–0.9 m in Texas descriptions.",
+    "sap_type": "White milky latex; avoid skin or eye contact.",
+    "leaf_arrangement": "Leaves mainly opposite; some descriptions report whorls of three. Never infer opposite strictly from a single crowded node.",
+    "leaf_morphology": "Narrowly oblong to lanceolate blades, mostly 6–13 cm long, usually short-stalked, tapering/pointed at the tip; stems and leaves nearly smooth to minutely hairy.",
+    "inflorescence": "Umbel-like clusters at upper nodes or upper leaf axils; several showy flowers per cluster.",
+    "flower_color": "Typically scarlet to red-orange reflexed corolla lobes contrasting with yellow to orange-yellow hooded corona; horticultural color forms can vary.",
+    "gynostegium_detail": "Five corona hoods are present; Kew's Cayman Islands description records erect hoods with projecting horns. Unlike the viridis/asperula pair, do not confuse the yellow hoods with the red corolla lobes.",
+    "fruit": "Slender spindle-shaped follicle, roughly 6–10 cm long, with comose seeds.",
+    "flowering_texas": "June–October noted in TPWD's guide, but cultivated plants can bloom outside that window with favorable weather."
+  },
+  "field_diagnostics": {
+    "fastest_traits": [
+      "Red-orange reflexed corolla lobes, bright yellow corona hoods",
+      "Opposite narrow, mostly smooth leaf blades (occasionally apparent whorls of three)",
+      "Milky latex",
+      "Erect or branching habit; often nursery-grown"
+    ],
+    "comparisons": [
+      {
+        "taxon": "Asclepias tuberosa",
+        "distinction": "Native butterfly milkweed generally has clear watery sap, alternate often hairy leaves, and orange flowers whose corolla and hood colors are less strongly bicolored. Do not use flower color alone; horticultural forms vary."
+      },
+      {
+        "taxon": "Asclepias viridis",
+        "distinction": "Green milkweed has broader, often blunter leaves and pale green corollas with often rose/purplish hoods, rather than scarlet corollas with yellow hoods."
+      },
+      {
+        "taxon": "Asclepias asperula",
+        "distinction": "Antelopehorns typically has narrow pointed leaves too, but dense pale-green/cream and purple flower heads, lower clustered stems, and is native to the focal zone."
+      }
+    ],
+    "false_positive_warning": "The vernacular 'Mexican butterfly weed' may cause confusion with A. tuberosa. Use scientific names and check foliage/sap."
+  },
+  "ecological_notes": {
+    "host_status": "Monarch larvae can feed on tropical milkweed; host use does not make it locally native or appropriate for restoration.",
+    "conservation_caution": "Where tropical milkweed stays leafy during warm winters, it can support unusual winter monarch breeding and accumulation of Ophryocystis elektroscirrha (OE) spores. Effects depend on climate and plant persistence; favor native milkweed in the natural local range (Xerces Society).",
+    "texas_status": "Not native to Texas. TPWD describes naturalization chiefly in southern/southeastern Texas, distinct from native-range evidence.",
+    "planting_recommendation": "Identification comparison only — exclude from target-zone native planting recommendations."
+  },
+  "diagnostic_image_plan": [
+    "whole plant with leaves and inflorescences",
+    "single flower macro labeled red corolla, yellow hood, horn and gynostegium",
+    "opposite-leaf node and surface; optional whorled-three variation",
+    "A. curassavica versus A. tuberosa side-by-side: foliage plus sap",
+    "slender mature follicle"
+  ],
+  "images": [
+    {
+      "file": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Asclepias_curassavica_with_flowers.jpg/500px-Asclepias_curassavica_with_flowers.jpg",
+      "role": "flowering plant: scarlet corolla, yellow corona and lanceolate foliage",
+      "creator": "BalukuBrian",
+      "license": "CC BY-SA 4.0",
+      "platform": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Asclepias_curassavica_with_flowers.jpg",
+      "source_record_id": "File:Asclepias curassavica with flowers.jpg",
+      "study_use": true,
+      "public_reuse": true,
+      "remote_only": true,
+      "local_file_present": false,
+      "caption": "Real photo of tropical milkweed flowers and leaves; photo by BalukuBrian (CC BY-SA 4.0), no annotations yet."
+    },
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Leaves_of_Asclepias_curassavica.jpg/960px-Leaves_of_Asclepias_curassavica.jpg",
+      "role": "leaf close-up: blade, margin, venation and crowded nodes",
+      "creator": "Juan Carlos Fonseca Mata",
+      "license": "CC BY-SA 4.0",
+      "platform": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Leaves_of_Asclepias_curassavica.jpg",
+      "source_record_id": "File:Leaves of Asclepias curassavica.jpg",
+      "study_use": true,
+      "public_reuse": true,
+      "remote_only": true,
+      "local_file_present": false,
+      "caption": "Tropical milkweed leaf close-up showing narrow entire blades. This specimen has crowded leaves; do not label individual node arrangement without a verified node crop."
+    },
+    {
+      "file": "images/asclepias-curassavica-flower-arturo-benavides-748523555.jpg",
+      "role": "Flower cluster close-up: red reflexed corolla lobes, yellow-orange corona hoods and developing buds; corona horns not resolved",
+      "creator": "Arturo Benavides Mendoza",
+      "license": "CC BY 4.0",
+      "platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/748523555",
+      "source_record_id": "748523555",
+      "observation_id": "407333143",
+      "photo_id": "748523555",
+      "source_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/748523555/large.jpg",
+      "study_use": true,
+      "public_reuse": true,
+      "remote_only": false,
+      "local_file_present": true,
+      "caption": "Exact-species flowering close-up by Arturo Benavides Mendoza (CC BY 4.0); visible red corolla lobes, yellow-orange hoods and buds. Horns and arrow targets are not verified; no annotations added.",
+      "annotation_status": "annotation_pending"
+    },
+    {
+      "file": "images/library-review029-44547fe990e9ecb.jpg",
+      "role": "Red-yellow tropical milkweed flowering buds with alternate supporting leaves and low herbaceous growth; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Show exotic tropical milkweed buds and leaf shape to distinguish from local native species",
+      "creator": "Prudence Kerr",
+      "license": "CC BY-SA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "Pl@ntNet via GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5110303867",
+      "media_source_url": "https://bs.plantnet.org/image/o/658fe582573410fce17714fac9923731c59d6a30",
+      "source_determination": "Asclepias curassavica",
+      "source_observation_id": "5110303867",
+      "library_release_tag": "hays-photo-library-seed-plantnet-20261015",
+      "library_archive_file": "staged_images/asclepias-curassavica/plantnet via gbif-7fd8dcd71dfad2.jpg",
+      "archive_image_sha256": "637b9e9127c126d23f3d4b7996bf13049518cc4743669bf58b8acd82a4b35140",
+      "image_dimensions": [
+        1024,
+        1365
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review029-ded28277fd8c769.jpg",
+      "role": "Bright milkweed flowers with long opposite leaves and a hand for scale; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Show exotic tropical milkweed buds and leaf shape to distinguish from local native species",
+      "creator": "Bachiega Ana",
+      "license": "CC BY-SA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "Pl@ntNet via GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5110327660",
+      "media_source_url": "https://bs.plantnet.org/image/o/281186fa827260fa2f00fb6954f59bdacb1aaa4b",
+      "source_determination": "Asclepias curassavica",
+      "source_observation_id": "5110327660",
+      "library_release_tag": "hays-photo-library-seed-plantnet-20261015",
+      "library_archive_file": "staged_images/asclepias-curassavica/plantnet via gbif-71fd340899d2b1.jpg",
+      "archive_image_sha256": "309a48bb18c08c86d8aa3f879aacc287cfe57bd37a90187858f2aa8eac0bd2b5",
+      "image_dimensions": [
+        800,
+        1067
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "physically_installed_image_count": 1,
+    "source_verified": true,
+    "annotation_status": "planned_not_installed",
+    "note": "One locally installed CC BY 4.0 flower-cluster photograph plus two existing licensed remote references. Corolla lobes and hoods visible; horns, opposite leaf nodes and mature follicle still need diagnostic close-ups. Annotation pending."
+  },
+  "curation_status": {
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-12",
+    "photo_metadata_count": 5,
+    "photo_files_present": 3,
+    "photo_backfill_needed": true,
+    "manual_library_install_029": "2026-10-16"
+  },
+  "source_notes": [
+    "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:94213-1",
+    "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:94213-1/general-information",
+    "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_rp_w7000_1803.pdf",
+    "https://xerces.org/milkweed-faq"
+  ],
+  "photo_note": "Manual library-first complementary photo selection installed; independent diagnostic ID review pending."
+}

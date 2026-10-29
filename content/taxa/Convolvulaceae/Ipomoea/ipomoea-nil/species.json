@@ -1,0 +1,205 @@
+{
+  "id": "ipomoea-nil",
+  "entry_type": "species",
+  "family": "Convolvulaceae",
+  "genus": "Ipomoea",
+  "species": "nil",
+  "authority": "(L.) Roth",
+  "common_name": "Whiteedge Morning-glory",
+  "other_common_names": [
+    "Japanese Morning-glory",
+    "Morning Glory"
+  ],
+  "project_inclusion": {
+    "mode": "local-occurrence-first",
+    "strict_native_filter_deferred": true,
+    "note": "Locally useful look-alike; strict native-status filtering deferred."
+  },
+  "morphology_keys": {
+    "life_cycle": "Annual or short-lived perennial depending on treatment/conditions.",
+    "habit": "Twining vine with long flexible shoots.",
+    "leaves": "Alternate, large, heart-shaped; often 3-lobed; densely to moderately hairy.",
+    "sepals": "Usually about 16–17 mm in Williamson County material, lanceolate and hairy.",
+    "corolla": "Large trumpet-shaped flower, around 5–7 cm or more across/long in local material; often blue-violet aging pinkish.",
+    "key": "Much larger flower than I. hederacea and I. triloba; hairy foliage and long sepals."
+  },
+  "look_alikes": [
+    "Ipomoea hederacea",
+    "Ipomoea triloba"
+  ],
+  "curation_status": {
+    "version": "1.0-core",
+    "taxonomy_and_morphology_reviewed": true,
+    "strict_native_filter_deferred": true,
+    "photo_set": "starter diagnostic set",
+    "last_reviewed": "2026-09-30",
+    "photo_metadata_count": 8,
+    "photo_files_present": 5,
+    "photo_backfill_source": "historical taxa.zip migration",
+    "external_display_images_count": 3,
+    "last_visual_reviewed": "2026-10-08"
+  },
+  "images": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "curated taxon reference 1",
+      "creator": "(c) Basílio Maciel, some rights reserved (CC BY-NC-SA), uploaded by Basílio Maciel",
+      "license": "cc-by-nc-sa",
+      "source_page": "https://www.inaturalist.org/taxa/164091",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/21679521/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "21679521",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/02-curated-reference.jpg",
+      "role": "curated taxon reference 2",
+      "creator": "(c) Rodolfo Salinas Villarreal, some rights reserved (CC BY), uploaded by Rodolfo Salinas Villarreal",
+      "license": "cc-by",
+      "source_page": "https://www.inaturalist.org/taxa/164091",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/243088274/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "243088274",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-same-plant-field-view-1.jpg",
+      "role": "same-observation field view 1",
+      "creator": "(c) txnaturewatch, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/189028198",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/331011802/large.jpeg",
+      "platform": "iNaturalist",
+      "observation_id": "189028198",
+      "photo_id": "331011802",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/04-same-plant-field-view-2.jpg",
+      "role": "same-observation field view 2",
+      "creator": "(c) txnaturewatch, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/189028198",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/331011805/large.jpeg",
+      "platform": "iNaturalist",
+      "observation_id": "189028198",
+      "photo_id": "331011805",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/05-same-plant-field-view-3.jpg",
+      "role": "same-observation field view 3",
+      "creator": "(c) txnaturewatch, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/189028198",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/331011768/large.jpeg",
+      "platform": "iNaturalist",
+      "observation_id": "189028198",
+      "photo_id": "331011768",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/2/29/Ipomoeanil.jpg",
+      "role": "Measured seed plate for nonflowering comparison",
+      "creator": "Steve Hurst / USDA ARS",
+      "license": "Public domain (USDA ARS)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ipomoeanil.jpg",
+      "platform": "Wikimedia Commons / USDA ARS",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_verified": "Wikimedia original visually checked 2026-10-08",
+      "diagnostic_visibility": "Multiple mature seeds shown against a uniform background with a 5 mm scale bar.",
+      "media_storage": "external_direct_url",
+      "scientific_name_verified": "Ipomoea nil"
+    },
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Ipomoea_nil_Gorlitsa20230805_22185.jpg",
+      "role": "Measured 10 mm fruit with persistent sepals and basal pubescence",
+      "creator": "Bff",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ipomoea_nil_Gorlitsa20230805_22185.jpg",
+      "platform": "Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution-sharealike",
+      "photo_verified": "visually verified 2026-10-08",
+      "diagnostic_visibility": "Studio-quality fruit view; Commons description gives fruit diameter as 10 mm. Persistent long sepals and basal hairs are clearly visible.",
+      "media_storage": "external_direct_url",
+      "scientific_name_verified": "Ipomoea nil",
+      "measurement_note": "fruit diameter 10 mm per Commons file description"
+    },
+    {
+      "file": "https://pimg.1px.tw/d6i6n6a6/1694528011-2006484602-g.jpg",
+      "role": "PRIVATE STUDY — flowering calyx showing long gradually tapered sepals and dense basal pubescence",
+      "creator": "source-site photographer; attribution to source page",
+      "license": "reuse rights not verified — private study only",
+      "source_page": "https://d6i6n6a6.pixnet.net/blog/posts/49048496",
+      "platform": "Pixnet botanical comparison page",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "media_storage": "external_direct_url",
+      "scientific_name_verified": "Ipomoea nil",
+      "diagnostic_visibility": "Strong visual of the character needed against I. hederacea: long sepals taper more gradually and basal calyx pubescence is obvious."
+    }
+  ],
+  "field_diagnostics": {
+    "single_best_trait": "For I. nil versus I. hederacea, compare sepal architecture before leaf shape: nil sepals are long, densely hairy basally and narrow gradually toward a mostly straighter distal portion, with a usually larger flower.",
+    "fastest_traits": [
+      "Annual twining vine",
+      "Corolla usually 30–60+ mm in FNA",
+      "Sepals 15–25(–30) mm",
+      "Sepals densely hispid near the base and gradually narrowed distally",
+      "Leaves cordate/orbiculate or 3-lobed; surfaces hairy"
+    ],
+    "look_alikes": [
+      {
+        "taxon": "Ipomoea hederacea",
+        "distinction": "Lengths overlap, so use shape: I. hederacea sepals are broader basally then abruptly narrow into conspicuously curved/spreading tips; I. nil sepals narrow more gradually and are generally straighter. Nil also tends toward the larger corolla."
+      },
+      {
+        "taxon": "Ipomoea lindheimeri",
+        "distinction": "I. lindheimeri is perennial with a very large 55–90 mm flower, long 18–30 mm sepals and strongly lobed hairy foliage; use habit and flower/sepal scale."
+      }
+    ],
+    "unreliable_alone": [
+      "three-lobed leaves",
+      "blue/purple flower",
+      "sepal length without shape"
+    ]
+  },
+  "diagnostic_photo_targets": [
+    "Sepal side view with scale",
+    "Macro showing basal hispid hairs and gradual distal taper",
+    "Same-scale flower side view beside I. hederacea",
+    "Representative leaf variation",
+    "Whole annual vine habit"
+  ],
+  "diagnostic_science_sources": [
+    {
+      "source": "Flora of North America",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=210000742"
+    },
+    {
+      "source": "Plants of the World Online morphology aggregation",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1071575-2/general-information"
+    }
+  ],
+  "diagnostic_polish": {
+    "status": "specialty-study-flowering-calyx-present-public-matched-pair-open",
+    "reviewed": "2026-10-08",
+    "specialty_reference_pass": "2026-10-08",
+    "specialty_photo_notes": [
+      "Private-study flowering calyx view shows gradual taper and basal pubescence",
+      "Reusable same-scale fresh-flower calyx pair versus I. hederacea still open"
+    ],
+    "last_visual_reviewed": "2026-10-08"
+  },
+  "photo_note": " Added USDA public-domain measured seed plate 2026-10-08; matched sepal-shape macro versus I. hederacea remains the highest-priority visual gap. Added a measured 10 mm fruit photo with persistent long sepals and visible basal pubescence. A fresh flowering calyx macro showing gradual sepal taper remains useful for direct comparison with I. hederacea. Specialty diagnostic study references added 2026-10-08; public reuse flags are intentionally conservative where source licensing is not verified."
+}

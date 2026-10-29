@@ -1,0 +1,346 @@
+{
+  "rank": "family",
+  "name": "Campanulaceae",
+  "common_name": "Bellflower / lobelia family",
+  "lineage_context": {
+    "order": "Asterales",
+    "batch": "Asterales",
+    "close_project_families": [
+      "Asteraceae"
+    ],
+    "teaching_goal": "Teach the shared Campanulaceae framework—fused corolla, inferior ovary, 5-part flowers and secondary pollen presentation—then split the project into a Triodanis free-stamen/pore-capsule door and a Lobelia anther-tube/bilabiate door."
+  },
+  "project_scope": {
+    "selection_mode": "Project module across Triodanis and Lobelia",
+    "note": "Six source rows represent five species-level concepts plus one accepted infraspecific concept: source Triodanis biflora is currently treated by Kew as Triodanis perfoliata subsp. biflora."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Find a single flower—not a composite head—and inspect the ovary position. In the project genera the corolla is fused and the ovary is inferior, with the other flower parts arising above it.",
+    "vegetative": "Mostly herbs in the project pool, with simple alternate leaves. Milky latex is common in Campanulaceae but is not needed as a crew field test.",
+    "reproductive": "Flowers usually 5-merous with a sympetalous corolla and an inferior ovary containing many ovules. Five stamens are present, but their relationship differs sharply by project genus: free in Triodanis, anthers connate into a tube around the style in Lobelia.",
+    "fruit": "Capsule with many seeds in the project taxa. Triodanis capsules open by pores in the lower portion; Lobelia cardinalis has an apically valvate capsule.",
+    "field_tip": "First confirm individual fused-corolla flowers over an inferior ovary. Then ask: regular/star-like with free stamens = Triodanis; strongly bilabiate with an anther tube = Lobelia."
+  },
+  "visual_lesson": {
+    "status": "photo_anatomy_examples_triodanis_five_taxa",
+    "teaching_order": "individual flower → alternate leaves → calyx/flower attachment → closed flower → Lobelia contrast → inferior ovary → capsule pore → anther tube and plunger",
+    "intro": "Study the Bellflower family by following REAL flower, leaf and fruit parts. Our photographed Triodanis examples show violet corollas, alternate leaves (broad clasping OR slender), little closed flowers, and green inferior floral/fruit bodies. Lobelia has a different strongly two-lipped flower and anther tube; a true matched macro is still needed. Do not invent seed-pore arrows.",
+    "steps": [
+      {
+        "title": "1 · See the five fused purple corolla lobes",
+        "photo_role": "corolla flower front",
+        "anchor_species_id": "triodanis-perfoliata-subsp-biflora",
+        "anchor_image_index": 1,
+        "look_for": "Five violet corolla lobes radiate from one connected flower base in the Bastrop macro.",
+        "why_it_matters": "Start with a single corolla rather than an Asteraceae composite head.",
+        "status": "installed_verified_unannotated"
+      },
+      {
+        "title": "2 · Follow alternate clasping leaves",
+        "photo_role": "simple alternate leaves at nodes",
+        "anchor_species_id": "triodanis-perfoliata",
+        "anchor_image_index": 0,
+        "look_for": "Broad leaves wrap around the stem just beneath small violet flowers.",
+        "why_it_matters": "Explains the alternate leaf arrangement in one Campanulaceae member, not every species.",
+        "status": "installed_verified_unannotated"
+      },
+      {
+        "title": "3 · Recognize a closed self-pollinating flower",
+        "photo_role": "cleistogamous green flower",
+        "anchor_species_id": "triodanis-perfoliata-subsp-biflora",
+        "anchor_image_index": 2,
+        "look_for": "Small green unopened flowers occur along the shoot; no open purple corolla is exposed.",
+        "why_it_matters": "Distinguishes closed self-pollinating from open chasmogamous flowers.",
+        "status": "installed_verified_unannotated"
+      },
+      {
+        "title": "4 · Study the elongated inferior floral body",
+        "photo_role": "elongated hypanthium / narrow calyx",
+        "anchor_species_id": "triodanis-leptocarpa",
+        "anchor_image_index": 2,
+        "look_for": "Long slim ribbed green structures below pointed calyx lobes are visible; these will mature into seed capsules. The exact pore isn't confirmed.",
+        "why_it_matters": "Connects the inferior ovary/hypanthium with later fruit anatomy.",
+        "status": "installed_verified_unannotated"
+      },
+      {
+        "title": "5 · Compare narrow bracts against clasping leaves",
+        "photo_role": "narrow upper bracts",
+        "anchor_species_id": "triodanis-coloradoensis",
+        "anchor_image_index": 0,
+        "look_for": "Numerous needle-narrow upper bracts surround the small flower on a narrow stem; unrelated round leaves are visible in the background.",
+        "why_it_matters": "One family contains very different leaf-base styles, including clasping and slender-bract types.",
+        "status": "installed_verified_unannotated"
+      },
+      {
+        "title": "6 · See broad leaves and green capsules",
+        "photo_role": "alternate stem leaves and capsule",
+        "anchor_species_id": "triodanis-texana",
+        "anchor_image_index": 2,
+        "look_for": "Several broad alternate leaf blades and small green capsule-like nodes occur on one complete stem. The opening is not discernible.",
+        "why_it_matters": "Connects leafy stem morphology to lower closed flowers/fruit structures.",
+        "status": "installed_verified_unannotated"
+      },
+      {
+        "title": "5 · Meet Lobelia's very different flower",
+        "photo_role": "red two-lipped Lobelia cardinalis reference",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Lobelia_cardinalis_19zz.jpg",
+        "image_label": "Lobelia cardinalis — cardinal flower",
+        "image_alt": "Red cardinal flower (Lobelia cardinalis), Campanulaceae flower-shape reference",
+        "image_credit": "David J. Stang · CC BY-SA 4.0",
+        "look_for": "Observe the red, strongly asymmetric flower with upper and lower lobes. This is a labeled external reference, NOT an installed photo of Triodanis nor a confirmed anther-tube dissection.",
+        "why_it_matters": "The family contains both near-radial Triodanis and two-lipped Lobelia: do not define Campanulaceae by flower color or symmetry alone.",
+        "status": "external_reference"
+      },
+      {
+        "title": "6 · Locate the inferior ovary",
+        "photo_role": "inferior ovary flower side and cutaway",
+        "look_for": "The ovary lies below the place where the calyx, petals and stamens attach. Need a real macro or cutaway that actually reveals that connection.",
+        "why_it_matters": "A major Campanulaceae reproductive clue; cannot accurately infer location from the available front flower photographs.",
+        "status": "needs_photo"
+      },
+      {
+        "title": "7 · Find the little seed-release window",
+        "photo_role": "mature Triodanis capsule with pore",
+        "look_for": "Turn a fully ripe capsule to the side and find the real small opening. Its position helps distinguish perfoliata from biflora. An exact pore macro with ruler is not yet installed.",
+        "why_it_matters": "Capsule dehiscence separates look-alikes even after blossoms disappear.",
+        "status": "needs_photo"
+      },
+      {
+        "title": "8 · Check Lobelia's anther tube and pollen plunger",
+        "photo_role": "Lobelia stamens / joined anthers / style phases macro",
+        "look_for": "Five anthers join around the style and present pollen before the stigma extends. The flower-shape reference above does not show the detailed mechanism; microscope photos are needed.",
+        "why_it_matters": "Separates Lobelia's reproductive architecture from Triodanis free stamens.",
+        "status": "needs_photo"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Campanulaceae vs Asteraceae",
+        "rule": "Both are Asterales and commonly have inferior ovaries plus secondary pollen presentation. Campanulaceae project flowers are individual fused-corolla flowers producing many-seeded capsules; Asteraceae packs many tiny florets into a capitulum and each floret usually makes a one-seeded cypsela."
+      },
+      {
+        "title": "Triodanis vs Lobelia",
+        "rule": "Triodanis = more regular 5-lobed flower, free stamens, lower-axil cleistogamous flowers and a pore-opening capsule. Lobelia = strongly zygomorphic 2+3 corolla, connate anther tube around the style and an apically valvate capsule."
+      },
+      {
+        "title": "Campanulaceae Lobelia vs Plantaginaceae Penstemon",
+        "rule": "Both may show tubular, two-lipped flowers, so flower color and lip shape alone mislead. In Lobelia cardinalis, five anthers are joined into a tube around the style and the many-seeded capsule develops from an inferior ovary (below floral-part insertion). In Penstemon, the ovary is superior and the usual floral plan has four fertile stamens plus a fifth sterile, often hairy staminode; its anthers are not joined into a Lobelia-style tube. Check a flower side view or dissection to establish ovary position and count/fusion of anthers; the staminode is a Penstemon clue, not a universal Plantaginaceae character."
+      }
+    ],
+    "caveat": "The genus shares Campanulaceae traits but its photo roles cannot stand in for all family members. The Lobelia photo is an EXTERNAL licensed reference, not an installed local specimen. No real arrow or pore detection has been verified.",
+    "prior_steps_before_photo_polish": [
+      {
+        "title": "1 · Locate the inferior ovary",
+        "photo_role": "flower side view / cutaway",
+        "look_for": "The corolla, calyx and stamens arise above the ovary; the ovary is embedded below the visible flower.",
+        "why_it_matters": "This is a strong family-level Asterales character shared by both project genera.",
+        "status": "macro_or_diagram_pending"
+      },
+      {
+        "title": "2 · Triodanis door: regular flower + free stamens",
+        "photo_role": "Triodanis flower face and opened flower",
+        "look_for": "A blue-purple rotate to shallowly campanulate flower usually divided into 5 lobes, with 5 stamens free from one another; lower axils may also contain tiny cleistogamous flowers.",
+        "why_it_matters": "Separates Venus's-looking-glass from Lobelia without relying on color.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "3 · Find the Triodanis pore-opening capsule",
+        "photo_role": "mature capsule macro",
+        "look_for": "An elongated inferior capsule opening through 2–3 pores in the lower part of the fruit.",
+        "why_it_matters": "A highly memorable genus-level fruit character after the showy corolla is gone.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "4 · Lobelia door: split two-lipped corolla",
+        "photo_role": "Lobelia cardinalis flower side/front",
+        "look_for": "The corolla is split nearly to the base dorsally and forms a bilabiate limb: 2 upper lobes and 3 lower lobes.",
+        "why_it_matters": "Explains why cardinal flower looks so different from Triodanis while remaining in the same family.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "5 · Find the Lobelia anther tube",
+        "photo_role": "reproductive column macro",
+        "look_for": "Five anthers joined into a tube around the style; the reproductive column projects through the dorsal corolla split.",
+        "why_it_matters": "This is the key Lobelia mechanism and a major contrast with free-stamen Triodanis.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "6 · Show plunger pollen presentation",
+        "photo_role": "male-phase → female-phase sequence",
+        "look_for": "The style pushes pollen through the anther tube, then the receptive 2-lobed stigma emerges later.",
+        "why_it_matters": "Turns an abstract Asterales pollen-presentation concept into a visible sequence.",
+        "status": "sequence_pending"
+      },
+      {
+        "title": "7 · Clean up Triodanis biflora",
+        "photo_role": "taxonomy card",
+        "look_for": "Source Triodanis biflora → accepted Triodanis perfoliata subsp. biflora under current Kew.",
+        "why_it_matters": "Avoids counting the subspecies as a separate species while preserving the familiar source name.",
+        "status": "taxonomy_card_ready"
+      }
+    ],
+    "anatomy_examples": [
+      {
+        "species": "Lobelia cardinalis",
+        "plain_label": "Joined pollen sacs around the style",
+        "formal_label": "Five connate anthers forming an anther tube",
+        "where_to_look": "Open a mature flower gently and inspect the protruding reproductive column; distinguish the joined anthers from the surrounding corolla.",
+        "photo_role": "exact-species flower side and reproductive-column macro or dissection; do not infer anther fusion from a whole-flower view",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption_plan": "The five joined anthers form a tube around the style; label only after the anther boundary is visible in this frame."
+      },
+      {
+        "species": "Lobelia cardinalis",
+        "plain_label": "Seed chamber below the flower parts",
+        "formal_label": "Inferior ovary with perianth insertion above the ovary",
+        "where_to_look": "Compare a longitudinal flower-side cutaway with a Penstemon flower cutaway at similar scale; trace where sepals and corolla attach relative to the ovary.",
+        "photo_role": "exact-species side-view longitudinal cutaway showing ovary/perianth insertion; matched Penstemon comparison needs separate verified source",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption_plan": "Lobelia has an inferior ovary below the floral-part insertion; do not draw a position arrow from an undissected front-facing flower."
+      },
+      {
+        "species": "Penstemon cobaea",
+        "comparison_family": "Plantaginaceae",
+        "plain_label": "Four pollen-bearing stamens and a fifth sterile one",
+        "formal_label": "Four fertile stamens plus one staminode; superior ovary",
+        "where_to_look": "Dissect a Penstemon flower and count the fertile stamens separately from the sterile fifth filament; locate the ovary above the floral-part insertion.",
+        "photo_role": "verified exact-species Penstemon cobaea open-flower dissection with staminode and superior ovary, matched against Lobelia; no image currently certified",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption_plan": "Penstemon is a Plantaginaceae comparison, not a Campanulaceae member; verify all five filament positions before labeling."
+      }
+    ]
+  },
+  "project_pool_genus_roadmap": {
+    "count": 2,
+    "genera": [
+      {
+        "genus": "Triodanis",
+        "source_taxa_count": 5,
+        "current_species_level_concepts": 4,
+        "plus_infraspecific_concept": 1,
+        "fast_cue": "annual Venus's-looking-glass + regular blue-purple 5-lobed flower + free stamens + lower-poricidal capsule",
+        "role": "regular-flower door"
+      },
+      {
+        "genus": "Lobelia",
+        "source_taxa_count": 1,
+        "current_species_level_concepts": 1,
+        "fast_cue": "bilabiate 2+3 corolla + anther tube around style + inferior ovary",
+        "role": "lobelia/plunger door"
+      }
+    ]
+  },
+  "project_pool_taxa_source": [
+    "Triodanis biflora",
+    "Triodanis perfoliata",
+    "Triodanis texana",
+    "Triodanis coloradoensis",
+    "Triodanis leptocarpa",
+    "Lobelia cardinalis"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Triodanis biflora",
+      "current_name": "Triodanis perfoliata subsp. biflora",
+      "note": "Current Kew treats T. biflora as a synonym of the accepted subspecies; do not double-count as a species."
+    },
+    {
+      "source_name": "Triodanis perfoliata",
+      "current_name": "Triodanis perfoliata",
+      "note": "Accepted; current Kew recognizes subsp. perfoliata and subsp. biflora."
+    },
+    {
+      "source_name": "Triodanis texana",
+      "current_name": "Triodanis texana",
+      "note": "Accepted; Kew native range is eastern Texas."
+    },
+    {
+      "source_name": "Triodanis coloradoensis",
+      "current_name": "Triodanis coloradoensis",
+      "note": "Accepted; Kew describes it as south-central Texas/Edwards Plateau."
+    },
+    {
+      "source_name": "Triodanis leptocarpa",
+      "current_name": "Triodanis leptocarpa",
+      "note": "Accepted; native range includes Texas."
+    },
+    {
+      "source_name": "Lobelia cardinalis",
+      "current_name": "Lobelia cardinalis",
+      "note": "Accepted; native range includes Texas."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "inferior ovary side view",
+      "annotation_goal": "label ovary below calyx/corolla insertion"
+    },
+    {
+      "priority": 1,
+      "structure": "Triodanis free stamens vs Lobelia anther tube",
+      "annotation_goal": "same-layout side-by-side reproductive-column comparison"
+    },
+    {
+      "priority": 1,
+      "structure": "Triodanis lower-pore capsule",
+      "annotation_goal": "label dehiscence pores on mature fruit"
+    },
+    {
+      "priority": 1,
+      "structure": "Lobelia plunger pollination sequence",
+      "annotation_goal": "pollen pushed from fused anther tube → stigma emergence"
+    },
+    {
+      "priority": 2,
+      "structure": "Triodanis biflora taxonomy card",
+      "annotation_goal": "source species name → accepted T. perfoliata subsp. biflora"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "POWO — Triodanis perfoliata",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:258447-2"
+    },
+    {
+      "source": "POWO — Triodanis biflora synonym",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:258442-2"
+    },
+    {
+      "source": "POWO — Triodanis texana",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:258450-2"
+    },
+    {
+      "source": "POWO — Triodanis coloradoensis",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:258443-2"
+    },
+    {
+      "source": "POWO — Triodanis leptocarpa",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:258446-2"
+    },
+    {
+      "source": "POWO — Lobelia cardinalis",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:142115-2"
+    },
+    {
+      "source": "Flora of China — Triodanis morphology",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=2&taxon_id=133694"
+    },
+    {
+      "source": "Flora of China — Lobelia morphology",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=2&taxon_id=118775"
+    }
+  ],
+  "curation_status": {
+    "version": "campanulaceae-family-visual-photo-pass-2026-10-13",
+    "last_reviewed": "2026-10-13",
+    "visual_lock": "family_structure_live_inferior_ovary_free_stamen_anther_tube_capsule_visuals_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent",
+    "visual_status": "six selected installed Triodanis photo anchors across five taxa plus Lobelia link; three macro gaps honestly identified",
+    "range_guardrails_unchanged": true,
+    "native_range_status": "UNRESOLVED unchanged"
+  }
+}

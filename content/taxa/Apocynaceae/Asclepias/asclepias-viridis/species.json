@@ -1,0 +1,217 @@
+{
+  "id": "asclepias-viridis",
+  "entry_type": "species",
+  "family": "Apocynaceae",
+  "subfamily": "Asclepiadoideae",
+  "genus": "Asclepias",
+  "species": "viridis",
+  "authority": "Walter",
+  "common_name": "Green Milkweed",
+  "native_target_zone": true,
+  "county_occurrences_reported": [
+    "Hays",
+    "Travis",
+    "Williamson",
+    "Bell",
+    "Comal",
+    "Blanco",
+    "Burnet",
+    "Gillespie",
+    "San Saba",
+    "McCulloch"
+  ],
+  "tags": [
+    "Monarch Host",
+    "Queen Host",
+    "Milky Latex",
+    "Loose Umbel",
+    "Hornless Hoods",
+    "Ascending Habit"
+  ],
+  "morphology_keys": {
+    "sap_type": "Thick milky white latex",
+    "leaf_arrangement": "Irregularly arranged, alternate to subopposite (occasionally opposite); do not treat apparently opposite leaves as a definitive identification character.",
+    "leaf_morphology": "Usually broad oblong to ovate (sometimes lanceolate), approximately 1–6 cm wide; tip obtuse/rounded to shortly acute, entire margins sometimes gently wavy.",
+    "inflorescence": "Crowded terminal umbel-like clusters; additional lateral umbels may occur at a few upper nodes. Both this species and A. asperula can make dense clusters, so cluster looseness alone is unreliable.",
+    "flower_color": "Pale-green corolla lobes surrounding a corona with frequently rose to purplish-red hoods; colors vary.",
+    "gynostegium_detail": "Five pouch-like corona hoods are present. They lack a clearly projecting horn; an incipient horn/rudiment may be visible within a hood pocket (UT Williamson County description). Corona segments are generally less than half the length of the pale-green corolla lobes (Flora of North America comparison).",
+    "growth_habit": "Perennial with stems spreading or decumbent to ascending, sometimes upright, often to roughly 50–60 cm; habit alone overlaps with A. asperula."
+  },
+  "comparisons": {
+    "confused_with": "Asclepias asperula (antelopehorns)",
+    "key_distinctions": "Look at the leaf tip first: A. viridis is typically broader, oblong/ovate and blunt to shortly acute; A. asperula is typically narrower, lanceolate/linear-lanceolate and narrowly taper-pointed. Flower close-up: A. viridis corona segments are proportionally shorter than the corolla lobes. Both have hoods and neither is reliably separated by a simple 'horn present vs absent' rule. Umbel shape, soil and habit are supporting—not stand-alone—clues."
+  },
+  "ecological_notes": {
+    "host_status": "High-value Monarch and Queen oviposition host in Central Texas Blackland Prairies.",
+    "habitat": "Prairies, pastures, glades, disturbed ground and roadsides; compared with A. asperula, often on deeper soils and valley sites, but soil preference is not an absolute diagnostic."
+  },
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Comal",
+    "Blanco",
+    "Burnet",
+    "Gillespie",
+    "San Saba",
+    "McCulloch"
+  ],
+  "target_zone_count": 8,
+  "native_target_zone_calculated": true,
+  "images": [
+    {
+      "file": "images/01-habit.png",
+      "role": "Recognize · upright stems bearing opposite leaves and pale green flower clusters",
+      "creator": "",
+      "license": "",
+      "source_page": "",
+      "direct_image_url": "",
+      "platform": "",
+      "observation_id": "",
+      "photo_id": "",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/02-leaves.png",
+      "role": "Look closer · broad opposite leaves immediately below a greenish flowering cluster",
+      "creator": "",
+      "license": "",
+      "source_page": "",
+      "direct_image_url": "",
+      "platform": "",
+      "observation_id": "",
+      "photo_id": "",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/03-inflorescence.png",
+      "role": "Recognize · multi-stem flowering patch with many pale green umbels",
+      "creator": "",
+      "license": "",
+      "source_page": "",
+      "direct_image_url": "",
+      "platform": "",
+      "observation_id": "",
+      "photo_id": "",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/04-flower-macro.png",
+      "role": "Look closer · individual greenish flowers and their central hood-like structures (ID unverified)",
+      "creator": "",
+      "license": "",
+      "source_page": "",
+      "direct_image_url": "",
+      "platform": "",
+      "observation_id": "",
+      "photo_id": "",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/05-diagnostic.png",
+      "role": "Look closer · umbel viewed from above, showing open flowers, buds and nearby leaves (ID unverified)",
+      "creator": "",
+      "license": "",
+      "source_page": "",
+      "direct_image_url": "",
+      "platform": "",
+      "observation_id": "",
+      "photo_id": "",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/public-inat-asclepias-viridis-753131012.jpg",
+      "role": "Provisional green antelopehorn exact-species field face; verify corolla lobes, hoods, horn pocket and leaf shape before adding anatomy arrows.",
+      "caption": "Individually licensed, research-grade iNaturalist observation photograph of Asclepias viridis. Plant-part diagnostic anatomy needs a separate visual check before precise arrows or FINALIZED marking.",
+      "creator": "(c) Linda Jo Conn, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/753131012",
+      "source_observation_page": "https://www.inaturalist.org/observations/409591368",
+      "source_photo_id": "753131012",
+      "source_observation_id": "409591368",
+      "source_taxon": "Asclepias viridis",
+      "source_quality_grade": "research",
+      "source_photo_license_code": "cc-by",
+      "source_type": "iNaturalist individually licensed exact-taxon photo verified by current photo API",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/753131012/large.jpg",
+      "public_reuse": "yes, conditional on recorded CC attribution/NC terms and noncommercial education",
+      "changes": "Downloaded iNaturalist photo, resized and reencoded to JPEG without EXIF/GPS; no annotations added.",
+      "source_sha256": "d3942590b0105a2ada67850a2fec13436b369e1b9d305c092aa4c1c924e385bc",
+      "published_jpeg_sha256": "e03b50c4eab78aec5779d6cf13487b0626b47711873845ed4776328cce013690",
+      "published_jpeg_dimensions": [
+        1024,
+        887
+      ],
+      "annotation_pending": true,
+      "photo_organ_validation": "pending independent anatomical visual review"
+    }
+  ],
+  "curation_status": {
+    "photo_metadata_count": 5,
+    "photo_files_present": 5,
+    "photo_backfill_source": "historical taxa.zip migration",
+    "morphology_correction_reviewed": "2026-10-12",
+    "visual_comparison_status": "diagnostic_photos_existing; arrow_overlays_pending; historical_viridis_image_provenance_unresolved"
+  },
+  "look_here_first": "Look at a mature leaf first: usually oblong to ovate, relatively broad, with a blunt, rounded or shortly acute tip. Then check the flower: five reddish-purple hoods form the corona, but there is no conspicuous projecting horn. Compare the relatively short corona segments with the much longer pale green corolla lobes; confirm against narrow, taper-tipped A. asperula.",
+  "photo_strategy": {
+    "status": "specific_photographic_polish_pending",
+    "prioritize_reuse": "existing five physical photos; photographer/licensing recovery needed for all five historical assets",
+    "annotation_requirements": [
+      {
+        "view": "mature leaf, same scale as A. asperula",
+        "arrow_to": "blade outline and apex",
+        "label": "Broader, oblong/ovate blade; blunt or shortly acute tip"
+      },
+      {
+        "view": "individual flower from above and from side",
+        "arrow_to": "one hood and its inner pocket",
+        "label": "Hood present; no conspicuous projecting horn (possible incipient rudiment)"
+      },
+      {
+        "view": "flower side with scale",
+        "arrow_to": "corona segment length compared with corolla lobe",
+        "label": "Corona segments < half corolla-lobe length (FNA)"
+      },
+      {
+        "view": "whole flowering plant",
+        "arrow_to": "leaf and branching structure",
+        "label": "Habit supports, but does not prove, identification"
+      }
+    ],
+    "caution": "Do not draw arrows onto an unidentified hood/horn without visually verifying the source crop. Do not infer licenses for historical files."
+  },
+  "curated_morphology_sources": [
+    "https://w3.biosci.utexas.edu/prc/K12/pdf/Asclepias%20viridis",
+    "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_rp_w7000_1803.pdf",
+    "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416119"
+  ],
+  "native_range_audit": {
+    "date": "2026-10-14",
+    "decision": "PASS",
+    "native_target_counties": [
+      "Hays",
+      "Travis",
+      "Comal",
+      "Blanco",
+      "Burnet",
+      "Gillespie",
+      "San Saba",
+      "McCulloch"
+    ],
+    "excluded_out_of_zone_counties": [
+      "Williamson",
+      "Bell"
+    ],
+    "prior_count": 10,
+    "verified_count": 8,
+    "reason": "Correct counted county metadata to project 24-county boundary; retains PASS because >=3 accepted records still in zone",
+    "confidence": "high for boundary recalculation; inherited county evidence should undergo future voucher check"
+  },
+  "photo_note": "Broad visual-role descriptions screened from actual installed pixels on 2026-10-17; exact historical image creator/license, independent species identification and microscopic anatomy remain unverified. No arrows certified."
+}
