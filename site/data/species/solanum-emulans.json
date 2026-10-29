@@ -1,0 +1,74 @@
+{
+  "id": "solanum-emulans",
+  "family": "Solanaceae",
+  "genus": "Solanum",
+  "scientific_name": "Solanum emulans",
+  "common_name": "Eastern black nightshade",
+  "look_here_first": "LOOK HERE FIRST · Small UNARMED black-nightshade herb with alternate ovate leaves, tiny white 5-lobed flowers and SHORT yellow anthers. The truly decisive field comparison is with MATURE fruit: S. emulans has GREEN CALYX LOBES APPRESSED/SPREADING against berry base and a fruiting PEDICEL that commonly drops with the berry; S. americanum has strongly REFLEXED calyx lobes and its fruit pedicel generally remains on plant. Photo 2 shows only an IMMATURE GREEN berry—do not overidentify from that.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Solanaceae: fused 5-lobed corolla, five anthers, berry fruit; this unarmed black-nightshade complex has simple alternate leaves, unlike prickly buffalobur."
+    },
+    {
+      "label": "Identification",
+      "text": "Unarmed green annual or short-lived perennial; simple alternate ovate leaves, entire to shallowly toothed or wavy."
+    },
+    {
+      "label": "Identification",
+      "text": "Tiny white five-lobed rotate/star corollas, usually small unbranched flower clusters."
+    },
+    {
+      "label": "Identification",
+      "text": "Yellow short anthers typically ~1.0–1.5 mm in FNA, with relatively LONGER free filaments ~0.6–1.0 mm than S. americanum."
+    },
+    {
+      "label": "Identification",
+      "text": "Mature berries globose, ca. 5–10 mm, dull or only slightly glossy purplish-black; immature berries green are NOT diagnostic."
+    },
+    {
+      "label": "Identification",
+      "text": "Fruiting calyx has small lobes APPRESSED or SPREADING against berry rather than strongly curling back."
+    },
+    {
+      "label": "Identification",
+      "text": "Fruit-bearing pedicels often reflexed/recurved, thickened at the apex; the mature berry normally falls WITH its stalk."
+    },
+    {
+      "label": "Identification",
+      "text": "Often 6–9 sclerotic granules (hard stone cells) within berry; specialist character requiring safe specimen handling, NOT tasting."
+    },
+    {
+      "label": "Habit",
+      "text": "Small unarmed green branching herb common in disturbed places. Absence of prickles alone rules out buffalobur but not similar Morelloid black nightshades."
+    },
+    {
+      "label": "Leaf",
+      "text": "Simple alternate ovate to elliptic blades, edges entire, wavy or shallowly toothed. Leaf undersides may be purple tinged but color is variable and not reliable alone."
+    },
+    {
+      "label": "Flower",
+      "text": "Small white five-part star corollas, five little yellow anthers (~1.0–1.5 mm according to Flora of North America) with free filaments about 0.6–1.0 mm. Visible anther and filament measurements need macro scale; non-diagnostic wilted flower photos only show shape and placement."
+    },
+    {
+      "label": "Fruit",
+      "text": "Dark purple-black, commonly dull or only slightly glossy when ripe, globose, ~5–10 mm. GREEN lobes of fruiting calyx remain APPRESSED/SPREADING, not strongly reflexed. Fruit stalk often reflexed/curved and may fall WITH mature berry; pedicel apex thickens."
+    },
+    {
+      "label": "Habitat",
+      "text": "Moist woods, stream banks, gardens, roadsides and disturbed areas. Texas reported by Flora of North America, but Hays county range/occurrence has NOT been audited."
+    },
+    {
+      "label": "Management",
+      "text": "Treat as a field ID subject only; do not recommend eating leaves or fruits based on photographs because black-nightshade confusion and glycoalkaloids present risk."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Never split S. emulans and S. americanum from black berry or small white flower alone; inspect short anthers/filaments + mature calyx orientation + fruiting pedicels."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "5d6e9fe0fba5a5d3c146135793d664bd20435b1e02211d2bf3ca279f87f76f25",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

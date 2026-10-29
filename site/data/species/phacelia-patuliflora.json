@@ -1,0 +1,17 @@
+{
+  "id": "phacelia-patuliflora",
+  "family": "Boraginaceae",
+  "genus": "Phacelia",
+  "scientific_name": "Phacelia patuliflora",
+  "common_name": "Spreading phacelia",
+  "look_here_first": "Inspect hairy leaves and coiled flower clusters; check the five-lobed corolla, stamens and calyx hairs.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "a9d9f0ada10b7ab99e1daab297f887845c4011c988c6a32d81c87e8807cb34ab",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

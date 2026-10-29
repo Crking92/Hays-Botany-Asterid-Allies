@@ -1,0 +1,46 @@
+{
+  "id": "ipomoea-batatas",
+  "family": "Convolvulaceae",
+  "genus": "Ipomoea",
+  "scientific_name": "Ipomoea batatas",
+  "common_name": "Sweet potato",
+  "look_here_first": "Look for a sprawling or twining vine with thickened storage roots and highly variable heart-shaped to deeply lobed leaves. Flowers, when present, are pale pink to lavender morning-glory funnels with a darker throat.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "scrambling or twining perennial vine"
+    },
+    {
+      "label": "Identification",
+      "text": "fleshy enlarged storage roots"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves highly variable: cordate, triangular, hastate, or palmately lobed"
+    },
+    {
+      "label": "Identification",
+      "text": "long petioles"
+    },
+    {
+      "label": "Identification",
+      "text": "pale pink to lavender funnel-shaped flowers when present"
+    },
+    {
+      "label": "Identification",
+      "text": "dark purple throat"
+    },
+    {
+      "label": "Identification",
+      "text": "frequent cultivated or escaped garden/agricultural plant"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Compared with I. cordatotriloba, sweet potato is usually more robust and associated with cultivation, often with conspicuous storage roots and more variable, sometimes deeply lobed foliage. Do not treat escaped plants as Texas-native."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "18a1caad203ddb7e79ddc38ed36993f740421dec24f79116b4f17e2dbf770cf2",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

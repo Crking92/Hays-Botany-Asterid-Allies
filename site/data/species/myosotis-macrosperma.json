@@ -1,0 +1,17 @@
+{
+  "id": "myosotis-macrosperma",
+  "family": "Boraginaceae",
+  "genus": "Myosotis",
+  "scientific_name": "Myosotis macrosperma",
+  "common_name": "Large-seed forget-me-not",
+  "look_here_first": "Look at the small curled flowering branches and calyx hairs, then inspect the four mature nutlets.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "8acd7a09d0ac4044f8643a98cd81927703a8544123164ca54b45e166ae2d6d0c",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

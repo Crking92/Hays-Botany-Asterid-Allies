@@ -1,0 +1,50 @@
+{
+  "id": "gonolobus-suberosus-var-granulatus",
+  "family": "Apocynaceae",
+  "genus": "Gonolobus",
+  "scientific_name": "Gonolobus suberosus var. granulatus",
+  "common_name": "Anglepod milkweed vine",
+  "look_here_first": "Look for a vigorous twining vine with large opposite cordate leaves, relatively large uniform olive-green star-shaped flowers, and a long smooth follicle with strong longitudinal angles.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "vigorous perennial twiner"
+    },
+    {
+      "label": "Identification",
+      "text": "large opposite cordate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "axillary multi-flowered clusters"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers roughly 16–25 mm across in regional treatment"
+    },
+    {
+      "label": "Identification",
+      "text": "uniform olive-green glabrous corolla lobes"
+    },
+    {
+      "label": "Identification",
+      "text": "yellow dorsal anther appendages"
+    },
+    {
+      "label": "Identification",
+      "text": "non-reticulate corolla"
+    },
+    {
+      "label": "Identification",
+      "text": "large smooth sharply angled follicle"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Var. granulatus differs from var. suberosus in flower-color/appendage characters; unlike Matelea reticulata, it lacks the strongly reticulate corolla and muricate pod."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "323cf10dc2c0416bc55b6339a2bfb8f8693e1d3937dfa425dcf768179e57193c",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

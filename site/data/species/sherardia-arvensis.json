@@ -1,0 +1,17 @@
+{
+  "id": "sherardia-arvensis",
+  "family": "Rubiaceae",
+  "genus": "Sherardia",
+  "scientific_name": "Sherardia arvensis",
+  "common_name": "Field madder",
+  "look_here_first": "Low, trailing plant with leaves arranged in apparent whorls and tiny pink-purple four-lobed flowers in dense clusters.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "6d940dc4cdf7b162408f249e51e7f09a1adac88762c2394cf6ff3991c330eafd",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

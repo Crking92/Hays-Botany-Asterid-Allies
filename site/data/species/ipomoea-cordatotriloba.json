@@ -1,0 +1,46 @@
+{
+  "id": "ipomoea-cordatotriloba",
+  "family": "Convolvulaceae",
+  "genus": "Ipomoea",
+  "scientific_name": "",
+  "common_name": "Tievine",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Perennial in the Williamson County treatment; broader treatments note substantial variation."
+    },
+    {
+      "label": "Habit",
+      "text": "Twining or trailing vine with a taproot and long lateral roots."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate; ovate-deltoid to shallowly 3-lobed, cordate at base; leaf shape variable."
+    },
+    {
+      "label": "Sepals",
+      "text": "Outer sepals about 8–11 mm, usually ciliate/hairy; inner sepals about 10–12 mm."
+    },
+    {
+      "label": "Corolla",
+      "text": "Pink to purple, usually about 2.5–4.5 cm, darker in the throat."
+    },
+    {
+      "label": "Key",
+      "text": "Shorter, broader sepals than I. hederacea; perennial rooting habit also helps."
+    }
+  ],
+  "lookalikes": {
+    "names": [
+      "Ipomoea hederacea",
+      "Ipomoea triloba",
+      "Ipomoea lacunosa"
+    ],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c48ccd522277c4ee2c8cd7c54d59e64ac4de6fc01f372580a3b1acf86b021e9b",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

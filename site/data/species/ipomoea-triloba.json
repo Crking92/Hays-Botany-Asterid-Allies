@@ -1,0 +1,54 @@
+{
+  "id": "ipomoea-triloba",
+  "family": "Convolvulaceae",
+  "genus": "Ipomoea",
+  "scientific_name": "",
+  "common_name": "Littlebell",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Annual in Flora of North America treatment."
+    },
+    {
+      "label": "Habit",
+      "text": "Usually twining, sometimes trailing."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Alternate."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Leaf blades orbiculate to broadly ovate or 3–7-lobed, usually 20–80 mm long, with a cordate base. Surfaces glabrous or sparsely pilose."
+    },
+    {
+      "label": "Peduncle",
+      "text": "Generally glabrous; can bear one to several flowers."
+    },
+    {
+      "label": "Sepals",
+      "text": "Short, usually about 6–7 mm long; narrowly elliptic-oblong, lanceolate, or oblong; apex acute to obtuse, often mucronulate-caudate; margins ciliate."
+    },
+    {
+      "label": "Corolla",
+      "text": "Small lavender to pink/purple funnel-shaped corolla, usually about 10–20 mm long in Flora of North America."
+    },
+    {
+      "label": "Fruit",
+      "text": "Subglobose capsule; seed capsule view included in the curated photo set."
+    },
+    {
+      "label": "Flowering",
+      "text": "Can flower over a long season in warm climates."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "ff385721a0f43132e56657d14055fda7528477960af1d14bf007d1f07bbd8784",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

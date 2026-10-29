@@ -1,0 +1,45 @@
+{
+  "id": "ipomoea-lacunosa",
+  "family": "Convolvulaceae",
+  "genus": "Ipomoea",
+  "scientific_name": "",
+  "common_name": "Whitestar",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Annual."
+    },
+    {
+      "label": "Habit",
+      "text": "Twining vine."
+    },
+    {
+      "label": "Leaves",
+      "text": "Cordate-ovate to deltate-ovate, entire or 3(–5)-lobed; glabrous or sparsely hairy."
+    },
+    {
+      "label": "Sepals",
+      "text": "Elliptic-oblong to lanceolate, usually 11–14 mm, ciliate, acuminate."
+    },
+    {
+      "label": "Corolla",
+      "text": "Usually white, sometimes pink-tinged; about 15–20(–25) mm."
+    },
+    {
+      "label": "Key",
+      "text": "Small white flower + 11–14 mm pointed sepals; compare with I. triloba and I. cordatotriloba."
+    }
+  ],
+  "lookalikes": {
+    "names": [
+      "Ipomoea triloba",
+      "Ipomoea cordatotriloba"
+    ],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "fe6eba0f3ee1c5051a15a673d4e4de67d820c8f113de5d60f517017597b7d17f",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

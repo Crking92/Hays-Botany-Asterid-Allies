@@ -1,0 +1,17 @@
+{
+  "id": "galium-virgatum",
+  "family": "Rubiaceae",
+  "genus": "Galium",
+  "scientific_name": "Galium virgatum",
+  "common_name": "Wand bedstraw",
+  "look_here_first": "Slender annual bedstraw with narrow leaves arranged in apparent whorls and very small four-parted flowers; examine the mature paired fruits and hairs.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "71e718d0ed2a8ed7174c64914b555e2fe7c214fb8e9c313d714d3817f26ec0d5",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "matelea-edwardsensis",
+  "family": "Apocynaceae",
+  "genus": "Matelea",
+  "scientific_name": "Matelea edwardsensis",
+  "common_name": "Edwards Plateau milkvine",
+  "look_here_first": "Compare the flower directly with pearl milkvine: it is more bell-shaped, with mostly parallel longitudinal green lines that become netted only near the lobe tips/margins, and the inner corolla surface is visibly hairy.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "herbaceous twining vine 30–200 cm"
+    },
+    {
+      "label": "Identification",
+      "text": "stems sparsely hairy to nearly glabrous"
+    },
+    {
+      "label": "Identification",
+      "text": "deeply cordate opposite leaves, basal lobes often overlapping"
+    },
+    {
+      "label": "Identification",
+      "text": "3–12-flowered inflorescences"
+    },
+    {
+      "label": "Identification",
+      "text": "pale yellow-green campanulate corolla with darker longitudinal lines"
+    },
+    {
+      "label": "Identification",
+      "text": "reticulation mostly toward lobe tips/margins"
+    },
+    {
+      "label": "Identification",
+      "text": "inner corolla densely hirtellous"
+    },
+    {
+      "label": "Identification",
+      "text": "five fleshy corona segments free nearly to base"
+    },
+    {
+      "label": "Identification",
+      "text": "8–10 cm sparsely/moderately muricate follicle"
+    },
+    {
+      "label": "Milkweed vine training",
+      "text": "Use fused corolla plus corona/gynostegium and follicle armature; preserve modern genus placement even when older/source labels use Matelea."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "6999874ffa824502722a558bf9c1b8442e24a4625bb705790672c56c9d8216b9",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

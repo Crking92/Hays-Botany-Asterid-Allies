@@ -1,0 +1,17 @@
+{
+  "id": "phacelia-strictiflora",
+  "family": "Boraginaceae",
+  "genus": "Phacelia",
+  "scientific_name": "Phacelia strictiflora",
+  "common_name": "Stiff-flower phacelia",
+  "look_here_first": "Inspect hairy lobed leaves and the curved or coiled flower clusters; check the five-part flower and exposed stamens.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "35a85ed632500b4582255b179cbd88e734a7579cac6ee9eadb585a12818c12ae",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

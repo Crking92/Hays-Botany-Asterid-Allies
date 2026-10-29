@@ -1,0 +1,17 @@
+{
+  "id": "nicotiana-glauca",
+  "family": "Solanaceae",
+  "genus": "Nicotiana",
+  "scientific_name": "Nicotiana glauca",
+  "common_name": "Tree tobacco (introduced)",
+  "look_here_first": "Look for a tall blue-green woody tobacco with smooth waxy entire leaves and drooping tubular yellow flowers; inspect leaf bases and capsules to separate herbaceous Nicotiana.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "6ab8fe5904772e363974c189b841dc7e9be2c3f4b39152e1496ec4f6cd85af2f",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

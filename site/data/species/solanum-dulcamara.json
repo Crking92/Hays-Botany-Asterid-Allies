@@ -1,0 +1,74 @@
+{
+  "id": "solanum-dulcamara",
+  "family": "Solanaceae",
+  "genus": "Solanum",
+  "scientific_name": "Solanum dulcamara",
+  "common_name": "Bittersweet nightshade",
+  "look_here_first": "LOOK HERE FIRST · UNARMED scrambling or climbing nightshade with often LOBED ovate leaves, PURPLE corolla lobes strongly REFLEXED backward, a close-packed yellow ANTHER CONE, and clusters of shiny RED berries. Flower clusters commonly much branched with 7–40 flowers. Leaf basal lobes, anther arrangement and cluster branching are better together than berry color alone. RARE WHITE-flowered bittersweet exists. Texas nightshade (S. triquetrum) can also scramble and make red fruit, but generally has smaller white flowers, more individually distinct yellow anthers, sharply triangular/hastate leaves and 3–6-flowered clusters. Do NOT eat berries; introduced comparison, not a locally certified native.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Solanaceae/Solanum: alternate leaves, 5-parted rotate/stellate corollas, poricidal anthers, and berry fruits."
+    },
+    {
+      "label": "Identification",
+      "text": "UNARMED woody or herbaceous SCRAMBLING vine-like perennial (not a true tendril vine); older stems can persist."
+    },
+    {
+      "label": "Identification",
+      "text": "ALTERNATE petiolate leaves usually ovate/heart-shaped, often with one or two pointed SIDE LOBES near base; some leaves entirely unlobed."
+    },
+    {
+      "label": "Identification",
+      "text": "5-part DEEPLY REFLEXED purple/violet petals (rare WHITE); shiny GREEN/WHITE markings near petal bases may be visible in larger macros, not reliably visible in existing photo."
+    },
+    {
+      "label": "Identification",
+      "text": "Yellow anthers 4.5–6 mm (Flora of North America), held CONNIVENT/clustered into a compact cone; never call them 'fused' solely from ordinary photos."
+    },
+    {
+      "label": "Identification",
+      "text": "Many-branched, often 7–40-flowered clusters; pedicels insert into small sleeves on axis. Flowers roughly 1.5–2 cm wide."
+    },
+    {
+      "label": "Identification",
+      "text": "Shiny red mature berries roughly 0.5–1.5 cm long and green/purplish five-lobed calyces at base, as visible in current exact-species fruit photograph."
+    },
+    {
+      "label": "Identification",
+      "text": "FNA lists introduced-range occurrence widely in North America. Preserve this project's COMPARISON_NONNATIVE native-metrics exclusion."
+    },
+    {
+      "label": "Habit",
+      "text": "Unarmed, sprawling/scrambling woody-based perennial, sometimes climbing through shrubs and fences; no prickles, tendrils, or adventitious adhesive pads required. Avoid calling it a twining vine without observing the mechanics."
+    },
+    {
+      "label": "Leaves",
+      "text": "Simple alternate petiolate blades, ovate to cordate, sometimes entire but often with basal side lobes (especially leaf at ~38% x,37% y in Piermario Maculan's berry photograph). Do not claim every leaf is lobed."
+    },
+    {
+      "label": "Flower",
+      "text": "Small five-lobed corolla typically PURPLE/violet, petals REFLEXED dramatically backward; rare WHITE plants occur. Yellow anthers equal and held CONNIVENT in a close cone, ~4.5–6 mm in FNA; bright green/pale shiny spots at corolla lobe bases. Present flower JPEG supports purple reflexed petals and anther cone, but does not support measured anther length or precise green-eye arrow."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Terminal/lateral extra-axillary MANY-BRANCHED 7–40-flowered cyme, pedicels in slight sleeves on axis; significantly more flowers than S. triquetrum's generally 3–6. Current flower photo shows only part of a cluster, not reliable to count to 40."
+    },
+    {
+      "label": "Fruit",
+      "text": "Round-ellipsoid glossy RED ripe berries, ~0.5–1.5 cm long, with persistent green to dark-purplish small five-lobed calyx and individual pedicels. Existing original Maculan photo actually shows mature red berries and visible calyx, so fruit-photo target is MET. Berry color alone can't separate S. dulcamara from S. triquetrum."
+    },
+    {
+      "label": "Habitat",
+      "text": "Many habitats, often somewhat moist disturbed places, hedgerows, thickets and streambanks. Eurasian origin / introduced comparison in this project; keep Texas/county nativity unchanged."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "SOLANUM DULCAMARA vs TEXAS NIGHTSHADE: purple REFLEXED corolla and tightly CONNIVENT yellow anthers, many-branched 7–40-flower clusters, ovate to basally lobed leaves versus usually small WHITE flowers with more separate FREE anthers, 3–6-flowered clusters, sharply triangular/hastate leaves and more angular stems. Exceptions: white-flowered S. dulcamara; both make red fruit, both scramble."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "ae22a4ae841062b02cbdc4f6f8c25b4d4f357ed32ae879e4873dfb7b1e5e48c7",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

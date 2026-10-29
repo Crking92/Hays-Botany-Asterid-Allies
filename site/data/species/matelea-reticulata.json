@@ -1,0 +1,46 @@
+{
+  "id": "matelea-reticulata",
+  "family": "Apocynaceae",
+  "genus": "Matelea",
+  "scientific_name": "Matelea reticulata",
+  "common_name": "Pearl milkvine",
+  "look_here_first": "Look at the flower first: broad flat pale-green lobes are strongly netted with dark green lines, and the center has conspicuous silvery reflective anther appendages—the 'pearl.'",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "twining perennial with milky latex"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite deeply cordate leaves; stems and petioles conspicuously hairy"
+    },
+    {
+      "label": "Identification",
+      "text": "rotate broad corolla lobes strongly dark-reticulate and glabrous adaxially"
+    },
+    {
+      "label": "Identification",
+      "text": "corona reduced to a very low yellow undulate ring"
+    },
+    {
+      "label": "Identification",
+      "text": "silvery reflective apical anther appendages"
+    },
+    {
+      "label": "Identification",
+      "text": "8–15 cm fusiform follicle, sparsely to moderately muricate"
+    },
+    {
+      "label": "Milkweed vine training",
+      "text": "Use fused corolla plus corona/gynostegium and follicle armature; preserve modern genus placement even when older/source labels use Matelea."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "98624704a789e7711fb08c6a60ad4b92531f8f36c3c26536c387d6785f0f757f",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

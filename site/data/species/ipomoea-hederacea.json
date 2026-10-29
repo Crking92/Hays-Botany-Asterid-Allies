@@ -1,0 +1,58 @@
+{
+  "id": "ipomoea-hederacea",
+  "family": "Convolvulaceae",
+  "genus": "Ipomoea",
+  "scientific_name": "",
+  "common_name": "Ivyleaf Morning-glory",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Annual."
+    },
+    {
+      "label": "Habit",
+      "text": "Twining vine/herb."
+    },
+    {
+      "label": "Stem",
+      "text": "Twining; typically hairy."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Alternate."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Blades broadly ovate to nearly orbicular or 3–5-lobed, 50–120 mm long and wide, base cordate, surfaces hairy. Leaf shape is variable and should not be used alone."
+    },
+    {
+      "label": "Peduncle",
+      "text": "Hairy, with retrorse hairs."
+    },
+    {
+      "label": "Sepals",
+      "text": "Five sepals, about 12–24 mm long; proximally broader/ovate, then abruptly narrowing into a long curved or spreading distal tip. At least the proximal portion is hirsute to hispid."
+    },
+    {
+      "label": "Corolla",
+      "text": "Light blue, funnel-shaped, usually about 20–37 mm long (sometimes to ~45 mm), with a white to pale-yellow inner tube."
+    },
+    {
+      "label": "Fruit",
+      "text": "Capsule; seed characters may be useful in difficult identifications."
+    },
+    {
+      "label": "Flowering",
+      "text": "May–November in Flora of North America treatment."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "de6a53509e3451cfa03226e317fef94f2f6088cea635f3c16d11519de4a6d984",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

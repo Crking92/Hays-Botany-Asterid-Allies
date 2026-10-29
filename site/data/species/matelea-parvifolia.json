@@ -1,0 +1,46 @@
+{
+  "id": "matelea-parvifolia",
+  "family": "Apocynaceae",
+  "genus": "Matelea",
+  "scientific_name": "Matelea parvifolia",
+  "common_name": "Small-leaf milkvine",
+  "look_here_first": "Look at leaf SIZE and flower SHAPE together: a wiry desert twiner with very small 0.5–2 cm leaves and tiny bell-shaped flowers with short triangular (2–3 mm) corolla lobes. Confirm the five-ridged cup-shaped corona at magnification.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Slender, drought-deciduous, suffrutescent twining plant; shoots roughly 10–150 cm"
+    },
+    {
+      "label": "Identification",
+      "text": "Small ovate to lanceolate or deltate leaves, approximately 0.5–2 cm long"
+    },
+    {
+      "label": "Identification",
+      "text": "Sessile, typically 1–3-flowered inflorescences"
+    },
+    {
+      "label": "Identification",
+      "text": "Very small campanulate brown/maroon-to-green flowers, not strongly net-reticulate"
+    },
+    {
+      "label": "Identification",
+      "text": "Short deltate corolla lobes approximately 2–3 mm long"
+    },
+    {
+      "label": "Identification",
+      "text": "Cup-shaped corona with five ridges; inspect style apex at close range"
+    },
+    {
+      "label": "Identification",
+      "text": "Narrow follicle about 5–9 cm long, nearly smooth to sparsely tuberculate"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Flower and corona characters plus leaf dimensions are more reliable than flower color alone. Photograph leaf and flower beside a ruler."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "af380ed2ed8db519e4d158502aa88c0f01efacd57aa3a57f6731418e7e25d206",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

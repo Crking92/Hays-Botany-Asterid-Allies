@@ -1,0 +1,45 @@
+{
+  "id": "ipomoea-lindheimeri",
+  "family": "Convolvulaceae",
+  "genus": "Ipomoea",
+  "scientific_name": "",
+  "common_name": "Lindheimer's Morning-glory",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Perennial."
+    },
+    {
+      "label": "Habit",
+      "text": "Twining vine from a persistent rootstock."
+    },
+    {
+      "label": "Leaves",
+      "text": "Broadly ovate to reniform, usually 3–5(–7)-lobed, cordate at base, hairy."
+    },
+    {
+      "label": "Sepals",
+      "text": "Long lanceolate to lance-ovate sepals, about 18–30 mm, usually hairy."
+    },
+    {
+      "label": "Corolla",
+      "text": "Large blue to violet funnel-shaped flower, about 55–90 mm long."
+    },
+    {
+      "label": "Key",
+      "text": "Large blue-violet flower + palmately lobed hairy leaves + very long lanceolate sepals."
+    }
+  ],
+  "lookalikes": {
+    "names": [
+      "Ipomoea cordatotriloba",
+      "Ipomoea nil"
+    ],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "face380d541726f7314624903b2dc65259365cb75f19a426711b97915cd18922",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

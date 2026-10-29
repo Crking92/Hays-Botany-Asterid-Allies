@@ -1,0 +1,17 @@
+{
+  "id": "sabatia-campestris",
+  "family": "Gentianaceae",
+  "genus": "Sabatia",
+  "scientific_name": "Sabatia campestris",
+  "common_name": "Prairie rose gentian",
+  "look_here_first": "Inspect narrow opposite leaves, five-parted pink flowers, central eye and stamens.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3ce6a0e8d8def931598fea8bd09f314f01b5b69b8231849c153a05b26744c83c",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

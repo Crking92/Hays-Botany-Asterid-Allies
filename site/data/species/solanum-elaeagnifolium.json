@@ -1,0 +1,74 @@
+{
+  "id": "solanum-elaeagnifolium",
+  "family": "Solanaceae",
+  "genus": "Solanum",
+  "scientific_name": "Solanum elaeagnifolium",
+  "common_name": "Silverleaf nightshade",
+  "look_here_first": "Crew field ID: look for SILVERY, usually narrow alternate leaves on an upright low perennial. Look closely at dense pale velvety leaf hairs, not just a purple flower. Star-shaped violet/blue (occasionally white) flowers have a yellow center with 5–6 closely clustered anthers; branches MAY have orange-tan prickles, but unarmed plants occur. Young round berries are pale green with DARK GREEN STRIPES; fully ripe berries turn YELLOW/ORANGE and lose the stripes. Stems can resprout from creeping underground roots/rhizomes. Do not eat any fruit.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Solanaceae/Solanum: alternate leaves, 5-parted rotate or star-shaped corollas, poricidal anthers, and berry fruits; prickles and stellate hairs occur in many species."
+    },
+    {
+      "label": "Identification",
+      "text": "rhizomatous clonal perennial, often in groups"
+    },
+    {
+      "label": "Identification",
+      "text": "dense pale/silvery stellate or scale-like leaf hair felt"
+    },
+    {
+      "label": "Identification",
+      "text": "alternate generally narrow lanceolate to wavy oblong leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "golden/orange-brown straight prickles may occur but may also be ABSENT"
+    },
+    {
+      "label": "Identification",
+      "text": "violet/blue (occasionally white) 5–6-lobed starry corolla"
+    },
+    {
+      "label": "Identification",
+      "text": "yellow anthers near the center, often nearly equal but sometimes unequal; NOT long, isolated buffalobur-style arched anther"
+    },
+    {
+      "label": "Identification",
+      "text": "green young berries with dark GREEN vertical stripes"
+    },
+    {
+      "label": "Identification",
+      "text": "fully ripe exposed yellow/orange berries with stripes gone"
+    },
+    {
+      "label": "Habit",
+      "text": "Long-lived clonal perennial or small subshrub, commonly 30–70 cm and sometimes approaching 1 m. Produces creeping deep-rooted belowground runners/rhizomes and new ramets; nearby shoots may form colonies. Root anatomy is NOT visible in standard aboveground study photos."
+    },
+    {
+      "label": "Leaves",
+      "text": "ALTERNATE (one per stem node), simple, usually lanceolate to narrowly oblong, sometimes broadly elliptic or lobed; margins often wavy. UT Williamson County treatment measures leaf blades approximately 35–125 × 10–57 mm. Both surfaces may appear pale gray/silver, commonly the underside more densely so. Blade width, wavy margins and silver intensity vary."
+    },
+    {
+      "label": "Hairs",
+      "text": "The gray sheen is densely overlapping stellate/lepidote trichomes, with rays fused near center. A visible silvery FELT indicates these hairs, but do not label individual microscopically tiny hair arms without a genuine magnified specimen photo. The surface can appear silver-white even where the precise hair shape is unresolved."
+    },
+    {
+      "label": "Prickles",
+      "text": "Often straight, sharp needlelike golden- or orange-brown stem emergences; Williamson County treatment reports ~1.5–5 mm. Prickles may also occur on pedicels, calyces and leaf veins. They are NOT branched thorns; plants may be entirely unarmed, so their presence is supporting rather than obligatory."
+    },
+    {
+      "label": "Flowers",
+      "text": "Typically 5, sometimes 6, blue-purple or violet corolla lobes, often roughly 20–40 mm across with a yellow starry throat; white-flowered variants occur. Five or six bright yellow elongated anthers are clustered near the center, sometimes differing modestly in length. The flower may expose an exserted style with stigma; anther terminal pores require magnification and cannot be positively pinpointed in the existing ordinary flower photo."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "The SILVER LEAF FELT plus exposed two-stage berries is the strongest combination. Solanum dimidiatum (not 'C. dimidiatum') is broadly lobed/greener with often much larger fruits. S. rostratum (buffalobur) has YELLOW flowers, strikingly long curved anther, and fruit enclosed in giant prickly calyx. Anthers of silverleaf may be somewhat unequal, so reject the 'exactly equal' shortcut."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "2105aa9a1cf50c1cde64e44cdc1cb0fdb00271d9f0ac03f69b0e0cb41b30dbba",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

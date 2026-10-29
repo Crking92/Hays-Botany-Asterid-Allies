@@ -1,0 +1,45 @@
+{
+  "id": "ipomoea-coccinea",
+  "family": "Convolvulaceae",
+  "genus": "Ipomoea",
+  "scientific_name": "",
+  "common_name": "Red Morning-glory",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Annual."
+    },
+    {
+      "label": "Habit",
+      "text": "Twining vine."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate; unlobed to shallowly 3-lobed or with small toothlike lobes."
+    },
+    {
+      "label": "Sepals",
+      "text": "About 8–9 mm at maturity with a distinctive subterminal fingerlike/awnlike projection."
+    },
+    {
+      "label": "Corolla",
+      "text": "Small scarlet to light-scarlet, salverform/trumpet-like; limb about 12–17 mm across."
+    },
+    {
+      "label": "Key",
+      "text": "Small scarlet flowers and awnlike sepal tips separate it quickly from the purple/blue core species."
+    }
+  ],
+  "lookalikes": {
+    "names": [
+      "Ipomoea hederifolia",
+      "Ipomoea quamoclit"
+    ],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "fd2d211880f4f370e9e7bd589a293123f300fae5fc67bd9770c94a2fbcd9d584",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "nicotiana-obtusifolia",
+  "family": "Solanaceae",
+  "genus": "Nicotiana",
+  "scientific_name": "Nicotiana obtusifolia",
+  "common_name": "Desert tobacco",
+  "look_here_first": "Look for sticky foliage and narrow tubular pale flowers; inspect calyx and fruit capsule.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "a31530ae14ac2982211d7bb7ab6359862ebc14abe6b04bdab4c2ac5e03fcd2c7",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

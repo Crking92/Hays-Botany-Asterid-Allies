@@ -1,0 +1,17 @@
+{
+  "id": "lithospermum-helleri",
+  "family": "Boraginaceae",
+  "genus": "Lithospermum",
+  "scientific_name": "Lithospermum helleri",
+  "common_name": "Heller's stoneseed",
+  "look_here_first": "Examine hairy foliage, tubular flower structure and hard nutlets forming within the calyx.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "60cfd0c0b499b09b4263a8921a6958b23e180131787ec6553967451773bb0583",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "solanum-americanum",
+  "family": "Solanaceae",
+  "genus": "Solanum",
+  "scientific_name": "Solanum americanum",
+  "common_name": "American black nightshade",
+  "look_here_first": "LOOK HERE FIRST · American black nightshade is an UNARMED, green herb with simple alternate ovate leaves and VERY SMALL white five-lobed star flowers, often in compact clusters. On mature plants, inspect the SMALL (~5–10 mm) SHINY PURPLE-BLACK BERRIES and the tiny green CALYX LOBES bent sharply BACK from the base of each ripe berry. Check SHORT, plump yellow anthers (~0.7–1.5 mm) with a hand lens or macro photo. Crucially: multiple black nightshade species look like this from a distance—green fruit or white petals alone cannot prove S. americanum.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Solanaceae / Solanum: alternate simple leaves, fused five-lobed star/rotate corollas, 5 poricidal anthers and berry fruits. Do not assume every Solanum is prickly; American black nightshade is unarmed."
+    },
+    {
+      "label": "Identification",
+      "text": "unarmed green annual to short-lived perennial, erect to spreading up to about 1.5 m"
+    },
+    {
+      "label": "Identification",
+      "text": "ALTERNATE simple ovate/elliptic leaves, typically 2–10.5 × 1–4.5 cm, smooth to slightly wavy or shallowly toothed"
+    },
+    {
+      "label": "Identification",
+      "text": "usually 3–10 tiny white flowers borne together on simple, often umbrella-like stalk groups"
+    },
+    {
+      "label": "Identification",
+      "text": "white five-lobed corolla, typically only 4–8 mm across (occasional larger variation)"
+    },
+    {
+      "label": "Identification",
+      "text": "five SHORT yellow anthers, about 0.7–1.5 mm long"
+    },
+    {
+      "label": "Identification",
+      "text": "green pea-size developing berries turning GLOSSY purple-black, approximately 5–10 mm wide"
+    },
+    {
+      "label": "Identification",
+      "text": "mature fruit calyx lobes tiny and STRONGLY REFLEXED (pointing backwards away from berry)"
+    },
+    {
+      "label": "Identification",
+      "text": "mature berry pedicels often ERECT or SPREADING, with the berry separating and leaving its stalk attached to plant"
+    },
+    {
+      "label": "Habit",
+      "text": "Green unarmed herb, annual to short-lived perennial, from small weed to loose branching plant about 0.3–1.5 m. Can be hairless to sparsely hairy; purple tint on stems is variable, not diagnostic."
+    },
+    {
+      "label": "Leaf",
+      "text": "Simple ALTERNATE petiolate leaves, generally ovate/elliptic with pointed tip and base narrowing toward petiole; entire, shallowly wavy or sinuate-toothed edges; FNA typically 2–10.5 cm long and 1–4.5 cm wide. Leaf margins vary, so leaf alone cannot resolve the Morelloid group."
+    },
+    {
+      "label": "Flower",
+      "text": "The tiny white five-pointed star-shaped COROLLA is about 4–8 mm wide (Flora of North America). Anthers are five, bright yellow, short and fairly plump, only approximately 0.7–1.5 mm long, dehiscing through small apical pores that elongate to slits. Flowers in small unbranched 3–10-flowered clusters, often arranged like a little umbrella from one short inflorescence axis. White flower alone not sufficient because other black-nightshade relatives are also white-flowered."
+    },
+    {
+      "label": "Fruit",
+      "text": "Initially green berries mature to shiny purple-black, about 5–10 mm wide, held on erect to spreading fruit stalks (pedicels). Under mature fruit the small green CALYX LOBES are strongly REFLEXED—point backwards/away from the berry instead of hugging it. Fruiting berries often detach while pedicels remain; internal seed/stone-cell counts may be needed for truly close look-alikes."
+    },
+    {
+      "label": "Habitat",
+      "text": "Common in disturbed ground, gardens, shady margins, trails, damp or enriched soil. S. americanum is reported in Texas; exact Hays County nativity scoring remains a separate paused lane."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "The hardest look-alikes are OTHER unarmed black-berried Solanum species, particularly S. emulans and S. nigrescens, not the large prickly yellow-fruited species. Distinguish with anther length, fruit gloss, reflexed versus appressed fruit calyx, and pedicel behavior."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c52ddcaa3d8e5160028fa1898753b9679161e55dc8833a1afdac5ce5f306ee33",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

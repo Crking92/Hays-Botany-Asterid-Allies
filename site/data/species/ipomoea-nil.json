@@ -1,0 +1,45 @@
+{
+  "id": "ipomoea-nil",
+  "family": "Convolvulaceae",
+  "genus": "Ipomoea",
+  "scientific_name": "",
+  "common_name": "Whiteedge Morning-glory",
+  "look_here_first": "",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Annual or short-lived perennial depending on treatment/conditions."
+    },
+    {
+      "label": "Habit",
+      "text": "Twining vine with long flexible shoots."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate, large, heart-shaped; often 3-lobed; densely to moderately hairy."
+    },
+    {
+      "label": "Sepals",
+      "text": "Usually about 16–17 mm in Williamson County material, lanceolate and hairy."
+    },
+    {
+      "label": "Corolla",
+      "text": "Large trumpet-shaped flower, around 5–7 cm or more across/long in local material; often blue-violet aging pinkish."
+    },
+    {
+      "label": "Key",
+      "text": "Much larger flower than I. hederacea and I. triloba; hairy foliage and long sepals."
+    }
+  ],
+  "lookalikes": {
+    "names": [
+      "Ipomoea hederacea",
+      "Ipomoea triloba"
+    ],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "15a349762eed6b8882567ff5f78ee5ccbce70e1a4c0f2aa28a8f30db69969a66",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}
