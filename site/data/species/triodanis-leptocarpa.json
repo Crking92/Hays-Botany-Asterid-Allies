@@ -31,8 +31,48 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/triodanis-leptocarpa/triodanis-leptocarpa-arkansas-whole-plant.jpg",
+      "creator": "Mason Brock (Masebrock)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Triodanis_leptocarpa.jpg",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "f5781c37bb3972719c06a6ae3abf199830059a79",
+      "role": "Arkansas exact species open violet 5-lobed flower, complete upper flowering shoot, thin green inferior floral body below calyx.",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/triodanis-leptocarpa/triodanis-leptocarpa-montana-field-shoot.jpg",
+      "creator": "Matt Lavin from Bozeman, Montana, USA",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Triodanis_leptocarpa_(7462347180).jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source_blob_sha": "5a386496f2d4fbde42c9640d6c01f84987a4b66b",
+      "role": "Montana exact species whole grassy habitat and narrow upright stems; field habit only.",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/triodanis-leptocarpa/triodanis-leptocarpa-montana-ovary-photo.jpg",
+      "creator": "Matt Lavin from Bozeman, Montana, USA",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Triodanis_leptocarpa_(7462348440).jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source_blob_sha": "dee03bb69f3262538a6a17cfc1b9d4b6fbb5d08b",
+      "role": "Montana exact species close view of long, narrow green hypanthia/young capsules and narrow calyx/bract structures. NO confirmed seed-release pores.",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "c057f02e6e1f948062f80bd027f584f252a324e6feab0e29994e1746bc81fd6b",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

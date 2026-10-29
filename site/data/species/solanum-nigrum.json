@@ -39,8 +39,35 @@
     "names": [],
     "differences": "FNA's most practical S. nigrum confirmation among American morelloids combines thicker peduncles/pedicels, larger seeds, and absence of stone cells in North American fruit. The first photo does NOT prove those internal traits."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/solanum-nigrum/01-leaves-flowers-fruit.jpg",
+      "creator": "Harald Hubich",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Solanum_nigrum_leafs_flowers_fruits.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "d521b6cf3686bc9ae43c2f7392204cd121cbab6e",
+      "role": "Flowering and fruiting branch showing alternate leaves, white stars, green and dark berries",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/solanum-nigrum/02-white-flower-yellow-anthers.jpg",
+      "creator": "Calimo",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Solanum_nigrum_flower_close-up.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "9c422b75c2fa5b3046dfc614dc6cf6298d38e6a4",
+      "role": "Close flower view: white five-lobed corolla, yellow anthers and hairy pedicel",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "9357a0b4201337d56f87a380884b24430f0127ddf5918cd128efbc1c390dd816",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

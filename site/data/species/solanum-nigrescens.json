@@ -63,8 +63,61 @@
     "names": [],
     "differences": "Hard pair: American black nightshade. Longer anthers + appressed/spreading calyx + duller fruit + spreading/deflexed pedicels favor nigrescens."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/solanum-nigrescens/01-whole-plant.jpg",
+      "creator": "Alex Abair",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Solanum_nigrescens_173461473.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "f643eea8fe4bcc80c8755b4371d0da075d0d4631",
+      "role": "Whole plant, unarmed green stems, alternate leaf blades and white flowers",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/solanum-nigrescens/02-leaves-flowering.jpg",
+      "creator": "Alex Abair",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Solanum_nigrescens_173461476.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "23272301e8a733c5f874a790d6252c4e72231c7f",
+      "role": "Broad ovate leaf and clustered white flowers with yellow anthers",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/solanum-nigrescens/03-flower-anthers.jpg",
+      "creator": "Alex Abair",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Solanum_nigrescens_173461484.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "27e491cb266fc5d43144c16ccb54250c5ee9f2e2",
+      "role": "Flower close-up showing longer yellow anthers and white corolla lobes",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/solanum-nigrescens/04-buds-pedicels.jpg",
+      "creator": "Alex Abair",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Solanum_nigrescens_173461482.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "cfec23960d97cde415164f91fa0177b3fcf4d6f1",
+      "role": "Hairy flower stalk and four hanging unopened buds",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "c62ebf75b0b0d4c2ef663098c9adf99b861bd2c324235ae14afbf1dc8e0e90e6",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

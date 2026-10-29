@@ -43,8 +43,22 @@
     "names": [],
     "differences": "The easiest Solanum comparison: yellow flowers but no dense prickly armature like buffalobur, and fruit is far larger and fleshier than the wild nightshades."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/solanum-lycopersicum/solanum-lycopersicum-provisional-face.jpg",
+      "creator": "Emőke Dénes",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Solanales_-_Solanum_lycopersicum_-_40.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "e1ce380c11086f194a0391cdd3cff880d591565c",
+      "role": "Fruiting plant / recognizable fruit face",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "8ca22415c74fad535c90f0dbf7327542b3c2325c80c3a8b43cbccef8020f1f1b",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
