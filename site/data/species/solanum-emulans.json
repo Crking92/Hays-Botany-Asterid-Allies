@@ -67,8 +67,48 @@
     "names": [],
     "differences": "Never split S. emulans and S. americanum from black berry or small white flower alone; inspect short anthers/filaments + mature calyx orientation + fruiting pedicels."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/solanum-emulans/01-plant-habit.jpg",
+      "creator": "Alex Abair",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Solanum_emulans_555742252.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "fd0ec5fbd287d522e41628661c8eaa1c45cb2b55",
+      "role": "Whole unarmed green plant with simple ovate alternate leaves and several tiny white flowers",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/solanum-emulans/02-flower-immature-fruit.jpg",
+      "creator": "Mason Heberling",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Solanum_emulans.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "ed786ae07dd45850f5b768daf044449d771431df",
+      "role": "Tiny whitish flower, yellow anthers, two green buds and a GREEN immature berry",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/solanum-emulans/03-flower-closeup-crop.jpg",
+      "creator": "Mason Heberling",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Solanum_emulans.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "cc866e431232e3e3954a37b9cd50badb74ba7bf1",
+      "role": "Enlarged same-source flower macro: white corolla lobes and short yellow anthers",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "5d6e9fe0fba5a5d3c146135793d664bd20435b1e02211d2bf3ca279f87f76f25",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

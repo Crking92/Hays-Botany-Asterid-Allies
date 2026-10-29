@@ -67,8 +67,48 @@
     "names": [],
     "differences": "The SILVER LEAF FELT plus exposed two-stage berries is the strongest combination. Solanum dimidiatum (not 'C. dimidiatum') is broadly lobed/greener with often much larger fruits. S. rostratum (buffalobur) has YELLOW flowers, strikingly long curved anther, and fruit enclosed in giant prickly calyx. Anthers of silverleaf may be somewhat unequal, so reject the 'exactly equal' shortcut."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/solanum-elaeagnifolium/01-habit.jpg",
+      "creator": "Alex Abair",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Solanum_elaeagnifolium_25040800.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "77edb737f671ee17c1f9c73ad21fdae364299487",
+      "role": "Whole-plant habit with silvery narrow foliage",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/solanum-elaeagnifolium/02-flowers-anthers.jpg",
+      "creator": "Alex Abair",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Solanum_elaeagnifolium_11727226.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "08a75820a675b9df4a5ef172472a520e79dd6e9a",
+      "role": "Violet star-shaped flowers with yellow equal stamens",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/solanum-elaeagnifolium/03-unripe-berries.jpg",
+      "creator": "WDavis1911",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Solanum_elaeagnifolium_berries.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "02661e86f6c51dc18d23a090441367a5ab5a5f1c",
+      "role": "Unripe striped berries with silvery pubescent stems and leaves",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "2105aa9a1cf50c1cde64e44cdc1cb0fdb00271d9f0ac03f69b0e0cb41b30dbba",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

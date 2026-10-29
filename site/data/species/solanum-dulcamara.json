@@ -67,8 +67,22 @@
     "names": [],
     "differences": "SOLANUM DULCAMARA vs TEXAS NIGHTSHADE: purple REFLEXED corolla and tightly CONNIVENT yellow anthers, many-branched 7–40-flower clusters, ovate to basally lobed leaves versus usually small WHITE flowers with more separate FREE anthers, 3–6-flowered clusters, sharply triangular/hastate leaves and more angular stems. Exceptions: white-flowered S. dulcamara; both make red fruit, both scramble."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/solanum-dulcamara/solanum-dulcamara-provisional-face.jpg",
+      "creator": "Andrew Macumber",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Solanum_dulcamara_208336874.jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "121ac2526df7d8567d58b9911c07503ee3ef8125",
+      "role": "Purple reflexed white-centered flowers, connivent yellow anther cone, green basal-lobed leaf",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "ae22a4ae841062b02cbdc4f6f8c25b4d4f357ed32ae879e4873dfb7b1e5e48c7",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

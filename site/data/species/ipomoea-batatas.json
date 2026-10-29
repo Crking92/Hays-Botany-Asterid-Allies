@@ -39,8 +39,22 @@
     "names": [],
     "differences": "Compared with I. cordatotriloba, sweet potato is usually more robust and associated with cultivation, often with conspicuous storage roots and more variable, sometimes deeply lobed foliage. Do not treat escaped plants as Texas-native."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/ipomoea-batatas/ipomoea-batatas-provisional-face.jpg",
+      "creator": "Obsidian Soul",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ipomoea_batatas_(Sweet_Potato).jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "b28942b466643b86e3dedc4e8ab27c9a2bb4f2a7",
+      "role": "Whole plant / recognizable vine face",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "18a1caad203ddb7e79ddc38ed36993f740421dec24f79116b4f17e2dbf770cf2",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

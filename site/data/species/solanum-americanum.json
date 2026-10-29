@@ -67,8 +67,22 @@
     "names": [],
     "differences": "The hardest look-alikes are OTHER unarmed black-berried Solanum species, particularly S. emulans and S. nigrescens, not the large prickly yellow-fruited species. Distinguish with anther length, fruit gloss, reflexed versus appressed fruit calyx, and pedicel behavior."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/solanum-americanum/solanum-americanum-provisional-face.jpg",
+      "creator": "Eurico Zimbres",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Solanum_americanum.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "dc501fd7a08866f85e15f58fd3b05377acb2a5e9",
+      "role": "Leaves, flowers, and green fruit recognizable face",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "c52ddcaa3d8e5160028fa1898753b9679161e55dc8833a1afdac5ce5f306ee33",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

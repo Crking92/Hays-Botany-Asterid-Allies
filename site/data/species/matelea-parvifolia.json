@@ -39,8 +39,22 @@
     "names": [],
     "differences": "Flower and corona characters plus leaf dimensions are more reliable than flower color alone. Photograph leaf and flower beside a ruler."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/matelea-parvifolia/matelea-parvifolia-provisional-face.jpg",
+      "creator": "Michelle W. (鍾偉瑋), iNaturalist user pufferchung",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Matelea_parvifolia_284229694.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "a3bc5535501ff6111f5ab88ed4216126c364c59b",
+      "role": "Exact-species first-pass flower/plant photo from Big Bend area; smaller diagnostic leaf and follicle photos remain for later polish.",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "af380ed2ed8db519e4d158502aa88c0f01efacd57aa3a57f6731418e7e25d206",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

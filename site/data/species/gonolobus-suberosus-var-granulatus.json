@@ -43,8 +43,22 @@
     "names": [],
     "differences": "Var. granulatus differs from var. suberosus in flower-color/appendage characters; unlike Matelea reticulata, it lacks the strongly reticulate corolla and muricate pod."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/gonolobus-suberosus-var-granulatus/gonolobus-suberosus-var-granulatus-provisional-face.jpg",
+      "creator": "sonnia hill",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Gonolobus_suberosus_var._granulatus_-_54022100519.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "ca61bfb1feadff5d52f625ea7d4c1c4a1f9e86f2",
+      "role": "Uniform olive-green flower / recognizable face",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "323cf10dc2c0416bc55b6339a2bfb8f8693e1d3937dfa425dcf768179e57193c",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
