@@ -1,0 +1,481 @@
+{
+  "schema_version": 1,
+  "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
+  "species": 118,
+  "photo_species": 30,
+  "photo_count": 64,
+  "entries": {
+    "amsonia-ciliata": {
+      "count": 1,
+      "first_src": "media/amsonia-ciliata/amsonia-ciliata-habit.jpg"
+    },
+    "amsonia-longiflora": {
+      "count": 1,
+      "first_src": "media/amsonia-longiflora/amsonia-longiflora-flower.jpg"
+    },
+    "asclepias-asperula": {
+      "count": 5,
+      "first_src": "media/asclepias-asperula/01-habit-bandera.jpg"
+    },
+    "asclepias-curassavica": {
+      "count": 0,
+      "first_src": null
+    },
+    "asclepias-incarnata": {
+      "count": 0,
+      "first_src": null
+    },
+    "asclepias-oenotheroides": {
+      "count": 5,
+      "first_src": "media/asclepias-oenotheroides/01-texas-habit.jpg"
+    },
+    "asclepias-speciosa": {
+      "count": 1,
+      "first_src": "media/asclepias-speciosa/asclepias-speciosa-provisional-face.jpg"
+    },
+    "asclepias-syriaca": {
+      "count": 1,
+      "first_src": "media/asclepias-syriaca/asclepias-syriaca-leaf-upper.jpg"
+    },
+    "asclepias-texana": {
+      "count": 0,
+      "first_src": null
+    },
+    "asclepias-tuberosa": {
+      "count": 5,
+      "first_src": "media/asclepias-tuberosa/01-habit-east-texas.jpg"
+    },
+    "asclepias-verticillata": {
+      "count": 5,
+      "first_src": "media/asclepias-verticillata/01-habit.jpg"
+    },
+    "asclepias-viridiflora": {
+      "count": 1,
+      "first_src": "media/asclepias-viridiflora/01-inflorescence.jpg"
+    },
+    "asclepias-viridis": {
+      "count": 0,
+      "first_src": null
+    },
+    "chthamalia-biflora": {
+      "count": 0,
+      "first_src": null
+    },
+    "cynanchum-unifarium": {
+      "count": 2,
+      "first_src": "media/cynanchum-unifarium/glass-root-garden-727432210-tiny-flowers-closeup.jpg"
+    },
+    "funastrum-crispum": {
+      "count": 1,
+      "first_src": "media/funastrum-crispum/01-crispum-open-flowers.jpg"
+    },
+    "funastrum-cynanchoides": {
+      "count": 1,
+      "first_src": "media/funastrum-cynanchoides/01-creamy-cluster-leaves.jpg"
+    },
+    "gonolobus-suberosus-var-granulatus": {
+      "count": 1,
+      "first_src": "media/gonolobus-suberosus-var-granulatus/gonolobus-suberosus-var-granulatus-provisional-face.jpg"
+    },
+    "matelea-edwardsensis": {
+      "count": 0,
+      "first_src": null
+    },
+    "matelea-parvifolia": {
+      "count": 1,
+      "first_src": "media/matelea-parvifolia/matelea-parvifolia-provisional-face.jpg"
+    },
+    "matelea-reticulata": {
+      "count": 0,
+      "first_src": null
+    },
+    "metastelma-barbigerum": {
+      "count": 0,
+      "first_src": null
+    },
+    "buglossoides-arvensis": {
+      "count": 0,
+      "first_src": null
+    },
+    "cordia-boissieri": {
+      "count": 1,
+      "first_src": "media/cordia-boissieri/cordia-boissieri-farr.jpg"
+    },
+    "cryptantha-texana": {
+      "count": 0,
+      "first_src": null
+    },
+    "cynoglossum-officinale": {
+      "count": 0,
+      "first_src": null
+    },
+    "ehretia-anacua": {
+      "count": 0,
+      "first_src": null
+    },
+    "euploca-procumbens": {
+      "count": 0,
+      "first_src": null
+    },
+    "euploca-tenella": {
+      "count": 0,
+      "first_src": null
+    },
+    "heliotropium-curassavicum": {
+      "count": 0,
+      "first_src": null
+    },
+    "lappula-texana": {
+      "count": 0,
+      "first_src": null
+    },
+    "lithospermum-caroliniense-var-caroliniense": {
+      "count": 0,
+      "first_src": null
+    },
+    "lithospermum-helleri": {
+      "count": 0,
+      "first_src": null
+    },
+    "lithospermum-incisum": {
+      "count": 0,
+      "first_src": null
+    },
+    "lithospermum-mirabile": {
+      "count": 0,
+      "first_src": null
+    },
+    "myosotis-macrosperma": {
+      "count": 0,
+      "first_src": null
+    },
+    "nama-jamaicensis": {
+      "count": 0,
+      "first_src": null
+    },
+    "nemophila-phacelioides": {
+      "count": 0,
+      "first_src": null
+    },
+    "phacelia-congesta": {
+      "count": 0,
+      "first_src": null
+    },
+    "phacelia-patuliflora": {
+      "count": 0,
+      "first_src": null
+    },
+    "phacelia-strictiflora": {
+      "count": 0,
+      "first_src": null
+    },
+    "tiquilia-canescens": {
+      "count": 0,
+      "first_src": null
+    },
+    "tiquilia-hispidissima": {
+      "count": 0,
+      "first_src": null
+    },
+    "lobelia-cardinalis": {
+      "count": 0,
+      "first_src": null
+    },
+    "triodanis-coloradoensis": {
+      "count": 0,
+      "first_src": null
+    },
+    "triodanis-leptocarpa": {
+      "count": 3,
+      "first_src": "media/triodanis-leptocarpa/triodanis-leptocarpa-arkansas-whole-plant.jpg"
+    },
+    "triodanis-perfoliata": {
+      "count": 2,
+      "first_src": "media/triodanis-perfoliata/perfoliata-wild-stem.jpg"
+    },
+    "triodanis-perfoliata-subsp-biflora": {
+      "count": 3,
+      "first_src": "media/triodanis-perfoliata-subsp-biflora/biflora-flowering.jpg"
+    },
+    "triodanis-texana": {
+      "count": 0,
+      "first_src": null
+    },
+    "convolvulus-arvensis": {
+      "count": 0,
+      "first_src": null
+    },
+    "convolvulus-equitans": {
+      "count": 0,
+      "first_src": null
+    },
+    "cuscuta-exaltata": {
+      "count": 0,
+      "first_src": null
+    },
+    "cuscuta-indecora": {
+      "count": 0,
+      "first_src": null
+    },
+    "cuscuta-obtusiflora": {
+      "count": 0,
+      "first_src": null
+    },
+    "cuscuta-pentagona": {
+      "count": 0,
+      "first_src": null
+    },
+    "dichondra-carolinensis": {
+      "count": 0,
+      "first_src": null
+    },
+    "dichondra-recurvata": {
+      "count": 0,
+      "first_src": null
+    },
+    "distimake-dissectus": {
+      "count": 0,
+      "first_src": null
+    },
+    "evolvulus-nuttallianus": {
+      "count": 0,
+      "first_src": null
+    },
+    "evolvulus-sericeus": {
+      "count": 0,
+      "first_src": null
+    },
+    "ipomoea-batatas": {
+      "count": 1,
+      "first_src": "media/ipomoea-batatas/ipomoea-batatas-provisional-face.jpg"
+    },
+    "ipomoea-coccinea": {
+      "count": 0,
+      "first_src": null
+    },
+    "ipomoea-cordatotriloba": {
+      "count": 0,
+      "first_src": null
+    },
+    "ipomoea-hederacea": {
+      "count": 0,
+      "first_src": null
+    },
+    "ipomoea-lacunosa": {
+      "count": 0,
+      "first_src": null
+    },
+    "ipomoea-lindheimeri": {
+      "count": 0,
+      "first_src": null
+    },
+    "ipomoea-nil": {
+      "count": 0,
+      "first_src": null
+    },
+    "ipomoea-triloba": {
+      "count": 0,
+      "first_src": null
+    },
+    "gelsemium-sempervirens": {
+      "count": 0,
+      "first_src": null
+    },
+    "centaurium-tenuiflorum": {
+      "count": 0,
+      "first_src": null
+    },
+    "eustoma-exaltatum": {
+      "count": 0,
+      "first_src": null
+    },
+    "eustoma-russellianum": {
+      "count": 0,
+      "first_src": null
+    },
+    "sabatia-campestris": {
+      "count": 0,
+      "first_src": null
+    },
+    "zeltnera-beyrichii": {
+      "count": 0,
+      "first_src": null
+    },
+    "zeltnera-calycosa": {
+      "count": 0,
+      "first_src": null
+    },
+    "zeltnera-texensis": {
+      "count": 0,
+      "first_src": null
+    },
+    "mitreola-petiolata": {
+      "count": 0,
+      "first_src": null
+    },
+    "spigelia-hedyotidea": {
+      "count": 0,
+      "first_src": null
+    },
+    "giliastrum-incisum": {
+      "count": 0,
+      "first_src": null
+    },
+    "giliastrum-rigidulum": {
+      "count": 0,
+      "first_src": null
+    },
+    "ipomopsis-rubra": {
+      "count": 0,
+      "first_src": null
+    },
+    "phlox-drummondii": {
+      "count": 0,
+      "first_src": null
+    },
+    "phlox-pilosa": {
+      "count": 0,
+      "first_src": null
+    },
+    "phlox-pilosa-subsp-riparia": {
+      "count": 0,
+      "first_src": null
+    },
+    "phlox-roemeriana": {
+      "count": 0,
+      "first_src": null
+    },
+    "cephalanthus-occidentalis": {
+      "count": 3,
+      "first_src": "media/cephalanthus-occidentalis/01-spherical-flower-head.jpg"
+    },
+    "diodia-virginiana": {
+      "count": 0,
+      "first_src": null
+    },
+    "galium-aparine": {
+      "count": 0,
+      "first_src": null
+    },
+    "galium-texense": {
+      "count": 0,
+      "first_src": null
+    },
+    "galium-virgatum": {
+      "count": 0,
+      "first_src": null
+    },
+    "sherardia-arvensis": {
+      "count": 0,
+      "first_src": null
+    },
+    "stenaria-nigricans": {
+      "count": 0,
+      "first_src": null
+    },
+    "bouchetia-erecta": {
+      "count": 0,
+      "first_src": null
+    },
+    "capsicum-annuum": {
+      "count": 0,
+      "first_src": null
+    },
+    "capsicum-annuum-var-aviculare": {
+      "count": 0,
+      "first_src": null
+    },
+    "chamaesaracha-coniodes": {
+      "count": 0,
+      "first_src": null
+    },
+    "chamaesaracha-coronopus": {
+      "count": 0,
+      "first_src": null
+    },
+    "chamaesaracha-edwardsiana": {
+      "count": 0,
+      "first_src": null
+    },
+    "datura-innoxia": {
+      "count": 1,
+      "first_src": "media/datura-innoxia/datura-innoxia-el-grafo.jpg"
+    },
+    "datura-wrightii": {
+      "count": 0,
+      "first_src": null
+    },
+    "nicotiana-glauca": {
+      "count": 0,
+      "first_src": null
+    },
+    "nicotiana-obtusifolia": {
+      "count": 0,
+      "first_src": null
+    },
+    "nicotiana-repanda": {
+      "count": 0,
+      "first_src": null
+    },
+    "physalis-angulata": {
+      "count": 1,
+      "first_src": "media/physalis-angulata/physalis-angulata-starr-141025-2446.jpg"
+    },
+    "physalis-cinerascens": {
+      "count": 0,
+      "first_src": null
+    },
+    "physalis-longifolia": {
+      "count": 0,
+      "first_src": null
+    },
+    "physalis-solanacea": {
+      "count": 0,
+      "first_src": null
+    },
+    "solanum-americanum": {
+      "count": 1,
+      "first_src": "media/solanum-americanum/solanum-americanum-provisional-face.jpg"
+    },
+    "solanum-dimidiatum": {
+      "count": 0,
+      "first_src": null
+    },
+    "solanum-dulcamara": {
+      "count": 1,
+      "first_src": "media/solanum-dulcamara/solanum-dulcamara-provisional-face.jpg"
+    },
+    "solanum-elaeagnifolium": {
+      "count": 3,
+      "first_src": "media/solanum-elaeagnifolium/01-habit.jpg"
+    },
+    "solanum-emulans": {
+      "count": 3,
+      "first_src": "media/solanum-emulans/01-plant-habit.jpg"
+    },
+    "solanum-interius": {
+      "count": 0,
+      "first_src": null
+    },
+    "solanum-lycopersicum": {
+      "count": 1,
+      "first_src": "media/solanum-lycopersicum/solanum-lycopersicum-provisional-face.jpg"
+    },
+    "solanum-nigrescens": {
+      "count": 4,
+      "first_src": "media/solanum-nigrescens/01-whole-plant.jpg"
+    },
+    "solanum-nigrum": {
+      "count": 2,
+      "first_src": "media/solanum-nigrum/01-leaves-flowers-fruit.jpg"
+    },
+    "solanum-rostratum": {
+      "count": 3,
+      "first_src": "media/solanum-rostratum/01-habit.jpg"
+    },
+    "solanum-triquetrum": {
+      "count": 0,
+      "first_src": null
+    }
+  }
+}
