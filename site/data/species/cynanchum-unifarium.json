@@ -55,8 +55,35 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/cynanchum-unifarium/glass-root-garden-727432210-tiny-flowers-closeup.jpg",
+      "creator": "Glass Root Garden",
+      "source_page": "https://www.inaturalist.org/photos/727432210",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "fcfc6a9e902ca22c28d06350c1d11fd34d0b063b",
+      "role": "Climbing milkvine: close-up of small yellow-green clustered flowers, with enlarged inflorescence and one visible leaf; specialized corona details require tighter macro",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/cynanchum-unifarium/glass-root-garden-666847868-leaf-and-flowers.jpg",
+      "creator": "Glass Root Garden",
+      "source_page": "https://www.inaturalist.org/photos/666847868",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "ba23b2e2efe9946429d8c92b858a248f7200b642",
+      "role": "Climbing milkvine: twining shoots bearing heart-shaped leaves and small pale yellow-green flowering clusters; plant habit and flowers shown together",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "c4d557cfddd70172d1cffb1ae8a5d0d7bcaa9ac9e401f8b045f40e4fce701918",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

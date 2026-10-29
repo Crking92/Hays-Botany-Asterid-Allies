@@ -59,8 +59,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/funastrum-crispum/01-crispum-open-flowers.jpg",
+      "creator": "Cecelia Alexander (iNaturalist user aspidoscelis)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Funastrum_crispum_in_bloom.jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "dddc512d932cd058a1219f74d0eaf9dcb15f15b6",
+      "role": "Wavyleaf twinevine flowering clusters with warm-toned petals and gynostegial centers",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "73d76649fc7bea88d8ad7582eb7e248aeffeecceb4c4f1cdd8968f6d5a6ddfd3",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

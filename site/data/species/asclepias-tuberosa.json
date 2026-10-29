@@ -47,8 +47,74 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/asclepias-tuberosa/01-habit-east-texas.jpg",
+      "creator": "Danny S.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Asclepias_tuberosa_by_Danny_S.-1.JPG",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "76b29056517cde6d7c80a7768e4c10ade8eb096f",
+      "role": "Recognize · orange flowering umbel above an upright leafy stem in grassland habitat",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/asclepias-tuberosa/02-foliage-and-inflorescence.jpg",
+      "creator": "U.S. EPA",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ascelpias_tuberosa_flower.jpg",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "6f4ea008bb972c36867d4fe98b7d9a8ecb14c4c2",
+      "role": "Look closer · orange flower cluster with slender leaves along the stems",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/asclepias-tuberosa/03-flower-macro.jpg",
+      "creator": "Cbaile19 / Flora Pittsburghensis",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Asclepias_tuberosa,_2025-07-14.jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "7943ea6d5d6670a9d346af1ec6ed09e7c4d210f1",
+      "role": "Look closer · orange individual flowers, recurved corolla lobes and central corona structures",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/asclepias-tuberosa/04-fruit.jpg",
+      "creator": "H. Zell",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Asclepias_tuberosa_004.JPG",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "fb27ca01cf776e1aea50e680e1736ab5e0b86c36",
+      "role": "Look closer · elongated green follicles developing on upright leafy stems; seeds are not visible",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/asclepias-tuberosa/05-botanical-illustration.png",
+      "creator": "Britton & Brown",
+      "source_page": "https://commons.wikimedia.org/wiki/File:BB-3383_Asclepias_tuberosa.png",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "4aa81533f15faaf6e28116300f661c3eccc66153",
+      "role": "Illustration · ink drawing of leafy flowering shoot, detailed flower and long follicle; not a photograph",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "3914ff838dbb4af4e3d7c786ec7a38234ac3809ad56680a57efb2142e28184e7",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

@@ -59,8 +59,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/funastrum-cynanchoides/01-creamy-cluster-leaves.jpg",
+      "creator": "Patrick Alexander (aspidoscelis)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Funastrum_cynanchoides_-_Flickr_-_aspidoscelis_(5).jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "dd1c41831b10d87b43cd5135b2b8b8a2ec730e6b",
+      "role": "True F. cynanchoides s.str. flowering shoot with creamy/rose flowers, pale corona, and leaves",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "f1bcf42bd49737f5c8059b69660b976f05d8d6a2cf08da9f99c63ffd6908df4f",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

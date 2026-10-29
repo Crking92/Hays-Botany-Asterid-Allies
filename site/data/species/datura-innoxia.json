@@ -10,8 +10,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/datura-innoxia/datura-innoxia-el-grafo.jpg",
+      "creator": "El Grafo",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Datura_innoxia_-_habitus.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "52dfdc96130a51266151454886641c16f901d342",
+      "role": "habit, leaves and open flower",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "5e543a8bf21a1830c4b1813a781e42138d597e46007d1ece4cb31345adb468af",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

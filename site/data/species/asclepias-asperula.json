@@ -51,8 +51,74 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/asclepias-asperula/01-habit-bandera.jpg",
+      "creator": "Mason Brock (Masebrock)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Asclepias_asperula.jpg",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "be69658190c7e8d1f985b5e7f523d64058853efc",
+      "role": "Recognize · flowering milkweed among grass with narrow pointed leaves and clustered green flowers",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/asclepias-asperula/02-flower-blanco.jpg",
+      "creator": "Lunch",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Asclepias-asperula.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "a074357e6b2e67e23dbab05e339a4ffa79ba5d18",
+      "role": "Look closer · pale flowers crowded together on flowering stems; individual hood detail not resolved",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/asclepias-asperula/03-fruit.jpg",
+      "creator": "Stan Shebs",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Asclepias_asperula_8.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "3a7ba9f0d61f54320237ed40fd97839274df6deb",
+      "role": "Look closer · upright tapered follicle above narrow milkweed leaves",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/asclepias-asperula/04-texas-flowering-plant.jpg",
+      "creator": "Wing-Chi Poon",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Asclepias_asperula_-_Antelope_Horns.jpg",
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
+      "source_blob_sha": "2487922db6beccd9b124683b611f63f67717eb90",
+      "role": "Look closer · tightly packed greenish buds and nearby narrow leaves; hood macro still needed",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/asclepias-asperula/05-diagnostic.jpg",
+      "creator": "sonnia hill",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Asclepias_asperula_7.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "54e9947b013f6710c0876a9750fb6d2f56183eff",
+      "role": "Recognize · low spreading plant with long narrow leaves on rocky ground",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "6966fe8e2b22355af7019626ad62f50ddff1b5aeb5768d7d5e72109a8a522609",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

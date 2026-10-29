@@ -67,8 +67,74 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/asclepias-oenotheroides/01-texas-habit.jpg",
+      "creator": "Tyler Cannon",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Asclepias_oenotheroides.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "1539bc96a2229cb5a5635987ffb6c743d97c1d03",
+      "role": "Look closer · broad wavy-edged green leaves with fine pale hairs at the edges, buds and partly open pale flowers; base of plant not shown",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/asclepias-oenotheroides/02-habit.jpg",
+      "creator": "Patrick Alexander",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Asclepias_oenotheroides_-_Flickr_-_aspidoscelis_(4).jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "e0d16608ddd91138e92e2435e893931dda065ee2",
+      "role": "Confirm the ID · close-up of green star-like reflexed corolla lobes below upright cream corona hoods; rounded buds between flowers",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/asclepias-oenotheroides/03-leaves-flowers.jpg",
+      "creator": "Patrick Alexander",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Asclepias_oenotheroides_-_Flickr_-_aspidoscelis_(5).jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "140843801d91b21222a24594aae23656128543ed",
+      "role": "Confirm the ID · side macro showing tall pale corona hoods above green reflexed corolla lobes; fine flower details are visible",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/asclepias-oenotheroides/04-diagnostic.jpg",
+      "creator": "Patrick Alexander",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Asclepias_oenotheroides_-_Flickr_-_aspidoscelis_(7).jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "afa508ac37bb2f570876725603fe2c40d99948b8",
+      "role": "Recognize · low, branching plant on stony ground with wavy-edged leaves; small pale flowers visible at leaf axils",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/asclepias-oenotheroides/05-flowering-plant.jpg",
+      "creator": "Alex Abair",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Asclepias_oenotheroides_9631795.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "f725b07de300e127f2ce91cea53018e6c232c3dc",
+      "role": "Recognize · low spreading flowering plant in gravel, showing broad folded/wavy leaves and a pale flower cluster below the foliage",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "8f4afe63425708c829b8eee60aeb2d97e253d64a1d2b580abc6303531c03ee0f",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

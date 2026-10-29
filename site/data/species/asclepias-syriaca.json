@@ -31,8 +31,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/asclepias-syriaca/asclepias-syriaca-leaf-upper.jpg",
+      "creator": "Chris Light",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Leaf_6254.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "4f1a1eb67daee09916b8e89962f3b8c248300982",
+      "role": "Upper leaf blade: entire margin, midrib, pinnate secondary venation",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "c68df25f8f38a8eb7059dfd356e357fc7b92a205b708a677f5db3dc4c95d1c41",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

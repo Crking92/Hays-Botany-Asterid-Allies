@@ -27,8 +27,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/amsonia-ciliata/amsonia-ciliata-habit.jpg",
+      "creator": "Andrey Zharkikh",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Amsonia_ciliata_7858.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "c6fbb809e6f7aace675ca590bed7cd74974dc27b",
+      "role": "flowering habit",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "107587a49ecbba6a8b07c4f4320ad2143f8fc59ae91662f55c98206cd73319e6",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

@@ -31,8 +31,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/cordia-boissieri/cordia-boissieri-farr.jpg",
+      "creator": "William L. Farr",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Wild_Olive_(Cordia_boissieri),_FM_1017,_Jim_Hogg_County,_Texas,_USA_(10_April_2016).jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "052862d6578aac42e8a7d3f85d9303e9efbb4dab",
+      "role": "provisional_flowering_habit",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "bfc3248ce99fe0ac6f978be7216538e298bce09d87d97f912eaad16acc605170",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

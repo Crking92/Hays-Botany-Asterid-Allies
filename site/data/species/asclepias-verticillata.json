@@ -51,8 +51,74 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/asclepias-verticillata/01-habit.jpg",
+      "creator": "Fritzflohrreynolds",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Asclepias_verticillata_-_Whorled_milkweed.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "1bc74d1572e7978c0bb5ed8ce6616287be0a2b39",
+      "role": "flowering habit",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/asclepias-verticillata/02-leaves.jpg",
+      "creator": "Frank Mayfield (gmayfield10)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Asclepias_verticillata_(3197723606).jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source_blob_sha": "e6971c4ccbd5d8c25b36c3f596743bb276f078d5",
+      "role": "diagnostic whorled leaves",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/asclepias-verticillata/03-flower-cluster.jpg",
+      "creator": "Mark Fickett",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Asclepias_verticillata_flower_cluster.jpg",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_blob_sha": "dd196e786350916e039b2e3778374bc65038d2a2",
+      "role": "flower cluster macro",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/asclepias-verticillata/04-texas-habit.jpg",
+      "creator": "sonnia hill",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Asclepias_verticillata_1.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "90efa482c46495d78651c23cd019bd5d94617f6f",
+      "role": "Texas flowering habit",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/asclepias-verticillata/05-diagnostic.jpg",
+      "creator": "George F Mayfield",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Asclepias_verticillata_(3197723098).jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source_blob_sha": "398fc972ed9acb2d3d54cf8bad40cb6fe5bfdefe",
+      "role": "diagnostic flowering view",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "84f04e4399c545e0eaab33010c513b76fead7cc944abb9d9bb2866de2e077c22",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
