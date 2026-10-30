@@ -2,7 +2,7 @@ name: Test safe species-source to public family lesson synchronization
 on:
   push:
     branches: [main]
-    paths: ['scripts/sync_source_species_to_site.py','scripts/test_species_source_sync.py','.github/workflows/test-source-species-sync.yml']
+    paths: ['scripts/sync_source_species_to_site.py','scripts/test_generic_source_species_sync.py','.github/workflows/test-source-species-sync.yml']
   workflow_dispatch:
 permissions: {contents: read}
 jobs:
