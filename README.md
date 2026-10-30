@@ -1,28 +1,24 @@
 # Hays Botany — Asterid Allies
 
-**Original source-file migration PASS in private staging — NOT a live learner or authoritative source.**
+**Existing-source migration: COMPLETE. Public family learner: ACTIVE (existing rights-filtered photos). Botanical/photo enrichment: DEFERRED.**
 
-This future collection belongs to the [Hays County Botany Visual Learner](https://github.com/Crking92/Hays-County-Botany). It will hold the assigned families' species records, teaching data, verified diagnostic photographs, and an independent family-group learner when its migration and release checks pass.
+[Open the Asterid Allies Visual Learner](https://crking92.github.io/Hays-Botany-Asterid-Allies/site/) · [Original read-only hub](https://crking92.github.io/Hays-County-Botany/) · [Active family routing registry](https://github.com/Crking92/Hays-County-Botany/blob/main/workflow/ACTIVE_NEW_PLANT_WRITE_ROUTING_20261028.json)
 
-- Proposed repository: `Crking92/Hays-Botany-Asterid-Allies`
-- Assigned families (10): Apocynaceae, Boraginaceae, Campanulaceae, Convolvulaceae, Gelsemiaceae, Gentianaceae, Loganiaceae, Polemoniaceae, Rubiaceae, Solanaceae
-- Installed species in the original hub at planning baseline: **118**
-- Planning target: around 150 species per repository; soft limit, with actual image bytes and site size checked separately
-- Canonical species owner during staging: **Crking92/Hays-County-Botany**
-- State: **SOURCE_FILES_COPIED_PRIVATE; NO PUBLICATION OR DATA OWNERSHIP**
-- Architecture: independent collection websites connected through the hub (Option B)
+This collection contains **118 original species lessons in 10 assigned families**: Apocynaceae, Boraginaceae, Campanulaceae, Convolvulaceae, Gelsemiaceae, Gentianaceae, Loganiaceae, Polemoniaceae, Rubiaceae, Solanaceae.
 
-## Existing source-file transfer — completed October 28, 2026
+## Existing source preservation — October 30, 2026
 
-All 118 original species and **693 existing source files** have been checked against their source Git blob IDs in the private [staging/original-source-transfer](https://github.com/Crking92/Hays-Botany-Asterid-Allies/tree/staging/original-source-transfer) branch: **387 scientific/credit text files** stay at their content paths, while **306 original media files** are retained in a separate private, non-displayed quarantine.
+- **693/693 source files** match the original transfer manifest's Git blob hashes in branch [`staging/original-source-transfer`](https://github.com/Crking92/Hays-Botany-Asterid-Allies/tree/staging/original-source-transfer).
+- That includes **387 scientific/credit text files and 306 original photo files**; no original source file is missing or altered.
+- The existing public `main/site` contains **118 species lessons** and **64 approved hosted photos across 30 species**. Its photo-publication report preserves **248 held source-image references** as a separate status, not missing file transfers.
+- Source and website release are separate: photos can be preserved but not licensed for public display. The repo itself is PUBLIC, including its historical staging/hold files; a Pages filter does not privatize held images in Git history. Do not add new license-uncertain photo bytes or bypass source-rights checks.
+- The older text-only publishing workflow deliberately rejects overwriting the photo-backed learner. Do not force it to pass or restart obsolete automation.
+- Last inspected pre-audit successful Pages deployment: [run 40910210121](https://github.com/Crking92/Hays-Botany-Asterid-Allies/actions/runs/40910210121).
 
-[Read the transfer verification report](https://github.com/Crking92/Hays-Botany-Asterid-Allies/blob/staging/original-source-transfer/migration/original-source-transfer-summary.json).
+[Original source transfer manifest](https://github.com/Crking92/Hays-Botany-Asterid-Allies/blob/staging/original-source-transfer/migration/original-source-transfer-manifest.json) · [Public photo release report](site/photo-source-migration-report.json) · [Migration checkpoint](migration/ASTERID_ALLIES_TRANSFER_QA_20261030.md)
 
-This work preserves existing data and photos; it does **not** source new photos, clear media for publication, publish Pages, merge the staging branch into main, change the central learner, or change botanical authority.
+## Ongoing guardrails
 
-## Safety and next steps
-Do not import restricted/unknown-rights photo files, enable Pages, repoint existing learner links, rewrite botanical records, or restart automations. Initial commits establish only collection metadata, an empty index, and read-only validation. A separate verified source and rights handoff is required before a collection becomes authoritative.
+`python3 scripts/verify_existing_site.py` checks every published lesson JSON, photo attribution, linked file and original Git blob hash. The [site verification action](.github/workflows/verify-existing-site-gallery.yml) additionally compares all published Pages JSON and images against committed bytes.
 
-See [family routing draft](https://github.com/Crking92/Hays-County-Botany/blob/main/planning/MULTI_REPO_FAMILY_ROUTING_DRAFT_20261028.json) and [migration stages](https://github.com/Crking92/Hays-County-Botany/blob/main/planning/MULTI_REPO_IMPLEMENTATION_STAGES_DRAFT_20261028.md).
-
-_Starter repository — October 28, 2026._
+All NEW plant data and anatomy/credit changes for these families are assigned to this family's `staging/original-source-transfer` branch under the active hub routing registry. The original hub stays read-only; no new photos/taxa, production cutover, visibility changes or automation restarts are part of the migration check. Future botanical refinements do not block source-transfer completion.
