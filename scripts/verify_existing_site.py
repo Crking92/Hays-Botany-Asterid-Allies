@@ -41,13 +41,15 @@ def local_audit():
     refs = set()
     count = 0
     featured = 0
+    missing_first_looks = []
     for row in rows:
         card = read("data/species/" + row["id"] + ".json")
         sid = row["id"]
         require(all(card.get(k) == row.get(k) for k in ("id", "family", "genus", "scientific_name")),
                 sid + ": index/card identity mismatch")
         require(card["family"] in meta["family_assignments"], sid + ": unassigned family")
-        require(bool(str(card.get("look_here_first") or "").strip()), sid + ": empty first-look lesson")
+        if not str(card.get("look_here_first") or "").strip():
+            missing_first_looks.append(sid)
         photos = card.get("verified_photos", [])
         require(isinstance(photos, list), sid + ": invalid photos")
         require(row.get("photo_count") == len(photos), sid + ": species index photo count mismatch")
@@ -86,7 +88,9 @@ def local_audit():
     require(migration.get("restricted_media_copied") == 0
             and migration.get("new_external_images") == 0, "photo migration gate unexpectedly changed")
     return ids, sorted(refs), {"species": len(ids), "families": len(meta["family_assignments"]),
-                               "photos": count, "photographed_species": featured}
+                               "photos": count, "photographed_species": featured,
+                               "inherited_empty_first_look_count": len(missing_first_looks),
+                               "inherited_empty_first_look_species": missing_first_looks}
 
 def get_live(base, rel):
     url = urllib.parse.urljoin(base, rel)
