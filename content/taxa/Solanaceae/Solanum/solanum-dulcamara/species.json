@@ -112,6 +112,91 @@
       "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
       "public_reuse": "yes: verified recorded individual CC0 1.0 creator and GBIF/iNaturalist source",
       "modifications": "Resized JPEG and EXIF removed"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/666207250/original.jpg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "julieluetzelschwab",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/364922036",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/666207250/original.jpg",
+      "original_source_sha256": "5f1eba1613cec570326bc33e66439628e1caeb3dfcd7c378c2c6c2663d1fbc3a",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Solanaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified; exact identification and current license require source-specific review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "noncommercial educational use with attribution, subject to source verification",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/137651474/original.jpeg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "agerts",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/83794368",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/137651474/original.jpeg",
+      "original_source_sha256": "60a2c02af815db5f4f78ed1e78bde21ed39f97ed2a0991d120100dc3b2c97f19",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Solanaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified; exact identification and current license require source-specific review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "noncommercial educational use with attribution, subject to source verification",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/81082107/original.jpeg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "Craig Martin",
+      "license": "CC0 1.0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/51044558",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/81082107/original.jpeg",
+      "original_source_sha256": "3116a62bff8083358ab106b3db925af404c4b03c4c03cc3f3410bfd0248250cd",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Solanaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified; exact identification and current license require source-specific review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "follow individual Creative Commons license",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/87452225/original.jpeg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "Craig Martin",
+      "license": "CC0 1.0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/54941888",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/87452225/original.jpeg",
+      "original_source_sha256": "e3c874501b4a27ce3bd1de665b8162bc270408fa71c7450506c9bded50f5bced",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Solanaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified; exact identification and current license require source-specific review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "follow individual Creative Commons license",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/89348794/original.jpg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "Eduardo Santiago",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/56085741",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/89348794/original.jpg",
+      "original_source_sha256": "38b6c9898ee573773df19e5e01339f1ae48a4e6c8845235eb4abcb3b1fc01991",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Solanaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified; exact identification and current license require source-specific review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "noncommercial educational use with attribution, subject to source verification",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
     }
   ],
   "learner_visual_status": {
@@ -283,5 +368,13 @@
     "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200020582",
     "https://solanaceaesource.myspecies.info/content/solanum-triquetrum",
     "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:285213-2"
-  ]
+  ],
+  "phase1_photo_batch": {
+    "date": "2026-11-01",
+    "source_family": "Solanaceae",
+    "incoming_photo_count": 5,
+    "added_external_gallery_refs": 5,
+    "preserved_original_zip_in_chatgpt_library": true,
+    "github_hosted_copy_completed": false
+  }
 }
