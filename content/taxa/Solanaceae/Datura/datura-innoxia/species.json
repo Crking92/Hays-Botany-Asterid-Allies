@@ -22,6 +22,91 @@
       "source_page": "https://commons.wikimedia.org/wiki/File:Datura_innoxia_-_habitus.jpg",
       "study_use": "private_educational",
       "public_reuse": "cc_by_sa_4_attribution_sharealike"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/648347513/original.jpg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "hannahdurham",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/355512200",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648347513/original.jpg",
+      "original_source_sha256": "60f9bd06854efd39aa46b87a657a3d78ffed0b46958f500b5a4cda7454b37fea",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Solanaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified; exact identification and current license require source-specific review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "noncommercial educational use with attribution, subject to source verification",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/644364898/original.jpg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "Carlos/Giancarla Ross (AnimeBirder)",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/353123779",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644364898/original.jpg",
+      "original_source_sha256": "8bfa6bc8a776a38c08c22a931b4eec54f5f3561f67e8e787d30824f7b5cd4586",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Solanaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified; exact identification and current license require source-specific review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "noncommercial educational use with attribution, subject to source verification",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/662138984/original.jpg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "Ryleigh Minshew",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/362769792",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/662138984/original.jpg",
+      "original_source_sha256": "34a503186ba62b022a9340cfd48026c0afc9452ab683d3be4ad9239a3ad35d27",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Solanaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified; exact identification and current license require source-specific review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "noncommercial educational use with attribution, subject to source verification",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/495795075/original.jpg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "kathybf",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/276023784",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495795075/original.jpg",
+      "original_source_sha256": "d814ac9d522c5d5afe567a9f834aaa85f43b746574bbf225fc3a28923b073f36",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Solanaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified; exact identification and current license require source-specific review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "noncommercial educational use with attribution, subject to source verification",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/495657092/original.jpg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "Charles Franks",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/275932374",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495657092/original.jpg",
+      "original_source_sha256": "1de0fc57465300407fc1a1771bab517bbc472e9ca85821954dbce972decd3715",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Solanaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified; exact identification and current license require source-specific review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "noncommercial educational use with attribution, subject to source verification",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
     }
   ],
   "diagnostic_image_needs": [
@@ -44,5 +129,13 @@
     "filled_at": "2026-10-17",
     "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
   },
-  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "phase1_photo_batch": {
+    "date": "2026-11-01",
+    "source_family": "Solanaceae",
+    "incoming_photo_count": 5,
+    "added_external_gallery_refs": 5,
+    "preserved_original_zip_in_chatgpt_library": true,
+    "github_hosted_copy_completed": false
+  }
 }
