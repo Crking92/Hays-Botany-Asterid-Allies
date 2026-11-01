@@ -1,0 +1,678 @@
+{
+  "schema_version": 1,
+  "source_license_metadata_captured": true,
+  "source_pixels_archived_in_chatgpt_library": true,
+  "hash_verified_against_original_zip": true,
+  "individual_license_current_status_verified": false,
+  "photographic_id_expert_verified": false,
+  "automated_public_gallery_install_complete": false,
+  "notes": "Keep existing species cards and images intact. Photo source links, credited creators and exact hashes retained for Phase 1 import. CC BY-NC photos require noncommercial license compliance; do not silently change license.",
+  "family": "Solanaceae",
+  "target_repository": "Crking92/Hays-Botany-Asterid-Allies",
+  "target_branch": "staging/original-source-transfer",
+  "source_storage": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Solanaceae-original.zip",
+  "review_status": "SOURCE_ARCHIVED_HASH_VERIFIED_PENDING_LIVE_LICENSE_AND_ID_CHECK",
+  "site_published": false,
+  "species": [
+    {
+      "species": "Datura innoxia",
+      "species_id": "datura-innoxia",
+      "photos": [
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Datura_innoxia/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "hannahdurham",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/355512200",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648347513/original.jpg",
+          "sha256": "60f9bd06854efd39aa46b87a657a3d78ffed0b46958f500b5a4cda7454b37fea",
+          "bytes": 1945183,
+          "gbif_id": 6253092251
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Datura_innoxia/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "Carlos/Giancarla Ross (AnimeBirder)",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/353123779",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644364898/original.jpg",
+          "sha256": "8bfa6bc8a776a38c08c22a931b4eec54f5f3561f67e8e787d30824f7b5cd4586",
+          "bytes": 2559187,
+          "gbif_id": 6273789304
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Datura_innoxia/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "Ryleigh Minshew",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/362769792",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/662138984/original.jpg",
+          "sha256": "34a503186ba62b022a9340cfd48026c0afc9452ab683d3be4ad9239a3ad35d27",
+          "bytes": 2327965,
+          "gbif_id": 6352722710
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Datura_innoxia/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "kathybf",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/276023784",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495795075/original.jpg",
+          "sha256": "d814ac9d522c5d5afe567a9f834aaa85f43b746574bbf225fc3a28923b073f36",
+          "bytes": 3556473,
+          "gbif_id": 5141020127
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Datura_innoxia/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "Charles Franks",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/275932374",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495657092/original.jpg",
+          "sha256": "1de0fc57465300407fc1a1771bab517bbc472e9ca85821954dbce972decd3715",
+          "bytes": 3792062,
+          "gbif_id": 5153382047
+        }
+      ]
+    },
+    {
+      "species": "Physalis angulata",
+      "species_id": "physalis-angulata",
+      "photos": [
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Physalis_angulata/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "Jessica Huang AWB®",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/367138204",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/670442126/original.jpg",
+          "sha256": "e286714c861f2eadc73107015bebaa53bb60f95def73d564b59d6f87295d55bd",
+          "bytes": 674448,
+          "gbif_id": 6353310517
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Physalis_angulata/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "raeatx",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/372173288",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/680053894/original.jpg",
+          "sha256": "98ce54f72dcc24a136439b7fd9e5bd65561d544e39714efe8d9b93a8a8cc50fb",
+          "bytes": 780271,
+          "gbif_id": 6552863695
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Physalis_angulata/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "Shelia Hargis",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/386440021",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/707550936/original.jpg",
+          "sha256": "f395a4c715cc9ad519d5c21494c03b0a399471f74088616cc877be61329f1ab6",
+          "bytes": 1174965,
+          "gbif_id": 6479428009
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Physalis_angulata/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "Shelia Hargis",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/289410038",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520538346/original.jpg",
+          "sha256": "682b8e293bc80b7bf4ec53b8da3003ba62df6f8828d2eeed158f02bc89f324e3",
+          "bytes": 802695,
+          "gbif_id": 5206461630
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Physalis_angulata/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "raeatx",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/301082491",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/542523094/original.jpg",
+          "sha256": "a59d53934a391f447134e9fb09644db82c879019960e011ede17b32a013913d3",
+          "bytes": 591609,
+          "gbif_id": 5237819172
+        }
+      ]
+    },
+    {
+      "species": "Solanum americanum",
+      "species_id": "solanum-americanum",
+      "photos": [
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_americanum/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "Ashton Tassin",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/348423526",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/635444129/original.jpg",
+          "sha256": "e08d44ee50236f31564a6ea5a851b5866f8a59c797f3179ba1002448615f3778",
+          "bytes": 1726434,
+          "gbif_id": 6195442718
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_americanum/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "Nicole Wonderlin",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/353992840",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645832813/original.jpg",
+          "sha256": "3a0519685f1fd6a9a37434d7573e3886c3f9e3d9f14303fc15c36e2e24b552fc",
+          "bytes": 3236950,
+          "gbif_id": 6234361883
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_americanum/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "Russell Sanders",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/354573697",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646802911/original.jpg",
+          "sha256": "13d7aa9045480304f96c45fcb864ee22a9c8c93ba4ded1d41bb64e238dbf5244",
+          "bytes": 3297663,
+          "gbif_id": 6251578287
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_americanum/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "bowsharps",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/357837467",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/652711566/original.jpg",
+          "sha256": "5739433de7ced4e2b5f9262093c663796ecbb20f803613bed92e42cb0a0ef66c",
+          "bytes": 2388018,
+          "gbif_id": 6334302707
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_americanum/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "milosmith",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/361898541",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/660499853/original.jpg",
+          "sha256": "97deb5e4c29370cccd00f65efd6d14b58c3749701f1cc76172ae265d8e49eed4",
+          "bytes": 1775970,
+          "gbif_id": 6333895365
+        }
+      ]
+    },
+    {
+      "species": "Solanum dulcamara",
+      "species_id": "solanum-dulcamara",
+      "photos": [
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_dulcamara/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "julieluetzelschwab",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/364922036",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/666207250/original.jpg",
+          "sha256": "5f1eba1613cec570326bc33e66439628e1caeb3dfcd7c378c2c6c2663d1fbc3a",
+          "bytes": 481766,
+          "gbif_id": 6334731697
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_dulcamara/photos/photo_1.jpeg",
+          "filename": "photo_1.jpeg",
+          "creator": "agerts",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/83794368",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/137651474/original.jpeg",
+          "sha256": "60a2c02af815db5f4f78ed1e78bde21ed39f97ed2a0991d120100dc3b2c97f19",
+          "bytes": 1748082,
+          "gbif_id": 3859044682
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_dulcamara/photos/photo_2.jpeg",
+          "filename": "photo_2.jpeg",
+          "creator": "Craig Martin",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+          "source_url": "https://www.inaturalist.org/observations/51044558",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/81082107/original.jpeg",
+          "sha256": "3116a62bff8083358ab106b3db925af404c4b03c4c03cc3f3410bfd0248250cd",
+          "bytes": 2401241,
+          "gbif_id": 3067590980
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_dulcamara/photos/photo_3.jpeg",
+          "filename": "photo_3.jpeg",
+          "creator": "Craig Martin",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+          "source_url": "https://www.inaturalist.org/observations/54941888",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/87452225/original.jpeg",
+          "sha256": "e3c874501b4a27ce3bd1de665b8162bc270408fa71c7450506c9bded50f5bced",
+          "bytes": 2273653,
+          "gbif_id": 3067590061
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_dulcamara/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "Eduardo Santiago",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/56085741",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/89348794/original.jpg",
+          "sha256": "38b6c9898ee573773df19e5e01339f1ae48a4e6c8845235eb4abcb3b1fc01991",
+          "bytes": 1110639,
+          "gbif_id": 2851029229
+        }
+      ]
+    },
+    {
+      "species": "Solanum elaeagnifolium",
+      "species_id": "solanum-elaeagnifolium",
+      "photos": [
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_elaeagnifolium/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "Emily",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/342504586",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623734427/original.jpg",
+          "sha256": "994b81658611fca50e72993ae651f696159c8e0da3b4afc57fd16af3977fde8f",
+          "bytes": 3257371,
+          "gbif_id": 6178704325
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_elaeagnifolium/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "Jean Solana",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/343106826",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/627661678/original.jpg",
+          "sha256": "dbe812f5a76ff1aeef77dc5ecc16187c218ff6f6c3fb8e3428d18c27e002bee5",
+          "bytes": 1066578,
+          "gbif_id": 6178714237
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_elaeagnifolium/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "Hillary (Jun) Xu",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/341618568",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621941454/original.jpg",
+          "sha256": "169e37d1eb77e74e05fa5e09107a584570546c69889f0be3d6ea0d4efdb54b1f",
+          "bytes": 4404553,
+          "gbif_id": 6178775143
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_elaeagnifolium/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "valediaz",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/343262413",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/625248449/original.jpg",
+          "sha256": "f44d830a4b38899b07522c0dbc415a08ed70185beafc2b0f3aacc4774f16ca9c",
+          "bytes": 955276,
+          "gbif_id": 6178923773
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_elaeagnifolium/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "Jean Solana",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/343352215",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/626066116/original.jpg",
+          "sha256": "01a43e0766bbdc250bcbc56a0e966fb7966e0fa3d17ac3662cec8e51448ead66",
+          "bytes": 1702955,
+          "gbif_id": 6178990592
+        }
+      ]
+    },
+    {
+      "species": "Solanum emulans",
+      "species_id": "solanum-emulans",
+      "photos": [
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_emulans/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "urbanplantfather",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/354935120",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647432583/original.jpg",
+          "sha256": "8cf2d8d2024744025adef522babfce73825c371b38e437c4bb2c93658e8d4c58",
+          "bytes": 3745067,
+          "gbif_id": 6334927445
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_emulans/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "mc",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/362523153",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/661668623/original.jpg",
+          "sha256": "408173f56c65b5e1a2b42aa6ac83f2f7fab1780c1f61d9b6fa508e4331b581db",
+          "bytes": 2264818,
+          "gbif_id": 6334626450
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_emulans/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "Robby Deans",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/43362475",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/68812064/original.jpg",
+          "sha256": "c4bb935da4b22825fb6ce7679a68ee054fcb31469ffef27f386dfff98b11ec4e",
+          "bytes": 984504,
+          "gbif_id": 2611275763
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_emulans/photos/photo_3.jpeg",
+          "filename": "photo_3.jpeg",
+          "creator": "Alison Northup",
+          "license_url": "http://creativecommons.org/licenses/by/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/12101658",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17357835/original.jpeg",
+          "sha256": "1318aff0210cc9ef0dc005ee491a3c7a11bda2fe2ce02c04a0e74f9c970cf308",
+          "bytes": 2865557,
+          "gbif_id": 2862360312
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_emulans/photos/photo_4.jpeg",
+          "filename": "photo_4.jpeg",
+          "creator": "txnaturewatch",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/232803415",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/413639270/original.jpeg",
+          "sha256": "149680b2ee7b7c1880bb6fab79d630722cc3471379892781f5b232a99a41b9dc",
+          "bytes": 656962,
+          "gbif_id": 5008202247
+        }
+      ]
+    },
+    {
+      "species": "Solanum lycopersicum",
+      "species_id": "solanum-lycopersicum",
+      "photos": [
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_lycopersicum/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "stubug",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/358104227",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/653221034/original.jpg",
+          "sha256": "410381c87f7191de4d0fb411df024d5a8984f96673bce473f5a252d46a7f7c06",
+          "bytes": 2793902,
+          "gbif_id": 6500082220
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_lycopersicum/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "Debbie H",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/277614008",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498484195/original.jpg",
+          "sha256": "6b50c47d7b4160da207a97d78eed800bd63a6cf5de6c85b830ff6556ae027434",
+          "bytes": 3499136,
+          "gbif_id": 5153835660
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_lycopersicum/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "txnaturewatch",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/283759518",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/509870557/original.jpg",
+          "sha256": "977eb526b221ec4bc1450c2e9c18362d66c794be70b810d44824fefc4a646960",
+          "bytes": 1107096,
+          "gbif_id": 5167163454
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_lycopersicum/photos/photo_3.jpeg",
+          "filename": "photo_3.jpeg",
+          "creator": "plantperson7654",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/216939801",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/383707605/original.jpeg",
+          "sha256": "a9683421aaf432b4e4b4cfe120b4903628a01bb581f9f37c393a9eaece369651",
+          "bytes": 788080,
+          "gbif_id": 4868134042
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_lycopersicum/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "Nate Sabo",
+          "license_url": "http://creativecommons.org/licenses/by/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/160464607",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/277283750/original.jpg",
+          "sha256": "589f4ea4cf01982033fcf5be22721ff5922cf4a2ee90e1c0ffb5830aa6d724c1",
+          "bytes": 1112809,
+          "gbif_id": 4527960803
+        }
+      ]
+    },
+    {
+      "species": "Solanum nigrescens",
+      "species_id": "solanum-nigrescens",
+      "photos": [
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_nigrescens/photos/photo_0.jpeg",
+          "filename": "photo_0.jpeg",
+          "creator": "txnaturewatch",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/234071766",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/416056797/original.jpeg",
+          "sha256": "efda18b8de53c2e855ccb58b16d2c683278e4c60ce7506eb468090ef433b5b1f",
+          "bytes": 531836,
+          "gbif_id": 4921584389
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_nigrescens/photos/photo_1.jpeg",
+          "filename": "photo_1.jpeg",
+          "creator": "plantperson7654",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/244634528",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/436400634/original.jpeg",
+          "sha256": "b4fc3623a14e87b8b8c6a8bf73df791abe55081dcff0545bc6e4f2d5b349eee1",
+          "bytes": 721904,
+          "gbif_id": 5062813056
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_nigrescens/photos/photo_2.jpeg",
+          "filename": "photo_2.jpeg",
+          "creator": "plantperson7654",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/244634530",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/436400661/original.jpeg",
+          "sha256": "20a6e6e48aad5e9d66de6af70dd844c004775a67f253f1049176995504f1b227",
+          "bytes": 748402,
+          "gbif_id": 5062821973
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_nigrescens/photos/photo_3.jpeg",
+          "filename": "photo_3.jpeg",
+          "creator": "plantperson7654",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/244634525",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/436400586/original.jpeg",
+          "sha256": "206be0ed5c4103ae81c146103f0e45cdaa30e4a2fe592ccc0766a22a6f1e3cf2",
+          "bytes": 699470,
+          "gbif_id": 5062837985
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_nigrescens/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "Caleb Helsel",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/256450995",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/459806531/original.jpg",
+          "sha256": "79c822e8fadf91d08e5b00da3c4ff89857749d953caf6220653e945d170d26fd",
+          "bytes": 871080,
+          "gbif_id": 5133558912
+        }
+      ]
+    },
+    {
+      "species": "Solanum nigrum",
+      "species_id": "solanum-nigrum",
+      "photos": [
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_nigrum/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "cproctor",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/359678150",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/656265130/original.jpg",
+          "sha256": "56b005d1f01abf4f1e5443c0ad522eb4eb8fd5f7c98b5d2bd1f1a133358cf436",
+          "bytes": 2959416,
+          "gbif_id": 6273749451
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_nigrum/photos/photo_1.jpeg",
+          "filename": "photo_1.jpeg",
+          "creator": "tarragon9",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/178182953",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/310009247/original.jpeg",
+          "sha256": "8210cea67d4cbdaea83fcff9b6e0b2841d7852e738c891741eb1209f9a67e9bc",
+          "bytes": 1695964,
+          "gbif_id": 4512217023
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_nigrum/photos/photo_2.jpeg",
+          "filename": "photo_2.jpeg",
+          "creator": "alyob",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/131965445",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/224659618/original.jpeg",
+          "sha256": "2b3493fc3237fa9c11a52381ba123ba46bd11457f8ff63916e64edc3ab927fd3",
+          "bytes": 2357401,
+          "gbif_id": 3902662906
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_nigrum/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "Elliott Gordon",
+          "license_url": "http://creativecommons.org/licenses/by/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/86498623",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/142504195/original.jpg",
+          "sha256": "42f31f15c9492f20c653c66674ae34d855bb1cc72253b644ba84098600760724",
+          "bytes": 1353688,
+          "gbif_id": 5007857073
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_nigrum/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "jduran32",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/319143954",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/576871740/original.jpg",
+          "sha256": "542a7ce14553baa25a0bb4dbeaea1241a8645e5317afc3854467e2113624768a",
+          "bytes": 3242733,
+          "gbif_id": 6321198988
+        }
+      ]
+    },
+    {
+      "species": "Solanum rostratum",
+      "species_id": "solanum-rostratum",
+      "photos": [
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_rostratum/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "Mike Quinn, San Marcos",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/348831595",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/636255749/original.jpg",
+          "sha256": "201f84fc4d02b8deec8974ac69e574120c725504338204831ea5ac64291625b0",
+          "bytes": 3580658,
+          "gbif_id": 6195818813
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_rostratum/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "Keith Riggle",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/353510166",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645005348/original.jpg",
+          "sha256": "20cd23e27424dd7e42ad59ce5d7916462315872ef7b65f8cd40c8885fe9275cc",
+          "bytes": 2237933,
+          "gbif_id": 6234320741
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_rostratum/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "john_dinning",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/351156705",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/640777718/original.jpg",
+          "sha256": "a25b80ce89136e827de371cac16583e129a70fae6391304980bd61536800d68a",
+          "bytes": 1687528,
+          "gbif_id": 6234785710
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_rostratum/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "Russell Sanders",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/353712513",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645333597/original.jpg",
+          "sha256": "bf85d5d61e4060dfac29a2cd75ce850a72b861db0b2dc72e451398bc620a67a1",
+          "bytes": 4180921,
+          "gbif_id": 6234972819
+        },
+        {
+          "source_zip": "Solanaceae.zip",
+          "zip_entry": "Solanaceae/Solanum_rostratum/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "mmencini",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/354492012",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646669655/original.jpg",
+          "sha256": "f62a4a213aeb233a2421977d0fd15b81fa1235103f23e779b4658c3e8da3f654",
+          "bytes": 3178186,
+          "gbif_id": 6235192791
+        }
+      ]
+    }
+  ]
+}
