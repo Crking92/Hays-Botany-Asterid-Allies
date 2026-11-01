@@ -40,3 +40,5 @@ jobs:
             git commit -m "Install Phase 1 photos with hash-checked source and license records"
             git push origin HEAD:staging/original-source-transfer
           fi
+
+# Rubiaceae buttonbush batch: one-time hash-verified staging image install 2026-11-01.
