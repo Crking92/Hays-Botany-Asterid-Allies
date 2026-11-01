@@ -2,6 +2,11 @@
   "schema_version": 1,
   "report": [
     {
+      "species": "Cephalanthus occidentalis",
+      "hosted": 5,
+      "pending": []
+    },
+    {
       "species": "Datura innoxia",
       "hosted": 5,
       "pending": []
