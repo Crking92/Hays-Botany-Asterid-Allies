@@ -101,6 +101,91 @@
       "source_page": "https://commons.wikimedia.org/wiki/File:Solanum_elaeagnifolium_berries.jpg",
       "study_use": "yes",
       "public_reuse": "yes"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/623734427/original.jpg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "Emily",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/342504586",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623734427/original.jpg",
+      "original_source_sha256": "994b81658611fca50e72993ae651f696159c8e0da3b4afc57fd16af3977fde8f",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Solanaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified; exact identification and current license require source-specific review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "noncommercial educational use with attribution, subject to source verification",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/627661678/original.jpg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "Jean Solana",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/343106826",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/627661678/original.jpg",
+      "original_source_sha256": "dbe812f5a76ff1aeef77dc5ecc16187c218ff6f6c3fb8e3428d18c27e002bee5",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Solanaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified; exact identification and current license require source-specific review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "noncommercial educational use with attribution, subject to source verification",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/621941454/original.jpg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "Hillary (Jun) Xu",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/341618568",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621941454/original.jpg",
+      "original_source_sha256": "169e37d1eb77e74e05fa5e09107a584570546c69889f0be3d6ea0d4efdb54b1f",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Solanaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified; exact identification and current license require source-specific review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "noncommercial educational use with attribution, subject to source verification",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/625248449/original.jpg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "valediaz",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/343262413",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/625248449/original.jpg",
+      "original_source_sha256": "f44d830a4b38899b07522c0dbc415a08ed70185beafc2b0f3aacc4774f16ca9c",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Solanaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified; exact identification and current license require source-specific review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "noncommercial educational use with attribution, subject to source verification",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/626066116/original.jpg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "Jean Solana",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/343352215",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/626066116/original.jpg",
+      "original_source_sha256": "01a43e0766bbdc250bcbc56a0e966fb7966e0fa3d17ac3662cec8e51448ead66",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Solanaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified; exact identification and current license require source-specific review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "noncommercial educational use with attribution, subject to source verification",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
     }
   ],
   "learner_visual_status": {
@@ -522,5 +607,13 @@
       "correction": "Yellow anthers (42%,64.5%), style/stigma (48.5%,56.5%) and style label (61%,52%). Maintain corolla marker. Global smaller arrow marker will be adjusted in assets/js/app.js.",
       "confirmation": "Original photo has five visible yellow anthers around the style; screenshot clearly provides flower alignment. Mobile visual follow-up once published."
     }
+  },
+  "phase1_photo_batch": {
+    "date": "2026-11-01",
+    "source_family": "Solanaceae",
+    "incoming_photo_count": 5,
+    "added_external_gallery_refs": 5,
+    "preserved_original_zip_in_chatgpt_library": true,
+    "github_hosted_copy_completed": false
   }
 }
