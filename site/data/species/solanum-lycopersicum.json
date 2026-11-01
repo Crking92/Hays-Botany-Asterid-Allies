@@ -7,35 +7,31 @@
   "look_here_first": "Familiar aromatic-hairy scrambling plant with compound/divided leaves, yellow flowers, and large fleshy berries that ripen red, yellow, orange, or other cultivated colors.",
   "key_traits": [
     {
-      "label": "Family pattern",
-      "text": "Solanaceae/Solanum: alternate leaves, 5-parted rotate/stellate corollas, poricidal anthers, and berry fruits."
-    },
-    {
-      "label": "Identification",
+      "label": "Field character",
       "text": "cultigen/escaped annual or short-lived perennial"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "glandular aromatic hairs"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "leaves pinnately divided"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "yellow flowers"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "elongate yellow anthers"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "large multilocular fleshy berries"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "highly variable cultivated fruit"
     }
   ],
@@ -60,5 +56,7 @@
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "8ca22415c74fad535c90f0dbf7327542b3c2325c80c3a8b43cbccef8020f1f1b",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch",
+  "source_record_sha256": "e1eeae4e2a89f872ee499322654dba2cbcbd7f8c05dfdc41364ff5aed5b63e07",
+  "source_sync_status": "AUTO_IMPORTED_SOURCE_RECORD_REVIEW_WELCOME"
 }
