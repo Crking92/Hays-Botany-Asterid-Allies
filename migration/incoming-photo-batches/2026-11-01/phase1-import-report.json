@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "report": [
+    {
+      "species": "Datura innoxia",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Physalis angulata",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Solanum americanum",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Solanum dulcamara",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Solanum elaeagnifolium",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Solanum emulans",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Solanum lycopersicum",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Solanum nigrescens",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Solanum nigrum",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Solanum rostratum",
+      "hosted": 5,
+      "pending": []
+    }
+  ]
+}
