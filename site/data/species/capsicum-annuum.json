@@ -10,8 +10,47 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/capsicum-annuum/inat-645809871.jpg",
+      "creator": "(c) k0m0rb, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/645809871",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "913a8052dc64734332c37e47b59f92a91720e236",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
+      "source_review_evidence": "Live iNaturalist observation 354123141, photo 645809871, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 27a3ae21a42314a907a9fe39a19a132f0fdc954467e10ac5407e11188c1176e6.",
+      "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Capsicum annuum maps to indexed species capsicum-annuum; specialist morphology and BONAP range deferred.",
+      "sha256": "27a3ae21a42314a907a9fe39a19a132f0fdc954467e10ac5407e11188c1176e6"
+    },
+    {
+      "src": "media/capsicum-annuum/inat-647161447.jpg",
+      "creator": "(c) Michael Knox, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/647161447",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "fca4a2db3f3da0af04766593e2b76f1cab88be2d",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
+      "source_review_evidence": "Live iNaturalist observation 354780176, photo 647161447, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 962d966b2a146a3f16b42dd223387588474972c7a5c47f314eee033e1979e61e.",
+      "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Capsicum annuum maps to indexed species capsicum-annuum; specialist morphology and BONAP range deferred.",
+      "sha256": "962d966b2a146a3f16b42dd223387588474972c7a5c47f314eee033e1979e61e"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "b77d4a76cc507aa675b9b285285bbeb41a57957495c060fa145dc4b46d20caa3",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

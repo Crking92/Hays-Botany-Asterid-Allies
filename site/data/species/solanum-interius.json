@@ -67,8 +67,47 @@
     "names": [],
     "differences": "Main key is an UNEVEN inflorescence with distinctive basal pedicel, medium anthers, long rounded-tip calyx, larger black berries. Multiple structures, never one character alone."
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/solanum-interius/inat-158486021.jpg",
+      "creator": "(c) David Strong, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/158486021",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "419252170230eabe60abe59d006cc4856351f94b",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
+      "source_review_evidence": "Live iNaturalist observation 95464053, photo 158486021, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d9aceab3c6ba25a2b7f357fbec088cc79217d2131fd613c223cbf59fb23694bb.",
+      "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Solanum interius maps to indexed species solanum-interius; specialist morphology and BONAP range deferred.",
+      "sha256": "d9aceab3c6ba25a2b7f357fbec088cc79217d2131fd613c223cbf59fb23694bb"
+    },
+    {
+      "src": "media/solanum-interius/inat-82555173.jpeg",
+      "creator": "(c) Bob O'Kennon, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/82555173",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "64b57766d818cfa4193f91ae4813bdd9dc3f079e",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
+      "source_review_evidence": "Live iNaturalist observation 51946382, photo 82555173, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 18a43a7db496f31ad886458df72e2718eee4bb466d784e26b587224ae6ad7c9b.",
+      "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Solanum interius maps to indexed species solanum-interius; specialist morphology and BONAP range deferred.",
+      "sha256": "18a43a7db496f31ad886458df72e2718eee4bb466d784e26b587224ae6ad7c9b"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "6c2e8ca9d4c8afe39d85bf27c8e452c1e58f435e985f4d55a3f64f1540e7e1ab",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

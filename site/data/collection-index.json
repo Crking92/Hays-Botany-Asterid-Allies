@@ -837,8 +837,8 @@
       "genus": "Bouchetia",
       "scientific_name": "Bouchetia erecta",
       "common_name": "Upright bouchetia",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "capsicum-annuum",
@@ -846,8 +846,8 @@
       "genus": "Capsicum",
       "scientific_name": "Capsicum annuum",
       "common_name": "Chile pepper",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "capsicum-annuum-var-aviculare",
@@ -864,8 +864,8 @@
       "genus": "Chamaesaracha",
       "scientific_name": "Chamaesaracha coniodes",
       "common_name": "Gray five-eyes",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 4,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "chamaesaracha-coronopus",
@@ -873,8 +873,8 @@
       "genus": "Chamaesaracha",
       "scientific_name": "Chamaesaracha coronopus",
       "common_name": "Chamaesaracha",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 4,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "chamaesaracha-edwardsiana",
@@ -882,8 +882,8 @@
       "genus": "Chamaesaracha",
       "scientific_name": "Chamaesaracha edwardsiana",
       "common_name": "Edwards chamaesaracha",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "datura-innoxia",
@@ -900,8 +900,8 @@
       "genus": "Datura",
       "scientific_name": "Datura wrightii",
       "common_name": "Sacred datura",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "nicotiana-glauca",
@@ -909,8 +909,8 @@
       "genus": "Nicotiana",
       "scientific_name": "Nicotiana glauca",
       "common_name": "Tree tobacco (introduced)",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "nicotiana-obtusifolia",
@@ -918,8 +918,8 @@
       "genus": "Nicotiana",
       "scientific_name": "Nicotiana obtusifolia",
       "common_name": "Desert tobacco",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 4,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "nicotiana-repanda",
@@ -927,8 +927,8 @@
       "genus": "Nicotiana",
       "scientific_name": "Nicotiana repanda",
       "common_name": "Fiddleleaf tobacco",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "physalis-angulata",
@@ -945,8 +945,8 @@
       "genus": "Physalis",
       "scientific_name": "Physalis cinerascens",
       "common_name": "Smallflower groundcherry",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "physalis-longifolia",
@@ -954,8 +954,8 @@
       "genus": "Physalis",
       "scientific_name": "Physalis longifolia",
       "common_name": "Longleaf groundcherry",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 4,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "physalis-solanacea",
@@ -963,8 +963,8 @@
       "genus": "Physalis",
       "scientific_name": "Physalis solanacea",
       "common_name": "Urnflower groundcherry",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "solanum-americanum",
@@ -981,8 +981,8 @@
       "genus": "Solanum",
       "scientific_name": "Solanum dimidiatum",
       "common_name": "Western horsenettle / robust horsenettle",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "solanum-dulcamara",
@@ -1017,8 +1017,8 @@
       "genus": "Solanum",
       "scientific_name": "Solanum interius",
       "common_name": "Plains black nightshade",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "solanum-lycopersicum",
@@ -1062,8 +1062,8 @@
       "genus": "Solanum",
       "scientific_name": "Solanum triquetrum",
       "common_name": "Texas nightshade",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     }
   ]
 }

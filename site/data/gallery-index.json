@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 118,
-  "photo_species": 30,
-  "photo_count": 64,
+  "photo_species": 45,
+  "photo_count": 129,
   "entries": {
     "amsonia-ciliata": {
       "count": 1,
@@ -374,72 +374,72 @@
       "first_src": null
     },
     "bouchetia-erecta": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/bouchetia-erecta/inat-624747442.jpg"
     },
     "capsicum-annuum": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/capsicum-annuum/inat-645809871.jpg"
     },
     "capsicum-annuum-var-aviculare": {
       "count": 0,
       "first_src": null
     },
     "chamaesaracha-coniodes": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/chamaesaracha-coniodes/inat-634909849.jpg"
     },
     "chamaesaracha-coronopus": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/chamaesaracha-coronopus/inat-623461020.jpg"
     },
     "chamaesaracha-edwardsiana": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/chamaesaracha-edwardsiana/inat-621613522.jpg"
     },
     "datura-innoxia": {
       "count": 1,
       "first_src": "media/datura-innoxia/datura-innoxia-el-grafo.jpg"
     },
     "datura-wrightii": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/datura-wrightii/inat-634004287.jpg"
     },
     "nicotiana-glauca": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/nicotiana-glauca/inat-14789096.jpg"
     },
     "nicotiana-obtusifolia": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/nicotiana-obtusifolia/inat-202738889.jpg"
     },
     "nicotiana-repanda": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/nicotiana-repanda/inat-624223730.jpg"
     },
     "physalis-angulata": {
       "count": 1,
       "first_src": "media/physalis-angulata/physalis-angulata-starr-141025-2446.jpg"
     },
     "physalis-cinerascens": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/physalis-cinerascens/inat-629265632.jpg"
     },
     "physalis-longifolia": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/physalis-longifolia/inat-481309878.jpeg"
     },
     "physalis-solanacea": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/physalis-solanacea/inat-235391825.jpeg"
     },
     "solanum-americanum": {
       "count": 1,
       "first_src": "media/solanum-americanum/solanum-americanum-provisional-face.jpg"
     },
     "solanum-dimidiatum": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/solanum-dimidiatum/inat-624193685.jpg"
     },
     "solanum-dulcamara": {
       "count": 1,
@@ -454,8 +454,8 @@
       "first_src": "media/solanum-emulans/01-plant-habit.jpg"
     },
     "solanum-interius": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/solanum-interius/inat-158486021.jpg"
     },
     "solanum-lycopersicum": {
       "count": 1,
@@ -474,8 +474,8 @@
       "first_src": "media/solanum-rostratum/01-habit.jpg"
     },
     "solanum-triquetrum": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/solanum-triquetrum/inat-621185260.jpg"
     }
   }
 }
