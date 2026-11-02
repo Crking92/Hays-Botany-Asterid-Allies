@@ -12,5 +12,9 @@
     "Rubiaceae",
     "Solanaceae"
   ],
-  "site_release_stage": "PUBLIC_EXISTING_SOURCE_CC_PHOTOS"
+  "site_release_stage": "PUBLIC_EXISTING_SOURCE_CC_PHOTOS",
+  "photo_license_policy": {
+    "noncommercial_educational_use": true,
+    "notice": "This is the owner's public, noncommercial Hays Botany educational photo learner. CC BY-NC and CC BY-NC-SA photographs, where individually verified and accepted, are not available for commercial reuse; retain original creator, exact license, source links and adaptation notices. Reassess NC permissions before any monetized or promotional use."
+  }
 }
