@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 118,
-  "photo_species": 46,
-  "photo_count": 137,
+  "photo_species": 52,
+  "photo_count": 167,
   "entries": {
     "amsonia-ciliata": {
       "count": 1,
@@ -350,28 +350,28 @@
       "first_src": "media/cephalanthus-occidentalis/01-spherical-flower-head.jpg"
     },
     "diodia-virginiana": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/diodia-virginiana/inat-352791073.jpeg"
     },
     "galium-aparine": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/galium-aparine/inat-621523561.jpg"
     },
     "galium-texense": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/galium-texense/inat-118859007.jpg"
     },
     "galium-virgatum": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/galium-virgatum/inat-627897453.jpg"
     },
     "sherardia-arvensis": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/sherardia-arvensis/inat-620892531.jpg"
     },
     "stenaria-nigricans": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/stenaria-nigricans/inat-633161920.jpg"
     },
     "bouchetia-erecta": {
       "count": 5,
