@@ -17,7 +17,8 @@ RECORD_SIZE=42
 SYNONYMS={
  "azolla-caroliniana":{"azolla cristata"},
  "smilax-tamnoides":{"smilax hispida"},
- "capsicum-annuum-var-aviculare":{"capsicum annuum var. glabriusculum"},
+ "capsicum-annuum":{"capsicum annuum glabriusculum","capsicum annuum var. glabriusculum"},
+ "capsicum-annuum-var-aviculare":{"capsicum annuum glabriusculum","capsicum annuum var. glabriusculum"},
  "buddleja-racemosa":{"buddleja sessiliflora"},
  "talinum-aurantiacum":{"phemeranthus aurantiacus"},
 }
