@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 118,
-  "photo_species": 45,
-  "photo_count": 129,
+  "photo_species": 46,
+  "photo_count": 137,
   "entries": {
     "amsonia-ciliata": {
       "count": 1,
@@ -378,12 +378,12 @@
       "first_src": "media/bouchetia-erecta/inat-624747442.jpg"
     },
     "capsicum-annuum": {
-      "count": 2,
+      "count": 5,
       "first_src": "media/capsicum-annuum/inat-645809871.jpg"
     },
     "capsicum-annuum-var-aviculare": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/capsicum-annuum-var-aviculare/inat-131982243.jpg"
     },
     "chamaesaracha-coniodes": {
       "count": 4,
