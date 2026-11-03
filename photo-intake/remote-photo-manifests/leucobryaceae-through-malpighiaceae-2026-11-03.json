@@ -1,0 +1,29 @@
+{
+  "batch_id": "leucobryaceae-through-malpighiaceae-2026-11-03",
+  "family_zip": "Leucobryaceae through malpighiaceae.zip",
+  "zip_sha256": "c584cdef251720e71b4f7b8638da760bc95408b5eeeea66f23adc96c55aa0c53",
+  "library_backup": "NONE__OWNER_KEEP_ORIGINAL_IN_LAPTOP_ARCHIVED_FOLDER",
+  "sha256_checked_original_images": 10,
+  "exact_internal_duplicates": 0,
+  "species": [
+    "mitreola-petiolata",
+    "spigelia-hedyotidea"
+  ],
+  "original_images": 10,
+  "photos_for_live_source_recheck": 10,
+  "records_base64": "AAv15mEHE+ssoAnBypZxTzu5AfcHrHhdODaXhitQiSZ5BV9y/5ju2wsBACq04NAXTvQZZipNDzoa30pAyE1AXuavjJDaASu2v1Y9GYrIOTjKjjQAACrga4wXZVwCpSrNfoxfisbf79bzPecto1eM3qF28grwdf3TghqvHB0AAB+SzGoRiqUOeWDBLZzQrnNnD/rng5+ZPW6tpPAhZheFmNQWcTEgI8UAACEFpbMSTxbCjNY4wEnS8RPPBWx1JfUFT/X/wTSa4TQJGplApenXGH0AASaq0WQVNA7FKvuazAPP1Eu+Qo3dyCTAS2j9Ae5cu707AFuq1hLgYuUAASYqqEQU6qEXtnEggZJVbfiEdVapqnPAdUpvqAVm+LFTs0ct25mzYoQAARxPgtIPxCGOVaszmfxsBWW4tm7ViDkHO4jM7CQ+pyyYWczPniQnod0AARyujvgP9YQZf5JfxrpTDY1+VmCdZbMjAtauwEVNyZgJfUJX+DrhuZsBAR2I+E0QcVL8/ypA/yGKJkjbSkAjga/F1tkRVhq37HgLXi+c7ixDLSAB",
+  "source_metadata_credits": {
+    "200664673": "Michelle W. （鍾偉瑋）",
+    "474972882": "Michelle Lay",
+    "481201912": "Chris Hughes",
+    "495515725": "Reid Hardin",
+    "529714282": "spadefootatx",
+    "554018227": "Walter Flocke",
+    "640329796": "Julien",
+    "648728932": "SAnderson",
+    "716497104": "Caroline Kane",
+    "719350668": "Daniel Atha"
+  },
+  "offline_held_media": [],
+  "source_rights_holds": 0
+}
