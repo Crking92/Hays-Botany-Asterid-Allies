@@ -711,8 +711,8 @@
       "genus": "Giliastrum",
       "scientific_name": "Giliastrum incisum",
       "common_name": "Splitleaf Gilia",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "giliastrum-rigidulum",
@@ -720,8 +720,8 @@
       "genus": "Giliastrum",
       "scientific_name": "Giliastrum rigidulum",
       "common_name": "Blue gilia",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "ipomopsis-rubra",
@@ -729,8 +729,8 @@
       "genus": "Ipomopsis",
       "scientific_name": "Ipomopsis rubra",
       "common_name": "Standing cypress",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "phlox-drummondii",
@@ -738,8 +738,8 @@
       "genus": "Phlox",
       "scientific_name": "Phlox drummondii",
       "common_name": "Annual phlox",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "phlox-pilosa",
@@ -747,8 +747,8 @@
       "genus": "Phlox",
       "scientific_name": "Phlox pilosa",
       "common_name": "Prairie phlox",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "phlox-pilosa-subsp-riparia",
@@ -765,8 +765,8 @@
       "genus": "Phlox",
       "scientific_name": "Phlox roemeriana",
       "common_name": "Gold-eye phlox",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "cephalanthus-occidentalis",

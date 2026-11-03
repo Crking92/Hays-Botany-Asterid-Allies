@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 118,
-  "photo_species": 52,
-  "photo_count": 167,
+  "photo_species": 58,
+  "photo_count": 197,
   "entries": {
     "amsonia-ciliata": {
       "count": 1,
@@ -318,32 +318,32 @@
       "first_src": null
     },
     "giliastrum-incisum": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/giliastrum-incisum/inat-627386609.jpg"
     },
     "giliastrum-rigidulum": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/giliastrum-rigidulum/inat-623713179.jpg"
     },
     "ipomopsis-rubra": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/ipomopsis-rubra/inat-622234901.jpg"
     },
     "phlox-drummondii": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/phlox-drummondii/inat-621898558.jpg"
     },
     "phlox-pilosa": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/phlox-pilosa/inat-125846424.jpg"
     },
     "phlox-pilosa-subsp-riparia": {
       "count": 0,
       "first_src": null
     },
     "phlox-roemeriana": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/phlox-roemeriana/inat-621051816.jpg"
     },
     "cephalanthus-occidentalis": {
       "count": 3,
