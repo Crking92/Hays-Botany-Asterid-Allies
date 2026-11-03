@@ -1,0 +1,53 @@
+{
+  "repository": "Crking92/Hays-Botany-Asterid-Allies",
+  "batch_key": "MULTIFAMILY_COMMONS_CC0_DEED_RECOVERY_2026-11-03",
+  "checked_at": "2026-11-03T16:37:49.616838+00:00",
+  "source_files": 306,
+  "historical_cc0_deed_holds": 2,
+  "selection_window": 15,
+  "candidate_pool_with_usable_source_identifiers": 2,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 2,
+  "selected_by_lane": {
+    "commons": 2
+  },
+  "skipped_or_previously_published": {
+    "not_a_prior_cc0_deed_hold": 303,
+    "original_path_shape_unknown": 1
+  },
+  "new_installed": 0,
+  "held_checked": 2,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "asclepias-incarnata",
+      "family": "Apocynaceae",
+      "filename": "asclepias-incarnata-provisional-face.jpg",
+      "original_path": "content/taxa/Apocynaceae/Asclepias/asclepias-incarnata/images/asclepias-incarnata-provisional-face.jpg",
+      "archive_path": "migration/private-original-photo-holds/Apocynaceae/Asclepias/asclepias-incarnata/images/asclepias-incarnata-provisional-face.jpg",
+      "git_blob_sha": "38f1af66914bec6c27033166cbc98353e2ff0db4",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Source unavailable: HTTP Error 429: Too Many Requests (015d12c)"
+    },
+    {
+      "species_id": "chamaesaracha-coniodes",
+      "family": "Solanaceae",
+      "filename": "chamaesaracha-coniodes-patrick-alexander.jpg",
+      "original_path": "content/taxa/Solanaceae/Chamaesaracha/chamaesaracha-coniodes/images/chamaesaracha-coniodes-patrick-alexander.jpg",
+      "archive_path": "migration/private-original-photo-holds/Solanaceae/Chamaesaracha/chamaesaracha-coniodes/images/chamaesaracha-coniodes-patrick-alexander.jpg",
+      "git_blob_sha": "8f88e70a39dd380d2328ad1141bb5f927bc3828d",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Source unavailable: HTTP Error 429: Too Many Requests (015d12c)"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {
+    "Source unavailable: HTTP Error 429: Too Many Requests (015d12c)": 2
+  },
+  "cumulative_installed": 0,
+  "cumulative_held_reviewed": 2
+}
