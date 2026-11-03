@@ -1,7 +1,7 @@
 {
   "repository": "Crking92/Hays-Botany-Asterid-Allies",
   "batch_key": "MULTIFAMILY_HISTORICAL_CARD_INAT_2026-11-03",
-  "checked_at": "2026-11-03T23:22:40.401935+00:00",
+  "checked_at": "2026-11-03T23:24:44.815895+00:00",
   "source_files": 306,
   "selection_window": 60,
   "candidate_pool_with_usable_source_identifiers": 27,
@@ -18,8 +18,8 @@
     "original_path_shape_unknown": 1,
     "original_card_image_record_missing_or_ambiguous": 20
   },
-  "new_installed": 0,
-  "held_checked": 27,
+  "new_installed": 24,
+  "held_checked": 3,
   "duplicates_found_during_review": 0,
   "records": [
     {
@@ -30,8 +30,13 @@
       "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Convolvulus/convolvulus-arvensis/images/03-field-series-1.jpg",
       "git_blob_sha": "7b729ba815614278deb8a6ae80e489f96fc22079",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Taxon mismatch: Convolvulus arvensis vs convolvulus arvensis"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Jeff Back",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/518804248",
+      "taxon": "Convolvulus arvensis",
+      "src": "media/convolvulus-arvensis/archived-fc06386acb11534e.jpg",
+      "sha256": "fc06386acb11534e18e9e989b2d6b6370426f1a3bbca49f4c8540dcdae5708ed"
     },
     {
       "species_id": "convolvulus-arvensis",
@@ -41,8 +46,13 @@
       "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Convolvulus/convolvulus-arvensis/images/04-field-series-2.jpg",
       "git_blob_sha": "1eecb23d4ef4bee07dd1a55da9e757d9114656fe",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Taxon mismatch: Convolvulus arvensis vs convolvulus arvensis"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Jeff Back",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/518804302",
+      "taxon": "Convolvulus arvensis",
+      "src": "media/convolvulus-arvensis/archived-590799f312fceba8.jpg",
+      "sha256": "590799f312fceba8339660e7c6aeb94affc088ea2fdff0a98ea1b39c5c7e8986"
     },
     {
       "species_id": "convolvulus-arvensis",
@@ -52,8 +62,13 @@
       "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Convolvulus/convolvulus-arvensis/images/05-field-series-3.jpg",
       "git_blob_sha": "9649ffa4167d593947404ff4d4b56ed0d24cc139",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Taxon mismatch: Convolvulus arvensis vs convolvulus arvensis"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Jeff Back",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/518804341",
+      "taxon": "Convolvulus arvensis",
+      "src": "media/convolvulus-arvensis/archived-b9dfc8975c550b0b.jpg",
+      "sha256": "b9dfc8975c550b0b7e867fb2f72a9ba7feeb2348e34d890511379d2d77599fdb"
     },
     {
       "species_id": "distimake-dissectus",
@@ -63,8 +78,13 @@
       "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Distimake/distimake-dissectus/images/01-inat-reference.jpg",
       "git_blob_sha": "4c593c87fb60568822e9cf1809a0df5bf826919e",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Taxon mismatch: Distimake dissectus vs distimake dissectus"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Cole Everage",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/743378432",
+      "taxon": "Distimake dissectus",
+      "src": "media/distimake-dissectus/archived-2a3fc6e83df0c2a4.jpg",
+      "sha256": "2a3fc6e83df0c2a4f5fe6ee3c8032e0a10b99d71e252d87e9ba7ce33fd94cd44"
     },
     {
       "species_id": "distimake-dissectus",
@@ -74,8 +94,13 @@
       "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Distimake/distimake-dissectus/images/02-inat-reference.jpg",
       "git_blob_sha": "5cd64d1429b39e0394b037baffedc270beea5f0d",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Taxon mismatch: Distimake dissectus vs distimake dissectus"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Benjamin Kollodziej",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/743306257",
+      "taxon": "Distimake dissectus",
+      "src": "media/distimake-dissectus/archived-f30cd147b92b2e0c.jpg",
+      "sha256": "f30cd147b92b2e0ca51bb463c2de96836234586621c9f8fc0b854908c2b7fc71"
     },
     {
       "species_id": "distimake-dissectus",
@@ -85,8 +110,13 @@
       "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Distimake/distimake-dissectus/images/03-inat-reference.jpg",
       "git_blob_sha": "e12939ec2639451137a93d3ed6e1e5c17e02e286",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Taxon mismatch: Distimake dissectus vs distimake dissectus"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Salem De La Luna",
+      "license": "CC BY 4.0",
+      "source_page": "https://www.inaturalist.org/photos/743021688",
+      "taxon": "Distimake dissectus",
+      "src": "media/distimake-dissectus/archived-4b6fded101dc2852.jpg",
+      "sha256": "4b6fded101dc2852162465c59e0495b6b40b2ab84cf2eef255a73bf4978b0f5a"
     },
     {
       "species_id": "ipomoea-coccinea",
@@ -97,7 +127,7 @@
       "git_blob_sha": "b007616aea45ad71dfe963380c143b5d086e96c2",
       "lane": "inat",
       "status": "HELD",
-      "reason": "Taxon mismatch: Ipomoea coccinea vs ipomoea coccinea"
+      "reason": "Current photo creator differs from original image CSV: no rights reserved"
     },
     {
       "species_id": "ipomoea-coccinea",
@@ -108,7 +138,7 @@
       "git_blob_sha": "97d7b66720e0496d8ab8b508b8eae23e07797bcf",
       "lane": "inat",
       "status": "HELD",
-      "reason": "Taxon mismatch: Ipomoea coccinea vs ipomoea coccinea"
+      "reason": "Current photo creator differs from original image CSV: no rights reserved"
     },
     {
       "species_id": "ipomoea-coccinea",
@@ -119,7 +149,7 @@
       "git_blob_sha": "d6ad4622a687efa3ba0b0e5c74edd73a4b154692",
       "lane": "inat",
       "status": "HELD",
-      "reason": "Taxon mismatch: Ipomoea coccinea vs ipomoea coccinea"
+      "reason": "Current photo creator differs from original image CSV: no rights reserved"
     },
     {
       "species_id": "ipomoea-cordatotriloba",
@@ -129,8 +159,13 @@
       "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-cordatotriloba/images/03-same-plant-field-view-1.jpg",
       "git_blob_sha": "2d1a4496ec94e6b6e6da72ec510722c53975dfbd",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Taxon mismatch: Ipomoea cordatotriloba vs ipomoea cordatotriloba"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Alex Correa",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/738308561",
+      "taxon": "Ipomoea cordatotriloba",
+      "src": "media/ipomoea-cordatotriloba/archived-f3fd7fdd9074803d.jpg",
+      "sha256": "f3fd7fdd9074803d5ce104df978820ad33ee6ced18eacac6fd9d992aad66a90b"
     },
     {
       "species_id": "ipomoea-cordatotriloba",
@@ -140,8 +175,13 @@
       "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-cordatotriloba/images/04-same-plant-field-view-2.jpg",
       "git_blob_sha": "70a47b615ab3325d9e6194a7ed9f3582dd9bf5e4",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Taxon mismatch: Ipomoea cordatotriloba vs ipomoea cordatotriloba"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Alex Correa",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/738308557",
+      "taxon": "Ipomoea cordatotriloba",
+      "src": "media/ipomoea-cordatotriloba/archived-49528b74741bf454.jpg",
+      "sha256": "49528b74741bf4548b627f01e8da20c4adb5e405e760bb16d33d30a92e702a01"
     },
     {
       "species_id": "ipomoea-cordatotriloba",
@@ -151,8 +191,13 @@
       "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-cordatotriloba/images/05-same-plant-field-view-3.jpg",
       "git_blob_sha": "c59efa776b2cb082d22853285301093ccb619c68",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Taxon mismatch: Ipomoea cordatotriloba vs ipomoea cordatotriloba"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Alex Correa",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/738308556",
+      "taxon": "Ipomoea cordatotriloba",
+      "src": "media/ipomoea-cordatotriloba/archived-05b16103f46387be.jpg",
+      "sha256": "05b16103f46387bedc7a68aa15a471ab79d3540bf32810f7a3fbb351df62c7b2"
     },
     {
       "species_id": "ipomoea-hederacea",
@@ -162,8 +207,13 @@
       "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-hederacea/images/03-same-plant-field-view-1.jpg",
       "git_blob_sha": "70bdb316f564499586f55faf2f881386793ca451",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Taxon mismatch: Ipomoea hederacea vs ipomoea hederacea"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "txnaturewatch",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/664145684",
+      "taxon": "Ipomoea hederacea",
+      "src": "media/ipomoea-hederacea/archived-a71797bcb004e2a4.jpg",
+      "sha256": "a71797bcb004e2a4cd98b141d9927daefdee397beefbd9b4d492f43518130703"
     },
     {
       "species_id": "ipomoea-hederacea",
@@ -173,8 +223,13 @@
       "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-hederacea/images/04-same-plant-field-view-2.jpg",
       "git_blob_sha": "3b1f640c032b238281eb65bb0f7b5e5b24f75328",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Taxon mismatch: Ipomoea hederacea vs ipomoea hederacea"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "txnaturewatch",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/664145999",
+      "taxon": "Ipomoea hederacea",
+      "src": "media/ipomoea-hederacea/archived-d809753cdb4b6bfd.jpg",
+      "sha256": "d809753cdb4b6bfd67620424564917c7fa343f3dc56c66f9c444fea1cc18733a"
     },
     {
       "species_id": "ipomoea-hederacea",
@@ -184,8 +239,13 @@
       "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-hederacea/images/05-same-plant-field-view-3.jpg",
       "git_blob_sha": "33a725eba6c38e290ddea74ed9f977167c70aa59",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Taxon mismatch: Ipomoea hederacea vs ipomoea hederacea"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "txnaturewatch",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/664146097",
+      "taxon": "Ipomoea hederacea",
+      "src": "media/ipomoea-hederacea/archived-ea6ecb57b13c3d1f.jpg",
+      "sha256": "ea6ecb57b13c3d1f30df20466e3dec4182606376586b6489d76c6ab40e3c56a0"
     },
     {
       "species_id": "ipomoea-lacunosa",
@@ -195,8 +255,13 @@
       "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-lacunosa/images/03-same-plant-field-view-1.jpg",
       "git_blob_sha": "1a6bf008ac620ecae2f06d6c20212a8631247c30",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Taxon mismatch: Ipomoea lacunosa vs ipomoea lacunosa"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Arnan Pawawongsak",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/374795981",
+      "taxon": "Ipomoea lacunosa",
+      "src": "media/ipomoea-lacunosa/archived-a2f5b032210838f3.jpg",
+      "sha256": "a2f5b032210838f3321c3c696e00b581fdc8595970baadd95ed967faf7f44ab5"
     },
     {
       "species_id": "ipomoea-lacunosa",
@@ -206,8 +271,13 @@
       "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-lacunosa/images/04-same-plant-field-view-2.jpg",
       "git_blob_sha": "c1f70d77f11624e97597ea61b05417be51616df4",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Taxon mismatch: Ipomoea lacunosa vs ipomoea lacunosa"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Arnan Pawawongsak",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/374796058",
+      "taxon": "Ipomoea lacunosa",
+      "src": "media/ipomoea-lacunosa/archived-dfec5f8360d329b2.jpg",
+      "sha256": "dfec5f8360d329b267d843e024a117fac6f67814032d1f3e5834a775486a4d2f"
     },
     {
       "species_id": "ipomoea-lacunosa",
@@ -217,8 +287,13 @@
       "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-lacunosa/images/05-same-plant-field-view-3.jpg",
       "git_blob_sha": "cba29e0fcda57df457573c2fd0040330cce2863c",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Taxon mismatch: Ipomoea lacunosa vs ipomoea lacunosa"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Arnan Pawawongsak",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/374796070",
+      "taxon": "Ipomoea lacunosa",
+      "src": "media/ipomoea-lacunosa/archived-40f278c5ff9bc4bb.jpg",
+      "sha256": "40f278c5ff9bc4bb7afc4e6b5a775a29ec23269e41aa3b3ad9cf33fd579c7cda"
     },
     {
       "species_id": "ipomoea-lindheimeri",
@@ -228,8 +303,13 @@
       "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-lindheimeri/images/03-same-plant-field-view-1.jpg",
       "git_blob_sha": "fa1ae3037bcbd3f518bd9ca92408b5b42446bb8e",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Taxon mismatch: Ipomoea lindheimeri vs ipomoea lindheimeri"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Ian McFaul",
+      "license": "CC BY 4.0",
+      "source_page": "https://www.inaturalist.org/photos/668228302",
+      "taxon": "Ipomoea lindheimeri",
+      "src": "media/ipomoea-lindheimeri/archived-097cbc3adf5dd8b0.jpg",
+      "sha256": "097cbc3adf5dd8b0d0fb36590f460b5c74e16d4cc1517b7b5aafac2e1eef8a1b"
     },
     {
       "species_id": "ipomoea-lindheimeri",
@@ -239,8 +319,13 @@
       "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-lindheimeri/images/04-same-plant-field-view-2.jpg",
       "git_blob_sha": "94ce998be40933682ca6e13d8abf74d9dced2076",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Taxon mismatch: Ipomoea lindheimeri vs ipomoea lindheimeri"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Ian McFaul",
+      "license": "CC BY 4.0",
+      "source_page": "https://www.inaturalist.org/photos/668228349",
+      "taxon": "Ipomoea lindheimeri",
+      "src": "media/ipomoea-lindheimeri/archived-249b766443381da4.jpg",
+      "sha256": "249b766443381da42009a61bc4f8b8561adc06ef3825beed2ecf532328816cfc"
     },
     {
       "species_id": "ipomoea-lindheimeri",
@@ -250,8 +335,13 @@
       "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-lindheimeri/images/05-same-plant-field-view-3.jpg",
       "git_blob_sha": "5f639a89c6b39e3c0c63fa4b614990278f4d62c9",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Taxon mismatch: Ipomoea lindheimeri vs ipomoea lindheimeri"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Ian McFaul",
+      "license": "CC BY 4.0",
+      "source_page": "https://www.inaturalist.org/photos/668228465",
+      "taxon": "Ipomoea lindheimeri",
+      "src": "media/ipomoea-lindheimeri/archived-40f721540c41abfc.jpg",
+      "sha256": "40f721540c41abfc11f9fb7008db49ef9a1a42bfa61e2a48d294167bed098eab"
     },
     {
       "species_id": "ipomoea-nil",
@@ -261,8 +351,13 @@
       "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-nil/images/03-same-plant-field-view-1.jpg",
       "git_blob_sha": "f325e9f94227682b8ecb3ed46967cd8071c7596a",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Taxon mismatch: Ipomoea nil vs ipomoea nil"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "txnaturewatch",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/331011802",
+      "taxon": "Ipomoea nil",
+      "src": "media/ipomoea-nil/archived-7e3ca0f6c640ad25.jpg",
+      "sha256": "7e3ca0f6c640ad258c9d19793e66dd4012c110d3ede904b70fa32cae159227ba"
     },
     {
       "species_id": "ipomoea-nil",
@@ -272,8 +367,13 @@
       "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-nil/images/04-same-plant-field-view-2.jpg",
       "git_blob_sha": "43a29ad92dcd21507c060bcd7252b5e38b737235",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Taxon mismatch: Ipomoea nil vs ipomoea nil"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "txnaturewatch",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/331011805",
+      "taxon": "Ipomoea nil",
+      "src": "media/ipomoea-nil/archived-35ec9ebe20317f35.jpg",
+      "sha256": "35ec9ebe20317f35d2276371e258988292277577f8447aac87ba2cc9b27f963d"
     },
     {
       "species_id": "ipomoea-nil",
@@ -283,8 +383,13 @@
       "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-nil/images/05-same-plant-field-view-3.jpg",
       "git_blob_sha": "6694af2db073a9d1afc0c94d0e2e21be3629e751",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Taxon mismatch: Ipomoea nil vs ipomoea nil"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "txnaturewatch",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/331011768",
+      "taxon": "Ipomoea nil",
+      "src": "media/ipomoea-nil/archived-db9266dcbcb1975d.jpg",
+      "sha256": "db9266dcbcb1975d5504ed977db8a3690593772b637a803a129b77c0d9694698"
     },
     {
       "species_id": "ipomoea-triloba",
@@ -294,8 +399,13 @@
       "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-triloba/images/03-same-plant-field-view-1.jpg",
       "git_blob_sha": "eb8f48b72a5cd584f8a79770310703e4cadb3a38",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Taxon mismatch: Ipomoea triloba vs ipomoea triloba"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Andy Newman",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/5176462",
+      "taxon": "Ipomoea triloba",
+      "src": "media/ipomoea-triloba/archived-f00460d73491f4b9.jpg",
+      "sha256": "f00460d73491f4b9f49608dc3c7dda90028493a11c311c63b754efae1efc5a90"
     },
     {
       "species_id": "ipomoea-triloba",
@@ -305,8 +415,13 @@
       "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-triloba/images/04-same-plant-field-view-2.jpg",
       "git_blob_sha": "5c7ff92ad57f0b3890b87280fe46049b46d33ec0",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Taxon mismatch: Ipomoea triloba vs ipomoea triloba"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Andy Newman",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/5176473",
+      "taxon": "Ipomoea triloba",
+      "src": "media/ipomoea-triloba/archived-ad7ac70101b1f6d1.jpg",
+      "sha256": "ad7ac70101b1f6d19097c0f92bcf4475e85c5c1c21b7f9333a8a4be99a24618b"
     },
     {
       "species_id": "ipomoea-triloba",
@@ -316,24 +431,327 @@
       "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-triloba/images/05-same-plant-field-view-3.jpg",
       "git_blob_sha": "e42f934b6ed68df17f3623815cd867035f5c3437",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Taxon mismatch: Ipomoea triloba vs ipomoea triloba"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Andy Newman",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/5176477",
+      "taxon": "Ipomoea triloba",
+      "src": "media/ipomoea-triloba/archived-1388dd2de48c15c8.jpg",
+      "sha256": "1388dd2de48c15c8fb86162481026a5566b10cb4a253f31d320ea571b270fd2d"
     }
   ],
-  "previous_batches": [],
-  "batch_number": 1,
+  "previous_batches": [
+    {
+      "checked_at": "2026-11-03T23:22:40.401935+00:00",
+      "selected_candidates": 27,
+      "new_installed": 0,
+      "held_checked": 27,
+      "records": [
+        {
+          "species_id": "convolvulus-arvensis",
+          "family": "Convolvulaceae",
+          "filename": "03-field-series-1.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Convolvulus/convolvulus-arvensis/images/03-field-series-1.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Convolvulus/convolvulus-arvensis/images/03-field-series-1.jpg",
+          "git_blob_sha": "7b729ba815614278deb8a6ae80e489f96fc22079",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Convolvulus arvensis vs convolvulus arvensis"
+        },
+        {
+          "species_id": "convolvulus-arvensis",
+          "family": "Convolvulaceae",
+          "filename": "04-field-series-2.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Convolvulus/convolvulus-arvensis/images/04-field-series-2.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Convolvulus/convolvulus-arvensis/images/04-field-series-2.jpg",
+          "git_blob_sha": "1eecb23d4ef4bee07dd1a55da9e757d9114656fe",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Convolvulus arvensis vs convolvulus arvensis"
+        },
+        {
+          "species_id": "convolvulus-arvensis",
+          "family": "Convolvulaceae",
+          "filename": "05-field-series-3.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Convolvulus/convolvulus-arvensis/images/05-field-series-3.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Convolvulus/convolvulus-arvensis/images/05-field-series-3.jpg",
+          "git_blob_sha": "9649ffa4167d593947404ff4d4b56ed0d24cc139",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Convolvulus arvensis vs convolvulus arvensis"
+        },
+        {
+          "species_id": "distimake-dissectus",
+          "family": "Convolvulaceae",
+          "filename": "01-inat-reference.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Distimake/distimake-dissectus/images/01-inat-reference.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Distimake/distimake-dissectus/images/01-inat-reference.jpg",
+          "git_blob_sha": "4c593c87fb60568822e9cf1809a0df5bf826919e",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Distimake dissectus vs distimake dissectus"
+        },
+        {
+          "species_id": "distimake-dissectus",
+          "family": "Convolvulaceae",
+          "filename": "02-inat-reference.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Distimake/distimake-dissectus/images/02-inat-reference.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Distimake/distimake-dissectus/images/02-inat-reference.jpg",
+          "git_blob_sha": "5cd64d1429b39e0394b037baffedc270beea5f0d",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Distimake dissectus vs distimake dissectus"
+        },
+        {
+          "species_id": "distimake-dissectus",
+          "family": "Convolvulaceae",
+          "filename": "03-inat-reference.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Distimake/distimake-dissectus/images/03-inat-reference.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Distimake/distimake-dissectus/images/03-inat-reference.jpg",
+          "git_blob_sha": "e12939ec2639451137a93d3ed6e1e5c17e02e286",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Distimake dissectus vs distimake dissectus"
+        },
+        {
+          "species_id": "ipomoea-coccinea",
+          "family": "Convolvulaceae",
+          "filename": "03-same-plant-field-view-1.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Ipomoea/ipomoea-coccinea/images/03-same-plant-field-view-1.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-coccinea/images/03-same-plant-field-view-1.jpg",
+          "git_blob_sha": "b007616aea45ad71dfe963380c143b5d086e96c2",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Ipomoea coccinea vs ipomoea coccinea"
+        },
+        {
+          "species_id": "ipomoea-coccinea",
+          "family": "Convolvulaceae",
+          "filename": "04-same-plant-field-view-2.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Ipomoea/ipomoea-coccinea/images/04-same-plant-field-view-2.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-coccinea/images/04-same-plant-field-view-2.jpg",
+          "git_blob_sha": "97d7b66720e0496d8ab8b508b8eae23e07797bcf",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Ipomoea coccinea vs ipomoea coccinea"
+        },
+        {
+          "species_id": "ipomoea-coccinea",
+          "family": "Convolvulaceae",
+          "filename": "05-same-plant-field-view-3.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Ipomoea/ipomoea-coccinea/images/05-same-plant-field-view-3.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-coccinea/images/05-same-plant-field-view-3.jpg",
+          "git_blob_sha": "d6ad4622a687efa3ba0b0e5c74edd73a4b154692",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Ipomoea coccinea vs ipomoea coccinea"
+        },
+        {
+          "species_id": "ipomoea-cordatotriloba",
+          "family": "Convolvulaceae",
+          "filename": "03-same-plant-field-view-1.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Ipomoea/ipomoea-cordatotriloba/images/03-same-plant-field-view-1.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-cordatotriloba/images/03-same-plant-field-view-1.jpg",
+          "git_blob_sha": "2d1a4496ec94e6b6e6da72ec510722c53975dfbd",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Ipomoea cordatotriloba vs ipomoea cordatotriloba"
+        },
+        {
+          "species_id": "ipomoea-cordatotriloba",
+          "family": "Convolvulaceae",
+          "filename": "04-same-plant-field-view-2.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Ipomoea/ipomoea-cordatotriloba/images/04-same-plant-field-view-2.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-cordatotriloba/images/04-same-plant-field-view-2.jpg",
+          "git_blob_sha": "70a47b615ab3325d9e6194a7ed9f3582dd9bf5e4",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Ipomoea cordatotriloba vs ipomoea cordatotriloba"
+        },
+        {
+          "species_id": "ipomoea-cordatotriloba",
+          "family": "Convolvulaceae",
+          "filename": "05-same-plant-field-view-3.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Ipomoea/ipomoea-cordatotriloba/images/05-same-plant-field-view-3.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-cordatotriloba/images/05-same-plant-field-view-3.jpg",
+          "git_blob_sha": "c59efa776b2cb082d22853285301093ccb619c68",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Ipomoea cordatotriloba vs ipomoea cordatotriloba"
+        },
+        {
+          "species_id": "ipomoea-hederacea",
+          "family": "Convolvulaceae",
+          "filename": "03-same-plant-field-view-1.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Ipomoea/ipomoea-hederacea/images/03-same-plant-field-view-1.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-hederacea/images/03-same-plant-field-view-1.jpg",
+          "git_blob_sha": "70bdb316f564499586f55faf2f881386793ca451",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Ipomoea hederacea vs ipomoea hederacea"
+        },
+        {
+          "species_id": "ipomoea-hederacea",
+          "family": "Convolvulaceae",
+          "filename": "04-same-plant-field-view-2.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Ipomoea/ipomoea-hederacea/images/04-same-plant-field-view-2.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-hederacea/images/04-same-plant-field-view-2.jpg",
+          "git_blob_sha": "3b1f640c032b238281eb65bb0f7b5e5b24f75328",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Ipomoea hederacea vs ipomoea hederacea"
+        },
+        {
+          "species_id": "ipomoea-hederacea",
+          "family": "Convolvulaceae",
+          "filename": "05-same-plant-field-view-3.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Ipomoea/ipomoea-hederacea/images/05-same-plant-field-view-3.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-hederacea/images/05-same-plant-field-view-3.jpg",
+          "git_blob_sha": "33a725eba6c38e290ddea74ed9f977167c70aa59",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Ipomoea hederacea vs ipomoea hederacea"
+        },
+        {
+          "species_id": "ipomoea-lacunosa",
+          "family": "Convolvulaceae",
+          "filename": "03-same-plant-field-view-1.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Ipomoea/ipomoea-lacunosa/images/03-same-plant-field-view-1.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-lacunosa/images/03-same-plant-field-view-1.jpg",
+          "git_blob_sha": "1a6bf008ac620ecae2f06d6c20212a8631247c30",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Ipomoea lacunosa vs ipomoea lacunosa"
+        },
+        {
+          "species_id": "ipomoea-lacunosa",
+          "family": "Convolvulaceae",
+          "filename": "04-same-plant-field-view-2.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Ipomoea/ipomoea-lacunosa/images/04-same-plant-field-view-2.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-lacunosa/images/04-same-plant-field-view-2.jpg",
+          "git_blob_sha": "c1f70d77f11624e97597ea61b05417be51616df4",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Ipomoea lacunosa vs ipomoea lacunosa"
+        },
+        {
+          "species_id": "ipomoea-lacunosa",
+          "family": "Convolvulaceae",
+          "filename": "05-same-plant-field-view-3.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Ipomoea/ipomoea-lacunosa/images/05-same-plant-field-view-3.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-lacunosa/images/05-same-plant-field-view-3.jpg",
+          "git_blob_sha": "cba29e0fcda57df457573c2fd0040330cce2863c",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Ipomoea lacunosa vs ipomoea lacunosa"
+        },
+        {
+          "species_id": "ipomoea-lindheimeri",
+          "family": "Convolvulaceae",
+          "filename": "03-same-plant-field-view-1.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Ipomoea/ipomoea-lindheimeri/images/03-same-plant-field-view-1.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-lindheimeri/images/03-same-plant-field-view-1.jpg",
+          "git_blob_sha": "fa1ae3037bcbd3f518bd9ca92408b5b42446bb8e",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Ipomoea lindheimeri vs ipomoea lindheimeri"
+        },
+        {
+          "species_id": "ipomoea-lindheimeri",
+          "family": "Convolvulaceae",
+          "filename": "04-same-plant-field-view-2.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Ipomoea/ipomoea-lindheimeri/images/04-same-plant-field-view-2.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-lindheimeri/images/04-same-plant-field-view-2.jpg",
+          "git_blob_sha": "94ce998be40933682ca6e13d8abf74d9dced2076",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Ipomoea lindheimeri vs ipomoea lindheimeri"
+        },
+        {
+          "species_id": "ipomoea-lindheimeri",
+          "family": "Convolvulaceae",
+          "filename": "05-same-plant-field-view-3.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Ipomoea/ipomoea-lindheimeri/images/05-same-plant-field-view-3.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-lindheimeri/images/05-same-plant-field-view-3.jpg",
+          "git_blob_sha": "5f639a89c6b39e3c0c63fa4b614990278f4d62c9",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Ipomoea lindheimeri vs ipomoea lindheimeri"
+        },
+        {
+          "species_id": "ipomoea-nil",
+          "family": "Convolvulaceae",
+          "filename": "03-same-plant-field-view-1.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Ipomoea/ipomoea-nil/images/03-same-plant-field-view-1.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-nil/images/03-same-plant-field-view-1.jpg",
+          "git_blob_sha": "f325e9f94227682b8ecb3ed46967cd8071c7596a",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Ipomoea nil vs ipomoea nil"
+        },
+        {
+          "species_id": "ipomoea-nil",
+          "family": "Convolvulaceae",
+          "filename": "04-same-plant-field-view-2.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Ipomoea/ipomoea-nil/images/04-same-plant-field-view-2.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-nil/images/04-same-plant-field-view-2.jpg",
+          "git_blob_sha": "43a29ad92dcd21507c060bcd7252b5e38b737235",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Ipomoea nil vs ipomoea nil"
+        },
+        {
+          "species_id": "ipomoea-nil",
+          "family": "Convolvulaceae",
+          "filename": "05-same-plant-field-view-3.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Ipomoea/ipomoea-nil/images/05-same-plant-field-view-3.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-nil/images/05-same-plant-field-view-3.jpg",
+          "git_blob_sha": "6694af2db073a9d1afc0c94d0e2e21be3629e751",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Ipomoea nil vs ipomoea nil"
+        },
+        {
+          "species_id": "ipomoea-triloba",
+          "family": "Convolvulaceae",
+          "filename": "03-same-plant-field-view-1.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Ipomoea/ipomoea-triloba/images/03-same-plant-field-view-1.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-triloba/images/03-same-plant-field-view-1.jpg",
+          "git_blob_sha": "eb8f48b72a5cd584f8a79770310703e4cadb3a38",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Ipomoea triloba vs ipomoea triloba"
+        },
+        {
+          "species_id": "ipomoea-triloba",
+          "family": "Convolvulaceae",
+          "filename": "04-same-plant-field-view-2.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Ipomoea/ipomoea-triloba/images/04-same-plant-field-view-2.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-triloba/images/04-same-plant-field-view-2.jpg",
+          "git_blob_sha": "5c7ff92ad57f0b3890b87280fe46049b46d33ec0",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Ipomoea triloba vs ipomoea triloba"
+        },
+        {
+          "species_id": "ipomoea-triloba",
+          "family": "Convolvulaceae",
+          "filename": "05-same-plant-field-view-3.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Ipomoea/ipomoea-triloba/images/05-same-plant-field-view-3.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-triloba/images/05-same-plant-field-view-3.jpg",
+          "git_blob_sha": "e42f934b6ed68df17f3623815cd867035f5c3437",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Ipomoea triloba vs ipomoea triloba"
+        }
+      ]
+    }
+  ],
+  "batch_number": 2,
   "verified_but_not_installed": 0,
   "held_by_reason": {
-    "Taxon mismatch: Convolvulus arvensis vs convolvulus arvensis": 3,
-    "Taxon mismatch: Distimake dissectus vs distimake dissectus": 3,
-    "Taxon mismatch: Ipomoea coccinea vs ipomoea coccinea": 3,
-    "Taxon mismatch: Ipomoea cordatotriloba vs ipomoea cordatotriloba": 3,
-    "Taxon mismatch: Ipomoea hederacea vs ipomoea hederacea": 3,
-    "Taxon mismatch: Ipomoea lacunosa vs ipomoea lacunosa": 3,
-    "Taxon mismatch: Ipomoea lindheimeri vs ipomoea lindheimeri": 3,
-    "Taxon mismatch: Ipomoea nil vs ipomoea nil": 3,
-    "Taxon mismatch: Ipomoea triloba vs ipomoea triloba": 3
+    "Current photo creator differs from original image CSV: no rights reserved": 3
   },
-  "cumulative_installed": 0,
-  "cumulative_held_reviewed": 27
+  "cumulative_installed": 24,
+  "cumulative_held_reviewed": 30
 }

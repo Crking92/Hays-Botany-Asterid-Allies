@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 118,
-  "photo_species": 95,
-  "photo_count": 307,
+  "photo_species": 103,
+  "photo_count": 331,
   "entries": {
     "amsonia-ciliata": {
       "count": 2,
@@ -202,8 +202,8 @@
       "first_src": null
     },
     "convolvulus-arvensis": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/convolvulus-arvensis/archived-590799f312fceba8.jpg"
     },
     "convolvulus-equitans": {
       "count": 0,
@@ -234,8 +234,8 @@
       "first_src": "media/dichondra-recurvata/archived-0a36e36a93184350.jpg"
     },
     "distimake-dissectus": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/distimake-dissectus/archived-2a3fc6e83df0c2a4.jpg"
     },
     "evolvulus-nuttallianus": {
       "count": 1,
@@ -254,28 +254,28 @@
       "first_src": null
     },
     "ipomoea-cordatotriloba": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/ipomoea-cordatotriloba/archived-05b16103f46387be.jpg"
     },
     "ipomoea-hederacea": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/ipomoea-hederacea/archived-a71797bcb004e2a4.jpg"
     },
     "ipomoea-lacunosa": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/ipomoea-lacunosa/archived-40f278c5ff9bc4bb.jpg"
     },
     "ipomoea-lindheimeri": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/ipomoea-lindheimeri/archived-097cbc3adf5dd8b0.jpg"
     },
     "ipomoea-nil": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/ipomoea-nil/archived-35ec9ebe20317f35.jpg"
     },
     "ipomoea-triloba": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/ipomoea-triloba/archived-1388dd2de48c15c8.jpg"
     },
     "gelsemium-sempervirens": {
       "count": 2,
