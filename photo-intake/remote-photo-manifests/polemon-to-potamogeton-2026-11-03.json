@@ -1,0 +1,104 @@
+{
+  "batch_id": "polemoniaceae-through-potamogetonaceae-2026-11-03",
+  "zip_sha256": "6e73645df01103db7ca2bf63d197261bb0d8a6d0ddce7ba35c04c216b8b14ef8",
+  "library_backup": "/Hays-Botany-Photo-ZIPs/Polemoniaceae-through-Potamogetonaceae-2026-11-03.zip",
+  "original_zip_image_sha256_verified": 165,
+  "family_set": [
+    "Polemoniaceae"
+  ],
+  "species": [
+    "giliastrum-incisum",
+    "giliastrum-rigidulum",
+    "ipomopsis-rubra",
+    "phlox-drummondii",
+    "phlox-pilosa",
+    "phlox-roemeriana"
+  ],
+  "records_base64": "ACVlKPEUhieclOiRHCppkLe/rUo1RRFSLOb2zC20mP/BfptInXHFDwQAACWV68YUnxmQp2F1Dmd7BO1NssSoQUL1JvVpgCgNBgEMtJ9cTZlrrtcAACZ+jlAVGXcQ3QkOHJ+4avQnFjbbWOO4dAvB4ln0ksYEjmfGsQ+7ly0AACZ4EZUVFdhsRQG4iQSyp3dVL2tzEHq6vvbuI7dbTokV0XgRqTEq8iUAACaYoxsVKMCabdUCfaZhSN4g+3bCr5C60TMkEoUxDcI0yJQ2yqvWtigAASUtG5sUag1Xev4jgAgDMmCoOrSlt5XNKhLIp45LFXJ42Iltogj9P1YAASWYXm8UoF3R0m7ON2fT8tgStDd0R5iU/5yhgbDoc8IRXzBtLw8ea+gAASWG3fkUl2vVKkzwT/h8XBGq0M0WeTeC5/IV/A2FgqjoCHAn7wDWkqgAASWPthQUm/VAs/VlEGf/fZrFJxjWPSDf+FfbxFJBfgjc3l8IwxyI6BsAASV1xvEUjsa2VK6NaUYruYQjsijQjFNB5cvtbyLaTpxrfhoFOs+YKUsAAiV4/6cUkG8nFnDsxyl3oll0YdtsnlbKCdpjoSv+LpnGWjoIxCB6OyMAAiUWjRUUXuuVCrXKoLLm0vIIHxYsnw1xld934YJ8r46xjM6GSwemA4kAAiX46sQU0RzXRKTMFjq4djsUGKk8+eCFMxB8sRMfnXh8803UthuLylcAAiYa8m0U4n4zhhD5CP+rQWjfQLxP92YhBjS2oCzPVGFwRB3YSH2TQDIAAiXc354UwuVQfebFOaiZhEq9CzUfqvHfmh8Qt2XENALqyAG/9mDMUDgAAyURaz4UXGOD3cxW+pwxxkuUzbnRuBH8KmKJKDKXIK8k+aGp6IroF4YAAyV9dr8UkrW0IbD2iiz7nY7glRWzpTL8eCMMDDgx9G4lNM5M448/qjEAAyWiIjcUpUZ/8fcwTXLN8OsRRj7swh6mHofQx+7IiwIbDSQT1QbMrrgAAyW1GKoUrto9Gl3d84O//vAcjG4Vi6F7dKod9P0KloqJzTbIsIgdY54AAyW2qHUUr6Jj8xYRjUymtjlym8lEQTVHMUy7giKhVU9aJfJdrE1lJAMABB0PT5oQKBHOefISuj2nNVyRItdKRi5dMkQHat1LSWfigZy1Z/eTTPEABBGqvl4KLyLP+Epu8/Rx38IQDLgjuBU8JBi7jG7bwfQKyBxDcoECmWAABBDO1qYJuBkRLRszjVFJQx6f/RKTRGaWHUXyzrNHz0Y8a0FKp8jOmwEBBAeAQ5gEli2w+9dD9xF35uAwO2NAGUoMG2MTrcrwXqBYrNkv4ygdSUUABAPcPoMCb12BKZNQ0YlUvLeHJeX70gUjDtDrX1A5ZquF0L+hRRwIMUUBBSUUYOEUXdA+JqS7nGd78ghsIPvXCdOJDazpz4/viKUZ4enqq77wWPUABSUEf6gUVhaY94qDUntzWsF1+OlQJ6c5FgkSTKIZ2Wul2Wl8gl/sg+IABSUT/0EUXZ5qerLRuxqMp/+3XSK/WIQYb4EuaqCneO5oDjBH515NgS0ABSVEkvAUdck6E+l04n6Avxf+s66y1/F5REJzMccWNOugfeQJTCGnU6gABSUpIVYUaBd92HsSukOMkO6BKfQOYVlLtxYbxf+f+xV+9SiOjd6nTAoA",
+  "held_offline_media": [
+    {
+      "family": "Polemoniaceae",
+      "species_id": "phlox-pilosa-subsp-riparia",
+      "filename": "Polemoniaceae/Phlox_pilosa_subsp__riparia/photos/photo_0_36f333ef5612a0eb.jpg",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "gbif_id": 2807548975,
+      "source": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp61485912095437244923.att.jpg",
+      "ph": "The University of Texas at Austin",
+      "sha": "36f333ef5612a0eb255d40b0867ae1276c542bc6ca2d15e56f05fc6b9589ae64"
+    },
+    {
+      "family": "Polemoniaceae",
+      "species_id": "phlox-pilosa-subsp-riparia",
+      "filename": "Polemoniaceae/Phlox_pilosa_subsp__riparia/photos/photo_1_1ac311dca94837f3.jpg",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "gbif_id": 2807625143,
+      "source": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp65164374705864151202.att.jpg",
+      "ph": "The University of Texas at Austin",
+      "sha": "1ac311dca94837f3233b94ad0efdff37d1484c1611287c0f41351e3f9464e6df"
+    },
+    {
+      "family": "Polemoniaceae",
+      "species_id": "phlox-pilosa-subsp-riparia",
+      "filename": "Polemoniaceae/Phlox_pilosa_subsp__riparia/photos/photo_2_937d5f700289ef06.jpg",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "gbif_id": 2807346635,
+      "source": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp68548540120388947850.att.jpg",
+      "ph": "The University of Texas at Austin",
+      "sha": "937d5f700289ef064d5e8e22a103bd7d0e8db6c4aa93f066cd051a56fa63d240"
+    },
+    {
+      "family": "Polemoniaceae",
+      "species_id": "phlox-pilosa-subsp-riparia",
+      "filename": "Polemoniaceae/Phlox_pilosa_subsp__riparia/photos/photo_3_ebca499784b88ca8.jpg",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "gbif_id": 2807529622,
+      "source": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp68006600276276524694.att.jpg",
+      "ph": "The University of Texas at Austin",
+      "sha": "ebca499784b88ca8935b9119c848b949d9581c02a12b549359943dd6a9ba3709"
+    },
+    {
+      "family": "Polemoniaceae",
+      "species_id": "phlox-pilosa-subsp-riparia",
+      "filename": "Polemoniaceae/Phlox_pilosa_subsp__riparia/photos/photo_4_5e39564b4ea294d5.jpg",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "gbif_id": 2807546380,
+      "source": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp65617115734897436652.att.jpg",
+      "ph": "The University of Texas at Austin",
+      "sha": "5e39564b4ea294d58981eb17c7b738fb53f62a16a09c44603140fe93630c5715"
+    }
+  ],
+  "source_metadata_credits": {
+    "64765571": "rileyn",
+    "125846424": "celiabyrnes",
+    "281990822": "Isaac Eastland",
+    "296402526": "Rich Kostecke",
+    "487542682": "Walter Flocke",
+    "621051816": "Laura Carbonneau",
+    "621898558": "Meredith Lovelace",
+    "622067521": "iandurben",
+    "622092513": "Martha",
+    "622234901": "Drew Starnes",
+    "623452502": "Avery Huff",
+    "623713179": "Eric Seaberg",
+    "625251056": "Kyle Taylor",
+    "627386609": "mutemanifesto",
+    "628475633": "jackfr",
+    "628686759": "Jeff McIntyre",
+    "628979391": "Aspen Frisch",
+    "629595641": "charlottereemts",
+    "630175252": "Robert Ulmer",
+    "630582214": "Meredith Lovelace",
+    "630742639": "aquadragonfly",
+    "631382583": "naturemedley",
+    "632625322": "nativenovice",
+    "632727669": "lyndarosee",
+    "635232158": "Jean Solana",
+    "637070020": "lasuprema",
+    "639300205": "junkmonkeee",
+    "645403029": "wmirshell",
+    "645828176": "Nicole Wonderlin",
+    "647537435": "Kristina Adkins"
+  },
+  "source_metadata_license_was_candidate_only": true,
+  "intake_note": "Physical ZIP image SHA256 verified; contact sheet visually examined at general organism level; verify current exact iNaturalist photo license and original image hash before public release. Specialist anatomy and strict local BONAP range review deferred."
+}
