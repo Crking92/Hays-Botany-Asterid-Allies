@@ -1,0 +1,42 @@
+{
+  "repository": "Crking92/Hays-Botany-Asterid-Allies",
+  "batch_key": "MULTIFAMILY_COMMONS_INAT_CC0_PROVENANCE_2026-11-03",
+  "checked_at": "2026-11-03T16:41:21.262620+00:00",
+  "source_files": 306,
+  "historical_cc0_deed_holds": 1,
+  "selection_window": 15,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "inat": 1
+  },
+  "skipped_or_previously_published": {
+    "not_a_confirmed_inat_imported_commons_hold": 304,
+    "original_path_shape_unknown": 1
+  },
+  "new_installed": 0,
+  "held_checked": 1,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "asclepias-incarnata",
+      "family": "Apocynaceae",
+      "filename": "asclepias-incarnata-provisional-face.jpg",
+      "original_path": "content/taxa/Apocynaceae/Asclepias/asclepias-incarnata/images/asclepias-incarnata-provisional-face.jpg",
+      "archive_path": "migration/private-original-photo-holds/Apocynaceae/Asclepias/asclepias-incarnata/images/asclepias-incarnata-provisional-face.jpg",
+      "git_blob_sha": "38f1af66914bec6c27033166cbc98353e2ff0db4",
+      "lane": "inat",
+      "status": "HELD",
+      "reason": "Current photo creator differs from original image CSV: no rights reserved"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {
+    "Current photo creator differs from original image CSV: no rights reserved": 1
+  },
+  "cumulative_installed": 0,
+  "cumulative_held_reviewed": 1
+}
