@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 118,
   "photo_species": 94,
-  "photo_count": 304,
+  "photo_count": 305,
   "entries": {
     "amsonia-ciliata": {
       "count": 2,
@@ -34,7 +34,7 @@
       "first_src": "media/asclepias-speciosa/asclepias-speciosa-provisional-face.jpg"
     },
     "asclepias-syriaca": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/asclepias-syriaca/asclepias-syriaca-leaf-upper.jpg"
     },
     "asclepias-texana": {

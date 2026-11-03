@@ -44,6 +44,25 @@
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "source_page_is_exact": true
+    },
+    {
+      "src": "media/asclepias-syriaca/archived-009f6095e8ba973e.jpg",
+      "creator": "Circeus",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Asclepias_syriaca.jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 2.0 CA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/ca/",
+      "source_blob_sha": "4db6cb38569f02e01a01e96bdc3c6e5a9c7c435f",
+      "role": "Pinkish umbels and broad opposite foliage",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Existing historical image-sources.csv entry for exact Commons photo Asclepias_syriaca.jpg; original individual photographer Circeus; archived specific reuse license CC BY-SA 2.0 CA; preserved photo byte SHA checked against original transfer manifest 4db6cb38569f02e01a01e96bdc3c6e5a9c7c435f; reused under owner's previously recorded photo-rights approval policy; no new online Commons license assertion; archived source SHA 4db6cb38569f02e01a01e96bdc3c6e5a9c7c435f; exact image source https://commons.wikimedia.org/wiki/File:Asclepias_syriaca.jpg",
+      "taxon_review_evidence": "Original species record Asclepias syriaca linked to an original image and matching current commons photo of source taxon Asclepias syriaca. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "009f6095e8ba973e1dc904f5ab4b67e483f6e5a41102b6e2e5bbe42f3f5eca0a"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

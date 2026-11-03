@@ -1,0 +1,46 @@
+{
+  "repository": "Crking92/Hays-Botany-Asterid-Allies",
+  "batch_key": "MULTIFAMILY_HISTORICAL_PORTED_CC_2026-11-03",
+  "checked_at": "2026-11-03T19:33:00.632434+00:00",
+  "source_files": 306,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "commons": 1
+  },
+  "skipped_or_previously_published": {
+    "outside_reviewed_commons_recovery_lane": 290,
+    "already_public_identical_bytes": 6,
+    "not_an_explicit_older_cc_license": 8,
+    "original_path_shape_unknown": 1
+  },
+  "new_installed": 1,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "asclepias-syriaca",
+      "family": "Apocynaceae",
+      "filename": "asclepias-syriaca-provisional-face.jpg",
+      "original_path": "content/taxa/Apocynaceae/Asclepias/asclepias-syriaca/images/asclepias-syriaca-provisional-face.jpg",
+      "archive_path": "migration/private-original-photo-holds/Apocynaceae/Asclepias/asclepias-syriaca/images/asclepias-syriaca-provisional-face.jpg",
+      "git_blob_sha": "4db6cb38569f02e01a01e96bdc3c6e5a9c7c435f",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Circeus",
+      "license": "CC BY-SA 2.0 CA",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Asclepias_syriaca.jpg",
+      "taxon": "Asclepias syriaca",
+      "src": "media/asclepias-syriaca/archived-009f6095e8ba973e.jpg",
+      "sha256": "009f6095e8ba973e1dc904f5ab4b67e483f6e5a41102b6e2e5bbe42f3f5eca0a"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 1,
+  "cumulative_held_reviewed": 0
+}
