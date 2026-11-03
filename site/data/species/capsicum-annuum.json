@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 366704987, photo 669609822, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d91e87d18b6e606d43663bc92a4da033f46d250d6a927ad90aba5853c854034c.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Capsicum annuum glabriusculum maps to indexed species capsicum-annuum; specialist morphology and BONAP range deferred.",
       "sha256": "d91e87d18b6e606d43663bc92a4da033f46d250d6a927ad90aba5853c854034c"
+    },
+    {
+      "src": "media/capsicum-annuum/archived-601cf28a4990d19a.jpg",
+      "creator": "Rhondle",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Capsicum_Annuum_Flower.jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "752f2e29fb72cb416d1ebb38c2d6d8bea7774645",
+      "role": "flower and leaf axil",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Existing historical image-sources.csv entry for exact Commons photo Capsicum_Annuum_Flower.jpg; original individual photographer Rhondle; archived specific reuse license CC BY-SA 3.0; preserved photo byte SHA checked against original transfer manifest 752f2e29fb72cb416d1ebb38c2d6d8bea7774645; reused under owner's previously recorded photo-rights approval policy; no new online Commons license assertion; archived source SHA 752f2e29fb72cb416d1ebb38c2d6d8bea7774645; exact image source https://commons.wikimedia.org/wiki/File:Capsicum_Annuum_Flower.jpg",
+      "taxon_review_evidence": "Original species record Capsicum annuum linked to an original image and matching current commons photo of source taxon Capsicum annuum. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "601cf28a4990d19a64418e80c86dcbfc446a27a3dad0175ee87e59f7c8921b54"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

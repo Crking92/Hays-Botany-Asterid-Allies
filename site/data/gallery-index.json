@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 118,
   "photo_species": 94,
-  "photo_count": 300,
+  "photo_count": 304,
   "entries": {
     "amsonia-ciliata": {
       "count": 2,
@@ -334,7 +334,7 @@
       "first_src": "media/phlox-drummondii/inat-621898558.jpg"
     },
     "phlox-pilosa": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/phlox-pilosa/inat-125846424.jpg"
     },
     "phlox-pilosa-subsp-riparia": {
@@ -350,7 +350,7 @@
       "first_src": "media/cephalanthus-occidentalis/01-spherical-flower-head.jpg"
     },
     "diodia-virginiana": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/diodia-virginiana/inat-352791073.jpeg"
     },
     "galium-aparine": {
@@ -378,7 +378,7 @@
       "first_src": "media/bouchetia-erecta/inat-624747442.jpg"
     },
     "capsicum-annuum": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/capsicum-annuum/inat-645809871.jpg"
     },
     "capsicum-annuum-var-aviculare": {
@@ -406,7 +406,7 @@
       "first_src": "media/datura-wrightii/inat-634004287.jpg"
     },
     "nicotiana-glauca": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/nicotiana-glauca/inat-14789096.jpg"
     },
     "nicotiana-obtusifolia": {
