@@ -1,0 +1,41 @@
+{
+  "repository": "Crking92/Hays-Botany-Asterid-Allies",
+  "phase": "recover_missing_identifiers_from_original_species_records",
+  "run_time": "2026-11-03T16:01:24.857280+00:00",
+  "source_image_file_records": 306,
+  "selected": 1,
+  "installed": 1,
+  "held_checked": 0,
+  "duplicate_or_previously_published": 0,
+  "previous_batches": [],
+  "skipped": {
+    "already_published_exact_archive_bytes": 148,
+    "previous_phase1_review_record": 23,
+    "not_enough_identifiers_for_verified_inat_or_gbif_source": 113,
+    "original_path_shape_or_assignment_mismatch": 1,
+    "no_source_csv_or_species_card_image_metadata": 20
+  },
+  "records": [
+    {
+      "species_id": "asclepias-curassavica",
+      "filename": "asclepias-curassavica-flower-arturo-benavides-748523555.jpg",
+      "git_blob_sha": "73a91581ded86bf553b937b35c410bc606838e32",
+      "original_path": "content/taxa/Apocynaceae/Asclepias/asclepias-curassavica/images/asclepias-curassavica-flower-arturo-benavides-748523555.jpg",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "source_page": "https://www.inaturalist.org/photos/748523555",
+      "creator": "Arturo Benavides Mendoza",
+      "license": "CC BY 4.0",
+      "src": "media/asclepias-curassavica/archived-phase2-32a353561a2b0517.jpg",
+      "sha256": "32a353561a2b05177c505ffeb374eb645612dd96ba18200e84a4a5e0d439622b"
+    }
+  ],
+  "candidate_pool": 1,
+  "remaining_candidates": 0,
+  "selected_lanes": {
+    "inat": 1
+  },
+  "verified_not_published": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 1
+}

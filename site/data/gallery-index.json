@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 118,
-  "photo_species": 93,
-  "photo_count": 281,
+  "photo_species": 94,
+  "photo_count": 282,
   "entries": {
     "amsonia-ciliata": {
       "count": 2,
@@ -18,8 +18,8 @@
       "first_src": "media/asclepias-asperula/01-habit-bandera.jpg"
     },
     "asclepias-curassavica": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/asclepias-curassavica/archived-phase2-32a353561a2b0517.jpg"
     },
     "asclepias-incarnata": {
       "count": 1,
