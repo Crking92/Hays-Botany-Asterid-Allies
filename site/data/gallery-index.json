@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 118,
-  "photo_species": 103,
-  "photo_count": 331,
+  "photo_species": 104,
+  "photo_count": 369,
   "entries": {
     "amsonia-ciliata": {
       "count": 2,
@@ -278,35 +278,35 @@
       "first_src": "media/ipomoea-triloba/archived-1388dd2de48c15c8.jpg"
     },
     "gelsemium-sempervirens": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/gelsemium-sempervirens/archived-b63c529d5d4ea172.jpg"
     },
     "centaurium-tenuiflorum": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/centaurium-tenuiflorum/archived-b6c7639e89e868e2.jpg"
     },
     "eustoma-exaltatum": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/eustoma-exaltatum/archived-8c49803e3e33cb06.jpg"
     },
     "eustoma-russellianum": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/eustoma-russellianum/archived-e7ff498e6e3d96e7.jpg"
     },
     "sabatia-campestris": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/sabatia-campestris/inat-384508476.jpg"
     },
     "zeltnera-beyrichii": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/zeltnera-beyrichii/archived-6d02ffedcaa33051.jpg"
     },
     "zeltnera-calycosa": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/zeltnera-calycosa/archived-bf6e46a927e8edd1.jpg"
     },
     "zeltnera-texensis": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/zeltnera-texensis/archived-59c2cec5afe763d2.jpg"
     },
     "mitreola-petiolata": {
