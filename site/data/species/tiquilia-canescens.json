@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/tiquilia-canescens/archived-6012ec8b847c01bf.jpg",
+      "creator": "Nathan Taylor",
+      "source_page": "https://www.inaturalist.org/photos/40933458",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "f36c3a283749402ccae0b8b230c6f06b8d904768",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 26364468 photo 40933458 individual CC code cc-by-nc; photographer (c) Nathan Taylor, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA f36c3a283749402ccae0b8b230c6f06b8d904768; exact image source https://www.inaturalist.org/photos/40933458",
+      "taxon_review_evidence": "Original species record Tiquilia canescens linked to an original image and matching current inat photo of source taxon Tiquilia canescens. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "6012ec8b847c01bf4d2dfb2e1bb80896841d8b47c494b57b8985ad8df448cc55"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "661286ebe215c7c3975cecc9872f0aa47bb4ce6aa465f7757c110877c716be88",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

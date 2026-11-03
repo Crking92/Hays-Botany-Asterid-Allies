@@ -162,6 +162,25 @@
       "source_review_evidence": "Live iNaturalist observation 347448186, photo 633511091, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1bafa042368879a6346d99cf164ea32a73e9ff54058dbde9803680b7d3689a1f.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Solanum dimidiatum maps to indexed species solanum-dimidiatum; specialist morphology and BONAP range deferred.",
       "sha256": "1bafa042368879a6346d99cf164ea32a73e9ff54058dbde9803680b7d3689a1f"
+    },
+    {
+      "src": "media/solanum-dimidiatum/archived-6c64a445195347c7.jpg",
+      "creator": "Vince Hale",
+      "source_page": "https://www.inaturalist.org/photos/605497889",
+      "source_page_is_exact": true,
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "3ee750ba7b6bf910f056da5393a2e94b42e41df1",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "modified": "Resized JPEG and EXIF removed",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "GBIF occurrence 6131302561 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/605497889/original.jpg; image-level license https://creativecommons.org/publicdomain/zero/1.0/; creator Vince Hale; dHash distance 0; archived source SHA 3ee750ba7b6bf910f056da5393a2e94b42e41df1; exact image source https://www.inaturalist.org/photos/605497889",
+      "taxon_review_evidence": "Original species record Solanum dimidiatum linked to an original image and matching current gbif photo of source taxon Solanum dimidiatum. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "6c64a445195347c7ab8072286e1aeb29bc5fd4ab52faac49ae22c074a6c89221"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
