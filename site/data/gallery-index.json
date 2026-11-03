@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 118,
   "photo_species": 94,
-  "photo_count": 282,
+  "photo_count": 288,
   "entries": {
     "amsonia-ciliata": {
       "count": 2,
@@ -18,7 +18,7 @@
       "first_src": "media/asclepias-asperula/01-habit-bandera.jpg"
     },
     "asclepias-curassavica": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/asclepias-curassavica/archived-phase2-32a353561a2b0517.jpg"
     },
     "asclepias-incarnata": {
@@ -106,7 +106,7 @@
       "first_src": "media/cryptantha-texana/archived-d67632b9fc46fdb0.jpg"
     },
     "cynoglossum-officinale": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/cynoglossum-officinale/archived-81b2dfd279b18db3.jpg"
     },
     "ehretia-anacua": {
@@ -122,7 +122,7 @@
       "first_src": null
     },
     "heliotropium-curassavicum": {
-      "count": 2,
+      "count": 3,
       "first_src": "media/heliotropium-curassavicum/archived-b1e87d41829da29c.jpg"
     },
     "lappula-texana": {
@@ -370,7 +370,7 @@
       "first_src": "media/sherardia-arvensis/inat-620892531.jpg"
     },
     "stenaria-nigricans": {
-      "count": 6,
+      "count": 7,
       "first_src": "media/stenaria-nigricans/inat-633161920.jpg"
     },
     "bouchetia-erecta": {
@@ -402,7 +402,7 @@
       "first_src": "media/datura-innoxia/datura-innoxia-el-grafo.jpg"
     },
     "datura-wrightii": {
-      "count": 6,
+      "count": 7,
       "first_src": "media/datura-wrightii/inat-634004287.jpg"
     },
     "nicotiana-glauca": {

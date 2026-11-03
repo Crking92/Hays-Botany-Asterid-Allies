@@ -1,0 +1,83 @@
+{
+  "repository": "Crking92/Hays-Botany-Asterid-Allies",
+  "phase": "Pl@ntNet exact image-source CC BY-SA 2.0 FR recheck",
+  "source_evidence": "https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf",
+  "checked_at": "2026-11-03T16:13:18.744997+00:00",
+  "candidate_pool": 6,
+  "selected": 6,
+  "published": 6,
+  "already_published": 0,
+  "held": 0,
+  "remaining_candidates": 0,
+  "previous_batches": [],
+  "records": [
+    {
+      "species_id": "asclepias-curassavica",
+      "original_path": "content/taxa/Apocynaceae/Asclepias/asclepias-curassavica/images/library-review029-44547fe990e9ecb.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Prudence Kerr / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5110303867",
+      "src": "media/asclepias-curassavica/plantnet-archive-87bc08fda65a02c6.jpg",
+      "sha256": "87bc08fda65a02c6dfdeadc4c203e37f0caebb87638595e55980ca2993946d9c",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/658fe582573410fce17714fac9923731c59d6a30 of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author Prudence Kerr and media license field Prudence Kerr (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob 275a01fe65d7d92512f111a3fa5a8ee93d8a4e98; same-image fingerprint distance 0"
+    },
+    {
+      "species_id": "asclepias-curassavica",
+      "original_path": "content/taxa/Apocynaceae/Asclepias/asclepias-curassavica/images/library-review029-ded28277fd8c769.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Bachiega Ana / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5110327660",
+      "src": "media/asclepias-curassavica/plantnet-archive-2c876afe9181b34d.jpg",
+      "sha256": "2c876afe9181b34d1cf327475be7dba210ede2398a31eb02fe5df65d5567902a",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/281186fa827260fa2f00fb6954f59bdacb1aaa4b of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author Bachiega Ana and media license field Bachiega Ana (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob 5fc5c492b4c5f891f0bf7289908d3b38434f5364; same-image fingerprint distance 0"
+    },
+    {
+      "species_id": "cynoglossum-officinale",
+      "original_path": "content/taxa/Boraginaceae/Cynoglossum/cynoglossum-officinale/images/library-review054-1dbcb8e9c106712.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Andrea Bonifazi / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5110335576",
+      "src": "media/cynoglossum-officinale/plantnet-archive-f3333d0909b138cc.jpg",
+      "sha256": "f3333d0909b138cc4cdd7408b1a886925866a43536198d4773fa9e7be9a13f55",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/2ff994c135971eadb28d7ebb838574764ba4aaca of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author Andrea Bonifazi and media license field Andrea Bonifazi (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob b4d02a57ecfa1a68d986057d2dd096315b17c3bf; same-image fingerprint distance 0"
+    },
+    {
+      "species_id": "datura-wrightii",
+      "original_path": "content/taxa/Solanaceae/Datura/datura-wrightii/images/library-review043-0dc033381b7ade2.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Lisa Lincoln / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5110478092",
+      "src": "media/datura-wrightii/plantnet-archive-2d16088849f69839.jpg",
+      "sha256": "2d16088849f69839bda784fe5ca83e1802a631667024cbfe153f2050d144f5fa",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/1debf30e31f956622eaf42af4c8741b4e20bb7a7 of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author Lisa Lincoln and media license field Lisa Lincoln (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob e630ee0e5a70831ae084c950b24e56fb44d1573a; same-image fingerprint distance 0"
+    },
+    {
+      "species_id": "heliotropium-curassavicum",
+      "original_path": "content/taxa/Boraginaceae/Heliotropium/heliotropium-curassavicum/images/library-review052-4a333871a6c625e.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Jorge Luis Murillo Palma / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5109988635",
+      "src": "media/heliotropium-curassavicum/plantnet-archive-65ec4e6054718dd8.jpg",
+      "sha256": "65ec4e6054718dd82c5329c675c83147867a8790cf45fd9d1038eed57df1d449",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/cb5b08c20715ae0704b568ec85e80d4249c2598c of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author Jorge Luis Murillo Palma and media license field Jorge Luis Murillo Palma (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob 834a76e2abb31b09642aab5d5bf0e88101be22c9; same-image fingerprint distance 0"
+    },
+    {
+      "species_id": "stenaria-nigricans",
+      "original_path": "content/taxa/Rubiaceae/Stenaria/stenaria-nigricans/images/library-review011-9667711b33c4b44.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Zee Kay / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5109453124",
+      "src": "media/stenaria-nigricans/plantnet-archive-8c873d9dbc582835.jpg",
+      "sha256": "8c873d9dbc582835b63f6542e9ef9e715d2927b27a7c01a1a027f28c995c312f",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/d2e8bbaff5bc7594633e1ccde84b169ea8f03493 of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author Zee Kay and media license field Zee Kay (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob 3afda65d1257295eda3d3393e148aa1efadbd519; same-image fingerprint distance 0"
+    }
+  ],
+  "cumulative_published": 6,
+  "held_by_reason": {}
+}
