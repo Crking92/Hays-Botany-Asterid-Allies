@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/myosotis-macrosperma/archived-188b608959af4385.jpg",
+      "creator": "Jared Gorrell",
+      "source_page": "https://www.inaturalist.org/photos/367714579",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "d0473ec250f288e806eaa37878050104d8179c92",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 207865331 photo 367714579 individual CC code cc-by-nc; photographer (c) Jared Gorrell, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA d0473ec250f288e806eaa37878050104d8179c92; exact image source https://www.inaturalist.org/photos/367714579",
+      "taxon_review_evidence": "Original species record Myosotis macrosperma linked to an original image and matching current inat photo of source taxon Myosotis macrosperma. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "188b608959af438561d5dc5e49260e8e73a89a2827edac9fbcdbf5ad0c9020a8"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "8acd7a09d0ac4044f8643a98cd81927703a8544123164ca54b45e166ae2d6d0c",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

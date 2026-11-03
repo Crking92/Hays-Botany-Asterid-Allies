@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 353612817, photo 645167986, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 103ce9a90eba19c2d4c115b702050b707ec2ff369958da1aae9b8e3cac85e058.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Galium aparine maps to indexed species galium-aparine; specialist morphology and BONAP range deferred.",
       "sha256": "103ce9a90eba19c2d4c115b702050b707ec2ff369958da1aae9b8e3cac85e058"
+    },
+    {
+      "src": "media/galium-aparine/archived-426e2ec7bc57960d.jpg",
+      "creator": "Besa Schweitzer",
+      "source_page": "https://www.inaturalist.org/photos/197992814",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "311aeb7e1f22367628eb3a96b3881a039a359025",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 117248608 photo 197992814 individual CC code cc-by-nc; photographer (c) Besa Schweitzer, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 311aeb7e1f22367628eb3a96b3881a039a359025; exact image source https://www.inaturalist.org/photos/197992814",
+      "taxon_review_evidence": "Original species record Galium aparine linked to an original image and matching current inat photo of source taxon Galium aparine. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "426e2ec7bc57960dc7ea3817ed16d127757cc6b3e8e8c6f660919d81729cde8e"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

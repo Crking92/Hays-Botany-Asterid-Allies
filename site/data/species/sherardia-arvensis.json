@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 343262819, photo 625249342, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5c3df636b6ca510fce63f7a9f42a220b58c5c777b9be010176c727658c0ebaaa.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Sherardia arvensis maps to indexed species sherardia-arvensis; specialist morphology and BONAP range deferred.",
       "sha256": "5c3df636b6ca510fce63f7a9f42a220b58c5c777b9be010176c727658c0ebaaa"
+    },
+    {
+      "src": "media/sherardia-arvensis/archived-ed1f0a5e4b4bb5db.jpg",
+      "creator": "Douglas Goldman",
+      "source_page": "https://www.inaturalist.org/photos/208526537",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "0e457b771cdd29fda1654a113105809b1d37ef3a",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 123113538 photo 208526537 individual CC code cc-by-sa; photographer (c) Douglas Goldman, some rights reserved (CC BY-SA); image dHash difference 2; archived source SHA 0e457b771cdd29fda1654a113105809b1d37ef3a; exact image source https://www.inaturalist.org/photos/208526537",
+      "taxon_review_evidence": "Original species record Sherardia arvensis linked to an original image and matching current inat photo of source taxon Sherardia arvensis. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "ed1f0a5e4b4bb5db47c73821259015b5bfabea57ed44093d0cf97ecb1a703103"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -18,7 +18,7 @@
       "genus": "Amsonia",
       "scientific_name": "Amsonia longiflora",
       "common_name": "Tubular bluestar",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -144,7 +144,7 @@
       "genus": "Funastrum",
       "scientific_name": "Funastrum crispum",
       "common_name": "Wavyleaf twinevine",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -153,7 +153,7 @@
       "genus": "Funastrum",
       "scientific_name": "Funastrum cynanchoides",
       "common_name": "Climbing milkweed / fringed twinevine",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -207,8 +207,8 @@
       "genus": "Buglossoides",
       "scientific_name": "Buglossoides arvensis",
       "common_name": "Field gromwell",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "cordia-boissieri",
@@ -225,8 +225,8 @@
       "genus": "Cryptantha",
       "scientific_name": "Cryptantha texana",
       "common_name": "Texas cryptantha",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "cynoglossum-officinale",
@@ -234,8 +234,8 @@
       "genus": "Cynoglossum",
       "scientific_name": "Cynoglossum officinale",
       "common_name": "Hound's-tongue",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "ehretia-anacua",
@@ -243,8 +243,8 @@
       "genus": "Ehretia",
       "scientific_name": "Ehretia anacua",
       "common_name": "Anacua",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "euploca-procumbens",
@@ -252,8 +252,8 @@
       "genus": "Euploca",
       "scientific_name": "Euploca procumbens",
       "common_name": "Euploca procumbens",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "euploca-tenella",
@@ -270,8 +270,8 @@
       "genus": "Heliotropium",
       "scientific_name": "Heliotropium curassavicum",
       "common_name": "Salt heliotrope",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "lappula-texana",
@@ -288,8 +288,8 @@
       "genus": "Lithospermum",
       "scientific_name": "Lithospermum caroliniense var. caroliniense",
       "common_name": "Carolina hairy puccoon, nominate variety",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "lithospermum-helleri",
@@ -297,8 +297,8 @@
       "genus": "Lithospermum",
       "scientific_name": "Lithospermum helleri",
       "common_name": "Heller's stoneseed",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "lithospermum-incisum",
@@ -315,8 +315,8 @@
       "genus": "Lithospermum",
       "scientific_name": "Lithospermum mirabile",
       "common_name": "Lithospermum mirabile",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "myosotis-macrosperma",
@@ -324,8 +324,8 @@
       "genus": "Myosotis",
       "scientific_name": "Myosotis macrosperma",
       "common_name": "Large-seed forget-me-not",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "nama-jamaicensis",
@@ -333,8 +333,8 @@
       "genus": "Nama",
       "scientific_name": "Nama jamaicensis",
       "common_name": "Jamaican fiddleleaf",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "nemophila-phacelioides",
@@ -342,8 +342,8 @@
       "genus": "Nemophila",
       "scientific_name": "Nemophila phacelioides",
       "common_name": "Baby blue-eyes",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "phacelia-congesta",
@@ -360,8 +360,8 @@
       "genus": "Phacelia",
       "scientific_name": "Phacelia patuliflora",
       "common_name": "Spreading phacelia",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "phacelia-strictiflora",
@@ -369,8 +369,8 @@
       "genus": "Phacelia",
       "scientific_name": "Phacelia strictiflora",
       "common_name": "Stiff-flower phacelia",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "tiquilia-canescens",
@@ -396,8 +396,8 @@
       "genus": "Lobelia",
       "scientific_name": "Lobelia cardinalis",
       "common_name": "Cardinal flower",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "triodanis-coloradoensis",
@@ -468,8 +468,8 @@
       "genus": "Cuscuta",
       "scientific_name": "Cuscuta exaltata",
       "common_name": "Tree dodder",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "cuscuta-indecora",
@@ -477,8 +477,8 @@
       "genus": "Cuscuta",
       "scientific_name": "Cuscuta indecora",
       "common_name": "Large-seed dodder",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "cuscuta-obtusiflora",
@@ -495,8 +495,8 @@
       "genus": "Cuscuta",
       "scientific_name": "Cuscuta pentagona",
       "common_name": "Five-angled dodder",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "dichondra-carolinensis",
@@ -504,8 +504,8 @@
       "genus": "Dichondra",
       "scientific_name": "Dichondra carolinensis",
       "common_name": "Carolina ponyfoot",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "dichondra-recurvata",
@@ -513,8 +513,8 @@
       "genus": "Dichondra",
       "scientific_name": "Dichondra recurvata",
       "common_name": "Oakwoods ponyfoot",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 7,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "distimake-dissectus",
@@ -531,8 +531,8 @@
       "genus": "Evolvulus",
       "scientific_name": "Evolvulus nuttallianus",
       "common_name": "Hairy evolvulus",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "evolvulus-sericeus",
@@ -621,8 +621,8 @@
       "genus": "Gelsemium",
       "scientific_name": "Gelsemium sempervirens",
       "common_name": "Carolina jessamine",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "centaurium-tenuiflorum",
@@ -630,8 +630,8 @@
       "genus": "Centaurium",
       "scientific_name": "Centaurium tenuiflorum",
       "common_name": "Slender centaury",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "eustoma-exaltatum",
@@ -648,8 +648,8 @@
       "genus": "Eustoma",
       "scientific_name": "Eustoma russellianum",
       "common_name": "Showy prairie gentian",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "sabatia-campestris",
@@ -693,8 +693,8 @@
       "genus": "Mitreola",
       "scientific_name": "Mitreola petiolata",
       "common_name": "Mitreola petiolata",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "spigelia-hedyotidea",
@@ -711,7 +711,7 @@
       "genus": "Giliastrum",
       "scientific_name": "Giliastrum incisum",
       "common_name": "Splitleaf Gilia",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -720,7 +720,7 @@
       "genus": "Giliastrum",
       "scientific_name": "Giliastrum rigidulum",
       "common_name": "Blue gilia",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -756,8 +756,8 @@
       "genus": "Phlox",
       "scientific_name": "Phlox pilosa subsp. riparia",
       "common_name": "Riparian downy phlox",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "phlox-roemeriana",
@@ -765,7 +765,7 @@
       "genus": "Phlox",
       "scientific_name": "Phlox roemeriana",
       "common_name": "Gold-eye phlox",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -792,7 +792,7 @@
       "genus": "Galium",
       "scientific_name": "Galium aparine",
       "common_name": "Cleavers",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -801,7 +801,7 @@
       "genus": "Galium",
       "scientific_name": "Galium texense",
       "common_name": "Texas bedstraw",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -810,7 +810,7 @@
       "genus": "Galium",
       "scientific_name": "Galium virgatum",
       "common_name": "Wand bedstraw",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -819,7 +819,7 @@
       "genus": "Sherardia",
       "scientific_name": "Sherardia arvensis",
       "common_name": "Field madder",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -837,7 +837,7 @@
       "genus": "Bouchetia",
       "scientific_name": "Bouchetia erecta",
       "common_name": "Upright bouchetia",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -855,7 +855,7 @@
       "genus": "Capsicum",
       "scientific_name": "Capsicum annuum var. aviculare",
       "common_name": "Chiltepin / wild chile",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -873,7 +873,7 @@
       "genus": "Chamaesaracha",
       "scientific_name": "Chamaesaracha coronopus",
       "common_name": "Chamaesaracha",
-      "photo_count": 4,
+      "photo_count": 5,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -882,7 +882,7 @@
       "genus": "Chamaesaracha",
       "scientific_name": "Chamaesaracha edwardsiana",
       "common_name": "Edwards chamaesaracha",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -900,7 +900,7 @@
       "genus": "Datura",
       "scientific_name": "Datura wrightii",
       "common_name": "Sacred datura",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -927,7 +927,7 @@
       "genus": "Nicotiana",
       "scientific_name": "Nicotiana repanda",
       "common_name": "Fiddleleaf tobacco",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -945,7 +945,7 @@
       "genus": "Physalis",
       "scientific_name": "Physalis cinerascens",
       "common_name": "Smallflower groundcherry",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -954,7 +954,7 @@
       "genus": "Physalis",
       "scientific_name": "Physalis longifolia",
       "common_name": "Longleaf groundcherry",
-      "photo_count": 4,
+      "photo_count": 5,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -963,7 +963,7 @@
       "genus": "Physalis",
       "scientific_name": "Physalis solanacea",
       "common_name": "Urnflower groundcherry",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

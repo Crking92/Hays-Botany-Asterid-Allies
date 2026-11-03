@@ -2,15 +2,15 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 118,
-  "photo_species": 58,
-  "photo_count": 197,
+  "photo_species": 84,
+  "photo_count": 250,
   "entries": {
     "amsonia-ciliata": {
       "count": 1,
       "first_src": "media/amsonia-ciliata/amsonia-ciliata-habit.jpg"
     },
     "amsonia-longiflora": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/amsonia-longiflora/amsonia-longiflora-flower.jpg"
     },
     "asclepias-asperula": {
@@ -66,11 +66,11 @@
       "first_src": "media/cynanchum-unifarium/glass-root-garden-727432210-tiny-flowers-closeup.jpg"
     },
     "funastrum-crispum": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/funastrum-crispum/01-crispum-open-flowers.jpg"
     },
     "funastrum-cynanchoides": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/funastrum-cynanchoides/01-creamy-cluster-leaves.jpg"
     },
     "gonolobus-suberosus-var-granulatus": {
@@ -94,80 +94,80 @@
       "first_src": null
     },
     "buglossoides-arvensis": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/buglossoides-arvensis/archived-297eb5bd99db1a40.jpg"
     },
     "cordia-boissieri": {
       "count": 1,
       "first_src": "media/cordia-boissieri/cordia-boissieri-farr.jpg"
     },
     "cryptantha-texana": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/cryptantha-texana/archived-d67632b9fc46fdb0.jpg"
     },
     "cynoglossum-officinale": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/cynoglossum-officinale/archived-81b2dfd279b18db3.jpg"
     },
     "ehretia-anacua": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/ehretia-anacua/archived-1d53ee0d7bd0c3be.jpg"
     },
     "euploca-procumbens": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/euploca-procumbens/archived-1f73851b2af81be7.jpg"
     },
     "euploca-tenella": {
       "count": 0,
       "first_src": null
     },
     "heliotropium-curassavicum": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/heliotropium-curassavicum/archived-b1e87d41829da29c.jpg"
     },
     "lappula-texana": {
       "count": 0,
       "first_src": null
     },
     "lithospermum-caroliniense-var-caroliniense": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/lithospermum-caroliniense-var-caroliniense/archived-70d99797231b2445.jpg"
     },
     "lithospermum-helleri": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/lithospermum-helleri/archived-2d02f1e2872be754.jpg"
     },
     "lithospermum-incisum": {
       "count": 0,
       "first_src": null
     },
     "lithospermum-mirabile": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/lithospermum-mirabile/archived-92ba3c1bbf58bbaf.jpg"
     },
     "myosotis-macrosperma": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/myosotis-macrosperma/archived-188b608959af4385.jpg"
     },
     "nama-jamaicensis": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/nama-jamaicensis/archived-038668949540ec9f.jpg"
     },
     "nemophila-phacelioides": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/nemophila-phacelioides/archived-e9af3089cf139ae9.jpg"
     },
     "phacelia-congesta": {
       "count": 0,
       "first_src": null
     },
     "phacelia-patuliflora": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/phacelia-patuliflora/archived-561064587033cafa.jpg"
     },
     "phacelia-strictiflora": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/phacelia-strictiflora/archived-23cdcad40bf9973e.jpg"
     },
     "tiquilia-canescens": {
       "count": 0,
@@ -178,8 +178,8 @@
       "first_src": null
     },
     "lobelia-cardinalis": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/lobelia-cardinalis/archived-8aa045dbbeaa058d.jpg"
     },
     "triodanis-coloradoensis": {
       "count": 0,
@@ -210,36 +210,36 @@
       "first_src": null
     },
     "cuscuta-exaltata": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/cuscuta-exaltata/archived-0b8d41e88eac4527.jpg"
     },
     "cuscuta-indecora": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/cuscuta-indecora/archived-26c191075dc7061d.jpg"
     },
     "cuscuta-obtusiflora": {
       "count": 0,
       "first_src": null
     },
     "cuscuta-pentagona": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/cuscuta-pentagona/archived-e8a12a6032763cfb.jpg"
     },
     "dichondra-carolinensis": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/dichondra-carolinensis/archived-e82f3b3642cb38b0.jpg"
     },
     "dichondra-recurvata": {
-      "count": 0,
-      "first_src": null
+      "count": 7,
+      "first_src": "media/dichondra-recurvata/archived-0a36e36a93184350.jpg"
     },
     "distimake-dissectus": {
       "count": 0,
       "first_src": null
     },
     "evolvulus-nuttallianus": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/evolvulus-nuttallianus/archived-c744fdf4d494cb38.jpg"
     },
     "evolvulus-sericeus": {
       "count": 0,
@@ -278,20 +278,20 @@
       "first_src": null
     },
     "gelsemium-sempervirens": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/gelsemium-sempervirens/archived-b63c529d5d4ea172.jpg"
     },
     "centaurium-tenuiflorum": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/centaurium-tenuiflorum/archived-b6c7639e89e868e2.jpg"
     },
     "eustoma-exaltatum": {
       "count": 0,
       "first_src": null
     },
     "eustoma-russellianum": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/eustoma-russellianum/archived-e7ff498e6e3d96e7.jpg"
     },
     "sabatia-campestris": {
       "count": 0,
@@ -310,19 +310,19 @@
       "first_src": null
     },
     "mitreola-petiolata": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/mitreola-petiolata/archived-44b589fd1ccdb0b2.jpg"
     },
     "spigelia-hedyotidea": {
       "count": 0,
       "first_src": null
     },
     "giliastrum-incisum": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/giliastrum-incisum/inat-627386609.jpg"
     },
     "giliastrum-rigidulum": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/giliastrum-rigidulum/inat-623713179.jpg"
     },
     "ipomopsis-rubra": {
@@ -338,11 +338,11 @@
       "first_src": "media/phlox-pilosa/inat-125846424.jpg"
     },
     "phlox-pilosa-subsp-riparia": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/phlox-pilosa-subsp-riparia/archived-67269435e70b1cf6.jpg"
     },
     "phlox-roemeriana": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/phlox-roemeriana/inat-621051816.jpg"
     },
     "cephalanthus-occidentalis": {
@@ -354,19 +354,19 @@
       "first_src": "media/diodia-virginiana/inat-352791073.jpeg"
     },
     "galium-aparine": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/galium-aparine/inat-621523561.jpg"
     },
     "galium-texense": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/galium-texense/inat-118859007.jpg"
     },
     "galium-virgatum": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/galium-virgatum/inat-627897453.jpg"
     },
     "sherardia-arvensis": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/sherardia-arvensis/inat-620892531.jpg"
     },
     "stenaria-nigricans": {
@@ -374,7 +374,7 @@
       "first_src": "media/stenaria-nigricans/inat-633161920.jpg"
     },
     "bouchetia-erecta": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/bouchetia-erecta/inat-624747442.jpg"
     },
     "capsicum-annuum": {
@@ -382,7 +382,7 @@
       "first_src": "media/capsicum-annuum/inat-645809871.jpg"
     },
     "capsicum-annuum-var-aviculare": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/capsicum-annuum-var-aviculare/inat-131982243.jpg"
     },
     "chamaesaracha-coniodes": {
@@ -390,11 +390,11 @@
       "first_src": "media/chamaesaracha-coniodes/inat-634909849.jpg"
     },
     "chamaesaracha-coronopus": {
-      "count": 4,
+      "count": 5,
       "first_src": "media/chamaesaracha-coronopus/inat-623461020.jpg"
     },
     "chamaesaracha-edwardsiana": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/chamaesaracha-edwardsiana/inat-621613522.jpg"
     },
     "datura-innoxia": {
@@ -402,7 +402,7 @@
       "first_src": "media/datura-innoxia/datura-innoxia-el-grafo.jpg"
     },
     "datura-wrightii": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/datura-wrightii/inat-634004287.jpg"
     },
     "nicotiana-glauca": {
@@ -414,7 +414,7 @@
       "first_src": "media/nicotiana-obtusifolia/inat-202738889.jpg"
     },
     "nicotiana-repanda": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/nicotiana-repanda/inat-624223730.jpg"
     },
     "physalis-angulata": {
@@ -422,15 +422,15 @@
       "first_src": "media/physalis-angulata/physalis-angulata-starr-141025-2446.jpg"
     },
     "physalis-cinerascens": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/physalis-cinerascens/inat-629265632.jpg"
     },
     "physalis-longifolia": {
-      "count": 4,
+      "count": 5,
       "first_src": "media/physalis-longifolia/inat-481309878.jpeg"
     },
     "physalis-solanacea": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/physalis-solanacea/inat-235391825.jpeg"
     },
     "solanum-americanum": {

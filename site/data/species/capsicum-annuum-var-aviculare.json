@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 174802684, photo 303723327, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5c44c9a9bb6d69832c1610831ebe64d29f0591344707b8e27d546ffe49516d9f.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Capsicum annuum glabriusculum maps to indexed species capsicum-annuum-var-aviculare; specialist morphology and BONAP range deferred.",
       "sha256": "5c44c9a9bb6d69832c1610831ebe64d29f0591344707b8e27d546ffe49516d9f"
+    },
+    {
+      "src": "media/capsicum-annuum-var-aviculare/archived-49671e6e69b4bb9c.jpg",
+      "creator": "Quiotepec Cuicatlan",
+      "source_page": "https://www.inaturalist.org/photos/6787674",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "64a4fb93ab943c932f96fe07e1f5da6d11d1ac15",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 5505745 photo 6787674 individual CC code cc-by-nc; photographer (c) Quiotepec Cuicatlan, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 64a4fb93ab943c932f96fe07e1f5da6d11d1ac15; exact image source https://www.inaturalist.org/photos/6787674",
+      "taxon_review_evidence": "Original species record Capsicum annuum var. aviculare linked to an original image and matching current inat photo of source taxon Capsicum annuum glabriusculum. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "49671e6e69b4bb9c5c560cb69e5a49369771cb2e82d6b1bfa68118a8fd1b8e0a"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

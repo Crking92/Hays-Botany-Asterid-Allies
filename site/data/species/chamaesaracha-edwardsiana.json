@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 349628177, photo 637818783, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 70302eacc15f3d7c4959374ba16285e1ff23cdd6b090e689a513e304afb86332.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Chamaesaracha edwardsiana maps to indexed species chamaesaracha-edwardsiana; specialist morphology and BONAP range deferred.",
       "sha256": "70302eacc15f3d7c4959374ba16285e1ff23cdd6b090e689a513e304afb86332"
+    },
+    {
+      "src": "media/chamaesaracha-edwardsiana/archived-a64d5a47343e60b4.jpg",
+      "creator": "brehmon",
+      "source_page": "https://www.inaturalist.org/photos/685098016",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "ff0d8ccf0db203ace14fc4c6746d63ab1f5e0ff9",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 374800388 photo 685098016 individual CC code cc-by-nc; photographer (c) brehmon, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA ff0d8ccf0db203ace14fc4c6746d63ab1f5e0ff9; exact image source https://www.inaturalist.org/photos/685098016",
+      "taxon_review_evidence": "Original species record Chamaesaracha edwardsiana linked to an original image and matching current inat photo of source taxon Chamaesaracha edwardsiana. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "a64d5a47343e60b4ff4b512d042e2c752e1fc9befc17eb7765e0e8e9d0d0feb6"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

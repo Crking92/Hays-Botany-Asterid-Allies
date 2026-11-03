@@ -86,6 +86,25 @@
       "source_review_evidence": "Live iNaturalist observation 355849894, photo 648937107, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b3151b1a21719d01edbef40e89880db1c5dddeb5d85353e50efdf81a05f10387.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Chamaesaracha coronopus maps to indexed species chamaesaracha-coronopus; specialist morphology and BONAP range deferred.",
       "sha256": "b3151b1a21719d01edbef40e89880db1c5dddeb5d85353e50efdf81a05f10387"
+    },
+    {
+      "src": "media/chamaesaracha-coronopus/archived-253ab28b1983cdb9.jpg",
+      "creator": "Hanfei Zhang",
+      "source_page": "https://www.inaturalist.org/photos/484705056",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "8b2b01f31383217388dcc66468f82517fcc11b7a",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 269570451 photo 484705056 individual CC code cc-by-nc; photographer (c) Hanfei Zhang, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 8b2b01f31383217388dcc66468f82517fcc11b7a; exact image source https://www.inaturalist.org/photos/484705056",
+      "taxon_review_evidence": "Original species record Chamaesaracha coronopus linked to an original image and matching current inat photo of source taxon Chamaesaracha coronopus. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "253ab28b1983cdb9da64531d0c83c67c5b92f388a49a66f922b3b75f56435c2a"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

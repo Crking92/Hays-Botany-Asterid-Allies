@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 379228094, photo 693661206, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f6002a11a4ed259423d13328cc5d1067fbfb729ef22d30abbb9f99e41126ee97.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Physalis solanacea maps to indexed species physalis-solanacea; specialist morphology and BONAP range deferred.",
       "sha256": "f6002a11a4ed259423d13328cc5d1067fbfb729ef22d30abbb9f99e41126ee97"
+    },
+    {
+      "src": "media/physalis-solanacea/archived-4474d9c7f430608f.jpg",
+      "creator": "Nathan Taylor",
+      "source_page": "https://www.inaturalist.org/photos/11590634",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "d77958c1c5539079714a8647cc90ed0105824567",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 8655465 photo 11590634 individual CC code cc-by-nc; photographer (c) Nathan Taylor, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA d77958c1c5539079714a8647cc90ed0105824567; exact image source https://www.inaturalist.org/photos/11590634",
+      "taxon_review_evidence": "Original species record Physalis solanacea linked to an original image and matching current inat photo of source taxon Physalis solanacea. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "4474d9c7f430608f81c798dc629b3caf5387e5be4f37a58dd4bbed3945790fb2"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

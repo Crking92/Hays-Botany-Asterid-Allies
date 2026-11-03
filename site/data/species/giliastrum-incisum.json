@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 354992282, photo 647537435, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6dd5027da66148de20fb76c2af90bad133241285310dc234c89436caabd6b628. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Giliastrum incisum maps to indexed species giliastrum-incisum; specialist morphology and BONAP range deferred.",
       "sha256": "6dd5027da66148de20fb76c2af90bad133241285310dc234c89436caabd6b628"
+    },
+    {
+      "src": "media/giliastrum-incisum/archived-b3ac8d550f2c00ab.jpeg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/355494942",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "35314a14674fb48f1cc1b8862c34adb89cc5ddae",
+      "role": "Provisional species recognition photo (not diagnostic certified)",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 201389574 photo 355494942 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 35314a14674fb48f1cc1b8862c34adb89cc5ddae; exact image source https://www.inaturalist.org/photos/355494942",
+      "taxon_review_evidence": "Original species record Giliastrum incisum linked to an original image and matching current inat photo of source taxon Giliastrum incisum. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "b3ac8d550f2c00ab7a6a8dcf7ba28c2e3b891c45601598bd38a86e28eeee48dd"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

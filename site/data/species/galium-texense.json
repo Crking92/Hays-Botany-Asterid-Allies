@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 355721195, photo 648706546, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5256be38a8c2c88a5be727d9b48be1adab46480802440f3aadae80907f01447d.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Galium texense maps to indexed species galium-texense; specialist morphology and BONAP range deferred.",
       "sha256": "5256be38a8c2c88a5be727d9b48be1adab46480802440f3aadae80907f01447d"
+    },
+    {
+      "src": "media/galium-texense/archived-b86eb3d20b342275.jpg",
+      "creator": "blake hendon",
+      "source_page": "https://www.inaturalist.org/photos/31591360",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "3c3ecc38f14b64b11a7eb2c85b9245e89a948498",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 20466233 photo 31591360 individual CC code cc-by-nc; photographer (c) blake hendon, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 3c3ecc38f14b64b11a7eb2c85b9245e89a948498; exact image source https://www.inaturalist.org/photos/31591360",
+      "taxon_review_evidence": "Original species record Galium texense linked to an original image and matching current inat photo of source taxon Galium texense. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "b86eb3d20b342275bf6e62ab8fe76a9667026ed1f80fb0395a32df4283ed2f50"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

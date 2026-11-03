@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 348857185, photo 636308156, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7e2ee92ebdbf0e9cf2ca6f7b004ef71c1294836b29e150e420f9e6f4fccac840.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Nicotiana repanda maps to indexed species nicotiana-repanda; specialist morphology and BONAP range deferred.",
       "sha256": "7e2ee92ebdbf0e9cf2ca6f7b004ef71c1294836b29e150e420f9e6f4fccac840"
+    },
+    {
+      "src": "media/nicotiana-repanda/archived-29731ba2ead9499b.jpg",
+      "creator": "George Afghan",
+      "source_page": "https://www.inaturalist.org/photos/365516801",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "7e8e0540da2ecbc31d24379ee88b1f732a2a7a69",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 206689539 photo 365516801 individual CC code cc-by-nc; photographer (c) George Afghan, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 7e8e0540da2ecbc31d24379ee88b1f732a2a7a69; exact image source https://www.inaturalist.org/photos/365516801",
+      "taxon_review_evidence": "Original species record Nicotiana repanda linked to an original image and matching current inat photo of source taxon Nicotiana repanda. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "29731ba2ead9499bdd6402867f948efefbe8370ea637e2c54909bba7f15d696e"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

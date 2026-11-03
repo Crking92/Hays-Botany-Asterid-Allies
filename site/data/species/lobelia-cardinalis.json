@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/lobelia-cardinalis/archived-8aa045dbbeaa058d.jpg",
+      "creator": "Douglas Goldman",
+      "source_page": "https://www.inaturalist.org/photos/346977164",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "ddbd4135b52dde91fd2f6e7253c33e378c217758",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 197058100 photo 346977164 individual CC code cc-by-sa; photographer (c) Douglas Goldman, some rights reserved (CC BY-SA); image dHash difference 0; archived source SHA ddbd4135b52dde91fd2f6e7253c33e378c217758; exact image source https://www.inaturalist.org/photos/346977164",
+      "taxon_review_evidence": "Original species record Lobelia cardinalis linked to an original image and matching current inat photo of source taxon Lobelia cardinalis. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "8aa045dbbeaa058d7a8e37542d4e1acdfe2f812d3c685b1ba5d8b21268bce7f1"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "4e4c786b68e87721cd3fced76b0d7afa2c10ba7ff1e2e1a5f6bcb1d65e585df4",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

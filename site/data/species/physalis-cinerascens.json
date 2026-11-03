@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 352419700, photo 643203670, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e0462b026a17015008c809f4a9bdeb154e9b8188b69b171027221a96524a76e4.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Physalis cinerascens maps to indexed species physalis-cinerascens; specialist morphology and BONAP range deferred.",
       "sha256": "e0462b026a17015008c809f4a9bdeb154e9b8188b69b171027221a96524a76e4"
+    },
+    {
+      "src": "media/physalis-cinerascens/archived-873245acaf715d16.jpg",
+      "creator": "Taisha Ramírez",
+      "source_page": "https://www.inaturalist.org/photos/641103765",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "fc639e92fb37c6144a32c9681b1a86c58283784a",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 351325942 photo 641103765 individual CC code cc-by-nc; photographer (c) Taisha Ramírez, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA fc639e92fb37c6144a32c9681b1a86c58283784a; exact image source https://www.inaturalist.org/photos/641103765",
+      "taxon_review_evidence": "Original species record Physalis cinerascens linked to an original image and matching current inat photo of source taxon Physalis cinerascens. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "873245acaf715d1660b107fcffda9ea963b2eef6b9be3ab8229ebd07915acf6d"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
