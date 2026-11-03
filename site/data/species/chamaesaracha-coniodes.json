@@ -86,6 +86,25 @@
       "source_review_evidence": "Live iNaturalist observation 354811475, photo 647216028, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 50c3e985dbcafa02d7ade30700e49c5de75386871ea5a1955f0fc0b42182c242.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Chamaesaracha coniodes maps to indexed species chamaesaracha-coniodes; specialist morphology and BONAP range deferred.",
       "sha256": "50c3e985dbcafa02d7ade30700e49c5de75386871ea5a1955f0fc0b42182c242"
+    },
+    {
+      "src": "media/chamaesaracha-coniodes/archived-8823c9255198c259.jpg",
+      "creator": "Patrick Alexander",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chamaesaracha_coniodes_-_Flickr_-_aspidoscelis.jpg",
+      "source_page_is_exact": true,
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "8f88e70a39dd380d2328ad1141bb5f927bc3828d",
+      "role": "whole plant, lobed leaves and pale flowers",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Wikimedia exact file page author and CC0 1.0 independently checked 2026-11-03; direct original file https://upload.wikimedia.org/wikipedia/commons/d/d6/Chamaesaracha_coniodes_-_Flickr_-_aspidoscelis.jpg; archived original pixel difference 0; archived source SHA 8f88e70a39dd380d2328ad1141bb5f927bc3828d; exact image source https://commons.wikimedia.org/wiki/File:Chamaesaracha_coniodes_-_Flickr_-_aspidoscelis.jpg",
+      "taxon_review_evidence": "Original species record Chamaesaracha coniodes linked to an original image and matching current commons photo of source taxon Chamaesaracha coniodes. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "8823c9255198c2592d3d3287e0d40b9f58e30417812180df11e29c6fab044cbe"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

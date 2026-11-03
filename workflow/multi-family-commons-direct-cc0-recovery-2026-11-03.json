@@ -1,0 +1,45 @@
+{
+  "repository": "Crking92/Hays-Botany-Asterid-Allies",
+  "batch_key": "MULTIFAMILY_COMMONS_EXACT_PAGE_CC0_RECOVERY_2026-11-03",
+  "checked_at": "2026-11-03T18:25:01.191156+00:00",
+  "source_files": 306,
+  "historical_cc0_deed_holds": 1,
+  "selection_window": 15,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "commons": 1
+  },
+  "skipped_or_previously_published": {
+    "not_a_prior_cc0_deed_hold": 304,
+    "original_path_shape_unknown": 1
+  },
+  "new_installed": 1,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "chamaesaracha-coniodes",
+      "family": "Solanaceae",
+      "filename": "chamaesaracha-coniodes-patrick-alexander.jpg",
+      "original_path": "content/taxa/Solanaceae/Chamaesaracha/chamaesaracha-coniodes/images/chamaesaracha-coniodes-patrick-alexander.jpg",
+      "archive_path": "migration/private-original-photo-holds/Solanaceae/Chamaesaracha/chamaesaracha-coniodes/images/chamaesaracha-coniodes-patrick-alexander.jpg",
+      "git_blob_sha": "8f88e70a39dd380d2328ad1141bb5f927bc3828d",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Patrick Alexander",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chamaesaracha_coniodes_-_Flickr_-_aspidoscelis.jpg",
+      "taxon": "Chamaesaracha coniodes",
+      "src": "media/chamaesaracha-coniodes/archived-8823c9255198c259.jpg",
+      "sha256": "8823c9255198c2592d3d3287e0d40b9f58e30417812180df11e29c6fab044cbe"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 1,
+  "cumulative_held_reviewed": 0
+}
