@@ -1,0 +1,62 @@
+{
+  "repository": "Crking92/Hays-Botany-Asterid-Allies",
+  "batch_key": "MULTIFAMILY_HISTORICAL_PUBLIC_DOMAIN_2026-11-03",
+  "checked_at": "2026-11-03T19:42:05.087771+00:00",
+  "source_files": 306,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 2,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 2,
+  "selected_by_lane": {
+    "commons": 2
+  },
+  "skipped_or_previously_published": {
+    "outside_reviewed_commons_recovery_lane": 290,
+    "already_public_identical_bytes": 7,
+    "not_an_individual_public_domain_claim": 6,
+    "original_path_shape_unknown": 1
+  },
+  "new_installed": 2,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "cephalanthus-occidentalis",
+      "family": "Rubiaceae",
+      "filename": "02-fruit-seed-structure.jpg",
+      "original_path": "content/taxa/Rubiaceae/Cephalanthus/cephalanthus-occidentalis/images/02-fruit-seed-structure.jpg",
+      "archive_path": "migration/private-original-photo-holds/Rubiaceae/Cephalanthus/cephalanthus-occidentalis/images/02-fruit-seed-structure.jpg",
+      "git_blob_sha": "8718fc60632576a9588444916ca406e36493c18a",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Steve Hurst / USDA ARS",
+      "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cephalanthusoccidentalis.jpg",
+      "taxon": "Cephalanthus occidentalis",
+      "src": "media/cephalanthus-occidentalis/archived-fe89a8d90ef123b0.jpg",
+      "sha256": "fe89a8d90ef123b0625b980ed1b4e59c2f8ea3664734c6bfbf67d0e0b4ad09ad"
+    },
+    {
+      "species_id": "eustoma-exaltatum",
+      "family": "Gentianaceae",
+      "filename": "commons-eustoma-exaltatum-mason-brock.jpg",
+      "original_path": "content/taxa/Gentianaceae/Eustoma/eustoma-exaltatum/images/commons-eustoma-exaltatum-mason-brock.jpg",
+      "archive_path": "migration/private-original-photo-holds/Gentianaceae/Eustoma/eustoma-exaltatum/images/commons-eustoma-exaltatum-mason-brock.jpg",
+      "git_blob_sha": "344a36ec927abb4dd39ca66cc68a051738802234",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Mason Brock (Masebrock)",
+      "license": "PUBLIC DOMAIN (AUTHOR RELEASED)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Eustoma_exaltatum_exaltatum.jpg",
+      "taxon": "Eustoma exaltatum",
+      "src": "media/eustoma-exaltatum/archived-8c49803e3e33cb06.jpg",
+      "sha256": "8c49803e3e33cb065ef630aeaacfcc6ea4951db0499bace607655bd79fb8f0c0"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 2,
+  "cumulative_held_reviewed": 0
+}

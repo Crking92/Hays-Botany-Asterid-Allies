@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/eustoma-exaltatum/archived-8c49803e3e33cb06.jpg",
+      "creator": "Mason Brock (Masebrock)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Eustoma_exaltatum_exaltatum.jpg",
+      "source_page_is_exact": true,
+      "license": "PUBLIC DOMAIN (AUTHOR RELEASED)",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "344a36ec927abb4dd39ca66cc68a051738802234",
+      "role": "Provisional whole flowering plant and habitat recognition: labelled Eustoma exaltatum sensu stricto; additional closeups needed for calyx and stigma.",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Existing historical image-sources.csv entry for exact Commons photo Eustoma_exaltatum_exaltatum.jpg; original individual photographer Mason Brock (Masebrock); archived specific reuse license PUBLIC DOMAIN (AUTHOR RELEASED); preserved photo byte SHA checked against original transfer manifest 344a36ec927abb4dd39ca66cc68a051738802234; reused under owner's previously recorded photo-rights approval policy; no new online Commons license assertion; archived source SHA 344a36ec927abb4dd39ca66cc68a051738802234; exact image source https://commons.wikimedia.org/wiki/File:Eustoma_exaltatum_exaltatum.jpg",
+      "taxon_review_evidence": "Original species record Eustoma exaltatum linked to an original image and matching current commons photo of source taxon Eustoma exaltatum. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "8c49803e3e33cb065ef630aeaacfcc6ea4951db0499bace607655bd79fb8f0c0"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "e6b0c4dca6df79d0165151f14830f515f5ed2ba9bcf57eca7fd68baefd005d4f",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

@@ -639,8 +639,8 @@
       "genus": "Eustoma",
       "scientific_name": "Eustoma exaltatum",
       "common_name": "Catchfly prairie gentian",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "eustoma-russellianum",
@@ -774,7 +774,7 @@
       "genus": "Cephalanthus",
       "scientific_name": "Cephalanthus occidentalis",
       "common_name": "Buttonbush / Common Buttonbush",
-      "photo_count": 3,
+      "photo_count": 4,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

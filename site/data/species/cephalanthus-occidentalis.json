@@ -82,6 +82,25 @@
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "source_page_is_exact": true
+    },
+    {
+      "src": "media/cephalanthus-occidentalis/archived-fe89a8d90ef123b0.jpg",
+      "creator": "Steve Hurst / USDA ARS",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cephalanthusoccidentalis.jpg",
+      "source_page_is_exact": true,
+      "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
+      "license_url": "https://www.copyright.gov/title17/92chap1.html#105",
+      "source_blob_sha": "8718fc60632576a9588444916ca406e36493c18a",
+      "role": "Fruit/seed structure for post-flowering identification",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Existing historical image-sources.csv entry for exact Commons photo Cephalanthusoccidentalis.jpg; original individual photographer Steve Hurst / USDA ARS; archived specific reuse license PUBLIC DOMAIN (U.S. FEDERAL WORK); preserved photo byte SHA checked against original transfer manifest 8718fc60632576a9588444916ca406e36493c18a; reused under owner's previously recorded photo-rights approval policy; no new online Commons license assertion; archived source SHA 8718fc60632576a9588444916ca406e36493c18a; exact image source https://commons.wikimedia.org/wiki/File:Cephalanthusoccidentalis.jpg",
+      "taxon_review_evidence": "Original species record Cephalanthus occidentalis linked to an original image and matching current commons photo of source taxon Cephalanthus occidentalis. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "fe89a8d90ef123b0625b980ed1b4e59c2f8ea3664734c6bfbf67d0e0b4ad09ad"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

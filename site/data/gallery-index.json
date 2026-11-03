@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 118,
-  "photo_species": 94,
-  "photo_count": 305,
+  "photo_species": 95,
+  "photo_count": 307,
   "entries": {
     "amsonia-ciliata": {
       "count": 2,
@@ -286,8 +286,8 @@
       "first_src": "media/centaurium-tenuiflorum/archived-b6c7639e89e868e2.jpg"
     },
     "eustoma-exaltatum": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/eustoma-exaltatum/archived-8c49803e3e33cb06.jpg"
     },
     "eustoma-russellianum": {
       "count": 1,
@@ -346,7 +346,7 @@
       "first_src": "media/phlox-roemeriana/inat-621051816.jpg"
     },
     "cephalanthus-occidentalis": {
-      "count": 3,
+      "count": 4,
       "first_src": "media/cephalanthus-occidentalis/01-spherical-flower-head.jpg"
     },
     "diodia-virginiana": {
