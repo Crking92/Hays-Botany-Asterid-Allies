@@ -58,6 +58,25 @@
       "source_review_evidence": "GBIF occurrence 6130683174 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/608806077/original.jpg; image-level license https://creativecommons.org/licenses/by/4.0/; creator Sandy Wolkenberg; dHash distance 0; archived source SHA 65c865e88bf7213113faf3c370e626fe5f11d57b; exact image source https://www.inaturalist.org/photos/608806077",
       "taxon_review_evidence": "Original species record Asclepias incarnata linked to an original image and matching current gbif photo of source taxon Asclepias incarnata. Basic source-backed field recognition only; no diagnostic arrow certification.",
       "sha256": "ec592d46fdae18c3e0608102bace0cc63c3461cee3f236b285561b65050a65df"
+    },
+    {
+      "src": "media/asclepias-incarnata/archived-c54f8a1a2acbc7bb.jpg",
+      "creator": "Matt Schultz",
+      "source_page": "https://www.inaturalist.org/photos/22555923",
+      "source_page_is_exact": true,
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "38f1af66914bec6c27033166cbc98353e2ff0db4",
+      "role": "Flowering plant / recognizable face",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 15100539 photo 22555923 individual CC code cc0; photographer Matt Schultz; image dHash difference 0; archived source SHA 38f1af66914bec6c27033166cbc98353e2ff0db4; exact image source https://www.inaturalist.org/photos/22555923",
+      "taxon_review_evidence": "Original species record Asclepias incarnata linked to an original image and matching current inat photo of source taxon Asclepias incarnata incarnata. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "c54f8a1a2acbc7bb0a9312c8b62177ffeefce959ae3e04a7ad97e6ff4ebea45d"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

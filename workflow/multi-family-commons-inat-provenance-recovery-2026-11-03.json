@@ -1,7 +1,7 @@
 {
   "repository": "Crking92/Hays-Botany-Asterid-Allies",
   "batch_key": "MULTIFAMILY_COMMONS_INAT_CC0_PROVENANCE_2026-11-03",
-  "checked_at": "2026-11-03T16:43:27.014475+00:00",
+  "checked_at": "2026-11-03T16:45:51.782060+00:00",
   "source_files": 306,
   "historical_cc0_deed_holds": 1,
   "selection_window": 15,
@@ -15,8 +15,8 @@
     "not_a_confirmed_inat_imported_commons_hold": 304,
     "original_path_shape_unknown": 1
   },
-  "new_installed": 0,
-  "held_checked": 1,
+  "new_installed": 1,
+  "held_checked": 0,
   "duplicates_found_during_review": 0,
   "records": [
     {
@@ -27,8 +27,13 @@
       "archive_path": "migration/private-original-photo-holds/Apocynaceae/Asclepias/asclepias-incarnata/images/asclepias-incarnata-provisional-face.jpg",
       "git_blob_sha": "38f1af66914bec6c27033166cbc98353e2ff0db4",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Source unavailable: HTTP Error 403: Forbidden"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Matt Schultz",
+      "license": "CC0 1.0",
+      "source_page": "https://www.inaturalist.org/photos/22555923",
+      "taxon": "Asclepias incarnata incarnata",
+      "src": "media/asclepias-incarnata/archived-c54f8a1a2acbc7bb.jpg",
+      "sha256": "c54f8a1a2acbc7bb0a9312c8b62177ffeefce959ae3e04a7ad97e6ff4ebea45d"
     }
   ],
   "previous_batches": [
@@ -50,13 +55,30 @@
           "reason": "Current photo creator differs from original image CSV: no rights reserved"
         }
       ]
+    },
+    {
+      "checked_at": "2026-11-03T16:43:27.014475+00:00",
+      "selected_candidates": 1,
+      "new_installed": 0,
+      "held_checked": 1,
+      "records": [
+        {
+          "species_id": "asclepias-incarnata",
+          "family": "Apocynaceae",
+          "filename": "asclepias-incarnata-provisional-face.jpg",
+          "original_path": "content/taxa/Apocynaceae/Asclepias/asclepias-incarnata/images/asclepias-incarnata-provisional-face.jpg",
+          "archive_path": "migration/private-original-photo-holds/Apocynaceae/Asclepias/asclepias-incarnata/images/asclepias-incarnata-provisional-face.jpg",
+          "git_blob_sha": "38f1af66914bec6c27033166cbc98353e2ff0db4",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Source unavailable: HTTP Error 403: Forbidden"
+        }
+      ]
     }
   ],
-  "batch_number": 2,
+  "batch_number": 3,
   "verified_but_not_installed": 0,
-  "held_by_reason": {
-    "Source unavailable: HTTP Error 403: Forbidden": 1
-  },
-  "cumulative_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 1,
   "cumulative_held_reviewed": 2
 }
