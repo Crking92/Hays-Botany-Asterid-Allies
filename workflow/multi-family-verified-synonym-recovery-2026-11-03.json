@@ -1,0 +1,44 @@
+{
+  "repository": "Crking92/Hays-Botany-Asterid-Allies",
+  "batch_key": "MULTIFAMILY_VERIFIED_SYNONYM_RECOVERY_2026-11-03",
+  "checked_at": "2026-11-04T00:39:35.156949+00:00",
+  "source_files": 306,
+  "selection_window": 25,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "inat": 1
+  },
+  "skipped_or_previously_published": {
+    "not_a_verified_synonym_hold": 304,
+    "original_path_shape_unknown": 1
+  },
+  "new_installed": 1,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "lappula-texana",
+      "family": "Boraginaceae",
+      "filename": "inat-449959346.jpg",
+      "original_path": "content/taxa/Boraginaceae/Lappula/lappula-texana/images/inat-449959346.jpg",
+      "archive_path": "migration/private-original-photo-holds/Boraginaceae/Lappula/lappula-texana/images/inat-449959346.jpg",
+      "git_blob_sha": "716156e474ea3710763b486da5028e5fccf9cdc2",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Finn McGhee",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/449959346",
+      "taxon": "Lappula occidentalis cupulata",
+      "src": "media/lappula-texana/archived-e45b8f0322ff479e.jpg",
+      "sha256": "e45b8f0322ff479ec15e60880e516de55e958154249cf78729e0f232f1a80b9a"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 1,
+  "cumulative_held_reviewed": 0
+}

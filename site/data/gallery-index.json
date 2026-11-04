@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 118,
-  "photo_species": 104,
-  "photo_count": 369,
+  "photo_species": 105,
+  "photo_count": 370,
   "entries": {
     "amsonia-ciliata": {
       "count": 2,
@@ -126,8 +126,8 @@
       "first_src": "media/heliotropium-curassavicum/archived-b1e87d41829da29c.jpg"
     },
     "lappula-texana": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/lappula-texana/archived-e45b8f0322ff479e.jpg"
     },
     "lithospermum-caroliniense-var-caroliniense": {
       "count": 1,
