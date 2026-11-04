@@ -540,8 +540,8 @@
       "genus": "Evolvulus",
       "scientific_name": "Evolvulus sericeus",
       "common_name": "Silky evolvulus",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 3,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "ipomoea-batatas",
@@ -657,7 +657,7 @@
       "genus": "Sabatia",
       "scientific_name": "Sabatia campestris",
       "common_name": "Prairie rose gentian",
-      "photo_count": 5,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -729,7 +729,7 @@
       "genus": "Ipomopsis",
       "scientific_name": "Ipomopsis rubra",
       "common_name": "Standing cypress",
-      "photo_count": 5,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -738,7 +738,7 @@
       "genus": "Phlox",
       "scientific_name": "Phlox drummondii",
       "common_name": "Annual phlox",
-      "photo_count": 5,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -918,7 +918,7 @@
       "genus": "Nicotiana",
       "scientific_name": "Nicotiana obtusifolia",
       "common_name": "Desert tobacco",
-      "photo_count": 4,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

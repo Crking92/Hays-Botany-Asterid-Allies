@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 118,
-  "photo_species": 109,
-  "photo_count": 404,
+  "photo_species": 110,
+  "photo_count": 418,
   "entries": {
     "amsonia-ciliata": {
       "count": 2,
@@ -242,8 +242,8 @@
       "first_src": "media/evolvulus-nuttallianus/archived-c744fdf4d494cb38.jpg"
     },
     "evolvulus-sericeus": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/evolvulus-sericeus/archived-4328f609810ffb0c.jpg"
     },
     "ipomoea-batatas": {
       "count": 1,
@@ -294,7 +294,7 @@
       "first_src": "media/eustoma-russellianum/archived-e7ff498e6e3d96e7.jpg"
     },
     "sabatia-campestris": {
-      "count": 5,
+      "count": 7,
       "first_src": "media/sabatia-campestris/inat-384508476.jpg"
     },
     "zeltnera-beyrichii": {
@@ -326,11 +326,11 @@
       "first_src": "media/giliastrum-rigidulum/inat-623713179.jpg"
     },
     "ipomopsis-rubra": {
-      "count": 5,
+      "count": 8,
       "first_src": "media/ipomopsis-rubra/inat-622234901.jpg"
     },
     "phlox-drummondii": {
-      "count": 5,
+      "count": 8,
       "first_src": "media/phlox-drummondii/inat-621898558.jpg"
     },
     "phlox-pilosa": {
@@ -410,7 +410,7 @@
       "first_src": "media/nicotiana-glauca/inat-14789096.jpg"
     },
     "nicotiana-obtusifolia": {
-      "count": 4,
+      "count": 7,
       "first_src": "media/nicotiana-obtusifolia/inat-202738889.jpg"
     },
     "nicotiana-repanda": {
