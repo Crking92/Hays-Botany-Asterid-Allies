@@ -396,7 +396,7 @@
       "genus": "Lobelia",
       "scientific_name": "Lobelia cardinalis",
       "common_name": "Cardinal flower",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -405,8 +405,8 @@
       "genus": "Triodanis",
       "scientific_name": "Triodanis coloradoensis",
       "common_name": "Colorado Venus's looking-glass",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "triodanis-leptocarpa",
@@ -414,7 +414,7 @@
       "genus": "Triodanis",
       "scientific_name": "Triodanis leptocarpa",
       "common_name": "Slimpod Venus's looking-glass",
-      "photo_count": 3,
+      "photo_count": 4,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -423,7 +423,7 @@
       "genus": "Triodanis",
       "scientific_name": "Triodanis perfoliata",
       "common_name": "Clasping Venus's looking-glass",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -441,8 +441,8 @@
       "genus": "Triodanis",
       "scientific_name": "Triodanis texana",
       "common_name": "Texas Venus's looking-glass",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "convolvulus-arvensis",

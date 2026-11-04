@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 118,
-  "photo_species": 105,
-  "photo_count": 370,
+  "photo_species": 107,
+  "photo_count": 391,
   "entries": {
     "amsonia-ciliata": {
       "count": 2,
@@ -178,19 +178,19 @@
       "first_src": "media/tiquilia-hispidissima/archived-ba6c40757109ec14.jpg"
     },
     "lobelia-cardinalis": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/lobelia-cardinalis/archived-8aa045dbbeaa058d.jpg"
     },
     "triodanis-coloradoensis": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/triodanis-coloradoensis/inat-636871572.jpg"
     },
     "triodanis-leptocarpa": {
-      "count": 3,
+      "count": 4,
       "first_src": "media/triodanis-leptocarpa/triodanis-leptocarpa-arkansas-whole-plant.jpg"
     },
     "triodanis-perfoliata": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/triodanis-perfoliata/perfoliata-wild-stem.jpg"
     },
     "triodanis-perfoliata-subsp-biflora": {
@@ -198,8 +198,8 @@
       "first_src": "media/triodanis-perfoliata-subsp-biflora/biflora-flowering.jpg"
     },
     "triodanis-texana": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/triodanis-texana/inat-636702562.jpg"
     },
     "convolvulus-arvensis": {
       "count": 3,

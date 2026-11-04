@@ -70,6 +70,25 @@
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "source_page_is_exact": true
+    },
+    {
+      "src": "media/triodanis-leptocarpa/inat-129057822.jpeg",
+      "creator": "(c) Alison Northup, some rights reserved (CC BY)",
+      "source_page": "https://www.inaturalist.org/photos/129057822",
+      "source_page_is_exact": true,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "cdff0a32fe8e257b9852ad0a782274e6e94c6431",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
+      "source_review_evidence": "Live iNaturalist observation 78830652, photo 129057822, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: ad031d0cf7a34e6d7fa13af098913dcf2603a1e6d27d22ce053909812a5444fe. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Triodanis leptocarpa maps to indexed species triodanis-leptocarpa; specialist morphology and BONAP range deferred.",
+      "sha256": "ad031d0cf7a34e6d7fa13af098913dcf2603a1e6d27d22ce053909812a5444fe"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
