@@ -3,54 +3,54 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 118,
   "photo_species": 116,
-  "photo_count": 526,
+  "photo_count": 581,
   "entries": {
     "amsonia-ciliata": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/amsonia-ciliata/amsonia-ciliata-habit.jpg"
     },
     "amsonia-longiflora": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/amsonia-longiflora/amsonia-longiflora-flower.jpg"
     },
     "asclepias-asperula": {
-      "count": 5,
+      "count": 10,
       "first_src": "media/asclepias-asperula/01-habit-bandera.jpg"
     },
     "asclepias-curassavica": {
-      "count": 3,
+      "count": 7,
       "first_src": "media/asclepias-curassavica/archived-phase2-32a353561a2b0517.jpg"
     },
     "asclepias-incarnata": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/asclepias-incarnata/archived-ec592d46fdae18c3.jpg"
     },
     "asclepias-oenotheroides": {
-      "count": 5,
+      "count": 10,
       "first_src": "media/asclepias-oenotheroides/01-texas-habit.jpg"
     },
     "asclepias-speciosa": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/asclepias-speciosa/asclepias-speciosa-provisional-face.jpg"
     },
     "asclepias-syriaca": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/asclepias-syriaca/asclepias-syriaca-leaf-upper.jpg"
     },
     "asclepias-texana": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/asclepias-texana/archived-4526f9cd020ea344.jpg"
     },
     "asclepias-tuberosa": {
-      "count": 5,
+      "count": 10,
       "first_src": "media/asclepias-tuberosa/01-habit-east-texas.jpg"
     },
     "asclepias-verticillata": {
-      "count": 5,
+      "count": 10,
       "first_src": "media/asclepias-verticillata/01-habit.jpg"
     },
     "asclepias-viridiflora": {
-      "count": 2,
+      "count": 3,
       "first_src": "media/asclepias-viridiflora/01-inflorescence.jpg"
     },
     "asclepias-viridis": {
