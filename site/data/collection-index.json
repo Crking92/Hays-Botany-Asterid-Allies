@@ -207,7 +207,7 @@
       "genus": "Buglossoides",
       "scientific_name": "Buglossoides arvensis",
       "common_name": "Field gromwell",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -216,7 +216,7 @@
       "genus": "Cordia",
       "scientific_name": "Cordia boissieri",
       "common_name": "Texas olive (anacahuita)",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -225,7 +225,7 @@
       "genus": "Cryptantha",
       "scientific_name": "Cryptantha texana",
       "common_name": "Texas cryptantha",
-      "photo_count": 3,
+      "photo_count": 4,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -234,7 +234,7 @@
       "genus": "Cynoglossum",
       "scientific_name": "Cynoglossum officinale",
       "common_name": "Hound's-tongue",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -243,7 +243,7 @@
       "genus": "Ehretia",
       "scientific_name": "Ehretia anacua",
       "common_name": "Anacua",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -252,7 +252,7 @@
       "genus": "Euploca",
       "scientific_name": "Euploca procumbens",
       "common_name": "Euploca procumbens",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -261,8 +261,8 @@
       "genus": "Euploca",
       "scientific_name": "Euploca tenella",
       "common_name": "Slender heliotrope",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "heliotropium-curassavicum",
@@ -270,7 +270,7 @@
       "genus": "Heliotropium",
       "scientific_name": "Heliotropium curassavicum",
       "common_name": "Salt heliotrope",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -288,7 +288,7 @@
       "genus": "Lithospermum",
       "scientific_name": "Lithospermum caroliniense var. caroliniense",
       "common_name": "Carolina hairy puccoon, nominate variety",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -297,7 +297,7 @@
       "genus": "Lithospermum",
       "scientific_name": "Lithospermum helleri",
       "common_name": "Heller's stoneseed",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

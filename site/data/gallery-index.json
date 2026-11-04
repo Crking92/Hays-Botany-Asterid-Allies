@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 118,
-  "photo_species": 110,
-  "photo_count": 418,
+  "photo_species": 111,
+  "photo_count": 461,
   "entries": {
     "amsonia-ciliata": {
       "count": 2,
@@ -94,35 +94,35 @@
       "first_src": "media/metastelma-barbigerum/archived-0180324fa9fb8c58.jpg"
     },
     "buglossoides-arvensis": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/buglossoides-arvensis/archived-297eb5bd99db1a40.jpg"
     },
     "cordia-boissieri": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/cordia-boissieri/cordia-boissieri-farr.jpg"
     },
     "cryptantha-texana": {
-      "count": 3,
+      "count": 4,
       "first_src": "media/cryptantha-texana/archived-d67632b9fc46fdb0.jpg"
     },
     "cynoglossum-officinale": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/cynoglossum-officinale/archived-81b2dfd279b18db3.jpg"
     },
     "ehretia-anacua": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/ehretia-anacua/archived-1d53ee0d7bd0c3be.jpg"
     },
     "euploca-procumbens": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/euploca-procumbens/archived-1f73851b2af81be7.jpg"
     },
     "euploca-tenella": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/euploca-tenella/inat-653208441.jpg"
     },
     "heliotropium-curassavicum": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/heliotropium-curassavicum/archived-b1e87d41829da29c.jpg"
     },
     "lappula-texana": {
@@ -130,11 +130,11 @@
       "first_src": "media/lappula-texana/archived-e45b8f0322ff479e.jpg"
     },
     "lithospermum-caroliniense-var-caroliniense": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/lithospermum-caroliniense-var-caroliniense/archived-70d99797231b2445.jpg"
     },
     "lithospermum-helleri": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/lithospermum-helleri/archived-2d02f1e2872be754.jpg"
     },
     "lithospermum-incisum": {
