@@ -47,7 +47,7 @@ def main():
     m=json.loads(__import__("zlib").decompress(base64.b64decode(wrapper["payload_b64"],validate=True)))
     if any(wrapper.get(k)!=m.get(k) for k in ("batch_id","repository","zip_sha256")):
         raise SystemExit("Original ZIP manifest wrapper identity does not match payload")
-    if m.get("batch")!="boraginaceae-2026-11-03" or m.get("original_images")!=105 or m.get("image_hashes_validated")!=105 or len(m.get("offline_held_media",[]))!=18:
+    if m.get("batch_id")!="boraginaceae-2026-11-03" or m.get("original_images")!=105 or m.get("image_hashes_validated")!=105 or len(m.get("offline_held_media",[]))!=18:
         raise SystemExit("Manifest does not match original audited Cactaceae ZIP")
     if len(m["zip_sha256"])!=64:raise SystemExit("Missing original ZIP hash")
     raw=base64.b64decode(m["records_base64"],validate=True)
@@ -57,7 +57,7 @@ def main():
     if len(m["species"])!=len(set(m["species"])):raise SystemExit("Duplicate manifest species")
     site_meta=json.loads(Path("site/data/collection-meta.json").read_text())
     if site_meta.get("repository_full_name")!="Crking92/Hays-Botany-Asterid-Allies":raise SystemExit("Wrong destination")
-    if "Boraginaceae" not in site_meta["family_assignments"]:raise SystemExit("Cactaceae not assigned")
+    if "Boraginaceae" not in site_meta["family_assignments"]:raise SystemExit("Boraginaceae not assigned")
     cards={x["id"]:x for x in json.loads(Path("site/data/collection-index.json").read_text())["entries"]}
     seen_ids=set()
     for si,pid,oid,sha,ext in all_records:
@@ -138,7 +138,7 @@ def main():
         results.append(row)
         print(json.dumps(row),flush=True)
     args.report.parent.mkdir(parents=True,exist_ok=True)
-    args.report.write_text(json.dumps({"batch":m["batch"],"wave":args.wave,
+    args.report.write_text(json.dumps({"batch":m["batch_id"],"wave":args.wave,
         "original_zip_sha256":m["zip_sha256"],"offline_held_rows":m["offline_held_media"],
         "results":results},indent=2)+"\n")
     print("BORAGINACEAE_SOURCE_AUDIT",json.dumps({v:sum(r["status"]==v for r in results) for v in ("ORIGINAL_AND_RIGHTS_VERIFIED","ALREADY_PUBLISHED","HELD")}),flush=True)
