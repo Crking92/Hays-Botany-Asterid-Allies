@@ -1,0 +1,115 @@
+{
+  "repository": "Crking92/Hays-Botany-Asterid-Allies",
+  "batch_key": "MULTIFAMILY_HISTORICAL_CARD_INAT_EXPANDED_2026-11-03",
+  "checked_at": "2026-11-04T02:34:46.588410+00:00",
+  "source_files": 306,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 6,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 6,
+  "selected_by_lane": {
+    "inat": 6
+  },
+  "skipped_or_previously_published": {
+    "already_public_identical_bytes": 109,
+    "prior_historical_review_preserved": 107,
+    "card_lacks_exact_photo_and_observation_ids": 58,
+    "card_photo_creator_or_license_missing": 5,
+    "original_path_shape_unknown": 1,
+    "original_card_image_record_missing_or_ambiguous": 20
+  },
+  "new_installed": 3,
+  "held_checked": 3,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "asclepias-texana",
+      "family": "Apocynaceae",
+      "filename": "public-inat-asclepias-texana-724686037.jpg",
+      "original_path": "content/taxa/Apocynaceae/Asclepias/asclepias-texana/images/public-inat-asclepias-texana-724686037.jpg",
+      "archive_path": "migration/private-original-photo-holds/Apocynaceae/Asclepias/asclepias-texana/images/public-inat-asclepias-texana-724686037.jpg",
+      "git_blob_sha": "a564830b33bc9e8527d053d5c6e2400cbb983ccc",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Sam Kieschnick",
+      "license": "CC BY 4.0",
+      "source_page": "https://www.inaturalist.org/photos/724686037",
+      "taxon": "Asclepias texana",
+      "src": "media/asclepias-texana/archived-4526f9cd020ea344.jpg",
+      "sha256": "4526f9cd020ea344d7fba62e12d9e012a64672559815ad4f38b756b26fbfc1db"
+    },
+    {
+      "species_id": "asclepias-viridis",
+      "family": "Apocynaceae",
+      "filename": "public-inat-asclepias-viridis-753131012.jpg",
+      "original_path": "content/taxa/Apocynaceae/Asclepias/asclepias-viridis/images/public-inat-asclepias-viridis-753131012.jpg",
+      "archive_path": "migration/private-original-photo-holds/Apocynaceae/Asclepias/asclepias-viridis/images/public-inat-asclepias-viridis-753131012.jpg",
+      "git_blob_sha": "9467ebe92303f6ea450b4a7c895cd1c7664a513e",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Linda Jo Conn",
+      "license": "CC BY 4.0",
+      "source_page": "https://www.inaturalist.org/photos/753131012",
+      "taxon": "Asclepias viridis",
+      "src": "media/asclepias-viridis/archived-e03b50c4eab78aec.jpg",
+      "sha256": "e03b50c4eab78aec5779d6cf13487b0626b47711873845ed4776328cce013690"
+    },
+    {
+      "species_id": "ipomoea-coccinea",
+      "family": "Convolvulaceae",
+      "filename": "03-same-plant-field-view-1.jpg",
+      "original_path": "content/taxa/Convolvulaceae/Ipomoea/ipomoea-coccinea/images/03-same-plant-field-view-1.jpg",
+      "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-coccinea/images/03-same-plant-field-view-1.jpg",
+      "git_blob_sha": "b007616aea45ad71dfe963380c143b5d086e96c2",
+      "lane": "inat",
+      "status": "HELD",
+      "reason": "Current photo creator differs from original image CSV: no rights reserved"
+    },
+    {
+      "species_id": "ipomoea-coccinea",
+      "family": "Convolvulaceae",
+      "filename": "04-same-plant-field-view-2.jpg",
+      "original_path": "content/taxa/Convolvulaceae/Ipomoea/ipomoea-coccinea/images/04-same-plant-field-view-2.jpg",
+      "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-coccinea/images/04-same-plant-field-view-2.jpg",
+      "git_blob_sha": "97d7b66720e0496d8ab8b508b8eae23e07797bcf",
+      "lane": "inat",
+      "status": "HELD",
+      "reason": "Current photo creator differs from original image CSV: no rights reserved"
+    },
+    {
+      "species_id": "ipomoea-coccinea",
+      "family": "Convolvulaceae",
+      "filename": "05-same-plant-field-view-3.jpg",
+      "original_path": "content/taxa/Convolvulaceae/Ipomoea/ipomoea-coccinea/images/05-same-plant-field-view-3.jpg",
+      "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-coccinea/images/05-same-plant-field-view-3.jpg",
+      "git_blob_sha": "d6ad4622a687efa3ba0b0e5c74edd73a4b154692",
+      "lane": "inat",
+      "status": "HELD",
+      "reason": "Current photo creator differs from original image CSV: no rights reserved"
+    },
+    {
+      "species_id": "matelea-reticulata",
+      "family": "Apocynaceae",
+      "filename": "public-inat-matelea-reticulata-753117117.jpg",
+      "original_path": "content/taxa/Apocynaceae/Matelea/matelea-reticulata/images/public-inat-matelea-reticulata-753117117.jpg",
+      "archive_path": "migration/private-original-photo-holds/Apocynaceae/Matelea/matelea-reticulata/images/public-inat-matelea-reticulata-753117117.jpg",
+      "git_blob_sha": "4eaeaa06c23733c63939625dc3a3e8fa440e404c",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Jane Weeden",
+      "license": "CC BY 4.0",
+      "source_page": "https://www.inaturalist.org/photos/753117117",
+      "taxon": "Matelea reticulata",
+      "src": "media/matelea-reticulata/archived-b04a6e5e40698352.jpg",
+      "sha256": "b04a6e5e406983520a44660ce2d949954359cf887c6e24a5453e2c882d84535a"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {
+    "Current photo creator differs from original image CSV: no rights reserved": 3
+  },
+  "cumulative_installed": 3,
+  "cumulative_held_reviewed": 3
+}

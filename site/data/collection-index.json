@@ -81,8 +81,8 @@
       "genus": "Asclepias",
       "scientific_name": "",
       "common_name": "Texas Milkweed",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "asclepias-tuberosa",
@@ -117,8 +117,8 @@
       "genus": "Asclepias",
       "scientific_name": "",
       "common_name": "Green Milkweed",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "chthamalia-biflora",
@@ -189,8 +189,8 @@
       "genus": "Matelea",
       "scientific_name": "Matelea reticulata",
       "common_name": "Pearl milkvine",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "metastelma-barbigerum",

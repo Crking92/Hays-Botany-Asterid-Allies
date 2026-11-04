@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 118,
-  "photo_species": 111,
-  "photo_count": 503,
+  "photo_species": 114,
+  "photo_count": 506,
   "entries": {
     "amsonia-ciliata": {
       "count": 2,
@@ -38,8 +38,8 @@
       "first_src": "media/asclepias-syriaca/asclepias-syriaca-leaf-upper.jpg"
     },
     "asclepias-texana": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/asclepias-texana/archived-4526f9cd020ea344.jpg"
     },
     "asclepias-tuberosa": {
       "count": 5,
@@ -54,8 +54,8 @@
       "first_src": "media/asclepias-viridiflora/01-inflorescence.jpg"
     },
     "asclepias-viridis": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/asclepias-viridis/archived-e03b50c4eab78aec.jpg"
     },
     "chthamalia-biflora": {
       "count": 0,
@@ -86,8 +86,8 @@
       "first_src": "media/matelea-parvifolia/matelea-parvifolia-provisional-face.jpg"
     },
     "matelea-reticulata": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/matelea-reticulata/archived-b04a6e5e40698352.jpg"
     },
     "metastelma-barbigerum": {
       "count": 3,
