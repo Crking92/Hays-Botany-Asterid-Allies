@@ -1,4 +1,5 @@
 name: Recover 7 licensed Solanum research photographs from historical archives
+# Retry following precise previously approved public-domain and owner-display QA handling
 # Diagnose previously unreported gallery attribution assertion before publication
 on:
   push:
