@@ -1,4 +1,4 @@
-name: Release five source-verified historical Dichondra originals with CC BY credits
+name: Recover verified BLM climbing milkweed original with federal-public-domain evidence
 on:
   push:
     branches: [main]
@@ -28,7 +28,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: Crking92/Hays-Botany-Public
-          ref: 3d57ec6e54367f36627832ec94f9f38b6a9acc23
+          ref: a701f788e75655b171ab1483a1dcc57cce5e8d4a
           path: .shared-photo-audit
           persist-credentials: false
       - name: Install image decoder
