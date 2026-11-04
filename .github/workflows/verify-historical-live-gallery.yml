@@ -3,6 +3,7 @@ on:
   push:
     branches: [main]
     paths:
+      - 'workflow/multi-family-verified-synonym-recovery-2026-11-03.json'
       - 'workflow/multi-family-metadata-recovery-phase2-2026-11-03.json'
       - '.github/workflows/verify-historical-live-gallery.yml'
       - 'workflow/multi-family-historical-archive-trust-2026-11-03.json'
