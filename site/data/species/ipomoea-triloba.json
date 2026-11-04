@@ -123,6 +123,23 @@
       "source_review_evidence": "Specific historical source image-sources.csv CC code cc-by-nc and named photographer liushengyu; exact photo 329649023; source image public open-data URL https://inaturalist-open-data.s3.amazonaws.com/photos/329649023/large.jpeg; archived vs source pixel dHash distance 0; original species-card name ipomoea triloba; historical CC permission is irrevocable but source license was not freshly revalidated; archived source SHA b33abe268aafaac4042179f0f3ee88fb89540188; exact image source https://www.inaturalist.org/photos/329649023",
       "taxon_review_evidence": "Original species record ipomoea triloba linked to an original image and matching current inat-archived-exact-photo photo of source taxon ipomoea triloba. Basic source-backed field recognition only; no diagnostic arrow certification.",
       "sha256": "baa9aaf453d54d65433b764f570c87ba4fce32c6abb24eb1c8ab919ecf401811"
+    },
+    {
+      "src": "media/ipomoea-triloba/historical-bulk-06144f49decbc263.jpg",
+      "creator": "no rights reserved, uploaded by 葉子",
+      "source_page": "https://www.inaturalist.org/taxa/62942",
+      "source_page_is_exact": false,
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "06144f49decbc263b07545de3b7feffdb873c752",
+      "role": "curated taxon reference 1",
+      "modified": "Original archived image; unchanged in this recovery",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Prior photo-specific archive license and attribution record, original source photo reference, and SHA verified; source-only review reused",
+      "source_review_evidence": "Exact archived Git blob 06144f49decbc263b07545de3b7feffdb873c752; source: https://www.inaturalist.org/taxa/62942; source media https://inaturalist-open-data.s3.amazonaws.com/photos/204366225/large.jpeg",
+      "taxon_review_evidence": "Previously curated exact-species original source record: ipomoea-triloba; new specialist morphology/arrows not claimed"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
