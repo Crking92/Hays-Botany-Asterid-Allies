@@ -1,7 +1,7 @@
 {
   "repository": "Crking92/Hays-Botany-Asterid-Allies",
   "batch_key": "MULTIFAMILY_HISTORICAL_INDEXED_INAT_2026-11-03",
-  "checked_at": "2026-11-04T02:50:39.772825+00:00",
+  "checked_at": "2026-11-04T02:52:36.603369+00:00",
   "source_files": 306,
   "selection_window": 80,
   "candidate_pool_with_usable_source_identifiers": 3,
@@ -30,7 +30,7 @@
       "git_blob_sha": "b007616aea45ad71dfe963380c143b5d086e96c2",
       "lane": "inat",
       "status": "HELD",
-      "reason": "Taxon mismatch: Ipomoea coccinea vs ipomoea coccinea"
+      "reason": "Current photo creator differs from original image CSV: no rights reserved"
     },
     {
       "species_id": "ipomoea-coccinea",
@@ -41,7 +41,7 @@
       "git_blob_sha": "97d7b66720e0496d8ab8b508b8eae23e07797bcf",
       "lane": "inat",
       "status": "HELD",
-      "reason": "Taxon mismatch: Ipomoea coccinea vs ipomoea coccinea"
+      "reason": "Current photo creator differs from original image CSV: no rights reserved"
     },
     {
       "species_id": "ipomoea-coccinea",
@@ -52,15 +52,57 @@
       "git_blob_sha": "d6ad4622a687efa3ba0b0e5c74edd73a4b154692",
       "lane": "inat",
       "status": "HELD",
-      "reason": "Taxon mismatch: Ipomoea coccinea vs ipomoea coccinea"
+      "reason": "Current photo creator differs from original image CSV: no rights reserved"
     }
   ],
-  "previous_batches": [],
-  "batch_number": 1,
+  "previous_batches": [
+    {
+      "checked_at": "2026-11-04T02:50:39.772825+00:00",
+      "selected_candidates": 3,
+      "new_installed": 0,
+      "held_checked": 3,
+      "records": [
+        {
+          "species_id": "ipomoea-coccinea",
+          "family": "Convolvulaceae",
+          "filename": "03-same-plant-field-view-1.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Ipomoea/ipomoea-coccinea/images/03-same-plant-field-view-1.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-coccinea/images/03-same-plant-field-view-1.jpg",
+          "git_blob_sha": "b007616aea45ad71dfe963380c143b5d086e96c2",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Ipomoea coccinea vs ipomoea coccinea"
+        },
+        {
+          "species_id": "ipomoea-coccinea",
+          "family": "Convolvulaceae",
+          "filename": "04-same-plant-field-view-2.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Ipomoea/ipomoea-coccinea/images/04-same-plant-field-view-2.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-coccinea/images/04-same-plant-field-view-2.jpg",
+          "git_blob_sha": "97d7b66720e0496d8ab8b508b8eae23e07797bcf",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Ipomoea coccinea vs ipomoea coccinea"
+        },
+        {
+          "species_id": "ipomoea-coccinea",
+          "family": "Convolvulaceae",
+          "filename": "05-same-plant-field-view-3.jpg",
+          "original_path": "content/taxa/Convolvulaceae/Ipomoea/ipomoea-coccinea/images/05-same-plant-field-view-3.jpg",
+          "archive_path": "migration/private-original-photo-holds/Convolvulaceae/Ipomoea/ipomoea-coccinea/images/05-same-plant-field-view-3.jpg",
+          "git_blob_sha": "d6ad4622a687efa3ba0b0e5c74edd73a4b154692",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Taxon mismatch: Ipomoea coccinea vs ipomoea coccinea"
+        }
+      ]
+    }
+  ],
+  "batch_number": 2,
   "verified_but_not_installed": 0,
   "held_by_reason": {
-    "Taxon mismatch: Ipomoea coccinea vs ipomoea coccinea": 3
+    "Current photo creator differs from original image CSV: no rights reserved": 3
   },
   "cumulative_installed": 0,
-  "cumulative_held_reviewed": 3
+  "cumulative_held_reviewed": 6
 }
