@@ -81,6 +81,27 @@
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "source_page_is_exact": true
+    },
+    {
+      "src": "media/cynanchum-unifarium/archived-1b25b9d375415153.jpg",
+      "creator": "Glass Root Garden",
+      "source_page": "https://www.inaturalist.org/photos/561923761",
+      "source_page_is_exact": true,
+      "license": "OWNER PUBLIC DISPLAY PERMISSION",
+      "license_url": "https://github.com/Crking92/Hays-Botany-Public/blob/main/docs/GLASS_ROOT_GARDEN_PUBLIC_DISPLAY_PERMISSION_20261103.md",
+      "source_blob_sha": "22a0ac3bd51e2bef3268f3c5e48933d2e1e5cf5b",
+      "role": "Climbing vine habit and heart-based leaves; flowers and corona not resolved",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 311289060 photo 561923761 individual source license None; applicable owner site-display permission https://github.com/Crking92/Hays-Botany-Public/blob/main/docs/GLASS_ROOT_GARDEN_PUBLIC_DISPLAY_PERMISSION_20261103.md; photographer (c) Calvin King, all rights reserved; image dHash difference 0; archived source SHA 22a0ac3bd51e2bef3268f3c5e48933d2e1e5cf5b; exact image source https://www.inaturalist.org/photos/561923761",
+      "taxon_review_evidence": "Original species record Cynanchum unifarium linked to an original image and matching current inat photo of source taxon Cynanchum unifarium. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "1b25b9d3754151532c4e22459da32b670c00bfd0249206f2060a0ec08c1b0d6a",
+      "site_display_only": true,
+      "public_reuse": false
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
