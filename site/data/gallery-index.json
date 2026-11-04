@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 118,
-  "photo_species": 116,
-  "photo_count": 625,
+  "photo_species": 117,
+  "photo_count": 630,
   "entries": {
     "amsonia-ciliata": {
       "count": 7,
@@ -58,8 +58,8 @@
       "first_src": "media/asclepias-viridis/archived-e03b50c4eab78aec.jpg"
     },
     "chthamalia-biflora": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/chthamalia-biflora/inat-626112396.jpg"
     },
     "cynanchum-unifarium": {
       "count": 8,
