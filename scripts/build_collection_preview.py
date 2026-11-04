@@ -33,7 +33,10 @@ for row in idx["entries"]:
             and p.get("site_display_only") is True and p.get("public_reuse") is False
             and p["creator"]=="Glass Root Garden"
             and p["license_url"]=="https://github.com/Crking92/Hays-Botany-Public/blob/main/docs/GLASS_ROOT_GARDEN_PUBLIC_DISPLAY_PERMISSION_20261103.md")
-        assert p["creator"] and p["source_page"].startswith("https://") and (p["license_url"].startswith("https://creativecommons.org/") or owner_site_display),(sid,src,p.get("creator"),p.get("license"),p.get("license_url"))
+        federal_public_domain=(p["license"]=="PUBLIC DOMAIN (U.S. FEDERAL WORK)"
+            and p["license_url"]=="https://www.copyright.gov/title17/92chap1.html#105"
+            and p["creator"] and p["source_page"].startswith("https://commons.wikimedia.org/wiki/File:"))
+        assert p["creator"] and p["source_page"].startswith("https://") and (p["license_url"].startswith("https://creativecommons.org/") or owner_site_display or federal_public_domain),(sid,src,p.get("creator"),p.get("license"),p.get("license_url"))
         assert p["private_rights_review_only"] is False
         nc=p["license"] in {"CC BY-NC 4.0","CC BY-NC-SA 4.0"}
         assert p["noncommercial_only"] is nc
