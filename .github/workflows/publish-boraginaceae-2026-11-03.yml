@@ -38,6 +38,25 @@ jobs:
             for attempt in $(seq 1 16); do
               python3 scripts/publish_approved_family_photos.py --source-root "$cleared" --site-root site --check
               python3 scripts/publish_approved_family_photos.py --source-root "$cleared" --site-root site
+              # Correct stale NC restriction flags using the existing specific-photo license.
+              # This does not alter creator, rights, source, image bytes or photo approvals.
+              python3 - <<'PY'
+              import json
+              from pathlib import Path
+              count=0
+              for card_path in Path("site/data/species").glob("*.json"):
+                  card=json.loads(card_path.read_text())
+                  updated=False
+                  for photo in card.get("verified_photos",[]):
+                      restricted=photo.get("license") in {"CC BY-NC 4.0","CC BY-NC-SA 4.0"}
+                      if photo.get("noncommercial_only") is not restricted:
+                          photo["noncommercial_only"]=restricted
+                          count+=1
+                          updated=True
+                  if updated:
+                      card_path.write_text(json.dumps(card,indent=2,ensure_ascii=False)+"\\n")
+              print("NC_RESTRICTION_FLAGS_CORRECTED",count)
+              PY
               python3 scripts/verify_automatic_gallery.py --site-root site
               git add site/media site/data/species site/data/collection-index.json site/data/gallery-index.json
               if git diff --cached --quiet; then
