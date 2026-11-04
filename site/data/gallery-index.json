@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 118,
   "photo_species": 116,
-  "photo_count": 581,
+  "photo_count": 625,
   "entries": {
     "amsonia-ciliata": {
       "count": 7,
@@ -50,11 +50,11 @@
       "first_src": "media/asclepias-verticillata/01-habit.jpg"
     },
     "asclepias-viridiflora": {
-      "count": 3,
+      "count": 7,
       "first_src": "media/asclepias-viridiflora/01-inflorescence.jpg"
     },
     "asclepias-viridis": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/asclepias-viridis/archived-e03b50c4eab78aec.jpg"
     },
     "chthamalia-biflora": {
@@ -62,15 +62,15 @@
       "first_src": null
     },
     "cynanchum-unifarium": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/cynanchum-unifarium/glass-root-garden-727432210-tiny-flowers-closeup.jpg"
     },
     "funastrum-crispum": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/funastrum-crispum/01-crispum-open-flowers.jpg"
     },
     "funastrum-cynanchoides": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/funastrum-cynanchoides/01-creamy-cluster-leaves.jpg"
     },
     "gonolobus-suberosus-var-granulatus": {
@@ -78,19 +78,19 @@
       "first_src": "media/gonolobus-suberosus-var-granulatus/gonolobus-suberosus-var-granulatus-provisional-face.jpg"
     },
     "matelea-edwardsensis": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/matelea-edwardsensis/archived-9be3d78577b3f031.jpg"
     },
     "matelea-parvifolia": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/matelea-parvifolia/matelea-parvifolia-provisional-face.jpg"
     },
     "matelea-reticulata": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/matelea-reticulata/archived-b04a6e5e40698352.jpg"
     },
     "metastelma-barbigerum": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/metastelma-barbigerum/archived-0180324fa9fb8c58.jpg"
     },
     "buglossoides-arvensis": {
