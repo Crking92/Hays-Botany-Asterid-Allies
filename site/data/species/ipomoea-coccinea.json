@@ -110,6 +110,23 @@
       "photo_approved_by": "Prior photo-specific archive license and attribution record, original source photo reference, and SHA verified; source-only review reused",
       "source_review_evidence": "Exact archived Git blob 97d7b66720e0496d8ab8b508b8eae23e07797bcf; source: https://www.inaturalist.org/observations/248310552; source media https://inaturalist-open-data.s3.amazonaws.com/photos/443619122/large.jpeg",
       "taxon_review_evidence": "Previously curated exact-species original source record: ipomoea-coccinea; new specialist morphology/arrows not claimed"
+    },
+    {
+      "src": "media/ipomoea-coccinea/historical-bulk-d6ad4622a687efa3.jpg",
+      "creator": "no rights reserved",
+      "source_page": "https://www.inaturalist.org/observations/248310552",
+      "source_page_is_exact": false,
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "d6ad4622a687efa3ba0b0e5c74edd73a4b154692",
+      "role": "same-observation field view 3",
+      "modified": "Original archived image; unchanged in this recovery",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Prior photo-specific archive license and attribution record, original source photo reference, and SHA verified; source-only review reused",
+      "source_review_evidence": "Exact archived Git blob d6ad4622a687efa3ba0b0e5c74edd73a4b154692; source: https://www.inaturalist.org/observations/248310552; source media https://inaturalist-open-data.s3.amazonaws.com/photos/443619157/large.jpeg",
+      "taxon_review_evidence": "Previously curated exact-species original source record: ipomoea-coccinea; new specialist morphology/arrows not claimed"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
