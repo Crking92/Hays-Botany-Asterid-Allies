@@ -51,8 +51,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/convolvulus-equitans/archived-9685344401515c3f.jpg",
+      "creator": "Jerry Oldenettel",
+      "source_page": "https://www.inaturalist.org/photos/132810",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "source_blob_sha": "33923b34150be94914b2b2f21733522837e76005",
+      "role": "curated taxon reference",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Specific historical source image-sources.csv CC code cc-by-nc-sa and named photographer Jerry Oldenettel; exact photo 132810; source image public open-data URL https://inaturalist-open-data.s3.amazonaws.com/photos/132810/large.jpg; archived vs source pixel dHash distance 0; original species-card name convolvulus equitans; historical CC permission is irrevocable but source license was not freshly revalidated; archived source SHA 33923b34150be94914b2b2f21733522837e76005; exact image source https://www.inaturalist.org/photos/132810",
+      "taxon_review_evidence": "Original species record convolvulus equitans linked to an original image and matching current inat-archived-exact-photo photo of source taxon convolvulus equitans. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "9685344401515c3f3a607a4b0620771516c399f2d4f6707d157b6195cb0e475e"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "c81f63bab2f8de3c49337c2ae2bac54c8016750c896c253511ef6725bd13cdc9",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

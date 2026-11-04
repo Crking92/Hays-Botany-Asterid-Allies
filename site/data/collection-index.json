@@ -405,7 +405,7 @@
       "genus": "Triodanis",
       "scientific_name": "Triodanis coloradoensis",
       "common_name": "Colorado Venus's looking-glass",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -441,7 +441,7 @@
       "genus": "Triodanis",
       "scientific_name": "Triodanis texana",
       "common_name": "Texas Venus's looking-glass",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -450,7 +450,7 @@
       "genus": "Convolvulus",
       "scientific_name": "",
       "common_name": "Field Bindweed",
-      "photo_count": 3,
+      "photo_count": 4,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -459,8 +459,8 @@
       "genus": "Convolvulus",
       "scientific_name": "",
       "common_name": "Texas Bindweed",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "cuscuta-exaltata",
@@ -558,8 +558,8 @@
       "genus": "Ipomoea",
       "scientific_name": "",
       "common_name": "Red Morning-glory",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "ipomoea-cordatotriloba",
@@ -567,7 +567,7 @@
       "genus": "Ipomoea",
       "scientific_name": "",
       "common_name": "Tievine",
-      "photo_count": 3,
+      "photo_count": 5,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -576,7 +576,7 @@
       "genus": "Ipomoea",
       "scientific_name": "",
       "common_name": "Ivyleaf Morning-glory",
-      "photo_count": 3,
+      "photo_count": 4,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -594,7 +594,7 @@
       "genus": "Ipomoea",
       "scientific_name": "",
       "common_name": "Lindheimer's Morning-glory",
-      "photo_count": 3,
+      "photo_count": 4,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -603,7 +603,7 @@
       "genus": "Ipomoea",
       "scientific_name": "",
       "common_name": "Whiteedge Morning-glory",
-      "photo_count": 3,
+      "photo_count": 5,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -612,7 +612,7 @@
       "genus": "Ipomoea",
       "scientific_name": "",
       "common_name": "Littlebell",
-      "photo_count": 3,
+      "photo_count": 4,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

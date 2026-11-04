@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 118,
-  "photo_species": 114,
-  "photo_count": 506,
+  "photo_species": 116,
+  "photo_count": 519,
   "entries": {
     "amsonia-ciliata": {
       "count": 2,
@@ -182,7 +182,7 @@
       "first_src": "media/lobelia-cardinalis/archived-8aa045dbbeaa058d.jpg"
     },
     "triodanis-coloradoensis": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/triodanis-coloradoensis/inat-636871572.jpg"
     },
     "triodanis-leptocarpa": {
@@ -198,16 +198,16 @@
       "first_src": "media/triodanis-perfoliata-subsp-biflora/biflora-flowering.jpg"
     },
     "triodanis-texana": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/triodanis-texana/inat-636702562.jpg"
     },
     "convolvulus-arvensis": {
-      "count": 3,
+      "count": 4,
       "first_src": "media/convolvulus-arvensis/archived-590799f312fceba8.jpg"
     },
     "convolvulus-equitans": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/convolvulus-equitans/archived-9685344401515c3f.jpg"
     },
     "cuscuta-exaltata": {
       "count": 1,
@@ -250,15 +250,15 @@
       "first_src": "media/ipomoea-batatas/ipomoea-batatas-provisional-face.jpg"
     },
     "ipomoea-coccinea": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/ipomoea-coccinea/archived-11bf0d993e537091.jpg"
     },
     "ipomoea-cordatotriloba": {
-      "count": 3,
+      "count": 5,
       "first_src": "media/ipomoea-cordatotriloba/archived-05b16103f46387be.jpg"
     },
     "ipomoea-hederacea": {
-      "count": 3,
+      "count": 4,
       "first_src": "media/ipomoea-hederacea/archived-a71797bcb004e2a4.jpg"
     },
     "ipomoea-lacunosa": {
@@ -266,15 +266,15 @@
       "first_src": "media/ipomoea-lacunosa/archived-40f278c5ff9bc4bb.jpg"
     },
     "ipomoea-lindheimeri": {
-      "count": 3,
+      "count": 4,
       "first_src": "media/ipomoea-lindheimeri/archived-097cbc3adf5dd8b0.jpg"
     },
     "ipomoea-nil": {
-      "count": 3,
+      "count": 5,
       "first_src": "media/ipomoea-nil/archived-35ec9ebe20317f35.jpg"
     },
     "ipomoea-triloba": {
-      "count": 3,
+      "count": 4,
       "first_src": "media/ipomoea-triloba/archived-1388dd2de48c15c8.jpg"
     },
     "gelsemium-sempervirens": {

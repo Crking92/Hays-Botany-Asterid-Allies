@@ -38,8 +38,47 @@
     ],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/ipomoea-coccinea/archived-11bf0d993e537091.jpg",
+      "creator": "Douglas Goldman",
+      "source_page": "https://www.inaturalist.org/photos/181452025",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "c828021e407bb8cf2c4df40b53e1430205aa9b69",
+      "role": "curated taxon reference 2",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Specific historical source image-sources.csv CC code cc-by-sa and named photographer Douglas Goldman; exact photo 181452025; source image public open-data URL https://inaturalist-open-data.s3.amazonaws.com/photos/181452025/large.jpg; archived vs source pixel dHash distance 0; original species-card name ipomoea coccinea; historical CC permission is irrevocable but source license was not freshly revalidated; archived source SHA c828021e407bb8cf2c4df40b53e1430205aa9b69; exact image source https://www.inaturalist.org/photos/181452025",
+      "taxon_review_evidence": "Original species record ipomoea coccinea linked to an original image and matching current inat-archived-exact-photo photo of source taxon ipomoea coccinea. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "11bf0d993e537091c42ae1ecc93305a32c153a2740ff6ddc9ae260c44082dc3d"
+    },
+    {
+      "src": "media/ipomoea-coccinea/archived-62cddbb99ced9aff.jpg",
+      "creator": "Wayne Longbottom",
+      "source_page": "https://www.inaturalist.org/photos/156452200",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "ca13c205defb067f3154b4dd1631decb887becb4",
+      "role": "curated taxon reference 1",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Specific historical source image-sources.csv CC code cc-by-nc and named photographer Wayne Longbottom; exact photo 156452200; source image public open-data URL https://inaturalist-open-data.s3.amazonaws.com/photos/156452200/large.jpeg; archived vs source pixel dHash distance 0; original species-card name ipomoea coccinea; historical CC permission is irrevocable but source license was not freshly revalidated; archived source SHA ca13c205defb067f3154b4dd1631decb887becb4; exact image source https://www.inaturalist.org/photos/156452200",
+      "taxon_review_evidence": "Original species record ipomoea coccinea linked to an original image and matching current inat-archived-exact-photo photo of source taxon ipomoea coccinea. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "62cddbb99ced9affbf908a1a6a3279ae2fea51a9405a332e9298c0d4080b1136"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "fd2d211880f4f370e9e7bd589a293123f300fae5fc67bd9770c94a2fbcd9d584",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
