@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 118,
-  "photo_species": 107,
-  "photo_count": 397,
+  "photo_species": 109,
+  "photo_count": 403,
   "entries": {
     "amsonia-ciliata": {
       "count": 2,
@@ -90,8 +90,8 @@
       "first_src": null
     },
     "metastelma-barbigerum": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/metastelma-barbigerum/archived-0180324fa9fb8c58.jpg"
     },
     "buglossoides-arvensis": {
       "count": 1,
@@ -138,8 +138,8 @@
       "first_src": "media/lithospermum-helleri/archived-2d02f1e2872be754.jpg"
     },
     "lithospermum-incisum": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/lithospermum-incisum/archived-5f1c4ffc7bc826cd.jpg"
     },
     "lithospermum-mirabile": {
       "count": 1,
