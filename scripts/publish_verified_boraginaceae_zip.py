@@ -27,7 +27,12 @@ def norm(s):
     return re.sub(r"[^a-z0-9]+"," ",str(s).lower().replace("×","x")).strip()
 # Only directly supported same-taxon names; Opuntia azurea/phaeacantha and
 # E. enneacanthus var. carnosus are NOT mapped to different target cards.
-KEW_VERIFIED_SYNONYMS={}
+# Kew POWO accepts Lithospermum bejariense DC. as a synonym of
+# Lithospermum caroliniense var. caroliniense:
+# https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:117964-1
+KEW_VERIFIED_SYNONYMS={
+    "lithospermum-caroliniense-var-caroliniense":{"lithospermum bejariense"},
+}
 
 def taxon_matches(sid,name):
     a=norm(sid);b=norm(name)
