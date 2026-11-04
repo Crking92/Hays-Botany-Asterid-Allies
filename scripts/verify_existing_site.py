@@ -74,8 +74,30 @@ def local_audit():
             for key in ("creator", "source_page", "license", "license_url", "role"):
                 require(bool(str(photo.get(key) or "").strip()), sid + ": absent credit field " + key)
             is_nc = photo["license"] in {"CC BY-NC 4.0", "CC BY-NC-SA 4.0"}
-            require(bool(ALLOWED.fullmatch(photo["license"])) or is_nc,
-                    sid + ": unknown/non-public photo license: " + photo["license"])
+            label=photo["license"]
+            regional=re.fullmatch(r"CC (BY(?:-NC)?(?:-SA)?) (2\.0|2\.5|3\.0) ([A-Z]{2})",label)
+            regional_cc=bool(regional) and photo.get("license_url")==(
+                "https://creativecommons.org/licenses/"+regional.group(1).lower()+"/"+
+                regional.group(2)+"/"+regional.group(3).lower()+"/")
+            federal_pd=(label=="PUBLIC DOMAIN (U.S. FEDERAL WORK)"
+                        and photo.get("license_url")=="https://www.copyright.gov/title17/92chap1.html#105"
+                        and photo.get("source_page","").startswith("https://commons.wikimedia.org/wiki/File:")
+                        and "PUBLIC DOMAIN (U.S. FEDERAL WORK)" in str(photo.get("source_review_evidence") or ""))
+            author_pd=(label=="PUBLIC DOMAIN (AUTHOR RELEASED)"
+                       and photo.get("license_url")=="https://creativecommons.org/publicdomain/mark/1.0/"
+                       and photo.get("source_page","").startswith("https://commons.wikimedia.org/wiki/File:")
+                       and "PUBLIC DOMAIN (AUTHOR RELEASED)" in str(photo.get("source_review_evidence") or ""))
+            conrad_pd=(label=="Public Domain (photographer dedication)"
+                       and photo.get("creator")=="Jim Conrad"
+                       and photo.get("license_url")=="https://www.backyardnature.net/j/copyrite.htm"
+                       and "dedicates his own photos to public domain" in str(photo.get("source_review_evidence") or ""))
+            owner_site=(label=="OWNER PUBLIC DISPLAY PERMISSION"
+                        and photo.get("creator")=="Glass Root Garden"
+                        and photo.get("site_display_only") is True
+                        and photo.get("public_reuse") is False
+                        and "GLASS_ROOT_GARDEN_PUBLIC_DISPLAY_PERMISSION" in str(photo.get("source_review_evidence") or ""))
+            require(bool(ALLOWED.fullmatch(label)) or is_nc or regional_cc or federal_pd or author_pd or conrad_pd or owner_site,
+                    sid + ": unknown/non-public photo license: " + label)
             require(not photo.get("private_rights_review_only"),
                     sid + ": public gallery points to held/private image")
             require(photo.get("noncommercial_only") is is_nc,
