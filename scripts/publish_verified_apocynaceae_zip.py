@@ -25,8 +25,13 @@ def grab(url,maximum):
             time.sleep(2+attempt)
 def norm(s):
     return re.sub(r"[^a-z0-9]+"," ",str(s).lower().replace("×","x")).strip()
-# Do not map unconfirmed synonyms or merge distinct milkweed/vine taxa.
-KEW_VERIFIED_SYNONYMS={}
+# Only evidence-backed synonyms may map to a distinct display genus.
+# Kew POWO accepts Matelea biflora (Raf.) Woodson as a synonym of Chthamalia biflora Decne.
+# https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:154492-2
+# https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:95859-1
+# Do NOT infer Gonolobus suberosus var. granulatus from a species-level source ID:
+# Kew/Flora of North America distinguish two accepted varieties with floral characters.
+KEW_VERIFIED_SYNONYMS={"chthamalia-biflora":{"matelea biflora"}}
 
 def taxon_matches(sid,name):
     a=norm(sid);b=norm(name)
@@ -125,7 +130,7 @@ def main():
                 "policy_ref":"PHOTO_FIRST_PUBLIC_GALLERY_POLICY_2026-11-02",
                 "review_operator":"Hays Botany Apocynaceae exact-original source verifier",
                 "source_review_evidence":"Exact iNaturalist observation %s and photo %s checked individually for current %s rights, creator from %s, and identical SHA256 %s; source photograph %s."%(oid,pid,code,creator_source,sha,source_url),
-                "taxon_review_evidence":"Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon '%s' matches this Apocynaceae species card %s. Specialist morphology/field characters deferred."%(actual,sid),
+                "taxon_review_evidence":"Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon '%s' directly matches or is an evidence-backed synonym of Apocynaceae card %s (Kew POWO taxonomy documented in this verifier). Specialist morphology/field characters deferred."%(actual,sid),
                 "approval_note":"Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
                 "creator":creator,"source_page":"https://www.inaturalist.org/photos/"+str(pid),
                 "source_page_is_exact":True,"license":license_name,"license_url":license_url,
