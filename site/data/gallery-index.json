@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 118,
   "photo_species": 117,
-  "photo_count": 630,
+  "photo_count": 637,
   "entries": {
     "amsonia-ciliata": {
       "count": 7,
@@ -450,11 +450,11 @@
       "first_src": "media/solanum-elaeagnifolium/01-habit.jpg"
     },
     "solanum-emulans": {
-      "count": 3,
+      "count": 6,
       "first_src": "media/solanum-emulans/01-plant-habit.jpg"
     },
     "solanum-interius": {
-      "count": 2,
+      "count": 6,
       "first_src": "media/solanum-interius/inat-158486021.jpg"
     },
     "solanum-lycopersicum": {
