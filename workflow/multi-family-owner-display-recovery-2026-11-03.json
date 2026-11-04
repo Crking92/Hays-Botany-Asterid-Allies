@@ -1,0 +1,41 @@
+{
+  "repository": "Crking92/Hays-Botany-Asterid-Allies",
+  "batch_key": "MULTIFAMILY_OWNER_DISPLAY_RECOVERY_2026-11-03",
+  "checked_at": "2026-11-04T02:04:35.446193+00:00",
+  "source_files": 306,
+  "selection_window": 15,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "inat": 1
+  },
+  "skipped_or_previously_published": {
+    "outside_exact_owner_permission_list": 304,
+    "original_path_shape_unknown": 1
+  },
+  "new_installed": 0,
+  "held_checked": 1,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "cynanchum-unifarium",
+      "family": "Apocynaceae",
+      "filename": "glass-root-561923761-first-photo.jpg",
+      "original_path": "content/taxa/Apocynaceae/Cynanchum/cynanchum-unifarium/images/glass-root-561923761-first-photo.jpg",
+      "archive_path": "migration/private-original-photo-holds/Apocynaceae/Cynanchum/cynanchum-unifarium/images/glass-root-561923761-first-photo.jpg",
+      "git_blob_sha": "22a0ac3bd51e2bef3268f3c5e48933d2e1e5cf5b",
+      "lane": "inat",
+      "status": "HELD",
+      "reason": "Owner permission attribution not confirmed by exact photo"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {
+    "Owner permission attribution not confirmed by exact photo": 1
+  },
+  "cumulative_installed": 0,
+  "cumulative_held_reviewed": 1
+}
