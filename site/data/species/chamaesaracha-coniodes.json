@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9932cb5912fcb0bf226efd28dbd4d17021a823e6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 348161993, photo 634909849, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 20dce87fa396515ed8c394bd09cd07d749c2ee64b184db43c20ec3352a399607.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Chamaesaracha coniodes maps to indexed species chamaesaracha-coniodes; specialist morphology and BONAP range deferred.",
-      "sha256": "20dce87fa396515ed8c394bd09cd07d749c2ee64b184db43c20ec3352a399607"
+      "sha256": "20dce87fa396515ed8c394bd09cd07d749c2ee64b184db43c20ec3352a399607",
+      "display_sha256": "bbc92b15125dce78a4acce0a08f7c5dc1e6382f845f3a63a7a9e6b2196ebb6eb",
+      "display_blob_sha": "23864930ed9d7d58e70d1deafe693936d9df7a8e",
+      "display_original_site_sha256": "20dce87fa396515ed8c394bd09cd07d749c2ee64b184db43c20ec3352a399607",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/chamaesaracha-coniodes/inat-636676958.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b9c9cdee48eb90bcc9c04a2039ac6b71f0390184",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 349048584, photo 636676958, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 48d23249d9bb41a22a307de9482005c002c329f06d6589c6cb784e43ef1f529b.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Chamaesaracha coniodes maps to indexed species chamaesaracha-coniodes; specialist morphology and BONAP range deferred.",
-      "sha256": "48d23249d9bb41a22a307de9482005c002c329f06d6589c6cb784e43ef1f529b"
+      "sha256": "48d23249d9bb41a22a307de9482005c002c329f06d6589c6cb784e43ef1f529b",
+      "display_sha256": "15157bd196f365e4462247e676ef27b67e542b1ce8e8b0a33069302577f74180",
+      "display_blob_sha": "37750e34dccf5d5fbfed337e0f5dfb4415a85fe9",
+      "display_original_site_sha256": "48d23249d9bb41a22a307de9482005c002c329f06d6589c6cb784e43ef1f529b",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/chamaesaracha-coniodes/inat-647182797.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d83657f9836ae783cf44a360928f5d3f1528cd05",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 354791358, photo 647182797, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e40e287f766226a5cd4bb6b6297ca9d3b05710097547597659464c7f95a27313.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Chamaesaracha coniodes maps to indexed species chamaesaracha-coniodes; specialist morphology and BONAP range deferred.",
-      "sha256": "e40e287f766226a5cd4bb6b6297ca9d3b05710097547597659464c7f95a27313"
+      "sha256": "e40e287f766226a5cd4bb6b6297ca9d3b05710097547597659464c7f95a27313",
+      "display_sha256": "ad516d48013ebffd0395bc0c048ecf6c6500e547fa5335cc1a1552510b88686d",
+      "display_blob_sha": "f1959770ae11ce425f618cad073884222350ad9b",
+      "display_original_site_sha256": "e40e287f766226a5cd4bb6b6297ca9d3b05710097547597659464c7f95a27313",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/chamaesaracha-coniodes/inat-647216028.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "76f2d21d89344f51efdf33250fd0c5ad95519820",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 354811475, photo 647216028, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 50c3e985dbcafa02d7ade30700e49c5de75386871ea5a1955f0fc0b42182c242.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Chamaesaracha coniodes maps to indexed species chamaesaracha-coniodes; specialist morphology and BONAP range deferred.",
-      "sha256": "50c3e985dbcafa02d7ade30700e49c5de75386871ea5a1955f0fc0b42182c242"
+      "sha256": "50c3e985dbcafa02d7ade30700e49c5de75386871ea5a1955f0fc0b42182c242",
+      "display_sha256": "0b40f1921b953a7cd0943e39dab59a9ba93f1fb287d145068faf55b36e16f8a3",
+      "display_blob_sha": "2180d6cd26fe2fad6ba36323bd8a8c49c35abf84",
+      "display_original_site_sha256": "50c3e985dbcafa02d7ade30700e49c5de75386871ea5a1955f0fc0b42182c242",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/chamaesaracha-coniodes/archived-8823c9255198c259.jpg",

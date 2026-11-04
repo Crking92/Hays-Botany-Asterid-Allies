@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9de9961c933ab6d46f6931d478af55c81cb3989c",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 340969111 and photo 620603442 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 72cc354cc3456b1fb92eb04a243d3dd48899a9b3c1a2eabc5316f46a306bf44a; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/620603442/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Phacelia congesta' matches this Cactaceae species card phacelia-congesta. Specialist morphology/field characters deferred.",
-      "sha256": "72cc354cc3456b1fb92eb04a243d3dd48899a9b3c1a2eabc5316f46a306bf44a"
+      "sha256": "72cc354cc3456b1fb92eb04a243d3dd48899a9b3c1a2eabc5316f46a306bf44a",
+      "display_sha256": "c96d3441f252a76a1e2e5fbad8099627e078a54a2ddc0dec5b42e6287911cb9e",
+      "display_blob_sha": "70f91f48f81bf70c9bda80c5440b663dc80596c7",
+      "display_original_site_sha256": "72cc354cc3456b1fb92eb04a243d3dd48899a9b3c1a2eabc5316f46a306bf44a",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phacelia-congesta/inat-624358130.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7c820c4bf3d00df9e03a6165501896dd1b0133e9",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 342823208 and photo 624358130 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 54ed774a0bbd7bb0fae330e7f702573bee8acdf582a37b8d71f3111078ce92b7; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/624358130/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Phacelia congesta' matches this Cactaceae species card phacelia-congesta. Specialist morphology/field characters deferred.",
-      "sha256": "54ed774a0bbd7bb0fae330e7f702573bee8acdf582a37b8d71f3111078ce92b7"
+      "sha256": "54ed774a0bbd7bb0fae330e7f702573bee8acdf582a37b8d71f3111078ce92b7",
+      "display_sha256": "2132790a3eab9dffa7fafcdac085146fca7f64e18c357556aaff978d3c98b687",
+      "display_blob_sha": "bbb85d8acaa4326d9328214a8274f224794a62fb",
+      "display_original_site_sha256": "54ed774a0bbd7bb0fae330e7f702573bee8acdf582a37b8d71f3111078ce92b7",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phacelia-congesta/inat-625781364.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "25105929b9f2d03cf77b8f668d77bccd82cec2fe",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 343524903 and photo 625781364 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 c3f0935e544ace76a3b77122db4af4aa95adcc7618fa2f2239e6d714b70c4009; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/625781364/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Phacelia congesta' matches this Cactaceae species card phacelia-congesta. Specialist morphology/field characters deferred.",
-      "sha256": "c3f0935e544ace76a3b77122db4af4aa95adcc7618fa2f2239e6d714b70c4009"
+      "sha256": "c3f0935e544ace76a3b77122db4af4aa95adcc7618fa2f2239e6d714b70c4009",
+      "display_sha256": "b3bbb4b530747d12a6c39fef8b86854dfe5f7acc8a321e2b381eb3f1817ed3f9",
+      "display_blob_sha": "29d24fb32388e1eae681cac09b61ca7f99f2dde9",
+      "display_original_site_sha256": "c3f0935e544ace76a3b77122db4af4aa95adcc7618fa2f2239e6d714b70c4009",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phacelia-congesta/inat-629713511.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "2a7233e52c2b8ec6145f0b3011c5f05b17cc68fa",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 345530770 and photo 629713511 checked individually for current cc0 rights, creator from original ZIP's exact-photo photographer credit, and identical SHA256 569b0cf7ed3b420576339b10fcfe56ba7f0dfd2f077326b8adf93e082c39c83c; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/629713511/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Phacelia congesta' matches this Cactaceae species card phacelia-congesta. Specialist morphology/field characters deferred.",
-      "sha256": "569b0cf7ed3b420576339b10fcfe56ba7f0dfd2f077326b8adf93e082c39c83c"
+      "sha256": "569b0cf7ed3b420576339b10fcfe56ba7f0dfd2f077326b8adf93e082c39c83c",
+      "display_sha256": "1ba31b0c879f8ebe0268e062de03bfbfefa63eea4bd973a2e445dfb919061e75",
+      "display_blob_sha": "b1ab7d8813da9790e0151aaa0800cd25802ef914",
+      "display_original_site_sha256": "569b0cf7ed3b420576339b10fcfe56ba7f0dfd2f077326b8adf93e082c39c83c",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phacelia-congesta/inat-631082417.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1a3f660165b75c63f9e09686b2a656496dda2d74",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 346225316 and photo 631082417 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 43d6d1f421a58d6f9f98b4264efa81006120301bbe19500c64fe5072ca8b2bd9; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/631082417/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Phacelia congesta' matches this Cactaceae species card phacelia-congesta. Specialist morphology/field characters deferred.",
-      "sha256": "43d6d1f421a58d6f9f98b4264efa81006120301bbe19500c64fe5072ca8b2bd9"
+      "sha256": "43d6d1f421a58d6f9f98b4264efa81006120301bbe19500c64fe5072ca8b2bd9",
+      "display_sha256": "c82063dbe1a486f5f930f67169a4c008b73cbb2d67c87323991ccacd62cc5b8e",
+      "display_blob_sha": "a92ac0f50c21b3f9cee6117dcc6c018e07766024",
+      "display_original_site_sha256": "43d6d1f421a58d6f9f98b4264efa81006120301bbe19500c64fe5072ca8b2bd9",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

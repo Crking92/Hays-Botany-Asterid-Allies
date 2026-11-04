@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0f1ced7d986d711894332be0b7c5fb6a5750a9dc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 276629612, photo 497017777, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1b85fd48b18e01526a7604b18f1b1aa66f671a26c8c746597e34353f56b61856. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Zeltnera texensis maps to indexed species zeltnera-texensis; specialist morphology and BONAP range deferred.",
-      "sha256": "1b85fd48b18e01526a7604b18f1b1aa66f671a26c8c746597e34353f56b61856"
+      "sha256": "1b85fd48b18e01526a7604b18f1b1aa66f671a26c8c746597e34353f56b61856",
+      "display_sha256": "d90b9af430dec8a698f1bcc757030ace52573c5b9fead2af55eca0e85d0e5c05",
+      "display_blob_sha": "b52211c6b8efa6e36ea015d3b9d9346ea66ff4d0",
+      "display_original_site_sha256": "1b85fd48b18e01526a7604b18f1b1aa66f671a26c8c746597e34353f56b61856",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/zeltnera-texensis/inat-512090641.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e2ed94bae5f4dcdcbb0e66b4ced488aa57a6e26d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 284918348, photo 512090641, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 82f131e6683586f8b08798d65c2f3f8ed4ab1af9294ddf38c8c4cae11efc4ee0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Zeltnera texensis maps to indexed species zeltnera-texensis; specialist morphology and BONAP range deferred.",
-      "sha256": "82f131e6683586f8b08798d65c2f3f8ed4ab1af9294ddf38c8c4cae11efc4ee0"
+      "sha256": "82f131e6683586f8b08798d65c2f3f8ed4ab1af9294ddf38c8c4cae11efc4ee0",
+      "display_sha256": "30ba8a11d15c4e9cde3d76c57b5315964ac7ec120d24bc67e21c769fac5386a1",
+      "display_blob_sha": "55de1556cf85a12cacd3216c09301fb89ee46378",
+      "display_original_site_sha256": "82f131e6683586f8b08798d65c2f3f8ed4ab1af9294ddf38c8c4cae11efc4ee0",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/zeltnera-texensis/inat-662951831.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f8863485d2315f7c1fd4ac5eb559e53b3625782a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 363193858, photo 662951831, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8a82b0e397c7bb8e40ee5dcdbc2b9eae5c0a17db9090dfb7d73ef9e223bb045a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Zeltnera texensis maps to indexed species zeltnera-texensis; specialist morphology and BONAP range deferred.",
-      "sha256": "8a82b0e397c7bb8e40ee5dcdbc2b9eae5c0a17db9090dfb7d73ef9e223bb045a"
+      "sha256": "8a82b0e397c7bb8e40ee5dcdbc2b9eae5c0a17db9090dfb7d73ef9e223bb045a",
+      "display_sha256": "38121859a05276e6ec5cebfb8e9eb9e5adac0d8bf7e4089d017f52eab9abb083",
+      "display_blob_sha": "3c31c5afbe055d97e11d148dad22c96d71771b90",
+      "display_original_site_sha256": "8a82b0e397c7bb8e40ee5dcdbc2b9eae5c0a17db9090dfb7d73ef9e223bb045a",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/zeltnera-texensis/inat-664146575.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a659dd0c19be00123613622f484c3ce4fa215fd0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 363820478, photo 664146575, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1ff21c1d79ed8683c609a90ec74aeb21588c5afda1461ab3f5cc88b684bd70a0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Zeltnera texensis maps to indexed species zeltnera-texensis; specialist morphology and BONAP range deferred.",
-      "sha256": "1ff21c1d79ed8683c609a90ec74aeb21588c5afda1461ab3f5cc88b684bd70a0"
+      "sha256": "1ff21c1d79ed8683c609a90ec74aeb21588c5afda1461ab3f5cc88b684bd70a0",
+      "display_sha256": "912022b69c880c8e6a47983b48179153dd23d808ed44133f04fb6f9338fae399",
+      "display_blob_sha": "a1b5151765deead0aadfa76815cce432c76f45f7",
+      "display_original_site_sha256": "1ff21c1d79ed8683c609a90ec74aeb21588c5afda1461ab3f5cc88b684bd70a0",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/zeltnera-texensis/inat-664147530.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "26cead2e15c8a5dc7eb59b27b8bb1840c77f9eec",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 363820965, photo 664147530, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 432e13d9779ee761121b7c1318455c756ee54129efabc78965f2b96f54e31e18. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Zeltnera texensis maps to indexed species zeltnera-texensis; specialist morphology and BONAP range deferred.",
-      "sha256": "432e13d9779ee761121b7c1318455c756ee54129efabc78965f2b96f54e31e18"
+      "sha256": "432e13d9779ee761121b7c1318455c756ee54129efabc78965f2b96f54e31e18",
+      "display_sha256": "443530cb2a16f026131bfb5af6de5b014e27663a3330757deb6b058704e021c9",
+      "display_blob_sha": "e7c3b4fd8b6a30413206811aa0238bdeaf0966a2",
+      "display_original_site_sha256": "432e13d9779ee761121b7c1318455c756ee54129efabc78965f2b96f54e31e18",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

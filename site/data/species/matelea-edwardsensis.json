@@ -80,7 +80,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d5784f4d9e985cccba7d5da88b87dc27acb0a6ad",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -88,7 +88,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 345674959 and photo 630002670 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 2bf17fda9cf2581e9342c970cab4ae09a2eba7db0a68e4b455e3134927fcc690; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/630002670/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Matelea edwardsensis' matches this Apocynaceae species card matelea-edwardsensis. Specialist morphology/field characters deferred.",
-      "sha256": "2bf17fda9cf2581e9342c970cab4ae09a2eba7db0a68e4b455e3134927fcc690"
+      "sha256": "2bf17fda9cf2581e9342c970cab4ae09a2eba7db0a68e4b455e3134927fcc690",
+      "display_sha256": "e685cbccd818d2d9f91e9de8eda7446bc49d58cc4be58620a593422934361b1f",
+      "display_blob_sha": "9970246b891600618a890e1a2e7082328861b418",
+      "display_original_site_sha256": "2bf17fda9cf2581e9342c970cab4ae09a2eba7db0a68e4b455e3134927fcc690",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/matelea-edwardsensis/inat-630250498.jpg",
@@ -99,7 +104,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "255703e20f34311ddd8a5ae2486debba3d4045ae",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -107,7 +112,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 345803331 and photo 630250498 checked individually for current cc-by rights, creator from live exact-photo attribution, and identical SHA256 a1dda55ed03158ed48fee3f2eabf7a035292899fca9c7da829f3b96363f081f6; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/630250498/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Matelea edwardsensis' matches this Apocynaceae species card matelea-edwardsensis. Specialist morphology/field characters deferred.",
-      "sha256": "a1dda55ed03158ed48fee3f2eabf7a035292899fca9c7da829f3b96363f081f6"
+      "sha256": "a1dda55ed03158ed48fee3f2eabf7a035292899fca9c7da829f3b96363f081f6",
+      "display_sha256": "ddfa2976418d55d14518019f70544d37318e0cf9cb203dc81276a0947b091162",
+      "display_blob_sha": "376b71f19551ae74d7774b94593736c073cd855c",
+      "display_original_site_sha256": "a1dda55ed03158ed48fee3f2eabf7a035292899fca9c7da829f3b96363f081f6",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/matelea-edwardsensis/inat-632254211.jpg",
@@ -118,7 +128,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5e20e03011b06a11e65314f21255f387bd1056c6",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -126,7 +136,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 346817587 and photo 632254211 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 6733e748996982450848c927ea4a86eb57300baaccdf4b2c8f941161211851f1; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/632254211/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Matelea edwardsensis' matches this Apocynaceae species card matelea-edwardsensis. Specialist morphology/field characters deferred.",
-      "sha256": "6733e748996982450848c927ea4a86eb57300baaccdf4b2c8f941161211851f1"
+      "sha256": "6733e748996982450848c927ea4a86eb57300baaccdf4b2c8f941161211851f1",
+      "display_sha256": "20d7a897e3f472c4d7af3f83bb067cb74ffd41677e952371cfafb64c9ab448e2",
+      "display_blob_sha": "d429013ba532231f05a9a8616c199be696424ac2",
+      "display_original_site_sha256": "6733e748996982450848c927ea4a86eb57300baaccdf4b2c8f941161211851f1",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/matelea-edwardsensis/inat-645401021.jpg",
@@ -137,7 +152,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7b63c9d64cee190f861caa85bc1007734d3ba351",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -145,7 +160,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 353751883 and photo 645401021 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 73db661506e7edff11415b24096ca324151a63777d44600bd2c72f7871ccd10c; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/645401021/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Matelea edwardsensis' matches this Apocynaceae species card matelea-edwardsensis. Specialist morphology/field characters deferred.",
-      "sha256": "73db661506e7edff11415b24096ca324151a63777d44600bd2c72f7871ccd10c"
+      "sha256": "73db661506e7edff11415b24096ca324151a63777d44600bd2c72f7871ccd10c",
+      "display_sha256": "611e379eb71f2dc2f0e2e4a37e7b61912525041a6e38a3f8ee996b75a7c84003",
+      "display_blob_sha": "002cffb64452bf216684fc48dc04ace824e4a2a5",
+      "display_original_site_sha256": "73db661506e7edff11415b24096ca324151a63777d44600bd2c72f7871ccd10c",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/matelea-edwardsensis/inat-647524929.jpg",
@@ -156,7 +176,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bc77afa7ddbe863e3b982a3064e5f0b5cf365c84",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -164,7 +184,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 354984388 and photo 647524929 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 9be8e8da49afb6f7a6cc0711a11db87d632a2964afcf4a711e638ad9ccf18ea9; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/647524929/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Matelea edwardsensis' matches this Apocynaceae species card matelea-edwardsensis. Specialist morphology/field characters deferred.",
-      "sha256": "9be8e8da49afb6f7a6cc0711a11db87d632a2964afcf4a711e638ad9ccf18ea9"
+      "sha256": "9be8e8da49afb6f7a6cc0711a11db87d632a2964afcf4a711e638ad9ccf18ea9",
+      "display_sha256": "5601f845222960e99fef18b40458bf2d768fb2ec217f719915068d13b205c2e8",
+      "display_blob_sha": "feab02772f4adfc993853f551c1738d99509127b",
+      "display_original_site_sha256": "9be8e8da49afb6f7a6cc0711a11db87d632a2964afcf4a711e638ad9ccf18ea9",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

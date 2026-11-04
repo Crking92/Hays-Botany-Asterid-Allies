@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "d85443767165f65b8731463a60a304fd9375949a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 84728225, photo 139286448, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 15fa8c9ef232466343511296a30e2ceeb3ead07e5678e4600bb0e714d6c1c572. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Centaurium tenuiflorum maps to indexed species centaurium-tenuiflorum; specialist morphology and BONAP range deferred.",
-      "sha256": "15fa8c9ef232466343511296a30e2ceeb3ead07e5678e4600bb0e714d6c1c572"
+      "sha256": "15fa8c9ef232466343511296a30e2ceeb3ead07e5678e4600bb0e714d6c1c572",
+      "display_sha256": "d7b7092b9f824312f0c8604dd8cb600e979b77f963b3817ecadff92fdc58f606",
+      "display_blob_sha": "fd54d0f0644e506878db49695a2c2361b743c0b9",
+      "display_original_site_sha256": "15fa8c9ef232466343511296a30e2ceeb3ead07e5678e4600bb0e714d6c1c572",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/centaurium-tenuiflorum/inat-508450541.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "578fee8d26f20b410eadff95ba74217f3b3c24ce",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 282997758, photo 508450541, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b06d9447c02976722af71b46e71319834bd993478c43ffbf15a3486fab3d7171. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Centaurium tenuiflorum maps to indexed species centaurium-tenuiflorum; specialist morphology and BONAP range deferred.",
-      "sha256": "b06d9447c02976722af71b46e71319834bd993478c43ffbf15a3486fab3d7171"
+      "sha256": "b06d9447c02976722af71b46e71319834bd993478c43ffbf15a3486fab3d7171",
+      "display_sha256": "75faa06ab63ccf369b0ca9981c4dd9fb0f0a75407b11f20633a14e7020afce97",
+      "display_blob_sha": "e51a1187c3552a73c98db5db8c5c66b53814f131",
+      "display_original_site_sha256": "b06d9447c02976722af71b46e71319834bd993478c43ffbf15a3486fab3d7171",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/centaurium-tenuiflorum/inat-508796345.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0ba480c5206eaca48b87b32ced0303b59d9cf519",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 283171433, photo 508796345, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f35a45755228318a9ad84c6a823c319e94a9c376f0d1f63f6e3f2e62a2d6a0be. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Centaurium tenuiflorum maps to indexed species centaurium-tenuiflorum; specialist morphology and BONAP range deferred.",
-      "sha256": "f35a45755228318a9ad84c6a823c319e94a9c376f0d1f63f6e3f2e62a2d6a0be"
+      "sha256": "f35a45755228318a9ad84c6a823c319e94a9c376f0d1f63f6e3f2e62a2d6a0be",
+      "display_sha256": "f9bbd5022e09a9db76f92c205a907d7e655f728174061d876f966d6680f0b9bb",
+      "display_blob_sha": "a22448c5b926729e12d8b0242840a4b763cf031d",
+      "display_original_site_sha256": "f35a45755228318a9ad84c6a823c319e94a9c376f0d1f63f6e3f2e62a2d6a0be",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/centaurium-tenuiflorum/inat-512631293.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8fcbf9198cb4992ad2987cfdcab646f08c3a1b2e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 285207089, photo 512631293, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8d7f2d898708d13a6391023da8c349d12f9ceabeff5c251507c519def3bdc2de. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Centaurium tenuiflorum maps to indexed species centaurium-tenuiflorum; specialist morphology and BONAP range deferred.",
-      "sha256": "8d7f2d898708d13a6391023da8c349d12f9ceabeff5c251507c519def3bdc2de"
+      "sha256": "8d7f2d898708d13a6391023da8c349d12f9ceabeff5c251507c519def3bdc2de",
+      "display_sha256": "be4ca3e754b0e15cb282a1c38c45f1be533e53836d6229a9d6037d64b47ce86a",
+      "display_blob_sha": "bc1d8766aeece999cf25fdb5bac9f793d3e1094b",
+      "display_original_site_sha256": "8d7f2d898708d13a6391023da8c349d12f9ceabeff5c251507c519def3bdc2de",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

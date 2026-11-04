@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "84755155400ad28089af82cffccdf6223ee58536",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 72741128 and photo 118651376 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 a97a204bcebc2e67e065debeea53d0201f6b54d034d3c86494a0c1dc875ef951; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/118651376/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Myosotis macrosperma' matches this Cactaceae species card myosotis-macrosperma. Specialist morphology/field characters deferred.",
-      "sha256": "a97a204bcebc2e67e065debeea53d0201f6b54d034d3c86494a0c1dc875ef951"
+      "sha256": "a97a204bcebc2e67e065debeea53d0201f6b54d034d3c86494a0c1dc875ef951",
+      "display_sha256": "60ea1672f66bba12e38ef29ff1abd30a041e93dedda0dcc101b2c8281b4937b4",
+      "display_blob_sha": "5c159b2f62af986e8534f02b30e79f887feac6b5",
+      "display_original_site_sha256": "a97a204bcebc2e67e065debeea53d0201f6b54d034d3c86494a0c1dc875ef951",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/myosotis-macrosperma/inat-187607640.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "89438a4bd4017cb13e62a2beb367bc1cde9e2525",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 156444668 and photo 270522758 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 24ebcf235e42035aa6226e533fe2a406d254c1663f7aa1eca8113dea4ad76cb5; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/270522758/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Myosotis macrosperma' matches this Cactaceae species card myosotis-macrosperma. Specialist morphology/field characters deferred.",
-      "sha256": "24ebcf235e42035aa6226e533fe2a406d254c1663f7aa1eca8113dea4ad76cb5"
+      "sha256": "24ebcf235e42035aa6226e533fe2a406d254c1663f7aa1eca8113dea4ad76cb5",
+      "display_sha256": "5fd340aa3a90039356a26d2f46900661e3caf3aeb8730520ba53d3a2137b508b",
+      "display_blob_sha": "cb779e7c42194cd0c8d10d5adb0a8598c236edab",
+      "display_original_site_sha256": "24ebcf235e42035aa6226e533fe2a406d254c1663f7aa1eca8113dea4ad76cb5",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/myosotis-macrosperma/inat-33415582.jpeg",
@@ -115,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "63715453133396fd67a7af57a00e6707c7af3a2d",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -123,7 +133,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 216950086 and photo 383737711 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 d9aef378dd40ab866a82841934ecd3aca647b93445fd3e4bb5829ef9919df455; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/383737711/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Myosotis macrosperma' matches this Cactaceae species card myosotis-macrosperma. Specialist morphology/field characters deferred.",
-      "sha256": "d9aef378dd40ab866a82841934ecd3aca647b93445fd3e4bb5829ef9919df455"
+      "sha256": "d9aef378dd40ab866a82841934ecd3aca647b93445fd3e4bb5829ef9919df455",
+      "display_sha256": "945f5c85d9d8750ef8c5070691d69fa544ac123468d94e4bf84cc74a84fe50ac",
+      "display_blob_sha": "0dc6023ec12bdbd48f3fc908626fb443344c1850",
+      "display_original_site_sha256": "d9aef378dd40ab866a82841934ecd3aca647b93445fd3e4bb5829ef9919df455",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

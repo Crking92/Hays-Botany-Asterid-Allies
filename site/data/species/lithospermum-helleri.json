@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fd0d7df5331619bbc1205ffe242776816614fef0",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 354599968 and photo 646847509 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 f5c4850236d24265a2faf3e92b34fbf20c3862a1c6ebd3f19d50c09caf8a1033; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/646847509/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Lithospermum helleri' matches this Cactaceae species card lithospermum-helleri. Specialist morphology/field characters deferred.",
-      "sha256": "f5c4850236d24265a2faf3e92b34fbf20c3862a1c6ebd3f19d50c09caf8a1033"
+      "sha256": "f5c4850236d24265a2faf3e92b34fbf20c3862a1c6ebd3f19d50c09caf8a1033",
+      "display_sha256": "aed714089f70ba15d80dff35524677d7cd54586e1fb58922af9a45babd60300f",
+      "display_blob_sha": "75d5defa45dd03b3092915c656fa5a2b8f590ee4",
+      "display_original_site_sha256": "f5c4850236d24265a2faf3e92b34fbf20c3862a1c6ebd3f19d50c09caf8a1033",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lithospermum-helleri/inat-646952302.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a3094cae929ca77619bde8e928efc1fe929afcdb",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 354661731 and photo 646952302 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 cef7bb2ec650b89f9a61660a167fb1960ad18833cb91d0ee6ece0d6e9db740aa; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/646952302/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Lithospermum helleri' matches this Cactaceae species card lithospermum-helleri. Specialist morphology/field characters deferred.",
-      "sha256": "cef7bb2ec650b89f9a61660a167fb1960ad18833cb91d0ee6ece0d6e9db740aa"
+      "sha256": "cef7bb2ec650b89f9a61660a167fb1960ad18833cb91d0ee6ece0d6e9db740aa",
+      "display_sha256": "97cd323824136ea76c92fda529a3676c02b8bc82f49949772e051ea268a01caf",
+      "display_blob_sha": "9283d586ffb9bf0e211301d85404833fdf749c9b",
+      "display_original_site_sha256": "cef7bb2ec650b89f9a61660a167fb1960ad18833cb91d0ee6ece0d6e9db740aa",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lithospermum-helleri/inat-646952701.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f558383c0082c1d3f55bc1ad64d2f36100b1aa18",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 354662005 and photo 646952701 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 e7cfc06ab7665420a887c532e06dd79c43bf2a8e85fe52d97a60d6083da8fed2; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/646952701/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Lithospermum helleri' matches this Cactaceae species card lithospermum-helleri. Specialist morphology/field characters deferred.",
-      "sha256": "e7cfc06ab7665420a887c532e06dd79c43bf2a8e85fe52d97a60d6083da8fed2"
+      "sha256": "e7cfc06ab7665420a887c532e06dd79c43bf2a8e85fe52d97a60d6083da8fed2",
+      "display_sha256": "c1dcea9967dfbc755c0e59c28254b24073f15f15a78b9d5e6f90c72aad689b82",
+      "display_blob_sha": "052f60d9ed3f9d890bc835ad8a5ec8d291f11db9",
+      "display_original_site_sha256": "e7cfc06ab7665420a887c532e06dd79c43bf2a8e85fe52d97a60d6083da8fed2",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lithospermum-helleri/inat-649326582.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0d8a53d1b0add525e4cca40dec58dafb361a3542",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 356067560 and photo 649326582 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 f6c33a7739c126dda75e188d8794b96f47e0d8bec572533954c892ecc0b8bd48; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/649326582/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Lithospermum helleri' matches this Cactaceae species card lithospermum-helleri. Specialist morphology/field characters deferred.",
-      "sha256": "f6c33a7739c126dda75e188d8794b96f47e0d8bec572533954c892ecc0b8bd48"
+      "sha256": "f6c33a7739c126dda75e188d8794b96f47e0d8bec572533954c892ecc0b8bd48",
+      "display_sha256": "9e8f95d28eea68b016dd74a132c0a8d5b8339a356ea2b10dfa082b1bca39e19b",
+      "display_blob_sha": "0361467f70f7a909278afb8344b341efdb079a53",
+      "display_original_site_sha256": "f6c33a7739c126dda75e188d8794b96f47e0d8bec572533954c892ecc0b8bd48",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lithospermum-helleri/inat-651644880.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "527f4f3836b524effd01f5ea9c1788c9ddfb156e",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 357291690 and photo 651644880 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 8102d98593d2a5397e066044b725246e6e1eecd3e72c7c97a746f86f86afee30; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/651644880/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Lithospermum helleri' matches this Cactaceae species card lithospermum-helleri. Specialist morphology/field characters deferred.",
-      "sha256": "8102d98593d2a5397e066044b725246e6e1eecd3e72c7c97a746f86f86afee30"
+      "sha256": "8102d98593d2a5397e066044b725246e6e1eecd3e72c7c97a746f86f86afee30",
+      "display_sha256": "19f26e1754ce55db88d63de42a203781ac6d77d3f6ebacefe3923ef8f4664aac",
+      "display_blob_sha": "17ac744025a0bba49e364b989d8c84f8e299bfcb",
+      "display_original_site_sha256": "8102d98593d2a5397e066044b725246e6e1eecd3e72c7c97a746f86f86afee30",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

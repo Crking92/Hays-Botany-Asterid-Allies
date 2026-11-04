@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "91639ad0d6e8a21f5d9f0b9a12e220fd6620d773",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 348741590, photo 636075985, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8ac9a268c3f681fcd396c1d4690e5907e36f4e67d52c3a681d5484ac59db3162.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Galium virgatum maps to indexed species galium-virgatum; specialist morphology and BONAP range deferred.",
-      "sha256": "8ac9a268c3f681fcd396c1d4690e5907e36f4e67d52c3a681d5484ac59db3162"
+      "sha256": "8ac9a268c3f681fcd396c1d4690e5907e36f4e67d52c3a681d5484ac59db3162",
+      "display_sha256": "eefaf540e15fe825a2559f33fd41eb99d79320e0b7e5a7db1be38c8941844b4f",
+      "display_blob_sha": "1a69460ba93f71cc6ffe3ef98144e78b5813398d",
+      "display_original_site_sha256": "8ac9a268c3f681fcd396c1d4690e5907e36f4e67d52c3a681d5484ac59db3162",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/galium-virgatum/inat-636151807.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8b6b7dc8db71d2adbed53d97e09e786a7f2de71a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 348779930, photo 636151807, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fc55afda1025f3db3b3d6f9d6842b4f020590b5eeaf275a546902fe2d0267331.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Galium virgatum maps to indexed species galium-virgatum; specialist morphology and BONAP range deferred.",
-      "sha256": "fc55afda1025f3db3b3d6f9d6842b4f020590b5eeaf275a546902fe2d0267331"
+      "sha256": "fc55afda1025f3db3b3d6f9d6842b4f020590b5eeaf275a546902fe2d0267331",
+      "display_sha256": "5b2a198437a3826f8263b1532c8e6657ba8b3509debe234b6acc34a30cb10453",
+      "display_blob_sha": "feaa5477d3d4ce3e1dd8ec78b3515bb9daeb0d47",
+      "display_original_site_sha256": "fc55afda1025f3db3b3d6f9d6842b4f020590b5eeaf275a546902fe2d0267331",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/galium-virgatum/inat-636152116.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c8e14c1e4d0d371fdcb0e8fc7f371c4f7865beb2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 348780039, photo 636152116, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d9de1631e3f47f263dc2fc92c107c8d38e3a179421be07799be8ba5f5134cc0e.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Galium virgatum maps to indexed species galium-virgatum; specialist morphology and BONAP range deferred.",
-      "sha256": "d9de1631e3f47f263dc2fc92c107c8d38e3a179421be07799be8ba5f5134cc0e"
+      "sha256": "d9de1631e3f47f263dc2fc92c107c8d38e3a179421be07799be8ba5f5134cc0e",
+      "display_sha256": "f0d136b5278740eb6eac1be38ed63941c2098514076026f9ff63c1a1975418f9",
+      "display_blob_sha": "040a40737313396c111c59f99b88139772aee254",
+      "display_original_site_sha256": "d9de1631e3f47f263dc2fc92c107c8d38e3a179421be07799be8ba5f5134cc0e",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/galium-virgatum/inat-640330468.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "a844f11107d82bfcf0e722cc0f21e7d2e3e6c85e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 350921257, photo 640330468, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: fb7c0e05deca9779a2f6fa022e328a23bc1102a557a8cb061aae6a58093d0b67.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Galium virgatum maps to indexed species galium-virgatum; specialist morphology and BONAP range deferred.",
-      "sha256": "fb7c0e05deca9779a2f6fa022e328a23bc1102a557a8cb061aae6a58093d0b67"
+      "sha256": "fb7c0e05deca9779a2f6fa022e328a23bc1102a557a8cb061aae6a58093d0b67",
+      "display_sha256": "8da107264cc6ea45ad55f5c8dc3c0017405f6f971b113a8d516fc4bb2f4ab6ac",
+      "display_blob_sha": "09595b25744189bb091e339120d37058f3c0f623",
+      "display_original_site_sha256": "fb7c0e05deca9779a2f6fa022e328a23bc1102a557a8cb061aae6a58093d0b67",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/galium-virgatum/archived-d853dbb9c2468bfe.jpg",

@@ -92,7 +92,7 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "6921e021edd55ce3aaf5e89c60d2ea3366605cbb",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -100,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 350894822 and photo 640281528 checked individually for current cc0 rights, creator from original ZIP's exact-photo photographer credit, and identical SHA256 07fd9791c53a574be58098175a6b85345d3dbda63d129675868a2c4a80d79d32; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/640281528/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias speciosa' matches this Apocynaceae species card asclepias-speciosa. Specialist morphology/field characters deferred.",
-      "sha256": "07fd9791c53a574be58098175a6b85345d3dbda63d129675868a2c4a80d79d32"
+      "sha256": "07fd9791c53a574be58098175a6b85345d3dbda63d129675868a2c4a80d79d32",
+      "display_sha256": "8af08baf62e0c45b5248f73ef68850a315fc8bccb3e1c27575c9a5e603f98235",
+      "display_blob_sha": "92b81a5485569b96caf23e9813bb681a0da9b793",
+      "display_original_site_sha256": "07fd9791c53a574be58098175a6b85345d3dbda63d129675868a2c4a80d79d32",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-speciosa/inat-645163543.jpg",
@@ -111,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3e249e9cfe50072f598c067d66952bca27aa36d3",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -119,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 353610349 and photo 645163543 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 cfcc2ec2a7056c98745687e87d41d59f4e11d078a6c963b9a0a68d67c2088343; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/645163543/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias speciosa' matches this Apocynaceae species card asclepias-speciosa. Specialist morphology/field characters deferred.",
-      "sha256": "cfcc2ec2a7056c98745687e87d41d59f4e11d078a6c963b9a0a68d67c2088343"
+      "sha256": "cfcc2ec2a7056c98745687e87d41d59f4e11d078a6c963b9a0a68d67c2088343",
+      "display_sha256": "12a8bd0524ba5eaf32e14650d2fd2b136e0f17149a2bbe9a4814ed69897d8dda",
+      "display_blob_sha": "dfb9d36e1ba2f2d5def4011909e771d089a7e9ba",
+      "display_original_site_sha256": "cfcc2ec2a7056c98745687e87d41d59f4e11d078a6c963b9a0a68d67c2088343",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-speciosa/inat-647410061.jpg",
@@ -130,7 +140,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "dcfc81255604938e75c98179013dc5d62d334e8e",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -138,7 +148,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 354922414 and photo 647410061 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 d5e45bff321a648ef116bd4a3745d21135dc45d502475a5f82b74ecf3c6acdcd; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/647410061/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias speciosa' matches this Apocynaceae species card asclepias-speciosa. Specialist morphology/field characters deferred.",
-      "sha256": "d5e45bff321a648ef116bd4a3745d21135dc45d502475a5f82b74ecf3c6acdcd"
+      "sha256": "d5e45bff321a648ef116bd4a3745d21135dc45d502475a5f82b74ecf3c6acdcd",
+      "display_sha256": "35dedcf9d89c7820868e0db1f5214c1f8a2fa53f41d63fe22d803a85c195320a",
+      "display_blob_sha": "3546ea1c432b1e50e128c64d6e47f6e213d73f52",
+      "display_original_site_sha256": "d5e45bff321a648ef116bd4a3745d21135dc45d502475a5f82b74ecf3c6acdcd",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-speciosa/inat-651729845.jpg",
@@ -149,7 +164,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "850fd7e0afabfa4bf8d22a0a800f633ab59c3d1f",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -157,7 +172,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 357333660 and photo 651729845 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 dc1ce1cb07d42ddbaa414c18bf97334240f31756d4f42447214116b5999081e5; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/651729845/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias speciosa' matches this Apocynaceae species card asclepias-speciosa. Specialist morphology/field characters deferred.",
-      "sha256": "dc1ce1cb07d42ddbaa414c18bf97334240f31756d4f42447214116b5999081e5"
+      "sha256": "dc1ce1cb07d42ddbaa414c18bf97334240f31756d4f42447214116b5999081e5",
+      "display_sha256": "b80a66e1d19b004c60a23e5b5c92066a37cde6beaf62119a4d0f8a039a28f74c",
+      "display_blob_sha": "a104d0523dad64822d981ab99f4e37a850af1a23",
+      "display_original_site_sha256": "dc1ce1cb07d42ddbaa414c18bf97334240f31756d4f42447214116b5999081e5",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-speciosa/inat-659308545.jpg",
@@ -168,7 +188,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8e24e70257d5854daf7a78bb121d8ad1ec518f02",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -176,7 +196,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 361273657 and photo 659308545 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 1383638e423888c4f3e42171c2813dcc3f8f27bc52787555dc5d1acf93fddc81; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/659308545/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias speciosa' matches this Apocynaceae species card asclepias-speciosa. Specialist morphology/field characters deferred.",
-      "sha256": "1383638e423888c4f3e42171c2813dcc3f8f27bc52787555dc5d1acf93fddc81"
+      "sha256": "1383638e423888c4f3e42171c2813dcc3f8f27bc52787555dc5d1acf93fddc81",
+      "display_sha256": "5e3772230cca11739be2ae97c9a675eab7562711ef21053da33fb61bbc298bb6",
+      "display_blob_sha": "57aff02c0a2c0c22240cf021c88e17d1b7c655c9",
+      "display_original_site_sha256": "1383638e423888c4f3e42171c2813dcc3f8f27bc52787555dc5d1acf93fddc81",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

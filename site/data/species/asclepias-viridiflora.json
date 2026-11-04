@@ -81,7 +81,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b1f6ef6ad5fd3bda178c1303a7b9bf99484c0a28",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -89,7 +89,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 348349318 and photo 635297087 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 feea42e84a50c491743a024c35d3d551b5c020ab66fb861b6ce33431c2174a58; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/635297087/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias viridiflora' matches this Apocynaceae species card asclepias-viridiflora. Specialist morphology/field characters deferred.",
-      "sha256": "feea42e84a50c491743a024c35d3d551b5c020ab66fb861b6ce33431c2174a58"
+      "sha256": "feea42e84a50c491743a024c35d3d551b5c020ab66fb861b6ce33431c2174a58",
+      "display_sha256": "22b9f2753f2d24783c4c6802567481e9bdd84a77214c4b4d294be468273f7101",
+      "display_blob_sha": "081a17bf15289455ae81063eb2fd120c678809b1",
+      "display_original_site_sha256": "feea42e84a50c491743a024c35d3d551b5c020ab66fb861b6ce33431c2174a58",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-viridiflora/inat-653643540.jpg",
@@ -100,7 +105,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5178d0fc3b9b97c4faebdbbd19fecdda25f7fc81",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -108,7 +113,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 358316348 and photo 653643540 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 96fb13eeb78ff2168b6109c58d5c64defe2801748c6ddda7871485a5c511497b; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/653643540/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias viridiflora' matches this Apocynaceae species card asclepias-viridiflora. Specialist morphology/field characters deferred.",
-      "sha256": "96fb13eeb78ff2168b6109c58d5c64defe2801748c6ddda7871485a5c511497b"
+      "sha256": "96fb13eeb78ff2168b6109c58d5c64defe2801748c6ddda7871485a5c511497b",
+      "display_sha256": "0b3e128830f88e2425d66d89cb0b3c15c8c3f552739774b2606ab89d2f6cbb20",
+      "display_blob_sha": "1475ca8bb5795a2180ce8d647611a9aa0ef083af",
+      "display_original_site_sha256": "96fb13eeb78ff2168b6109c58d5c64defe2801748c6ddda7871485a5c511497b",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-viridiflora/inat-666467271.jpg",
@@ -119,7 +129,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "254a49aaf629d4f083310244ba2dcd304cd96a7b",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -127,7 +137,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 365051198 and photo 666467271 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 326bc798249b9f7cedf75962fa2eddb567d9e1f7fb3e162c9fbefe78b465df0a; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/666467271/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias viridiflora' matches this Apocynaceae species card asclepias-viridiflora. Specialist morphology/field characters deferred.",
-      "sha256": "326bc798249b9f7cedf75962fa2eddb567d9e1f7fb3e162c9fbefe78b465df0a"
+      "sha256": "326bc798249b9f7cedf75962fa2eddb567d9e1f7fb3e162c9fbefe78b465df0a",
+      "display_sha256": "5137e72bdd78bc3abdd50e362409a3975f00c35cb5f4d4634d3ab019e986a9fb",
+      "display_blob_sha": "187f14e45df7a5695ef48671a7f8495e1c817c7e",
+      "display_original_site_sha256": "326bc798249b9f7cedf75962fa2eddb567d9e1f7fb3e162c9fbefe78b465df0a",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-viridiflora/inat-667460281.jpg",
@@ -138,7 +153,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "71c09bbb4f5ee7508e30ec4a9f3703dc9e81d7d4",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -146,7 +161,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 365572527 and photo 667460281 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 7e2adbaa85a6095e9b7ec72bf1d0069c7d09e69ebbc4b0a1d049b25c8ef06c14; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/667460281/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias viridiflora' matches this Apocynaceae species card asclepias-viridiflora. Specialist morphology/field characters deferred.",
-      "sha256": "7e2adbaa85a6095e9b7ec72bf1d0069c7d09e69ebbc4b0a1d049b25c8ef06c14"
+      "sha256": "7e2adbaa85a6095e9b7ec72bf1d0069c7d09e69ebbc4b0a1d049b25c8ef06c14",
+      "display_sha256": "02c7195752d6e386b9b3ca5468240f7cf21fd51500606f2b6eb3aa80609993b8",
+      "display_blob_sha": "9096075fac2a7e275a0dfef21f3e11ba9d238024",
+      "display_original_site_sha256": "7e2adbaa85a6095e9b7ec72bf1d0069c7d09e69ebbc4b0a1d049b25c8ef06c14",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-viridiflora/inat-669170956.jpg",
@@ -157,7 +177,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2f61f0eeda1e8ea1400cf52ef29199abfd1d4fdf",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -165,7 +185,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 366471521 and photo 669170956 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 7efbf049f385bcd40e0a7b1ad6c0d93b2d935b1c75a68a6bb44f72ed338c73e9; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/669170956/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias viridiflora' matches this Apocynaceae species card asclepias-viridiflora. Specialist morphology/field characters deferred.",
-      "sha256": "7efbf049f385bcd40e0a7b1ad6c0d93b2d935b1c75a68a6bb44f72ed338c73e9"
+      "sha256": "7efbf049f385bcd40e0a7b1ad6c0d93b2d935b1c75a68a6bb44f72ed338c73e9",
+      "display_sha256": "0f071464e322d75e5eef027bc15b99f86a506b5313763201968af5fa522f0a0d",
+      "display_blob_sha": "8b36661b7ffde9e32874f9ae2d212c93ededf415",
+      "display_original_site_sha256": "7efbf049f385bcd40e0a7b1ad6c0d93b2d935b1c75a68a6bb44f72ed338c73e9",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

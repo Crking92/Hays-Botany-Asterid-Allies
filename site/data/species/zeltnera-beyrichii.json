@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "578e0bce14595c3b3b9c9bbe32c7c3abd28f06f6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 363798359, photo 664103418, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7ff81f93f071ba0b4aa937f6f60333752f73cae17c8b9ac1456c6e2f2255f638. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Zeltnera beyrichii maps to indexed species zeltnera-beyrichii; specialist morphology and BONAP range deferred.",
-      "sha256": "7ff81f93f071ba0b4aa937f6f60333752f73cae17c8b9ac1456c6e2f2255f638"
+      "sha256": "7ff81f93f071ba0b4aa937f6f60333752f73cae17c8b9ac1456c6e2f2255f638",
+      "display_sha256": "d6678779047788a83ca26dd85a176f032ed1881647490fd6a257d2fe6733563e",
+      "display_blob_sha": "b02b7303be83f69c59775415c2c070c595869c70",
+      "display_original_site_sha256": "7ff81f93f071ba0b4aa937f6f60333752f73cae17c8b9ac1456c6e2f2255f638",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/zeltnera-beyrichii/inat-665967887.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2cdc013df3fb2bdcff7cac7a8adcdad7a497ced4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 364793332, photo 665967887, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f5aa23cc426e941b898794bc4101e345d6df302d99c502495d40aa086f328e32. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Zeltnera beyrichii maps to indexed species zeltnera-beyrichii; specialist morphology and BONAP range deferred.",
-      "sha256": "f5aa23cc426e941b898794bc4101e345d6df302d99c502495d40aa086f328e32"
+      "sha256": "f5aa23cc426e941b898794bc4101e345d6df302d99c502495d40aa086f328e32",
+      "display_sha256": "e5f5afc898a136ef416e7f8cc5036a9d1dc0d2ca03431072852c7f13bed36910",
+      "display_blob_sha": "95b1e34d9e3ffcc5793ff80e1184f36d1cf52340",
+      "display_original_site_sha256": "f5aa23cc426e941b898794bc4101e345d6df302d99c502495d40aa086f328e32",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/zeltnera-beyrichii/inat-667300497.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "46d3c46ef327ceb2d6e14dcdbabe5f93eddf2086",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 365489754, photo 667300497, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 72be9ce980fb3dc4e849e4fc2655640b8536132ea5ea153d3240f45d45aebfb1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Zeltnera beyrichii maps to indexed species zeltnera-beyrichii; specialist morphology and BONAP range deferred.",
-      "sha256": "72be9ce980fb3dc4e849e4fc2655640b8536132ea5ea153d3240f45d45aebfb1"
+      "sha256": "72be9ce980fb3dc4e849e4fc2655640b8536132ea5ea153d3240f45d45aebfb1",
+      "display_sha256": "2bab41bb11b16cfdccdc3c0e0e181698663c606e7e6be9d67db59f156e3a35ea",
+      "display_blob_sha": "9847b8813565d0ede3b4787b94aced8baada58d4",
+      "display_original_site_sha256": "72be9ce980fb3dc4e849e4fc2655640b8536132ea5ea153d3240f45d45aebfb1",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/zeltnera-beyrichii/inat-674865865.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "340e2097b163fe704bd4775bec807e8aebc215fd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 369459871, photo 674865865, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4ce7f366be9628ec1a11d271a3df158434dafc6192c7bda89e1dd8685f8a2aa2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Zeltnera beyrichii maps to indexed species zeltnera-beyrichii; specialist morphology and BONAP range deferred.",
-      "sha256": "4ce7f366be9628ec1a11d271a3df158434dafc6192c7bda89e1dd8685f8a2aa2"
+      "sha256": "4ce7f366be9628ec1a11d271a3df158434dafc6192c7bda89e1dd8685f8a2aa2",
+      "display_sha256": "9c1af543034f3840066c29f318073a825f040a7bd3803d82ab4cd3967089473b",
+      "display_blob_sha": "1fb33efb8e6dd274f7ef0f8bd7e65fd4065679ed",
+      "display_original_site_sha256": "4ce7f366be9628ec1a11d271a3df158434dafc6192c7bda89e1dd8685f8a2aa2",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/zeltnera-beyrichii/inat-688129963.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ceeb736f36f505fd8ca8cfc55cabde976e0995aa",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 376365606, photo 688129963, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 92e80b34b84b5b3242030d01793a86bff9a2380ca76234c38371ac9debf25423. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Zeltnera beyrichii maps to indexed species zeltnera-beyrichii; specialist morphology and BONAP range deferred.",
-      "sha256": "92e80b34b84b5b3242030d01793a86bff9a2380ca76234c38371ac9debf25423"
+      "sha256": "92e80b34b84b5b3242030d01793a86bff9a2380ca76234c38371ac9debf25423",
+      "display_sha256": "c60b138c5e65582a7854bc4fc7c8e54c9d0e35e99450b582c5598a2ccf9b3983",
+      "display_blob_sha": "854c369d34ef835463293fb3c33c2c269774626f",
+      "display_original_site_sha256": "92e80b34b84b5b3242030d01793a86bff9a2380ca76234c38371ac9debf25423",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

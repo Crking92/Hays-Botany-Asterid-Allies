@@ -44,10 +44,15 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "f643eea8fe4bcc80c8755b4371d0da075d0d4631",
       "role": "Whole plant, unarmed green stems, alternate leaf blades and white flowers",
-      "modified": "Exact archived original photograph; no modification",
+      "modified": "Resized and recompressed web display copy; source note: Exact archived original photograph; no modification",
       "noncommercial_only": false,
       "private_rights_review_only": false,
-      "source_page_is_exact": true
+      "source_page_is_exact": true,
+      "display_sha256": "7527b11bf5f7a021f101ecba7cba548484324d6ab4098064979cdf9bdc9eb318",
+      "display_blob_sha": "6caa6f55c716c2afa48b3b0ee52d92311db58b50",
+      "display_original_site_sha256": "0c340c4f66ba41e2d444341cad44ffd1186e969e8356b0b88c3e7d18d0ce5ab1",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/solanum-nigrescens/02-leaves-flowering.jpg",

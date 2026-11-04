@@ -54,7 +54,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7bbc7aa55d63815874c5d2cf1d8d6bb649daaed5",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -62,7 +62,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 210831588 and photo 372848738 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 e17da73ef9cb10425aefbea9f222b8bdd6a888acf3fcfaf48857920223aedec7; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/372848738/original.jpeg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Cordia boissieri' matches this Cactaceae species card cordia-boissieri. Specialist morphology/field characters deferred.",
-      "sha256": "e17da73ef9cb10425aefbea9f222b8bdd6a888acf3fcfaf48857920223aedec7"
+      "sha256": "e17da73ef9cb10425aefbea9f222b8bdd6a888acf3fcfaf48857920223aedec7",
+      "display_sha256": "700e5f5e19a261cac91ebd097619f7e0a1585a995ccd690901af0d4f0e88f4d5",
+      "display_blob_sha": "1502f0c02a5f179cf299b92da7cc17860202afa2",
+      "display_original_site_sha256": "e17da73ef9cb10425aefbea9f222b8bdd6a888acf3fcfaf48857920223aedec7",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cordia-boissieri/inat-373070654.jpg",
@@ -73,7 +78,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "64b06c48df2e2e4c649828d03763b5f53cea2551",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -81,7 +86,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 210974841 and photo 373070654 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 148a23acccb9ca352abc2dea43c5548819162c17633c009b30c0549306f07a10; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/373070654/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Cordia boissieri' matches this Cactaceae species card cordia-boissieri. Specialist morphology/field characters deferred.",
-      "sha256": "148a23acccb9ca352abc2dea43c5548819162c17633c009b30c0549306f07a10"
+      "sha256": "148a23acccb9ca352abc2dea43c5548819162c17633c009b30c0549306f07a10",
+      "display_sha256": "08cfad5b1655cf1745fe7911108a618349a1350ebf784c2c077b34b382878397",
+      "display_blob_sha": "dc968b12efe2e9664d7b5008a415721523852e99",
+      "display_original_site_sha256": "148a23acccb9ca352abc2dea43c5548819162c17633c009b30c0549306f07a10",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cordia-boissieri/inat-648385968.jpg",
@@ -92,7 +102,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "912e4974243f613bfa77e40daf587bd14bb55db2",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -100,7 +110,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 355535873 and photo 648385968 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 5939de14630666beb66feb0547773542ebfb2ae354eecd6fa083984b09ffcc29; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/648385968/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Cordia boissieri' matches this Cactaceae species card cordia-boissieri. Specialist morphology/field characters deferred.",
-      "sha256": "5939de14630666beb66feb0547773542ebfb2ae354eecd6fa083984b09ffcc29"
+      "sha256": "5939de14630666beb66feb0547773542ebfb2ae354eecd6fa083984b09ffcc29",
+      "display_sha256": "15ea8976e52ebed13a02a8b78ec23adfe709a07f80c971f6cd97603f8f41f30f",
+      "display_blob_sha": "9442d7f890068ec973a7c2a56a251d5f018737eb",
+      "display_original_site_sha256": "5939de14630666beb66feb0547773542ebfb2ae354eecd6fa083984b09ffcc29",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cordia-boissieri/inat-653286392.jpg",
@@ -111,7 +126,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1c9c9b9de747fa1350093efb84991bd6a6625ba8",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -119,7 +134,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 358135875 and photo 653286392 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 ff8102ac743eb1893fc82f6d682d1799018d4f99451d209baf79c7d90a49f69c; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/653286392/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Cordia boissieri' matches this Cactaceae species card cordia-boissieri. Specialist morphology/field characters deferred.",
-      "sha256": "ff8102ac743eb1893fc82f6d682d1799018d4f99451d209baf79c7d90a49f69c"
+      "sha256": "ff8102ac743eb1893fc82f6d682d1799018d4f99451d209baf79c7d90a49f69c",
+      "display_sha256": "de1f17d42fcbe490067c781c5c3cc5883f96fc303dbbbd9da622db363246177d",
+      "display_blob_sha": "bb04000000b3b157c74c417df6f73eabde1a71bd",
+      "display_original_site_sha256": "ff8102ac743eb1893fc82f6d682d1799018d4f99451d209baf79c7d90a49f69c",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cordia-boissieri/inat-695921832.jpg",
@@ -130,7 +150,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6183a3d628cff28334738a531eb16d37452726aa",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -138,7 +158,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 380395778 and photo 695921832 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 b5003ba1ba6d3c738567df170757ec7cbaba0b796b4ab52eeeae3c801e657474; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/695921832/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Cordia boissieri' matches this Cactaceae species card cordia-boissieri. Specialist morphology/field characters deferred.",
-      "sha256": "b5003ba1ba6d3c738567df170757ec7cbaba0b796b4ab52eeeae3c801e657474"
+      "sha256": "b5003ba1ba6d3c738567df170757ec7cbaba0b796b4ab52eeeae3c801e657474",
+      "display_sha256": "2551a0497ebdb6f2d6f87df094e692e057494151f7393f3605b1390431288b44",
+      "display_blob_sha": "df996fa7aa5181f3c43ef1fce052b9ce7403ce38",
+      "display_original_site_sha256": "b5003ba1ba6d3c738567df170757ec7cbaba0b796b4ab52eeeae3c801e657474",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

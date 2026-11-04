@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "12c7b024365946810f120e5fd16a3f7a2b8b7bef",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 121909141, photo 206345749, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: bbf2ee53bf0362ccd3fc4163432ee7d57630d066bf8ab439a09140c9e7aa9d67.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Nicotiana obtusifolia maps to indexed species nicotiana-obtusifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "bbf2ee53bf0362ccd3fc4163432ee7d57630d066bf8ab439a09140c9e7aa9d67"
+      "sha256": "bbf2ee53bf0362ccd3fc4163432ee7d57630d066bf8ab439a09140c9e7aa9d67",
+      "display_sha256": "159740ce929e955a3aee256510dc2d68a8ce21e6889a9c35eb2a4d5574e7422f",
+      "display_blob_sha": "88edfe30cfae78533d4a1e54938bfeaed1f6c72e",
+      "display_original_site_sha256": "bbf2ee53bf0362ccd3fc4163432ee7d57630d066bf8ab439a09140c9e7aa9d67",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nicotiana-obtusifolia/inat-366952919.jpeg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "f3273dc13abb0d0bb244f75f04e2939467db7495",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 207457979, photo 366952919, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7eb6b0ec3134f2473394f61ff3e86750826fedf8d3c8b64f791452ea0d925b2f.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Nicotiana obtusifolia maps to indexed species nicotiana-obtusifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "7eb6b0ec3134f2473394f61ff3e86750826fedf8d3c8b64f791452ea0d925b2f"
+      "sha256": "7eb6b0ec3134f2473394f61ff3e86750826fedf8d3c8b64f791452ea0d925b2f",
+      "display_sha256": "2506466e2d4b0f245fd09cae65e4c887763c441c3a18929bf94123d6f15720b9",
+      "display_blob_sha": "116fad121853e381fd07f87f6db9278672e1969a",
+      "display_original_site_sha256": "7eb6b0ec3134f2473394f61ff3e86750826fedf8d3c8b64f791452ea0d925b2f",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nicotiana-obtusifolia/inat-376545399.jpeg",

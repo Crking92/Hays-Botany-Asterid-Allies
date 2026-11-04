@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "f170d1b3d30f05154ba9edb2b6c37ff7d3ace57b",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 343938226 and photo 626611363 checked individually for current cc-by rights, creator from live exact-photo attribution, and identical SHA256 99cf9dcc794a673f1243b44fbbac04f1865dafee6a1440cca2f22c89c15e0cdc; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/626611363/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Tiquilia hispidissima' matches this Cactaceae species card tiquilia-hispidissima. Specialist morphology/field characters deferred.",
-      "sha256": "99cf9dcc794a673f1243b44fbbac04f1865dafee6a1440cca2f22c89c15e0cdc"
+      "sha256": "99cf9dcc794a673f1243b44fbbac04f1865dafee6a1440cca2f22c89c15e0cdc",
+      "display_sha256": "a5b872e421392a04bfc1e894656674f020d222f52a91a608a9230cde2d232765",
+      "display_blob_sha": "2de997c7182b419fd15eae942f7ee3d4602dff96",
+      "display_original_site_sha256": "99cf9dcc794a673f1243b44fbbac04f1865dafee6a1440cca2f22c89c15e0cdc",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tiquilia-hispidissima/inat-626960806.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b95884b08b443eb89cabd79ef3d7e569153395c0",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 351876368 and photo 642190000 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 a566b85d4f084029717104a35dda7cdd71d3dbcdc2e760e73bb68ae46a6d7396; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/642190000/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Tiquilia hispidissima' matches this Cactaceae species card tiquilia-hispidissima. Specialist morphology/field characters deferred.",
-      "sha256": "a566b85d4f084029717104a35dda7cdd71d3dbcdc2e760e73bb68ae46a6d7396"
+      "sha256": "a566b85d4f084029717104a35dda7cdd71d3dbcdc2e760e73bb68ae46a6d7396",
+      "display_sha256": "cbbab2d0ff5f31f8dbfa1bae0805967da1a13593516a44fc4cd542f43f294269",
+      "display_blob_sha": "3f704eca128d3b98fe78058d945c18ed7f92490d",
+      "display_original_site_sha256": "a566b85d4f084029717104a35dda7cdd71d3dbcdc2e760e73bb68ae46a6d7396",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tiquilia-hispidissima/inat-666209752.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ae8e4d9a629f4125d35dfa9dbd9bbd49098b597a",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 364918210 and photo 666209752 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 b5eddc334e8bea0e1be15556d42eb1e29cc26dad8ae947ca098f7e27a0da73db; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/666209752/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Tiquilia hispidissima' matches this Cactaceae species card tiquilia-hispidissima. Specialist morphology/field characters deferred.",
-      "sha256": "b5eddc334e8bea0e1be15556d42eb1e29cc26dad8ae947ca098f7e27a0da73db"
+      "sha256": "b5eddc334e8bea0e1be15556d42eb1e29cc26dad8ae947ca098f7e27a0da73db",
+      "display_sha256": "4dde02b87ddcf861ccc64dd0a0c958bbb5a791e94bd8dc69e13fbb2311185846",
+      "display_blob_sha": "2ce77f2f59fd2be18cb97214231284199b6dd44c",
+      "display_original_site_sha256": "b5eddc334e8bea0e1be15556d42eb1e29cc26dad8ae947ca098f7e27a0da73db",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tiquilia-hispidissima/inat-683660490.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "01a0d4895dc00d661fe18f0ad464445f0fc20890",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 374057966 and photo 683660490 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 f1de74c2ac3bd62e4bcebd96bd5843c92e9c94b94cfc34bb6f7e43c6475de6b8; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/683660490/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Tiquilia hispidissima' matches this Cactaceae species card tiquilia-hispidissima. Specialist morphology/field characters deferred.",
-      "sha256": "f1de74c2ac3bd62e4bcebd96bd5843c92e9c94b94cfc34bb6f7e43c6475de6b8"
+      "sha256": "f1de74c2ac3bd62e4bcebd96bd5843c92e9c94b94cfc34bb6f7e43c6475de6b8",
+      "display_sha256": "d987b26ae0a8373e60e62c03d8a3bc6185ff5026729d637cbea35052776c6016",
+      "display_blob_sha": "fb604906035c6ff7be529a2a22b0c4f046cdb986",
+      "display_original_site_sha256": "f1de74c2ac3bd62e4bcebd96bd5843c92e9c94b94cfc34bb6f7e43c6475de6b8",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

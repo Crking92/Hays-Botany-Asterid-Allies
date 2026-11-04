@@ -49,7 +49,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c59efa776b2cb082d22853285301093ccb619c68",
       "role": "same-observation field view 3",
-      "modified": "Original archived photograph; no additional modifications",
+      "modified": "Resized and recompressed web display copy; source note: Original archived photograph; no additional modifications",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
@@ -57,7 +57,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 402196170 photo 738308556 individual CC code cc-by-nc; photographer (c) Alex Correa, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA c59efa776b2cb082d22853285301093ccb619c68; exact image source https://www.inaturalist.org/photos/738308556",
       "taxon_review_evidence": "Original species record ipomoea cordatotriloba linked to an original image and matching current inat photo of source taxon Ipomoea cordatotriloba. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "05b16103f46387bedc7a68aa15a471ab79d3540bf32810f7a3fbb351df62c7b2"
+      "sha256": "05b16103f46387bedc7a68aa15a471ab79d3540bf32810f7a3fbb351df62c7b2",
+      "display_sha256": "490769513a829adfa2f512ac9260d94d760ce3b51f3bfea0af07d37a38918640",
+      "display_blob_sha": "2475a7913222fc57da8777e03324e1f5a69edd8c",
+      "display_original_site_sha256": "05b16103f46387bedc7a68aa15a471ab79d3540bf32810f7a3fbb351df62c7b2",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ipomoea-cordatotriloba/archived-49528b74741bf454.jpg",
@@ -68,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "70a47b615ab3325d9e6194a7ed9f3582dd9bf5e4",
       "role": "same-observation field view 2",
-      "modified": "Original archived photograph; no additional modifications",
+      "modified": "Resized and recompressed web display copy; source note: Original archived photograph; no additional modifications",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
@@ -76,7 +81,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 402196170 photo 738308557 individual CC code cc-by-nc; photographer (c) Alex Correa, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 70a47b615ab3325d9e6194a7ed9f3582dd9bf5e4; exact image source https://www.inaturalist.org/photos/738308557",
       "taxon_review_evidence": "Original species record ipomoea cordatotriloba linked to an original image and matching current inat photo of source taxon Ipomoea cordatotriloba. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "49528b74741bf4548b627f01e8da20c4adb5e405e760bb16d33d30a92e702a01"
+      "sha256": "49528b74741bf4548b627f01e8da20c4adb5e405e760bb16d33d30a92e702a01",
+      "display_sha256": "8fa34883e37c424849857e523b2f4d3e5a37b6473cb7d09b4ee8c047d9eca149",
+      "display_blob_sha": "4b94239cb72e46ede331b4504ea72c2c1740368e",
+      "display_original_site_sha256": "49528b74741bf4548b627f01e8da20c4adb5e405e760bb16d33d30a92e702a01",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ipomoea-cordatotriloba/archived-f3fd7fdd9074803d.jpg",
@@ -87,7 +97,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2d1a4496ec94e6b6e6da72ec510722c53975dfbd",
       "role": "same-observation field view 1",
-      "modified": "Original archived photograph; no additional modifications",
+      "modified": "Resized and recompressed web display copy; source note: Original archived photograph; no additional modifications",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
@@ -95,7 +105,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 402196170 photo 738308561 individual CC code cc-by-nc; photographer (c) Alex Correa, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 2d1a4496ec94e6b6e6da72ec510722c53975dfbd; exact image source https://www.inaturalist.org/photos/738308561",
       "taxon_review_evidence": "Original species record ipomoea cordatotriloba linked to an original image and matching current inat photo of source taxon Ipomoea cordatotriloba. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "f3fd7fdd9074803d5ce104df978820ad33ee6ced18eacac6fd9d992aad66a90b"
+      "sha256": "f3fd7fdd9074803d5ce104df978820ad33ee6ced18eacac6fd9d992aad66a90b",
+      "display_sha256": "932da522024e4afac1c28777149513308016de905041572380f63573263e9b3e",
+      "display_blob_sha": "723823c588f968051ddf669913811ea5394be01c",
+      "display_original_site_sha256": "f3fd7fdd9074803d5ce104df978820ad33ee6ced18eacac6fd9d992aad66a90b",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ipomoea-cordatotriloba/archived-39e833f2dad48982.jpg",

@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "424ca89a8b741df1f2f141822c7d90d3b1b3e4df",
       "role": "Recognize · mat-like spreading habit from above; source scientific-name determination provisional, anatomical expertise pending",
-      "modified": "Resaved JPEG with metadata removed (original source rights remain attached)",
+      "modified": "Resized and recompressed web display copy; source note: Resaved JPEG with metadata removed (original source rights remain attached)",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "GBIF occurrence 5938064871 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/605065962/original.jpg; image-level license https://creativecommons.org/licenses/by/4.0/; creator Christopher Evans; dHash distance 0; archived source SHA 424ca89a8b741df1f2f141822c7d90d3b1b3e4df; exact image source https://www.inaturalist.org/photos/605065962",
       "taxon_review_evidence": "Original species record Heliotropium curassavicum linked to an original image and matching current gbif photo of source taxon Heliotropium curassavicum. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "1528a0de3d6dda93b95baea9ef391f224975c572f4149e30fbfe1d65945766e4"
+      "sha256": "1528a0de3d6dda93b95baea9ef391f224975c572f4149e30fbfe1d65945766e4",
+      "display_sha256": "26d37b4c98885eaa506f784e904250a2678dc28fc3878d114daa64da2b5fda9c",
+      "display_blob_sha": "101ab7f58044ead09b8a2ac95803d2935a77987f",
+      "display_original_site_sha256": "1528a0de3d6dda93b95baea9ef391f224975c572f4149e30fbfe1d65945766e4",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/heliotropium-curassavicum/plantnet-archive-65ec4e6054718dd8.jpg",
@@ -96,7 +101,7 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "d2562b9468de147ac928d608d2a57c6a63d2a406",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -104,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 273787614 and photo 492303249 checked individually for current cc0 rights, creator from original ZIP's exact-photo photographer credit, and identical SHA256 d6d8f023bf741775c227fa1ec7607343eca30025400817229463d877c31af121; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/492303249/original.jpeg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Heliotropium curassavicum' matches this Cactaceae species card heliotropium-curassavicum. Specialist morphology/field characters deferred.",
-      "sha256": "d6d8f023bf741775c227fa1ec7607343eca30025400817229463d877c31af121"
+      "sha256": "d6d8f023bf741775c227fa1ec7607343eca30025400817229463d877c31af121",
+      "display_sha256": "5186fa8463d6acb149bd9129e96bd701f44a12368caf71fa893ded568f8636ce",
+      "display_blob_sha": "8b50f5eaa97a392c3e712651515dd64534cb52f7",
+      "display_original_site_sha256": "d6d8f023bf741775c227fa1ec7607343eca30025400817229463d877c31af121",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/heliotropium-curassavicum/inat-497804778.jpeg",
@@ -134,7 +144,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "51aa1390eef09c5af41bd795dc0f706e5c5ba7bc",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -142,7 +152,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 295873446 and photo 532686563 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 0b82681f9c0aa28cebe02451f5e29f1bbd7968d706e6e89df06e1f9396a00923; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/532686563/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Heliotropium curassavicum' matches this Cactaceae species card heliotropium-curassavicum. Specialist morphology/field characters deferred.",
-      "sha256": "0b82681f9c0aa28cebe02451f5e29f1bbd7968d706e6e89df06e1f9396a00923"
+      "sha256": "0b82681f9c0aa28cebe02451f5e29f1bbd7968d706e6e89df06e1f9396a00923",
+      "display_sha256": "f46f6d8d12ea0bad16b02801604b313d4a30ff16abc6c1cb14350c66165ac69f",
+      "display_blob_sha": "d73091add4a90b18daf7d053223752f2cdcc567e",
+      "display_original_site_sha256": "0b82681f9c0aa28cebe02451f5e29f1bbd7968d706e6e89df06e1f9396a00923",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/heliotropium-curassavicum/inat-647397602.jpg",
@@ -153,7 +168,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "46207015ffff80a7d110457e48b0aab9b39e4585",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -161,7 +176,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 354914741 and photo 647397602 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 8f8087434c5eecccc4ee6dbb436d4f7efdc672869ee81eaf656ff4c6d316c809; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/647397602/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Heliotropium curassavicum' matches this Cactaceae species card heliotropium-curassavicum. Specialist morphology/field characters deferred.",
-      "sha256": "8f8087434c5eecccc4ee6dbb436d4f7efdc672869ee81eaf656ff4c6d316c809"
+      "sha256": "8f8087434c5eecccc4ee6dbb436d4f7efdc672869ee81eaf656ff4c6d316c809",
+      "display_sha256": "2ae4fe564c968d485f285b7def719793487640fe0d167f32a2657696c2e39c7c",
+      "display_blob_sha": "56ee2ef762f72f4974d099312bcd3c5029700794",
+      "display_original_site_sha256": "8f8087434c5eecccc4ee6dbb436d4f7efdc672869ee81eaf656ff4c6d316c809",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

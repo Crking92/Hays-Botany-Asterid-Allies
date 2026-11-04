@@ -88,7 +88,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "507d7be5d8fad9c052840e2fa3d2f4b214867ef0",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -96,7 +96,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 342155119 and photo 623021012 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 7021617f0600ab8782d000b68f8845d718738bb09c9dd25fb00706ebe967afd2; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/623021012/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Amsonia longiflora' matches this Apocynaceae species card amsonia-longiflora. Specialist morphology/field characters deferred.",
-      "sha256": "7021617f0600ab8782d000b68f8845d718738bb09c9dd25fb00706ebe967afd2"
+      "sha256": "7021617f0600ab8782d000b68f8845d718738bb09c9dd25fb00706ebe967afd2",
+      "display_sha256": "aa9eba1a426b0e8bd034f5af8d039501cd71f6c4d6d78aa62234f8bab844650f",
+      "display_blob_sha": "3aa0ff99bbec8936239be46105c516179a9677d4",
+      "display_original_site_sha256": "7021617f0600ab8782d000b68f8845d718738bb09c9dd25fb00706ebe967afd2",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/amsonia-longiflora/inat-623082642.jpg",
@@ -107,7 +112,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8cf8d09ec18aac54b0ac84f18d10d211c9fcf3cb",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -115,7 +120,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 342184843 and photo 623082642 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 d7be08236e887907a235184fd2b87605c36b42b8bc8da825e7cdbd64d69623d1; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/623082642/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Amsonia longiflora' matches this Apocynaceae species card amsonia-longiflora. Specialist morphology/field characters deferred.",
-      "sha256": "d7be08236e887907a235184fd2b87605c36b42b8bc8da825e7cdbd64d69623d1"
+      "sha256": "d7be08236e887907a235184fd2b87605c36b42b8bc8da825e7cdbd64d69623d1",
+      "display_sha256": "2a81a099ee6530e30b2661ff08f428af787e80c0c2974b0baa4244edd722aeb0",
+      "display_blob_sha": "6680908a6ea3c875b3a36db515ddada2a0022b1b",
+      "display_original_site_sha256": "d7be08236e887907a235184fd2b87605c36b42b8bc8da825e7cdbd64d69623d1",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/amsonia-longiflora/inat-633418580.jpg",
@@ -126,7 +136,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "50276ba10b56684b8f509b05cdd660c1fc6e9aed",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -134,7 +144,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 347404666 and photo 633418580 checked individually for current cc-by rights, creator from live exact-photo attribution, and identical SHA256 6f1a57cd327466a8f768e32b97eb62ecec774bee6baa62062801acbfef2dedd9; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/633418580/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Amsonia longiflora salpignantha' matches this Apocynaceae species card amsonia-longiflora. Specialist morphology/field characters deferred.",
-      "sha256": "6f1a57cd327466a8f768e32b97eb62ecec774bee6baa62062801acbfef2dedd9"
+      "sha256": "6f1a57cd327466a8f768e32b97eb62ecec774bee6baa62062801acbfef2dedd9",
+      "display_sha256": "9564dcab6992075ba9be534ccb431590dee0a062f13d72b4066e2d6513e2499a",
+      "display_blob_sha": "193c804f71b6535dfdb97a7fe252e78763a563cf",
+      "display_original_site_sha256": "6f1a57cd327466a8f768e32b97eb62ecec774bee6baa62062801acbfef2dedd9",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/amsonia-longiflora/inat-633418743.jpg",
@@ -145,7 +160,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "ce3fb896d2d08222eb7cf2d591cccb87e2845a8c",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -153,7 +168,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 347404697 and photo 633418743 checked individually for current cc-by rights, creator from live exact-photo attribution, and identical SHA256 78329f60d127af9c04aa68ee22212bb965035765c05c6349dfc76befa842a113; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/633418743/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Amsonia longiflora salpignantha' matches this Apocynaceae species card amsonia-longiflora. Specialist morphology/field characters deferred.",
-      "sha256": "78329f60d127af9c04aa68ee22212bb965035765c05c6349dfc76befa842a113"
+      "sha256": "78329f60d127af9c04aa68ee22212bb965035765c05c6349dfc76befa842a113",
+      "display_sha256": "3578d40b399214c67084dfebf881f807cb43317092ae91ba6b9af33c2c8b77cc",
+      "display_blob_sha": "fa5d2897330a4854dd38f9e33f6ab7ac87972472",
+      "display_original_site_sha256": "78329f60d127af9c04aa68ee22212bb965035765c05c6349dfc76befa842a113",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/amsonia-longiflora/inat-634043583.jpg",
@@ -164,7 +184,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "10840c07c2326d9c707448360aab55eec70ba3b1",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -172,7 +192,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 347717715 and photo 634043583 checked individually for current cc-by rights, creator from live exact-photo attribution, and identical SHA256 af9ac3c6b467dfe5c79ad1ebf42e13cbb54f346d0564c43ff1f93ea1587a4d98; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/634043583/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Amsonia longiflora' matches this Apocynaceae species card amsonia-longiflora. Specialist morphology/field characters deferred.",
-      "sha256": "af9ac3c6b467dfe5c79ad1ebf42e13cbb54f346d0564c43ff1f93ea1587a4d98"
+      "sha256": "af9ac3c6b467dfe5c79ad1ebf42e13cbb54f346d0564c43ff1f93ea1587a4d98",
+      "display_sha256": "4d4b9f154c8c6b23ac7f1b09e2b09267012eb63ddb3ad9c0edbf3fb67effbc3c",
+      "display_blob_sha": "9ce48dfbb75c7552c393a115098cb94b2ac0a35b",
+      "display_original_site_sha256": "af9ac3c6b467dfe5c79ad1ebf42e13cbb54f346d0564c43ff1f93ea1587a4d98",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

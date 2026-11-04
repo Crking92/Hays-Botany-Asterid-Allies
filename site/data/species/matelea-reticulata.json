@@ -68,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "50242d99f089c7deaee7004138ff7b6ad5193dae",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -76,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 344550160 and photo 627803111 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 5ce6f647429188c7d7681df4c0676f4523e5130e4f0a45a2b64c962b4950b65b; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/627803111/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Matelea reticulata' matches this Apocynaceae species card matelea-reticulata. Specialist morphology/field characters deferred.",
-      "sha256": "5ce6f647429188c7d7681df4c0676f4523e5130e4f0a45a2b64c962b4950b65b"
+      "sha256": "5ce6f647429188c7d7681df4c0676f4523e5130e4f0a45a2b64c962b4950b65b",
+      "display_sha256": "06fb9b0a1ef75079f2bb7430b1bc84b96498a745a1e16c046c37ce760c140107",
+      "display_blob_sha": "fadc13ed5b7f01967a09afec07e8f43c76808dfb",
+      "display_original_site_sha256": "5ce6f647429188c7d7681df4c0676f4523e5130e4f0a45a2b64c962b4950b65b",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/matelea-reticulata/inat-628178646.jpg",
@@ -87,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "09e270436a426abc86f83f0694567d57e16ffd65",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -95,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 344748257 and photo 628178646 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 d1034912dd2ad0fed00d799c8923cf9aa10ca446c2d41298b495becf2c02571a; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/628178646/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Matelea reticulata' matches this Apocynaceae species card matelea-reticulata. Specialist morphology/field characters deferred.",
-      "sha256": "d1034912dd2ad0fed00d799c8923cf9aa10ca446c2d41298b495becf2c02571a"
+      "sha256": "d1034912dd2ad0fed00d799c8923cf9aa10ca446c2d41298b495becf2c02571a",
+      "display_sha256": "7a51230e969adaec15eb415325886b7222fb05a111863f033ce3aa37de212d58",
+      "display_blob_sha": "e86814ee1e0a4f2830110074ba462203b262e9c4",
+      "display_original_site_sha256": "d1034912dd2ad0fed00d799c8923cf9aa10ca446c2d41298b495becf2c02571a",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/matelea-reticulata/inat-628281759.jpg",
@@ -144,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6c6aadf7e7ead03eda89ec7cc35d5c6a624b2b2b",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -152,7 +162,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 346232736 and photo 631097161 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 b2b3d1371cb312ac39cdeb9a0cb33e35beee3b5c7e3da7c0337dbd28d2e39df8; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/631097161/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Matelea reticulata' matches this Apocynaceae species card matelea-reticulata. Specialist morphology/field characters deferred.",
-      "sha256": "b2b3d1371cb312ac39cdeb9a0cb33e35beee3b5c7e3da7c0337dbd28d2e39df8"
+      "sha256": "b2b3d1371cb312ac39cdeb9a0cb33e35beee3b5c7e3da7c0337dbd28d2e39df8",
+      "display_sha256": "6612095c19bc09cf7c31a9604b07422ff269e8679c396b3092aece0511c3b9a1",
+      "display_blob_sha": "87c9ddfb3768f1c51bae1c239c50c6ee4d70742a",
+      "display_original_site_sha256": "b2b3d1371cb312ac39cdeb9a0cb33e35beee3b5c7e3da7c0337dbd28d2e39df8",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

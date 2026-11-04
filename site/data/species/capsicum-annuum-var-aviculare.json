@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "996a7359e0213c46dc579e8233f0e5a4f7810a33",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 80521002, photo 131982243, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 217116bd528f08f0ed22f7d0a94a8b1831949f3466024a6bcd9a2de5fb2965bb.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Capsicum annuum glabriusculum maps to indexed species capsicum-annuum-var-aviculare; specialist morphology and BONAP range deferred.",
-      "sha256": "217116bd528f08f0ed22f7d0a94a8b1831949f3466024a6bcd9a2de5fb2965bb"
+      "sha256": "217116bd528f08f0ed22f7d0a94a8b1831949f3466024a6bcd9a2de5fb2965bb",
+      "display_sha256": "4d8b9652d455d50ba88c57d21d051ba4a8582414e629855f59d0ed06dba3fe90",
+      "display_blob_sha": "5fdc1d2fd27ccd0a3996971ce272ae7fe04aa5f7",
+      "display_original_site_sha256": "217116bd528f08f0ed22f7d0a94a8b1831949f3466024a6bcd9a2de5fb2965bb",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/capsicum-annuum-var-aviculare/inat-183354988.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7f0732f6a8f978a4cf86b26fae8a8c4ff81c7cfa",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 108853766, photo 183354988, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 270f8e2330361d51fe411933925edd275d7854be4393c81141f10e031c31a3b5.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Capsicum annuum glabriusculum maps to indexed species capsicum-annuum-var-aviculare; specialist morphology and BONAP range deferred.",
-      "sha256": "270f8e2330361d51fe411933925edd275d7854be4393c81141f10e031c31a3b5"
+      "sha256": "270f8e2330361d51fe411933925edd275d7854be4393c81141f10e031c31a3b5",
+      "display_sha256": "ee056c41419317c57af11994f758895bda714081a0323a2d090e11b5e074ac07",
+      "display_blob_sha": "6359e93da270cd343d7739b75a9af6138104c598",
+      "display_original_site_sha256": "270f8e2330361d51fe411933925edd275d7854be4393c81141f10e031c31a3b5",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/capsicum-annuum-var-aviculare/inat-185612616.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7acd4f086fdfefc3fbf008ff0c77c6b937042761",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 110064845, photo 185612616, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b7fbb9b6ed886b24e40090e0625ccbddfbd117cc14bbfc00f0c2d1f600dc3ec1.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Capsicum annuum glabriusculum maps to indexed species capsicum-annuum-var-aviculare; specialist morphology and BONAP range deferred.",
-      "sha256": "b7fbb9b6ed886b24e40090e0625ccbddfbd117cc14bbfc00f0c2d1f600dc3ec1"
+      "sha256": "b7fbb9b6ed886b24e40090e0625ccbddfbd117cc14bbfc00f0c2d1f600dc3ec1",
+      "display_sha256": "16c43475f52ff69828d910e12b7769ed943a79b5a37a3e9b92ca32ae5ed2854b",
+      "display_blob_sha": "70ce690ba307b032217003d27abdd23652f5762b",
+      "display_original_site_sha256": "b7fbb9b6ed886b24e40090e0625ccbddfbd117cc14bbfc00f0c2d1f600dc3ec1",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/capsicum-annuum-var-aviculare/inat-191133722.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5e9ff443f7935ceed82ec8db358f60adfde1a9f7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 113125476, photo 191133722, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ab84314e4c26dfa49cd9a14190d9e32de3a3b7137e1015f1be14fd54ef55a7c4.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Capsicum annuum glabriusculum maps to indexed species capsicum-annuum-var-aviculare; specialist morphology and BONAP range deferred.",
-      "sha256": "ab84314e4c26dfa49cd9a14190d9e32de3a3b7137e1015f1be14fd54ef55a7c4"
+      "sha256": "ab84314e4c26dfa49cd9a14190d9e32de3a3b7137e1015f1be14fd54ef55a7c4",
+      "display_sha256": "de355f43d45b1579d179a43896ed9dda2e0b8a5e0f0623c98a18b30e4e6283b4",
+      "display_blob_sha": "1b871437be95a48d3e8791ae936f1bacfe8223cb",
+      "display_original_site_sha256": "ab84314e4c26dfa49cd9a14190d9e32de3a3b7137e1015f1be14fd54ef55a7c4",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/capsicum-annuum-var-aviculare/inat-303723327.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "aff69be83b32293c1c81aa4198f0c7f9e8df27af",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 174802684, photo 303723327, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5c44c9a9bb6d69832c1610831ebe64d29f0591344707b8e27d546ffe49516d9f.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Capsicum annuum glabriusculum maps to indexed species capsicum-annuum-var-aviculare; specialist morphology and BONAP range deferred.",
-      "sha256": "5c44c9a9bb6d69832c1610831ebe64d29f0591344707b8e27d546ffe49516d9f"
+      "sha256": "5c44c9a9bb6d69832c1610831ebe64d29f0591344707b8e27d546ffe49516d9f",
+      "display_sha256": "2ec21ce864f3617eeb921b8321488d5938f0c2e241e9d0a8385ca990c5e41dbf",
+      "display_blob_sha": "0cd29fa399cdbd443971e29a4d8cf4380ed566c4",
+      "display_original_site_sha256": "5c44c9a9bb6d69832c1610831ebe64d29f0591344707b8e27d546ffe49516d9f",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/capsicum-annuum-var-aviculare/archived-49671e6e69b4bb9c.jpg",

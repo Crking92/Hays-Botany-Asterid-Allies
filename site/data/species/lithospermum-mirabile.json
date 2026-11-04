@@ -58,7 +58,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "dd38c9535eca34cf8cdc36afd0237666a58c5664",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -66,7 +66,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 268276220 and photo 482398659 checked individually for current cc-by rights, creator from live exact-photo attribution, and identical SHA256 b06629c9586c1d96add6f6b13f5aecb27ce3f51901232c6808bb5849a07c49f9; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/482398659/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Lithospermum mirabile' matches this Cactaceae species card lithospermum-mirabile. Specialist morphology/field characters deferred.",
-      "sha256": "b06629c9586c1d96add6f6b13f5aecb27ce3f51901232c6808bb5849a07c49f9"
+      "sha256": "b06629c9586c1d96add6f6b13f5aecb27ce3f51901232c6808bb5849a07c49f9",
+      "display_sha256": "4d6d701f9be3997842d3ab0f64cdd37bd2807866ed37e5ce52d07f0e48daf97d",
+      "display_blob_sha": "a44886d2b621707da8aa537176e97de338c5acc0",
+      "display_original_site_sha256": "b06629c9586c1d96add6f6b13f5aecb27ce3f51901232c6808bb5849a07c49f9",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lithospermum-mirabile/inat-650537142.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1828480d7b4db9f8de4be5f0c00600f161135355",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 356715089 and photo 650537142 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 ddfe0c065442e2f55aad56993a514ca7417547fa230fa750062649b4ab781f9f; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/650537142/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Lithospermum mirabile' matches this Cactaceae species card lithospermum-mirabile. Specialist morphology/field characters deferred.",
-      "sha256": "ddfe0c065442e2f55aad56993a514ca7417547fa230fa750062649b4ab781f9f"
+      "sha256": "ddfe0c065442e2f55aad56993a514ca7417547fa230fa750062649b4ab781f9f",
+      "display_sha256": "ec4dadddb1d4cbea853cc194c8506f3d7209bf83f7fd9cb05e0c1d4eb1ee6ddf",
+      "display_blob_sha": "ce75b57f0ca43c374f564190da3256c79e837c83",
+      "display_original_site_sha256": "ddfe0c065442e2f55aad56993a514ca7417547fa230fa750062649b4ab781f9f",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lithospermum-mirabile/inat-651053354.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e818b73f047518fad7dab50dc5f373472d992cce",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 356987397 and photo 651053354 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 5571e33e062dfa22c795cf57e3c01838700789d769fea1d82cf958a49ab4c616; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/651053354/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Lithospermum mirabile' matches this Cactaceae species card lithospermum-mirabile. Specialist morphology/field characters deferred.",
-      "sha256": "5571e33e062dfa22c795cf57e3c01838700789d769fea1d82cf958a49ab4c616"
+      "sha256": "5571e33e062dfa22c795cf57e3c01838700789d769fea1d82cf958a49ab4c616",
+      "display_sha256": "d81e221277f13b03548cfd91130afc36adc6eda942c9723efa74ebe82d7591dd",
+      "display_blob_sha": "d59f7634ba72dfb4c88638e8d5495595baf3f585",
+      "display_original_site_sha256": "5571e33e062dfa22c795cf57e3c01838700789d769fea1d82cf958a49ab4c616",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -57,7 +57,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3951414ef9e609da04aae52672aaa3727931aa1b",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -65,7 +65,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 343687093 and photo 626112396 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 4936fe81f758f9725ba7a0b4bac2e1ac0d238693e1488a1fa6474e66c0632181; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/626112396/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Matelea biflora' directly matches or is an evidence-backed synonym of Apocynaceae card chthamalia-biflora (Kew POWO taxonomy documented in this verifier). Specialist morphology/field characters deferred.",
-      "sha256": "4936fe81f758f9725ba7a0b4bac2e1ac0d238693e1488a1fa6474e66c0632181"
+      "sha256": "4936fe81f758f9725ba7a0b4bac2e1ac0d238693e1488a1fa6474e66c0632181",
+      "display_sha256": "32c57a94c86d5adcb61759c671e92cb19069dbc6bfa2c71b65ba07828656e1a6",
+      "display_blob_sha": "c28d4b1cbbc1058b21a3eff16fd903dbf94b8706",
+      "display_original_site_sha256": "4936fe81f758f9725ba7a0b4bac2e1ac0d238693e1488a1fa6474e66c0632181",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/chthamalia-biflora/inat-626393742.jpg",
@@ -76,7 +81,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e8a13ae0199029175e146228db4b39df299980ed",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -84,7 +89,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 343828966 and photo 626393742 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 719802d7568ac9a7373338d6c7c0940ddd0926f3c770df8532a894a6cf741135; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/626393742/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Matelea biflora' directly matches or is an evidence-backed synonym of Apocynaceae card chthamalia-biflora (Kew POWO taxonomy documented in this verifier). Specialist morphology/field characters deferred.",
-      "sha256": "719802d7568ac9a7373338d6c7c0940ddd0926f3c770df8532a894a6cf741135"
+      "sha256": "719802d7568ac9a7373338d6c7c0940ddd0926f3c770df8532a894a6cf741135",
+      "display_sha256": "a91ee6f65ae00c5315a9ef483cea8cf941141a842f6d2f70397bb8ee5cefa064",
+      "display_blob_sha": "ba9623e378597b7728975ca8fc7df0b3de13890f",
+      "display_original_site_sha256": "719802d7568ac9a7373338d6c7c0940ddd0926f3c770df8532a894a6cf741135",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/chthamalia-biflora/inat-640233261.jpg",
@@ -95,7 +105,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "564f4f9a7deb5d23552ffe28ef6436e46a492a31",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -103,7 +113,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 350867447 and photo 640233261 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 ef1f8d66493c6b524e2d61755d30a247142713c5ee88574dd473f503a2dd0bed; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/640233261/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Matelea biflora' directly matches or is an evidence-backed synonym of Apocynaceae card chthamalia-biflora (Kew POWO taxonomy documented in this verifier). Specialist morphology/field characters deferred.",
-      "sha256": "ef1f8d66493c6b524e2d61755d30a247142713c5ee88574dd473f503a2dd0bed"
+      "sha256": "ef1f8d66493c6b524e2d61755d30a247142713c5ee88574dd473f503a2dd0bed",
+      "display_sha256": "f7993f517b02a8e01f7f4e03ab96e43365d61b9d90c2ac9f4b12cb7b851b2b6f",
+      "display_blob_sha": "95d72f69d58ce92cb29b739ca3d1cb1544b60491",
+      "display_original_site_sha256": "ef1f8d66493c6b524e2d61755d30a247142713c5ee88574dd473f503a2dd0bed",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/chthamalia-biflora/inat-644440227.jpg",
@@ -114,7 +129,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "329c80fa5f144b6c91352df5caeed4de5c3719bd",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -122,7 +137,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 353166187 and photo 644440227 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 53d06631eba384f14e21e5ff85e5f7700fbe897edf74c7f01e48f51235edc618; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/644440227/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Matelea biflora' directly matches or is an evidence-backed synonym of Apocynaceae card chthamalia-biflora (Kew POWO taxonomy documented in this verifier). Specialist morphology/field characters deferred.",
-      "sha256": "53d06631eba384f14e21e5ff85e5f7700fbe897edf74c7f01e48f51235edc618"
+      "sha256": "53d06631eba384f14e21e5ff85e5f7700fbe897edf74c7f01e48f51235edc618",
+      "display_sha256": "34e0224f957faf8f4206488fbadb35407d5cbb45fc51e667cd6a10271331755d",
+      "display_blob_sha": "464c437208d746890514d533fc7b95aa43247d82",
+      "display_original_site_sha256": "53d06631eba384f14e21e5ff85e5f7700fbe897edf74c7f01e48f51235edc618",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/chthamalia-biflora/inat-644486528.jpg",
@@ -133,7 +153,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6376a553146c92538c1c4d3ef8ed6cd1367641a0",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -141,7 +161,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 353191513 and photo 644486528 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 ae212ddb4ed5aed749396de36c09f0bc029f8a5314d8721a7fa64b6ad3a38046; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/644486528/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Matelea biflora' directly matches or is an evidence-backed synonym of Apocynaceae card chthamalia-biflora (Kew POWO taxonomy documented in this verifier). Specialist morphology/field characters deferred.",
-      "sha256": "ae212ddb4ed5aed749396de36c09f0bc029f8a5314d8721a7fa64b6ad3a38046"
+      "sha256": "ae212ddb4ed5aed749396de36c09f0bc029f8a5314d8721a7fa64b6ad3a38046",
+      "display_sha256": "82da4546325689ef3010612ba202343101acfa6a0e61a9ea4a85d7d9c5122f80",
+      "display_blob_sha": "bd9ce83b326d80bd8cc302fc15cad34c2fef7da0",
+      "display_original_site_sha256": "ae212ddb4ed5aed749396de36c09f0bc029f8a5314d8721a7fa64b6ad3a38046",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

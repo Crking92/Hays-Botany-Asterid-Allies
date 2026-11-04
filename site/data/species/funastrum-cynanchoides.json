@@ -120,7 +120,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c195f98fd6960a5fde32fc9735c7c0e18b76cf43",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -128,7 +128,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 74278637 and photo 121377712 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 fabb643c8fd58ff6de54b42989e11a30597dbaf9db1052e507b338eddb31fec7; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/121377712/original.jpeg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Funastrum cynanchoides' matches this Apocynaceae species card funastrum-cynanchoides. Specialist morphology/field characters deferred.",
-      "sha256": "fabb643c8fd58ff6de54b42989e11a30597dbaf9db1052e507b338eddb31fec7"
+      "sha256": "fabb643c8fd58ff6de54b42989e11a30597dbaf9db1052e507b338eddb31fec7",
+      "display_sha256": "479def7aa6c0210a592851939cab3284892e14ca2310ae38dc9ee96b29d2cf6a",
+      "display_blob_sha": "08d368a83b6b43b356ce9e457576d766b59b4e90",
+      "display_original_site_sha256": "fabb643c8fd58ff6de54b42989e11a30597dbaf9db1052e507b338eddb31fec7",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/funastrum-cynanchoides/inat-198883449.jpg",
@@ -139,7 +144,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f38e8c9e1928291bc31f7490794ba602d6ca5e48",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -147,7 +152,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 117745800 and photo 198883449 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 c70274aba2497d6835c48eb8a6545e9278820bdc0fa976fcc447b85db76ad3f2; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/198883449/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Funastrum cynanchoides' matches this Apocynaceae species card funastrum-cynanchoides. Specialist morphology/field characters deferred.",
-      "sha256": "c70274aba2497d6835c48eb8a6545e9278820bdc0fa976fcc447b85db76ad3f2"
+      "sha256": "c70274aba2497d6835c48eb8a6545e9278820bdc0fa976fcc447b85db76ad3f2",
+      "display_sha256": "9e944ecacf04e9e6ee183f609b25ba6546404962a461b2de2ea4d0196c2ecfe1",
+      "display_blob_sha": "fd9b9b32de5052161c544a448fa8aa092e352210",
+      "display_original_site_sha256": "c70274aba2497d6835c48eb8a6545e9278820bdc0fa976fcc447b85db76ad3f2",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/funastrum-cynanchoides/inat-559875633.jpg",
@@ -158,7 +168,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "aac569c59fe0da9905cababfa9940ac06c16e60c",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -166,7 +176,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 310226239 and photo 559875633 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 c2adcb8a8f6dcfe01ffad84a8d3831abad08c6262418ffaccb79ff5a25247fff; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/559875633/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Funastrum cynanchoides' matches this Apocynaceae species card funastrum-cynanchoides. Specialist morphology/field characters deferred.",
-      "sha256": "c2adcb8a8f6dcfe01ffad84a8d3831abad08c6262418ffaccb79ff5a25247fff"
+      "sha256": "c2adcb8a8f6dcfe01ffad84a8d3831abad08c6262418ffaccb79ff5a25247fff",
+      "display_sha256": "3bfcc0ce22264ff474873f29a8332eed18a943d8f0fca29201f18028cd0ad8a3",
+      "display_blob_sha": "3027d46e3441830d7d72d2393cfe5c6e47b3bfc1",
+      "display_original_site_sha256": "c2adcb8a8f6dcfe01ffad84a8d3831abad08c6262418ffaccb79ff5a25247fff",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/funastrum-cynanchoides/inat-649068675.jpg",
@@ -177,7 +192,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "38111fe6314e4025e73cfd303b400c9a973b902f",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -185,7 +200,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 355922688 and photo 649068675 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 7b3cbd40b23b12f787c7e52d55320ae5e533f8eb4127deeccb5dcfd50d4db0b1; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/649068675/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Funastrum cynanchoides' matches this Apocynaceae species card funastrum-cynanchoides. Specialist morphology/field characters deferred.",
-      "sha256": "7b3cbd40b23b12f787c7e52d55320ae5e533f8eb4127deeccb5dcfd50d4db0b1"
+      "sha256": "7b3cbd40b23b12f787c7e52d55320ae5e533f8eb4127deeccb5dcfd50d4db0b1",
+      "display_sha256": "69d25319239442a182841fba030b844af763792fefa02c0226edef52b83cb837",
+      "display_blob_sha": "c99801815485cc020abe8a3d33748c532c619541",
+      "display_original_site_sha256": "7b3cbd40b23b12f787c7e52d55320ae5e533f8eb4127deeccb5dcfd50d4db0b1",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/funastrum-cynanchoides/inat-699163075.jpg",
@@ -196,7 +216,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e4ede60796f302933173ef3bdd808075f509056d",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -204,7 +224,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 382069883 and photo 699163075 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 12c836d8ad74344930fbf1bfa33e3bb063e594c85dd26ba4561a9f8d4aaa0ac1; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/699163075/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Funastrum cynanchoides' matches this Apocynaceae species card funastrum-cynanchoides. Specialist morphology/field characters deferred.",
-      "sha256": "12c836d8ad74344930fbf1bfa33e3bb063e594c85dd26ba4561a9f8d4aaa0ac1"
+      "sha256": "12c836d8ad74344930fbf1bfa33e3bb063e594c85dd26ba4561a9f8d4aaa0ac1",
+      "display_sha256": "165fb1f698b10958be9e05630e730e61a008ee71349ae66fe635e9d785126427",
+      "display_blob_sha": "39749ac9d00383f1b3e127ffe2f18e58ff48b01e",
+      "display_original_site_sha256": "12c836d8ad74344930fbf1bfa33e3bb063e594c85dd26ba4561a9f8d4aaa0ac1",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

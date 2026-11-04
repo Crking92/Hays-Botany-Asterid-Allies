@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e3dc79fb9656e7d076be8999b0bec1d092f06035",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 342299732 and photo 623316099 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 3cb8dea6c38db2f474001a0e4765d45517440002d57242fb6249a0bc9c5f587d; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/623316099/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Nemophila phacelioides' matches this Cactaceae species card nemophila-phacelioides. Specialist morphology/field characters deferred.",
-      "sha256": "3cb8dea6c38db2f474001a0e4765d45517440002d57242fb6249a0bc9c5f587d"
+      "sha256": "3cb8dea6c38db2f474001a0e4765d45517440002d57242fb6249a0bc9c5f587d",
+      "display_sha256": "c9c5aa563ebb4a39da8cceef3e7874621348bca1820190f0d6e1aab873731490",
+      "display_blob_sha": "88b571b6decb1b1328be93d94f22d3b012c18c49",
+      "display_original_site_sha256": "3cb8dea6c38db2f474001a0e4765d45517440002d57242fb6249a0bc9c5f587d",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nemophila-phacelioides/inat-623419173.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "31f5eedc11b7aa0d0e94f2f8c0564e06ee5696f9",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 342350130 and photo 623419173 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 9cc6db3b6df2d31860aeb1df71bd448729fcf74b4c8131b96e5bcd8ec6fa47aa; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/623419173/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Nemophila phacelioides' matches this Cactaceae species card nemophila-phacelioides. Specialist morphology/field characters deferred.",
-      "sha256": "9cc6db3b6df2d31860aeb1df71bd448729fcf74b4c8131b96e5bcd8ec6fa47aa"
+      "sha256": "9cc6db3b6df2d31860aeb1df71bd448729fcf74b4c8131b96e5bcd8ec6fa47aa",
+      "display_sha256": "f83ed9bf724978d84b098e0bcdba58c62ff5e25b8a0c746cf6ea141c250d0b2e",
+      "display_blob_sha": "03ac4ee782c04f22a6c0d2132d1e4cb20ae42638",
+      "display_original_site_sha256": "9cc6db3b6df2d31860aeb1df71bd448729fcf74b4c8131b96e5bcd8ec6fa47aa",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nemophila-phacelioides/inat-623728774.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "72f425449d20f3b002b4110264d2513c06bf8f7b",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 342501863 and photo 623728774 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 fb8fc3cb30bed5b1063ec236a38ba4c62f6a1099796c63d6f331a3db8787461a; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/623728774/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Nemophila phacelioides' matches this Cactaceae species card nemophila-phacelioides. Specialist morphology/field characters deferred.",
-      "sha256": "fb8fc3cb30bed5b1063ec236a38ba4c62f6a1099796c63d6f331a3db8787461a"
+      "sha256": "fb8fc3cb30bed5b1063ec236a38ba4c62f6a1099796c63d6f331a3db8787461a",
+      "display_sha256": "ebc6e707f483b58fed5fd7d5222c9fe441ad3bcaf10d3a62872264c77e8f9bad",
+      "display_blob_sha": "e188c46abaa51fcdc809ed3b74fb79796e7f7dd4",
+      "display_original_site_sha256": "fb8fc3cb30bed5b1063ec236a38ba4c62f6a1099796c63d6f331a3db8787461a",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nemophila-phacelioides/inat-624211817.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "da513e30160f98aa8daea3844e784bceba17d64b",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 342749936 and photo 624211817 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 ef879a62e1e7a8d1f71fc5174f7f225d37a1139dbcc088aef8f2bdf1ba9b7afa; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/624211817/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Nemophila phacelioides' matches this Cactaceae species card nemophila-phacelioides. Specialist morphology/field characters deferred.",
-      "sha256": "ef879a62e1e7a8d1f71fc5174f7f225d37a1139dbcc088aef8f2bdf1ba9b7afa"
+      "sha256": "ef879a62e1e7a8d1f71fc5174f7f225d37a1139dbcc088aef8f2bdf1ba9b7afa",
+      "display_sha256": "ea5d4ae81d7684531e49c5e43052197ded787dd98ef31399819a8c4b3b0a3516",
+      "display_blob_sha": "4330f8e4eace0d89bfe5b9ebc971a8d950f21168",
+      "display_original_site_sha256": "ef879a62e1e7a8d1f71fc5174f7f225d37a1139dbcc088aef8f2bdf1ba9b7afa",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nemophila-phacelioides/inat-624219238.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cf9f2edc9be96c167b79cfb88244651e373fd967",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 342753904 and photo 624219238 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 3598b5265f7f64845d9666f91a53f20f230d854354ae64afcee560ff020578ad; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/624219238/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Nemophila phacelioides' matches this Cactaceae species card nemophila-phacelioides. Specialist morphology/field characters deferred.",
-      "sha256": "3598b5265f7f64845d9666f91a53f20f230d854354ae64afcee560ff020578ad"
+      "sha256": "3598b5265f7f64845d9666f91a53f20f230d854354ae64afcee560ff020578ad",
+      "display_sha256": "f699552209bd2fe42239ef2862b87b6cae3a489db61b2938996715bf6cc3d2d0",
+      "display_blob_sha": "95ce505cffcd14d297f41aeb63a8fe12ac07b025",
+      "display_original_site_sha256": "3598b5265f7f64845d9666f91a53f20f230d854354ae64afcee560ff020578ad",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

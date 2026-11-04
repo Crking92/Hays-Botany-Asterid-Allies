@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6268c90636ff37fabc88baad709a97acd0a58b8b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 347698761, photo 634004287, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fcbb590ffaa0044e284d3df400bedfb6ceeaf66fa608714097541c7e15c1ad30.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Datura wrightii maps to indexed species datura-wrightii; specialist morphology and BONAP range deferred.",
-      "sha256": "fcbb590ffaa0044e284d3df400bedfb6ceeaf66fa608714097541c7e15c1ad30"
+      "sha256": "fcbb590ffaa0044e284d3df400bedfb6ceeaf66fa608714097541c7e15c1ad30",
+      "display_sha256": "925cfeccd51a2539eca810662097c681a20bf68ef3b1677da7365ab34f1bd041",
+      "display_blob_sha": "79b323bca7f51c6ee985362b05beb79bbb29ff41",
+      "display_original_site_sha256": "fcbb590ffaa0044e284d3df400bedfb6ceeaf66fa608714097541c7e15c1ad30",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/datura-wrightii/inat-639293016.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bae4ae4ca5fa9bb1b945df317be32f2470638e80",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 350388747, photo 639293016, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 575896252b835ef4400015ef7c2be0c8d86b6b5bed1c5e1af0dab87b118cc0dc.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Datura wrightii maps to indexed species datura-wrightii; specialist morphology and BONAP range deferred.",
-      "sha256": "575896252b835ef4400015ef7c2be0c8d86b6b5bed1c5e1af0dab87b118cc0dc"
+      "sha256": "575896252b835ef4400015ef7c2be0c8d86b6b5bed1c5e1af0dab87b118cc0dc",
+      "display_sha256": "477427483ea99e48258a46c947fc670e43718b3e31e200c642529b4305765c78",
+      "display_blob_sha": "cd8bef77cede8a0a31806c81b3382924ed64c8ce",
+      "display_original_site_sha256": "575896252b835ef4400015ef7c2be0c8d86b6b5bed1c5e1af0dab87b118cc0dc",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/datura-wrightii/inat-643110550.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f8c400d206f7e61dec30067420ca0205bba41e4d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 352356753, photo 643110550, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d5ae12c6ea4f3eb20905d30086692b292fe999db9d480e5ed4393c8ede0332d2.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Datura wrightii maps to indexed species datura-wrightii; specialist morphology and BONAP range deferred.",
-      "sha256": "d5ae12c6ea4f3eb20905d30086692b292fe999db9d480e5ed4393c8ede0332d2"
+      "sha256": "d5ae12c6ea4f3eb20905d30086692b292fe999db9d480e5ed4393c8ede0332d2",
+      "display_sha256": "76aa3356e9ce8da2a9673fedc5d676f1ce18141a59fa88a83b638fc0944781d2",
+      "display_blob_sha": "660fbeff039f82fe681cf4eb1ebde61f90aa0ead",
+      "display_original_site_sha256": "d5ae12c6ea4f3eb20905d30086692b292fe999db9d480e5ed4393c8ede0332d2",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/datura-wrightii/inat-643834708.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e9bd32424292fb7cd7fc0077358b11944d676d61",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 352810025, photo 643834708, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2d9e005bec5b394e8503cb0c72cedfcb3b42ee75d690b58aa87f322d0c366a94.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Datura wrightii maps to indexed species datura-wrightii; specialist morphology and BONAP range deferred.",
-      "sha256": "2d9e005bec5b394e8503cb0c72cedfcb3b42ee75d690b58aa87f322d0c366a94"
+      "sha256": "2d9e005bec5b394e8503cb0c72cedfcb3b42ee75d690b58aa87f322d0c366a94",
+      "display_sha256": "289624b6932132149cd226825c46288d79d97ae7bbe29067435523381e77973d",
+      "display_blob_sha": "e069352f5f67f6dfa3aed063a487bf1fbd9c2033",
+      "display_original_site_sha256": "2d9e005bec5b394e8503cb0c72cedfcb3b42ee75d690b58aa87f322d0c366a94",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/datura-wrightii/inat-676794863.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b5a9ad67951528adb9f034ef3757008bcb25591b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 370475552, photo 676794863, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f8fc30608241000a671d7066b5a42bd442599b0d3c0ac3d5f75c858d12642b15.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Datura wrightii maps to indexed species datura-wrightii; specialist morphology and BONAP range deferred.",
-      "sha256": "f8fc30608241000a671d7066b5a42bd442599b0d3c0ac3d5f75c858d12642b15"
+      "sha256": "f8fc30608241000a671d7066b5a42bd442599b0d3c0ac3d5f75c858d12642b15",
+      "display_sha256": "c6e6e7c3c4b559625b62254ea3edb703c7e218b5a4708c11a811225d9a87df15",
+      "display_blob_sha": "5dcd07d99f997697e3f5c115008ffca96c095be8",
+      "display_original_site_sha256": "f8fc30608241000a671d7066b5a42bd442599b0d3c0ac3d5f75c858d12642b15",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/datura-wrightii/archived-7fc35996629a94ce.jpg",

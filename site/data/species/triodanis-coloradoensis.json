@@ -41,7 +41,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d5e3f9b4a9eb36a58ab715f2ac925215beeb7503",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -49,7 +49,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 349147115, photo 636871572, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ea2bda6adde574a863ecf1fbd22623915509b34dbf3d9c0c9740fb9c3b36701c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Triodanis coloradoensis maps to indexed species triodanis-coloradoensis; specialist morphology and BONAP range deferred.",
-      "sha256": "ea2bda6adde574a863ecf1fbd22623915509b34dbf3d9c0c9740fb9c3b36701c"
+      "sha256": "ea2bda6adde574a863ecf1fbd22623915509b34dbf3d9c0c9740fb9c3b36701c",
+      "display_sha256": "c89f196552d0a99bf7540c7fa35a3f275a7abd4c1944b3056bd4cccaa311af44",
+      "display_blob_sha": "a032d17152c19c8508a8eee5c02960a8df98bb3f",
+      "display_original_site_sha256": "ea2bda6adde574a863ecf1fbd22623915509b34dbf3d9c0c9740fb9c3b36701c",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/triodanis-coloradoensis/inat-640161830.jpg",
@@ -79,7 +84,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "57cb64aae7fd007d8720dc9c4d38874d9411ab4b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -87,7 +92,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 352419712, photo 643204289, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c2df8e54b946a08ede4a0608be41dfc86865901c58e6e3108790b1c021a07a4e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Triodanis coloradoensis maps to indexed species triodanis-coloradoensis; specialist morphology and BONAP range deferred.",
-      "sha256": "c2df8e54b946a08ede4a0608be41dfc86865901c58e6e3108790b1c021a07a4e"
+      "sha256": "c2df8e54b946a08ede4a0608be41dfc86865901c58e6e3108790b1c021a07a4e",
+      "display_sha256": "976ef4233f7b4238a70d3f745cf1ddaea8d917936633a8b1dc2bbaf4c961ca27",
+      "display_blob_sha": "52d490a8ef1177942df79cd9c5d33bcf7d7ec5bc",
+      "display_original_site_sha256": "c2df8e54b946a08ede4a0608be41dfc86865901c58e6e3108790b1c021a07a4e",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/triodanis-coloradoensis/inat-649326121.jpg",
@@ -98,7 +108,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a0b394f047db94206ee72634bb424744b816dae4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -106,7 +116,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 356067279, photo 649326121, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2693b9fd3cf5d8ed29c3e0639addf3a23804298924239edef32946ecc51617dc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Triodanis coloradoensis maps to indexed species triodanis-coloradoensis; specialist morphology and BONAP range deferred.",
-      "sha256": "2693b9fd3cf5d8ed29c3e0639addf3a23804298924239edef32946ecc51617dc"
+      "sha256": "2693b9fd3cf5d8ed29c3e0639addf3a23804298924239edef32946ecc51617dc",
+      "display_sha256": "4bc91182126fbf425d9ed041e661f66894bdcdc5768b78c6a5993159f35730bc",
+      "display_blob_sha": "b6bb365defc798fddc449ab536b252c994d7f7e6",
+      "display_original_site_sha256": "2693b9fd3cf5d8ed29c3e0639addf3a23804298924239edef32946ecc51617dc",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/triodanis-coloradoensis/inat-653192841.jpg",

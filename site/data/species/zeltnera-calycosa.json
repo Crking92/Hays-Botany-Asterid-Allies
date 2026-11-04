@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b29cb299cb0e32cdacb8684421722685db3495b6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 223000107, photo 395077849, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 48881d4c8aba1ce21b1b01a281cbebdb28bde250be0a1f91a62b500e5ef11dd1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Zeltnera calycosa maps to indexed species zeltnera-calycosa; specialist morphology and BONAP range deferred.",
-      "sha256": "48881d4c8aba1ce21b1b01a281cbebdb28bde250be0a1f91a62b500e5ef11dd1"
+      "sha256": "48881d4c8aba1ce21b1b01a281cbebdb28bde250be0a1f91a62b500e5ef11dd1",
+      "display_sha256": "5753d85af696748b3dc27f6d8a03f29cf3e6c559120a7398a8016ae415201f5b",
+      "display_blob_sha": "dd08697402d31511866be3eba2da20db7c5211c1",
+      "display_original_site_sha256": "48881d4c8aba1ce21b1b01a281cbebdb28bde250be0a1f91a62b500e5ef11dd1",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/zeltnera-calycosa/inat-547111409.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c7cd059e961336cbd0c591312267ca2eb44a06e2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 303540470, photo 547111409, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ee6a103cc6f396985ed44b040cfaf66bc25753dfea60d5708867e979ac78c9c7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Zeltnera calycosa maps to indexed species zeltnera-calycosa; specialist morphology and BONAP range deferred.",
-      "sha256": "ee6a103cc6f396985ed44b040cfaf66bc25753dfea60d5708867e979ac78c9c7"
+      "sha256": "ee6a103cc6f396985ed44b040cfaf66bc25753dfea60d5708867e979ac78c9c7",
+      "display_sha256": "fa4ea2d5e97bbb8ae00c71def9d9943f87969db009059f6dedca701575f76161",
+      "display_blob_sha": "c41de27502172020bee115d74827970a50052257",
+      "display_original_site_sha256": "ee6a103cc6f396985ed44b040cfaf66bc25753dfea60d5708867e979ac78c9c7",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/zeltnera-calycosa/inat-667291540.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3e5f9ed621e2fd07927abd4e9c402eced98232b9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 365484569, photo 667291540, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 005a30668f8bce5697b297b4218ab550268d958bc84de4bcb3e9159d69f71e3a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Zeltnera calycosa maps to indexed species zeltnera-calycosa; specialist morphology and BONAP range deferred.",
-      "sha256": "005a30668f8bce5697b297b4218ab550268d958bc84de4bcb3e9159d69f71e3a"
+      "sha256": "005a30668f8bce5697b297b4218ab550268d958bc84de4bcb3e9159d69f71e3a",
+      "display_sha256": "4b70166e1df87fa6dff816672de8cf6e537c24a9ea52882886f72461aecf5e00",
+      "display_blob_sha": "58af14509d134ac2e5ad865df6f0ade0adbe50d7",
+      "display_original_site_sha256": "005a30668f8bce5697b297b4218ab550268d958bc84de4bcb3e9159d69f71e3a",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/zeltnera-calycosa/inat-678303438.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a76af392341e6881a908c621c5826b61e5231469",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 371258413, photo 678303438, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 56bc1eeb28c37c51ec10f4a2f296ce107ad4fc98d1bb9c85fab7456e974ecb4e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Zeltnera calycosa maps to indexed species zeltnera-calycosa; specialist morphology and BONAP range deferred.",
-      "sha256": "56bc1eeb28c37c51ec10f4a2f296ce107ad4fc98d1bb9c85fab7456e974ecb4e"
+      "sha256": "56bc1eeb28c37c51ec10f4a2f296ce107ad4fc98d1bb9c85fab7456e974ecb4e",
+      "display_sha256": "9b8ff560ebe6149451fdb97e07a4699b1e5fee36cba6cf7cb90fdccd7182c0d2",
+      "display_blob_sha": "c2ca7052acc6b25c7b445d2fd44c6ab8035b9edf",
+      "display_original_site_sha256": "56bc1eeb28c37c51ec10f4a2f296ce107ad4fc98d1bb9c85fab7456e974ecb4e",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

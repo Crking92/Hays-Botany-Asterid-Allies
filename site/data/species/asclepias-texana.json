@@ -68,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "d268d5f2250e36293bdaad91178f9e020108c5f8",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -76,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 345826263 and photo 630298651 checked individually for current cc-by rights, creator from live exact-photo attribution, and identical SHA256 f520424a8155433365941d81e72f6e47f44b2116a542924fa60d66ccabd97117; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/630298651/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias texana' matches this Apocynaceae species card asclepias-texana. Specialist morphology/field characters deferred.",
-      "sha256": "f520424a8155433365941d81e72f6e47f44b2116a542924fa60d66ccabd97117"
+      "sha256": "f520424a8155433365941d81e72f6e47f44b2116a542924fa60d66ccabd97117",
+      "display_sha256": "2b53247ab9a57d4faa96e811f8c1d5ac6550d20d73afc48126604cd1acb37c89",
+      "display_blob_sha": "1e5f202ca31476cd71b0bd40dd26cb415d7ee98e",
+      "display_original_site_sha256": "f520424a8155433365941d81e72f6e47f44b2116a542924fa60d66ccabd97117",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-texana/inat-633418613.jpg",
@@ -87,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "1c9e80fa65d334d2c5c5bf6c7a565198f35b01cc",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -95,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 347404674 and photo 633418613 checked individually for current cc-by rights, creator from live exact-photo attribution, and identical SHA256 59a0c5c41c98c3db865d64fdb4bbadaa2d984c4b6a9ef63854c4677169c28c18; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/633418613/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias texana' matches this Apocynaceae species card asclepias-texana. Specialist morphology/field characters deferred.",
-      "sha256": "59a0c5c41c98c3db865d64fdb4bbadaa2d984c4b6a9ef63854c4677169c28c18"
+      "sha256": "59a0c5c41c98c3db865d64fdb4bbadaa2d984c4b6a9ef63854c4677169c28c18",
+      "display_sha256": "4bd3a9f69b508f2e9c25ebf542e7565b2647b1031ecb65cb8f0b322cb0b441f5",
+      "display_blob_sha": "ecfc094c93e62a1b1001e5f1d13d19d5f008ee9c",
+      "display_original_site_sha256": "59a0c5c41c98c3db865d64fdb4bbadaa2d984c4b6a9ef63854c4677169c28c18",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-texana/inat-649373623.jpg",
@@ -106,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fa3f83cf80be3a2317f1de00804b21521f5a6ba3",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -114,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 356092939 and photo 649373623 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 45d5892aa2d9c1ba162dd135abf21b991885703f675d432db5a2c18c255f68d4; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/649373623/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias texana' matches this Apocynaceae species card asclepias-texana. Specialist morphology/field characters deferred.",
-      "sha256": "45d5892aa2d9c1ba162dd135abf21b991885703f675d432db5a2c18c255f68d4"
+      "sha256": "45d5892aa2d9c1ba162dd135abf21b991885703f675d432db5a2c18c255f68d4",
+      "display_sha256": "b98bff3f45880d23a2435782bb4484e93325d6f58cd12e58cfe5d1ab570192a1",
+      "display_blob_sha": "23057f0c9c3846d605418135402a72f3b01d3577",
+      "display_original_site_sha256": "45d5892aa2d9c1ba162dd135abf21b991885703f675d432db5a2c18c255f68d4",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-texana/inat-654490732.jpg",
@@ -125,7 +140,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6ba3bc51388a12bfd9e4f9f854e32a52d50c9671",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -133,7 +148,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 358755105 and photo 654490732 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 e773003394ba10be2fc17c207d37effc280d8107dd68b1603b6f49688a75822c; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/654490732/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias texana' matches this Apocynaceae species card asclepias-texana. Specialist morphology/field characters deferred.",
-      "sha256": "e773003394ba10be2fc17c207d37effc280d8107dd68b1603b6f49688a75822c"
+      "sha256": "e773003394ba10be2fc17c207d37effc280d8107dd68b1603b6f49688a75822c",
+      "display_sha256": "3a69d43a517f731483ec82df78c29f8d62580dbb9efb5e880893afe4c71a94e6",
+      "display_blob_sha": "dc53621f15fab282c4e85f9d869ef0868a9b9456",
+      "display_original_site_sha256": "e773003394ba10be2fc17c207d37effc280d8107dd68b1603b6f49688a75822c",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-texana/inat-666037580.jpg",
@@ -144,7 +164,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "27cc7b8f29ca5808639857df9ba46bad5754891c",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -152,7 +172,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 364829080 and photo 666037580 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 210981eeb2673b56121618cdc0266af2878175dcb014425e36322f11eff8f93b; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/666037580/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias texana' matches this Apocynaceae species card asclepias-texana. Specialist morphology/field characters deferred.",
-      "sha256": "210981eeb2673b56121618cdc0266af2878175dcb014425e36322f11eff8f93b"
+      "sha256": "210981eeb2673b56121618cdc0266af2878175dcb014425e36322f11eff8f93b",
+      "display_sha256": "9bc4782e7cbc12f92e892132eb884328a549fdf9a7f3ad82372a585b3575a87f",
+      "display_blob_sha": "bb558da85698a4c088bb40f966fb3f76cdfaa23d",
+      "display_original_site_sha256": "210981eeb2673b56121618cdc0266af2878175dcb014425e36322f11eff8f93b",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

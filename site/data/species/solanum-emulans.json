@@ -48,10 +48,15 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "fd0ec5fbd287d522e41628661c8eaa1c45cb2b55",
       "role": "Whole unarmed green plant with simple ovate alternate leaves and several tiny white flowers",
-      "modified": "Exact archived original photograph; no modification",
+      "modified": "Resized and recompressed web display copy; source note: Exact archived original photograph; no modification",
       "noncommercial_only": false,
       "private_rights_review_only": false,
-      "source_page_is_exact": true
+      "source_page_is_exact": true,
+      "display_sha256": "def16fe9da01cfed66e8cadecbba2bddc91fc840b805bb8d41561ae75716bef8",
+      "display_blob_sha": "22dbadbf889d172a0a54059b8699ff7b3182bfab",
+      "display_original_site_sha256": "4938a53f5f52c7e9c3b8b1f87b9251ab4a8470c16e72e0a73398c97641478b74",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/solanum-emulans/02-flower-immature-fruit.jpg",

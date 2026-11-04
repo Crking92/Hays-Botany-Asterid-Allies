@@ -77,7 +77,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0fe1876dc6ddd35a83da642c73f03d9b91349263",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +85,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341252247, photo 621185260, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8549daa2cb72281f1b9cbd6e91182f781b988c276e399ad4b98fbbcbc240415b.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Solanum triquetrum maps to indexed species solanum-triquetrum; specialist morphology and BONAP range deferred.",
-      "sha256": "8549daa2cb72281f1b9cbd6e91182f781b988c276e399ad4b98fbbcbc240415b"
+      "sha256": "8549daa2cb72281f1b9cbd6e91182f781b988c276e399ad4b98fbbcbc240415b",
+      "display_sha256": "22c34c69a45a1feef717a0ea1b05f781e5ee4031592c8ec98c4588dc47071ec6",
+      "display_blob_sha": "79d0412b6569e39db62d1c7935cac2c2da33d4d5",
+      "display_original_site_sha256": "8549daa2cb72281f1b9cbd6e91182f781b988c276e399ad4b98fbbcbc240415b",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/solanum-triquetrum/inat-621884312.jpg",
@@ -96,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "07626be2b1818b7f6c654335e807eca055a4f4d1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341592506, photo 621884312, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 696033e1191ad3f8bf4153efb20f04dfb967f2fec81bfec6bd65fa3b19047861.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Solanum triquetrum maps to indexed species solanum-triquetrum; specialist morphology and BONAP range deferred.",
-      "sha256": "696033e1191ad3f8bf4153efb20f04dfb967f2fec81bfec6bd65fa3b19047861"
+      "sha256": "696033e1191ad3f8bf4153efb20f04dfb967f2fec81bfec6bd65fa3b19047861",
+      "display_sha256": "14b35c33e52c27bcee67cfbba6f4a0d7cb8e74bd791784dab6c0813f51419e36",
+      "display_blob_sha": "73f353cad883e6b51de2f65b458a38d2545bbb3f",
+      "display_original_site_sha256": "696033e1191ad3f8bf4153efb20f04dfb967f2fec81bfec6bd65fa3b19047861",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/solanum-triquetrum/inat-623131479.jpg",
@@ -115,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3df067a5a82e9f749b7b1258206bebec3f99733d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +133,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 342208067, photo 623131479, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6555b6996e871fa26ea0bbec4a72c17a93a4e50d54ca462cadceb7b8881b5e52.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Solanum triquetrum maps to indexed species solanum-triquetrum; specialist morphology and BONAP range deferred.",
-      "sha256": "6555b6996e871fa26ea0bbec4a72c17a93a4e50d54ca462cadceb7b8881b5e52"
+      "sha256": "6555b6996e871fa26ea0bbec4a72c17a93a4e50d54ca462cadceb7b8881b5e52",
+      "display_sha256": "f90ec3812da4954036888fdec37a5ee80d14dae4751da41e311aead8f66b1493",
+      "display_blob_sha": "cccb21600859b2181164a5ab159f6b3a5afaff36",
+      "display_original_site_sha256": "6555b6996e871fa26ea0bbec4a72c17a93a4e50d54ca462cadceb7b8881b5e52",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/solanum-triquetrum/inat-625328016.jpg",
@@ -153,7 +168,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d36fdd753f6d6be5cf51db8f7f061c314673bed8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -161,7 +176,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 343347653, photo 625430681, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1e113660aac63fff709ac9166620c5a86a83e73dd87e0de7a322ac14341f7de8.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Solanum triquetrum maps to indexed species solanum-triquetrum; specialist morphology and BONAP range deferred.",
-      "sha256": "1e113660aac63fff709ac9166620c5a86a83e73dd87e0de7a322ac14341f7de8"
+      "sha256": "1e113660aac63fff709ac9166620c5a86a83e73dd87e0de7a322ac14341f7de8",
+      "display_sha256": "105e5e600161fc29ab1541b031327a37c4504131353f9452b0e60bfbb34fc858",
+      "display_blob_sha": "3641d679c6e1aa5a17868686c9d38783d2f991fe",
+      "display_original_site_sha256": "1e113660aac63fff709ac9166620c5a86a83e73dd87e0de7a322ac14341f7de8",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/solanum-triquetrum/archived-9fbd2d87031b093f.jpg",

@@ -77,7 +77,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f2ca3d346604ce98e7556bc37edc40c14db6cd50",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -85,7 +85,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 347802177 and photo 634213287 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 286b0b54a3ae9c2aca120601b09cb9100cfd96173966f5c9cbbda794eca1d14c; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/634213287/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Metastelma barbigerum' matches this Apocynaceae species card metastelma-barbigerum. Specialist morphology/field characters deferred.",
-      "sha256": "286b0b54a3ae9c2aca120601b09cb9100cfd96173966f5c9cbbda794eca1d14c"
+      "sha256": "286b0b54a3ae9c2aca120601b09cb9100cfd96173966f5c9cbbda794eca1d14c",
+      "display_sha256": "29283f2100192b840ec3d32bfa3d8ea43eb884e1af26d60f6efc3b30ee6a87d4",
+      "display_blob_sha": "f35585e944d639a49d259db68c9c3851f0c57700",
+      "display_original_site_sha256": "286b0b54a3ae9c2aca120601b09cb9100cfd96173966f5c9cbbda794eca1d14c",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/metastelma-barbigerum/inat-635491680.jpg",
@@ -96,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "548211c180c0e56a183f4508fe197a364029c3e5",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -104,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 348447257 and photo 635491680 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 7bb54465948740a2c089fc33b498122c338057672d384d6b20077ec897d2a048; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/635491680/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Metastelma barbigerum' matches this Apocynaceae species card metastelma-barbigerum. Specialist morphology/field characters deferred.",
-      "sha256": "7bb54465948740a2c089fc33b498122c338057672d384d6b20077ec897d2a048"
+      "sha256": "7bb54465948740a2c089fc33b498122c338057672d384d6b20077ec897d2a048",
+      "display_sha256": "c78e4c02a655938c5fe34d31b58f3d04c38231ec632ee90676e43ea76b6d9e55",
+      "display_blob_sha": "bb2cdb748c618a3587c43fcd3e0ec6980baed845",
+      "display_original_site_sha256": "7bb54465948740a2c089fc33b498122c338057672d384d6b20077ec897d2a048",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/metastelma-barbigerum/inat-645901348.jpg",
@@ -115,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0edc2f39e2ff340f13bf15d2e7ee79832542e279",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -123,7 +133,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 354030726 and photo 645901348 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 dcc8fa8e7a07297b53eae5566a7b4430ee20d35c824fa36b42e58c675bc90021; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/645901348/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Metastelma barbigerum' matches this Apocynaceae species card metastelma-barbigerum. Specialist morphology/field characters deferred.",
-      "sha256": "dcc8fa8e7a07297b53eae5566a7b4430ee20d35c824fa36b42e58c675bc90021"
+      "sha256": "dcc8fa8e7a07297b53eae5566a7b4430ee20d35c824fa36b42e58c675bc90021",
+      "display_sha256": "f8410c9e953457f016097a8bceb8eee6663177f3442320d69d6961cfdd3bf0b8",
+      "display_blob_sha": "b60632faddf5e3ae68c2891ff53bf74ba7941439",
+      "display_original_site_sha256": "dcc8fa8e7a07297b53eae5566a7b4430ee20d35c824fa36b42e58c675bc90021",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/metastelma-barbigerum/inat-647374082.jpg",
@@ -134,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "dcde78b8e68c86003e1be3c4eb02270ba2ca2822",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -142,7 +157,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 354900169 and photo 647374082 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 6ce986c4f96428c899217461fc937fa8a32f7fd36b17537c6c31fe960d794427; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/647374082/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Metastelma barbigerum' matches this Apocynaceae species card metastelma-barbigerum. Specialist morphology/field characters deferred.",
-      "sha256": "6ce986c4f96428c899217461fc937fa8a32f7fd36b17537c6c31fe960d794427"
+      "sha256": "6ce986c4f96428c899217461fc937fa8a32f7fd36b17537c6c31fe960d794427",
+      "display_sha256": "18569b22ce17b1f0946a902db1ea39dcc9d562cf0441a1e9903c13970495f99d",
+      "display_blob_sha": "26438d1347cd22241dfa217e3898f6080aa6c2a1",
+      "display_original_site_sha256": "6ce986c4f96428c899217461fc937fa8a32f7fd36b17537c6c31fe960d794427",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/metastelma-barbigerum/inat-650057913.jpg",
@@ -153,7 +173,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b8e804b91b40fbfa0e48cc3b56738da74b47087b",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -161,7 +181,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 356461457 and photo 650057913 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 c2371712951aac066f4315cc0a4226aaa06b49355cf91a140df90a94ee324457; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/650057913/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Metastelma barbigerum' matches this Apocynaceae species card metastelma-barbigerum. Specialist morphology/field characters deferred.",
-      "sha256": "c2371712951aac066f4315cc0a4226aaa06b49355cf91a140df90a94ee324457"
+      "sha256": "c2371712951aac066f4315cc0a4226aaa06b49355cf91a140df90a94ee324457",
+      "display_sha256": "81027b6a86a19f7ccc0ac7600f67b61c3cbcc48d769369be07ceb134e6c807cc",
+      "display_blob_sha": "d1012404f32886012fa13ee7f9c9019bdf55f96a",
+      "display_original_site_sha256": "c2371712951aac066f4315cc0a4226aaa06b49355cf91a140df90a94ee324457",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

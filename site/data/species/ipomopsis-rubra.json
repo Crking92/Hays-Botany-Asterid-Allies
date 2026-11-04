@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "60f515472cadaf90d3fa09554a846f63b2201b36",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341765013, photo 622234901, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0ab5caa0b2e6d2f2081f162c9f0d7195df77e1827caf8eb18cce864b07a60389. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ipomopsis rubra maps to indexed species ipomopsis-rubra; specialist morphology and BONAP range deferred.",
-      "sha256": "0ab5caa0b2e6d2f2081f162c9f0d7195df77e1827caf8eb18cce864b07a60389"
+      "sha256": "0ab5caa0b2e6d2f2081f162c9f0d7195df77e1827caf8eb18cce864b07a60389",
+      "display_sha256": "008b7f130751326c6acf2c9ae7e13f2d7e5ec603230eef00e58d15e05338ed8b",
+      "display_blob_sha": "a7dffc02dabe011a3545bd70ec4cf2f239a461c0",
+      "display_original_site_sha256": "0ab5caa0b2e6d2f2081f162c9f0d7195df77e1827caf8eb18cce864b07a60389",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ipomopsis-rubra/inat-628686759.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "01c6c25cd44bf5c10f5c50fb28d3bf29cd097b39",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 348317008, photo 635232158, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7de6c539a899844abd0b351faaf1df9a1f10b765c43402eac801bff660cc5038. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ipomopsis rubra maps to indexed species ipomopsis-rubra; specialist morphology and BONAP range deferred.",
-      "sha256": "7de6c539a899844abd0b351faaf1df9a1f10b765c43402eac801bff660cc5038"
+      "sha256": "7de6c539a899844abd0b351faaf1df9a1f10b765c43402eac801bff660cc5038",
+      "display_sha256": "c14089e248449444a1811dd713241727c3cdc1c60a436bf67f44a0a2db0b61e0",
+      "display_blob_sha": "2da7c7df9758ad1d27a048cc56caf9a520fe7bf5",
+      "display_original_site_sha256": "7de6c539a899844abd0b351faaf1df9a1f10b765c43402eac801bff660cc5038",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ipomopsis-rubra/inat-637070020.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "83831cf4ba73c7af7071011ab4547287eddb4c42",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 349248727, photo 637070020, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 44a4cc163ab8763b1418a93cf9e08533107cb1131f9d787cf34dd4b61b8bca57. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ipomopsis rubra maps to indexed species ipomopsis-rubra; specialist morphology and BONAP range deferred.",
-      "sha256": "44a4cc163ab8763b1418a93cf9e08533107cb1131f9d787cf34dd4b61b8bca57"
+      "sha256": "44a4cc163ab8763b1418a93cf9e08533107cb1131f9d787cf34dd4b61b8bca57",
+      "display_sha256": "ccd52e5e51e9e96cd75e52ed04cdc8a0794cd94c112a13adf63568dc5ee606af",
+      "display_blob_sha": "b400fe012811f8548a16536087ae6e1114b75107",
+      "display_original_site_sha256": "44a4cc163ab8763b1418a93cf9e08533107cb1131f9d787cf34dd4b61b8bca57",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ipomopsis-rubra/inat-639300205.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4ba91a05f3781bf604be145160cf02ba96b06d28",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 350387763, photo 639300205, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8610f908ffab4168df40bc4ff766210634b6a02ccf546170441dd8487d934032. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ipomopsis rubra maps to indexed species ipomopsis-rubra; specialist morphology and BONAP range deferred.",
-      "sha256": "8610f908ffab4168df40bc4ff766210634b6a02ccf546170441dd8487d934032"
+      "sha256": "8610f908ffab4168df40bc4ff766210634b6a02ccf546170441dd8487d934032",
+      "display_sha256": "5a90968182dad48857be5354332e84578c96553dd21b71e8c244456e01e38a86",
+      "display_blob_sha": "3f26d9f9a9452e8f37c5db0efd2ad54fc59bceef",
+      "display_original_site_sha256": "8610f908ffab4168df40bc4ff766210634b6a02ccf546170441dd8487d934032",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ipomopsis-rubra/archived-272fc5a56ab4a124.jpg",

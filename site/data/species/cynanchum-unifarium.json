@@ -131,7 +131,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e98d054079567e33f4bea5094a4deff518d21c1d",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -139,7 +139,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 352767496 and photo 643853260 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 33f2a25d5bbdb7b1f434c813df07f20299ed1824e6ea32e8a7c2733ef3706ce8; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/643853260/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Cynanchum unifarium' matches this Apocynaceae species card cynanchum-unifarium. Specialist morphology/field characters deferred.",
-      "sha256": "33f2a25d5bbdb7b1f434c813df07f20299ed1824e6ea32e8a7c2733ef3706ce8"
+      "sha256": "33f2a25d5bbdb7b1f434c813df07f20299ed1824e6ea32e8a7c2733ef3706ce8",
+      "display_sha256": "ad2498008ada763838896a82d6463c713cd741703a8e67e3ce3a67678380719c",
+      "display_blob_sha": "56992a5ec4d6d07df8a84acd0411c1240d4e256d",
+      "display_original_site_sha256": "33f2a25d5bbdb7b1f434c813df07f20299ed1824e6ea32e8a7c2733ef3706ce8",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cynanchum-unifarium/inat-645902792.jpg",
@@ -150,7 +155,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "54346702c7541071451d84583ac676ce73e2389f",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -158,7 +163,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 354031557 and photo 645902792 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 5bd659a3823c57e9453709d4da86aaaff9926e29cb292ab27732d8491a1fd34b; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/645902792/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Cynanchum unifarium' matches this Apocynaceae species card cynanchum-unifarium. Specialist morphology/field characters deferred.",
-      "sha256": "5bd659a3823c57e9453709d4da86aaaff9926e29cb292ab27732d8491a1fd34b"
+      "sha256": "5bd659a3823c57e9453709d4da86aaaff9926e29cb292ab27732d8491a1fd34b",
+      "display_sha256": "ba19946e75dcdb207aa48c2c4209af5b9fce76f495af64d4721b0e0d092efb53",
+      "display_blob_sha": "f4351d1a8d7415731bcb12e1b5861770ed47712c",
+      "display_original_site_sha256": "5bd659a3823c57e9453709d4da86aaaff9926e29cb292ab27732d8491a1fd34b",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cynanchum-unifarium/inat-646861516.jpg",
@@ -169,7 +179,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0a97fcbb3472884f54c792bee36f8fe617c9245d",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -177,7 +187,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 354608628 and photo 646861516 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 e3192a1130f246c39e9cdbe29bff3ba46c5d0b82d5e89b24d881cc35f5337126; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/646861516/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Cynanchum unifarium' matches this Apocynaceae species card cynanchum-unifarium. Specialist morphology/field characters deferred.",
-      "sha256": "e3192a1130f246c39e9cdbe29bff3ba46c5d0b82d5e89b24d881cc35f5337126"
+      "sha256": "e3192a1130f246c39e9cdbe29bff3ba46c5d0b82d5e89b24d881cc35f5337126",
+      "display_sha256": "06dc25dfccbf3158a7f34756ff1ad1dcaa45294ba88622e0ee64ed46a7e5ad14",
+      "display_blob_sha": "79e3bfa3c1b0fc6dc6427fcea4eef29e259b0310",
+      "display_original_site_sha256": "e3192a1130f246c39e9cdbe29bff3ba46c5d0b82d5e89b24d881cc35f5337126",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cynanchum-unifarium/inat-647545367.jpg",
@@ -188,7 +203,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "dfacf9a80bcce14630c1d332da4e661476ac0fd8",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -196,7 +211,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 354996611 and photo 647545367 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 4a5607c370fbdb633b7679cf7d1a79c6ff3ea1d7c3b801d80837f842bc5b9bc4; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/647545367/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Cynanchum unifarium' matches this Apocynaceae species card cynanchum-unifarium. Specialist morphology/field characters deferred.",
-      "sha256": "4a5607c370fbdb633b7679cf7d1a79c6ff3ea1d7c3b801d80837f842bc5b9bc4"
+      "sha256": "4a5607c370fbdb633b7679cf7d1a79c6ff3ea1d7c3b801d80837f842bc5b9bc4",
+      "display_sha256": "d6806590e161e4b434343a574ed28911c84330c119fc556ba470123477d6e5d3",
+      "display_blob_sha": "8702bb830d8df4d71f4f775225cb41fcc93d6093",
+      "display_original_site_sha256": "4a5607c370fbdb633b7679cf7d1a79c6ff3ea1d7c3b801d80837f842bc5b9bc4",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -101,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7b03736c1a5b5864cd039bb888058200a28c8db2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -109,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 274778093, photo 493899609, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 108e79b349ba96c0b085a93c774990f6c046fb2fd3276a96df6cda2f3430223e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Triodanis perfoliata maps to indexed species triodanis-perfoliata; specialist morphology and BONAP range deferred.",
-      "sha256": "108e79b349ba96c0b085a93c774990f6c046fb2fd3276a96df6cda2f3430223e"
+      "sha256": "108e79b349ba96c0b085a93c774990f6c046fb2fd3276a96df6cda2f3430223e",
+      "display_sha256": "aea178d1a7068452b86043206ac05c37340ed2cad7fd0844ca462ddb873351db",
+      "display_blob_sha": "f21be72c221f285d3fd9b5a2b394ec4454d519a4",
+      "display_original_site_sha256": "108e79b349ba96c0b085a93c774990f6c046fb2fd3276a96df6cda2f3430223e",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/triodanis-perfoliata/inat-645158439.jpg",
@@ -120,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "df6cba62ee1ff0d82c7b447d44b8f2fcc3f0fc19",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -128,7 +133,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 353606909, photo 645158439, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bf4bf162b9d0ad95967e7bd9e3e740dbaeb39f786acee9aa9c253c4365ebfaa9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Triodanis perfoliata maps to indexed species triodanis-perfoliata; specialist morphology and BONAP range deferred.",
-      "sha256": "bf4bf162b9d0ad95967e7bd9e3e740dbaeb39f786acee9aa9c253c4365ebfaa9"
+      "sha256": "bf4bf162b9d0ad95967e7bd9e3e740dbaeb39f786acee9aa9c253c4365ebfaa9",
+      "display_sha256": "838f1fc94f135fe973c4506229e53d67b705230150c7708973988d3b8a8a0fdf",
+      "display_blob_sha": "72481e0a6a978ddca8b3ce42d3c63f1d0cb5add6",
+      "display_original_site_sha256": "bf4bf162b9d0ad95967e7bd9e3e740dbaeb39f786acee9aa9c253c4365ebfaa9",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/triodanis-perfoliata/inat-649067800.jpg",
@@ -139,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2e8d608c30af4436b6ce3f9c6e98d933ca0c56ae",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -147,7 +157,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 355922239, photo 649067800, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 034a42557660ce546342f7c1429171b156a76cca9b4ed55183d7ad4c1f9242db. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Triodanis perfoliata maps to indexed species triodanis-perfoliata; specialist morphology and BONAP range deferred.",
-      "sha256": "034a42557660ce546342f7c1429171b156a76cca9b4ed55183d7ad4c1f9242db"
+      "sha256": "034a42557660ce546342f7c1429171b156a76cca9b4ed55183d7ad4c1f9242db",
+      "display_sha256": "c253bb16a68a6403c16f815d9d823d3411cf0357ad1861ddc202d0ea457c4ce0",
+      "display_blob_sha": "a7fa709b7e53c5bbae4eb4dece63a8ebadfb358b",
+      "display_original_site_sha256": "034a42557660ce546342f7c1429171b156a76cca9b4ed55183d7ad4c1f9242db",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/triodanis-perfoliata/inat-649067914.jpg",
@@ -158,7 +173,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "de75e3a9b7c3c5cca5dbd8052342e17f23c9de45",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -166,7 +181,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 355922307, photo 649067914, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c8aa3909415f3461e11714b7f0220d8fd84471677c85e76cb40809de15892c20. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Triodanis perfoliata maps to indexed species triodanis-perfoliata; specialist morphology and BONAP range deferred.",
-      "sha256": "c8aa3909415f3461e11714b7f0220d8fd84471677c85e76cb40809de15892c20"
+      "sha256": "c8aa3909415f3461e11714b7f0220d8fd84471677c85e76cb40809de15892c20",
+      "display_sha256": "9a89af08cc43552645eabde217a3862a56061ca6eda2a14ec31c075a6d0fd42d",
+      "display_blob_sha": "557965da6b7372c6ef35641619c856ad3af1b735",
+      "display_original_site_sha256": "c8aa3909415f3461e11714b7f0220d8fd84471677c85e76cb40809de15892c20",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

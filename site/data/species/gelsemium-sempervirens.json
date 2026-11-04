@@ -58,7 +58,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "095cf5bf26b92db672f41829045807ab716911e7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +66,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 276331170, photo 496268475, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 54de2f848267d41b50f80372c8ff3309c68f2069af71f0c11b9396bfc4873c96. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Gelsemium sempervirens maps to indexed species gelsemium-sempervirens; specialist morphology and BONAP range deferred.",
-      "sha256": "54de2f848267d41b50f80372c8ff3309c68f2069af71f0c11b9396bfc4873c96"
+      "sha256": "54de2f848267d41b50f80372c8ff3309c68f2069af71f0c11b9396bfc4873c96",
+      "display_sha256": "19ff6df4b969aa1c91a0eb7ffdce960f9ea207129b88376a54f7809ff8086bce",
+      "display_blob_sha": "55e7451ed983778c488434bc525c6bd57fdcfc9b",
+      "display_original_site_sha256": "54de2f848267d41b50f80372c8ff3309c68f2069af71f0c11b9396bfc4873c96",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/gelsemium-sempervirens/inat-621013844.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "31ca4e487e6b57ff3cfd726cf772b76d8c2dabcc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341168283, photo 621013844, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 44ea5a73bd05ccc75cedc25aa17b96f9553ff48f6d0515ad77cec3541a73b043. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Gelsemium sempervirens maps to indexed species gelsemium-sempervirens; specialist morphology and BONAP range deferred.",
-      "sha256": "44ea5a73bd05ccc75cedc25aa17b96f9553ff48f6d0515ad77cec3541a73b043"
+      "sha256": "44ea5a73bd05ccc75cedc25aa17b96f9553ff48f6d0515ad77cec3541a73b043",
+      "display_sha256": "75f1f9c0ebc0ce926ee5bbb2a68c0647e865dd7651a842b4cfad281e2406fc47",
+      "display_blob_sha": "725006bb54867b36ddb38440c969caeaeebc39dd",
+      "display_original_site_sha256": "44ea5a73bd05ccc75cedc25aa17b96f9553ff48f6d0515ad77cec3541a73b043",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/gelsemium-sempervirens/inat-621594785.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "264d2f543318efb4c919c7a73da3853597408645",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341449661, photo 621594785, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9c4e52ac5a22b83b5f829e86a45aef2ed98d9347c234886055c248433debb3e3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Gelsemium sempervirens maps to indexed species gelsemium-sempervirens; specialist morphology and BONAP range deferred.",
-      "sha256": "9c4e52ac5a22b83b5f829e86a45aef2ed98d9347c234886055c248433debb3e3"
+      "sha256": "9c4e52ac5a22b83b5f829e86a45aef2ed98d9347c234886055c248433debb3e3",
+      "display_sha256": "26a1d0e6ab29fc8393c232802827b683f2b25c8cb7590a5641a87b1d58d57614",
+      "display_blob_sha": "3048eef384cc547dee2379c790d1c21e78352acb",
+      "display_original_site_sha256": "9c4e52ac5a22b83b5f829e86a45aef2ed98d9347c234886055c248433debb3e3",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/gelsemium-sempervirens/inat-624288994.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d27f8ca36b00afb514d2dd61318b05ce96ef29b8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 342788706, photo 624288994, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 18e3e456e865a46ef7f303a7b04e8fbe5541db140d9133496ba4de6b02e6661a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Gelsemium sempervirens maps to indexed species gelsemium-sempervirens; specialist morphology and BONAP range deferred.",
-      "sha256": "18e3e456e865a46ef7f303a7b04e8fbe5541db140d9133496ba4de6b02e6661a"
+      "sha256": "18e3e456e865a46ef7f303a7b04e8fbe5541db140d9133496ba4de6b02e6661a",
+      "display_sha256": "120f360027728fa3864cc982ae3bdfb95edeb83c37260a6cba6c44063f662d2f",
+      "display_blob_sha": "ceafbc7d4299173c44abdae74fe4cefb4d44625f",
+      "display_original_site_sha256": "18e3e456e865a46ef7f303a7b04e8fbe5541db140d9133496ba4de6b02e6661a",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/gelsemium-sempervirens/inat-638265473.jpg",
@@ -134,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e71154f4a899ff9f0588231c20e3c76b84e18d49",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -142,7 +162,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 349858766, photo 638265473, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6052d694389415395bc99e6c86dc097e5b15d2321b41722bad13aece0c8baa2b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Gelsemium sempervirens maps to indexed species gelsemium-sempervirens; specialist morphology and BONAP range deferred.",
-      "sha256": "6052d694389415395bc99e6c86dc097e5b15d2321b41722bad13aece0c8baa2b"
+      "sha256": "6052d694389415395bc99e6c86dc097e5b15d2321b41722bad13aece0c8baa2b",
+      "display_sha256": "91596736c78dad2ab25053aa935b6435dc00aa4296cde3df36eb10c867eb772f",
+      "display_blob_sha": "222003aa08da01a0d21f7dbdc26dac0b663ed25e",
+      "display_original_site_sha256": "6052d694389415395bc99e6c86dc097e5b15d2321b41722bad13aece0c8baa2b",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

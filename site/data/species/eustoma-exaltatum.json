@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a9c001830561825b07f9e0a91b2b0e433365b616",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 122110239, photo 206705899, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 009c71f08e4920929c966541ec1e05c45ebbe842ffacd730ea6c0839cdd0845e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Eustoma exaltatum maps to indexed species eustoma-exaltatum; specialist morphology and BONAP range deferred.",
-      "sha256": "009c71f08e4920929c966541ec1e05c45ebbe842ffacd730ea6c0839cdd0845e"
+      "sha256": "009c71f08e4920929c966541ec1e05c45ebbe842ffacd730ea6c0839cdd0845e",
+      "display_sha256": "44eb188e1048aa776ecc805827b9535dc7984267969b6c1335770c312bc53d7e",
+      "display_blob_sha": "25516099efb10b58cff8cd27a1854ab96ecb8a33",
+      "display_original_site_sha256": "009c71f08e4920929c966541ec1e05c45ebbe842ffacd730ea6c0839cdd0845e",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/eustoma-exaltatum/inat-395891307.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "03abd0df564f392361b60a4e598307f5bd6a4d38",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 223430762, photo 395891307, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2961d881ad088243f9c8e33feaaf8d51efacd61c3788f67af245c960ead7a88b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Eustoma exaltatum maps to indexed species eustoma-exaltatum; specialist morphology and BONAP range deferred.",
-      "sha256": "2961d881ad088243f9c8e33feaaf8d51efacd61c3788f67af245c960ead7a88b"
+      "sha256": "2961d881ad088243f9c8e33feaaf8d51efacd61c3788f67af245c960ead7a88b",
+      "display_sha256": "1268f9d8a9b9cf3918bef77aa52aa2cb0d6f0b67f40f6c04589470da1b14f11d",
+      "display_blob_sha": "75b5ddace7b875cda3d88535addbce187f698182",
+      "display_original_site_sha256": "2961d881ad088243f9c8e33feaaf8d51efacd61c3788f67af245c960ead7a88b",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/eustoma-exaltatum/inat-395978837.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5500b962ac42569fc0e1028c22144d7dce4b0d64",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 355241841, photo 647929122, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c67207e175277539a8beefa0d6f148f57a748a8079c508564491ead17bc3eb63. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Eustoma exaltatum maps to indexed species eustoma-exaltatum; specialist morphology and BONAP range deferred.",
-      "sha256": "c67207e175277539a8beefa0d6f148f57a748a8079c508564491ead17bc3eb63"
+      "sha256": "c67207e175277539a8beefa0d6f148f57a748a8079c508564491ead17bc3eb63",
+      "display_sha256": "d914e9e9986e0e06445754c3b1cedaa0082d8b856e59ec15ff1052855277c41f",
+      "display_blob_sha": "d1204270a0976ffc4b1eb904728daf9eb22ff47a",
+      "display_original_site_sha256": "c67207e175277539a8beefa0d6f148f57a748a8079c508564491ead17bc3eb63",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/eustoma-exaltatum/inat-8763853.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "49ec4d6b6b9f20f5c937cb3a81380588718b5082",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 6872785, photo 8763853, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b5678d03d37850b07ee1b32ca4868870ad32d8c2043ff28c3d17337c26508af7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Eustoma exaltatum maps to indexed species eustoma-exaltatum; specialist morphology and BONAP range deferred.",
-      "sha256": "b5678d03d37850b07ee1b32ca4868870ad32d8c2043ff28c3d17337c26508af7"
+      "sha256": "b5678d03d37850b07ee1b32ca4868870ad32d8c2043ff28c3d17337c26508af7",
+      "display_sha256": "135400e6c24bdf2fbfdc2826a796e1943534e353a27bdb132443c4bd72564378",
+      "display_blob_sha": "0cecd861fa6dc0dd4224524d4ced4deb189b378c",
+      "display_original_site_sha256": "b5678d03d37850b07ee1b32ca4868870ad32d8c2043ff28c3d17337c26508af7",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

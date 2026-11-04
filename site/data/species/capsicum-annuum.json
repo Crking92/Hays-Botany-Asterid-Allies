@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "913a8052dc64734332c37e47b59f92a91720e236",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 354123141, photo 645809871, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 27a3ae21a42314a907a9fe39a19a132f0fdc954467e10ac5407e11188c1176e6.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Capsicum annuum maps to indexed species capsicum-annuum; specialist morphology and BONAP range deferred.",
-      "sha256": "27a3ae21a42314a907a9fe39a19a132f0fdc954467e10ac5407e11188c1176e6"
+      "sha256": "27a3ae21a42314a907a9fe39a19a132f0fdc954467e10ac5407e11188c1176e6",
+      "display_sha256": "9d174542d29d311d66743f9f547dda8a2ca7e1581b01e98325156de80bf7d89b",
+      "display_blob_sha": "a8492037c57935fa31cedd92c6d40eba11460975",
+      "display_original_site_sha256": "27a3ae21a42314a907a9fe39a19a132f0fdc954467e10ac5407e11188c1176e6",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/capsicum-annuum/inat-647161447.jpg",
@@ -96,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4dbcaeb5d493fedd644996d7e37115bd7b0a4c29",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 366704987, photo 669609822, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d91e87d18b6e606d43663bc92a4da033f46d250d6a927ad90aba5853c854034c.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Capsicum annuum glabriusculum maps to indexed species capsicum-annuum; specialist morphology and BONAP range deferred.",
-      "sha256": "d91e87d18b6e606d43663bc92a4da033f46d250d6a927ad90aba5853c854034c"
+      "sha256": "d91e87d18b6e606d43663bc92a4da033f46d250d6a927ad90aba5853c854034c",
+      "display_sha256": "b11c857d97fff72f2333deaff11b5d43323e560c6cca2c416f8d56c6c855b7f3",
+      "display_blob_sha": "58507eddb8cf7728551b91ba42ffdd695276520d",
+      "display_original_site_sha256": "d91e87d18b6e606d43663bc92a4da033f46d250d6a927ad90aba5853c854034c",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/capsicum-annuum/archived-601cf28a4990d19a.jpg",

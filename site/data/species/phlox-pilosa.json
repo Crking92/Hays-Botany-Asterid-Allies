@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "dff24a5e3fcfb73030af931b1bbf63e39be359cd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 76950960, photo 125846424, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fbd743f71177e6e0303b6340194a0c1b6313adcaf05ea058acd92fe3281d4945. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Phlox pilosa maps to indexed species phlox-pilosa; specialist morphology and BONAP range deferred.",
-      "sha256": "fbd743f71177e6e0303b6340194a0c1b6313adcaf05ea058acd92fe3281d4945"
+      "sha256": "fbd743f71177e6e0303b6340194a0c1b6313adcaf05ea058acd92fe3281d4945",
+      "display_sha256": "1ee6a96b5865de6ca895eaa2a760c61a5df75454070fd3cb747542a9c8d05ec5",
+      "display_blob_sha": "584b1dd45d314560be4b13ef2b61d5a44961745a",
+      "display_original_site_sha256": "fbd743f71177e6e0303b6340194a0c1b6313adcaf05ea058acd92fe3281d4945",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phlox-pilosa/inat-281990822.jpeg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e45230d01c9622c1fe426379e3c5f6a42686da1c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 163059985, photo 281990822, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2d1b338d5149431e9ffd12934466961d45f2ceb347cf463c6b414aa7c8ce9b01. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Phlox pilosa maps to indexed species phlox-pilosa; specialist morphology and BONAP range deferred.",
-      "sha256": "2d1b338d5149431e9ffd12934466961d45f2ceb347cf463c6b414aa7c8ce9b01"
+      "sha256": "2d1b338d5149431e9ffd12934466961d45f2ceb347cf463c6b414aa7c8ce9b01",
+      "display_sha256": "6137d0435a53cf48a5fd65763ca7deb13d3212949908431dd6c97afae8b096e5",
+      "display_blob_sha": "6e98b804adccfb65dceb586ceaa1142e5b5c0c4c",
+      "display_original_site_sha256": "2d1b338d5149431e9ffd12934466961d45f2ceb347cf463c6b414aa7c8ce9b01",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phlox-pilosa/inat-296402526.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "79e4967a825bd62fbc216ab91b5a19c17c5aad38",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 271061454, photo 487542682, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 79f212ba3da7355c9122d74a462e5d3244076add4b4967e2819cb567f7934cf1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Phlox pilosa maps to indexed species phlox-pilosa; specialist morphology and BONAP range deferred.",
-      "sha256": "79f212ba3da7355c9122d74a462e5d3244076add4b4967e2819cb567f7934cf1"
+      "sha256": "79f212ba3da7355c9122d74a462e5d3244076add4b4967e2819cb567f7934cf1",
+      "display_sha256": "7c468e3f82aa3299d7adc60d6229cb4c9d1a8581b2dc42393933dbaf2fafde66",
+      "display_blob_sha": "08ff5f22fb7e7f26d428376604085d9c206ba933",
+      "display_original_site_sha256": "79f212ba3da7355c9122d74a462e5d3244076add4b4967e2819cb567f7934cf1",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phlox-pilosa/inat-64765571.jpeg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "36a833716207d31ee5f4fcb1fc3ce9ee9dcdc57e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 40852865, photo 64765571, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 299350d18954bcb78725e5fbd205230ed0eb5f503966ab85d0bfa1451c083145. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Phlox pilosa maps to indexed species phlox-pilosa; specialist morphology and BONAP range deferred.",
-      "sha256": "299350d18954bcb78725e5fbd205230ed0eb5f503966ab85d0bfa1451c083145"
+      "sha256": "299350d18954bcb78725e5fbd205230ed0eb5f503966ab85d0bfa1451c083145",
+      "display_sha256": "ebdcfb28b8b8f15a8efea705ff884edcbc425a642695913ece738c22d67b39f9",
+      "display_blob_sha": "ec15537aee0ee6cf25f56e5e260ef2bece99ea67",
+      "display_original_site_sha256": "299350d18954bcb78725e5fbd205230ed0eb5f503966ab85d0bfa1451c083145",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phlox-pilosa/archived-e888e60ae20ee5ac.jpg",

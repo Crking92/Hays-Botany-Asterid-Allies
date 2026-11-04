@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "eebecad194ac732b407839ec2aa7f7a073bdbbfc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341109335, photo 620892531, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: c5e0fc23411d0255db2baf3ce723e36d7edc5e5980e2d49b38a97cfea5415da1.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Sherardia arvensis maps to indexed species sherardia-arvensis; specialist morphology and BONAP range deferred.",
-      "sha256": "c5e0fc23411d0255db2baf3ce723e36d7edc5e5980e2d49b38a97cfea5415da1"
+      "sha256": "c5e0fc23411d0255db2baf3ce723e36d7edc5e5980e2d49b38a97cfea5415da1",
+      "display_sha256": "dc400677a267dd62b9f2f05a58b5ea1d92692ea1dd07ebfa529b6d306ef1f87f",
+      "display_blob_sha": "a80d1b66e52a3bcdae044aa3137806886312d349",
+      "display_original_site_sha256": "c5e0fc23411d0255db2baf3ce723e36d7edc5e5980e2d49b38a97cfea5415da1",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sherardia-arvensis/inat-620956748.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1d80b11169c4b3233657ceaf08da0b2f37239a78",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341141665, photo 620956748, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4da121372f5667ae71965abb6336a1de91e6202ed0276870fd97fa26275967c1.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Sherardia arvensis maps to indexed species sherardia-arvensis; specialist morphology and BONAP range deferred.",
-      "sha256": "4da121372f5667ae71965abb6336a1de91e6202ed0276870fd97fa26275967c1"
+      "sha256": "4da121372f5667ae71965abb6336a1de91e6202ed0276870fd97fa26275967c1",
+      "display_sha256": "686f658d7518d00b6b16ef9e17fbe4c82fef9ace22f4f0e21f787b47ea80dca7",
+      "display_blob_sha": "f1a130f887a9637a1ef767b0a5538221d59033d4",
+      "display_original_site_sha256": "4da121372f5667ae71965abb6336a1de91e6202ed0276870fd97fa26275967c1",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sherardia-arvensis/inat-621273102.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cd23924b558f98e89ec8df50cd6bd26a6c03d223",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341282893, photo 621273102, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8e71605ee34d9b69958301932a49cd8ee6456bce141f4d80ca783ceda02d43ce.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Sherardia arvensis maps to indexed species sherardia-arvensis; specialist morphology and BONAP range deferred.",
-      "sha256": "8e71605ee34d9b69958301932a49cd8ee6456bce141f4d80ca783ceda02d43ce"
+      "sha256": "8e71605ee34d9b69958301932a49cd8ee6456bce141f4d80ca783ceda02d43ce",
+      "display_sha256": "fca9c9d7db480c6f05977caef70d67cac453bd277d746b47bdfbf996c4e9b0be",
+      "display_blob_sha": "5dfce453aa27d8e2f2724398b0ddb489e9bc8bc3",
+      "display_original_site_sha256": "8e71605ee34d9b69958301932a49cd8ee6456bce141f4d80ca783ceda02d43ce",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sherardia-arvensis/inat-621586905.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c6353f2addd3effdd58ed6f32f5d6d0390dfd2a0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341446067, photo 621586905, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 47107e6d76f1ecea7b3c66c62f8837b25a5e2057d2b592b610d6c2fadc517dab.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Sherardia arvensis maps to indexed species sherardia-arvensis; specialist morphology and BONAP range deferred.",
-      "sha256": "47107e6d76f1ecea7b3c66c62f8837b25a5e2057d2b592b610d6c2fadc517dab"
+      "sha256": "47107e6d76f1ecea7b3c66c62f8837b25a5e2057d2b592b610d6c2fadc517dab",
+      "display_sha256": "2d2963ae7c2d2989db0416567d8cd5e14f501967cd1f1b599cd2fa0e447bd24d",
+      "display_blob_sha": "5fae173ed19f9f1f91c1feaf07b7c7ba67e51635",
+      "display_original_site_sha256": "47107e6d76f1ecea7b3c66c62f8837b25a5e2057d2b592b610d6c2fadc517dab",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sherardia-arvensis/inat-625249342.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bb12ff9a228c62216d37edf74c76b37eac21c95d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 343262819, photo 625249342, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5c3df636b6ca510fce63f7a9f42a220b58c5c777b9be010176c727658c0ebaaa.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Sherardia arvensis maps to indexed species sherardia-arvensis; specialist morphology and BONAP range deferred.",
-      "sha256": "5c3df636b6ca510fce63f7a9f42a220b58c5c777b9be010176c727658c0ebaaa"
+      "sha256": "5c3df636b6ca510fce63f7a9f42a220b58c5c777b9be010176c727658c0ebaaa",
+      "display_sha256": "a875a10e67daa6dfb92d02ea4ae929baf3a24a872cc6541fc8dcbd4ef0b4e482",
+      "display_blob_sha": "7a566a36d55ea7eba6188b3baf0dd4b656f3d251",
+      "display_original_site_sha256": "5c3df636b6ca510fce63f7a9f42a220b58c5c777b9be010176c727658c0ebaaa",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sherardia-arvensis/archived-ed1f0a5e4b4bb5db.jpg",

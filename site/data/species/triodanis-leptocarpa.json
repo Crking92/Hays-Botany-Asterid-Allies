@@ -80,7 +80,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "cdff0a32fe8e257b9852ad0a782274e6e94c6431",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -88,7 +88,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 78830652, photo 129057822, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: ad031d0cf7a34e6d7fa13af098913dcf2603a1e6d27d22ce053909812a5444fe. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Triodanis leptocarpa maps to indexed species triodanis-leptocarpa; specialist morphology and BONAP range deferred.",
-      "sha256": "ad031d0cf7a34e6d7fa13af098913dcf2603a1e6d27d22ce053909812a5444fe"
+      "sha256": "ad031d0cf7a34e6d7fa13af098913dcf2603a1e6d27d22ce053909812a5444fe",
+      "display_sha256": "7685b668f8ceceb3e5b8ad30e2067cc6e0a1fae91627cc42d75373015dc43d62",
+      "display_blob_sha": "fb71a1713ceb3d1ed49833642bd3e1cfc4a6a408",
+      "display_original_site_sha256": "ad031d0cf7a34e6d7fa13af098913dcf2603a1e6d27d22ce053909812a5444fe",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

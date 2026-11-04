@@ -60,7 +60,7 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "fc1594da0994bee0f80823ad3073049690418159",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -68,7 +68,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 352843112, photo 643886708, individual license cc0, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1050ecd5e9bd241f7b449b435a16d067f14e4fc9e6bf4e5a0997243f4a34827b. Credit evidence: original user ZIP credit record.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Triodanis texana maps to indexed species triodanis-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "1050ecd5e9bd241f7b449b435a16d067f14e4fc9e6bf4e5a0997243f4a34827b"
+      "sha256": "1050ecd5e9bd241f7b449b435a16d067f14e4fc9e6bf4e5a0997243f4a34827b",
+      "display_sha256": "022fe88c428016132f68b8c80f78a404fd6564fbf57b4a0ac1d62236fb306e5b",
+      "display_blob_sha": "a38634de050de9771b8c399713acb6b1239f0ed5",
+      "display_original_site_sha256": "1050ecd5e9bd241f7b449b435a16d067f14e4fc9e6bf4e5a0997243f4a34827b",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/triodanis-texana/inat-644361649.jpg",
@@ -79,7 +84,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "42336f518b636f0b9a128f62e100e41a9de173e3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -87,7 +92,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 353121526, photo 644361649, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fbac33706e732245e950b3d097a147f0cc66daa03d5eb07b2d1e2c7ca62166ec. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Triodanis texana maps to indexed species triodanis-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "fbac33706e732245e950b3d097a147f0cc66daa03d5eb07b2d1e2c7ca62166ec"
+      "sha256": "fbac33706e732245e950b3d097a147f0cc66daa03d5eb07b2d1e2c7ca62166ec",
+      "display_sha256": "557393c7fd56d6046f1c8329a3e0403c769f5dc737b677c00bd459137a64eae0",
+      "display_blob_sha": "ca73f773605ddc2378a74ac689a775e29b9f8077",
+      "display_original_site_sha256": "fbac33706e732245e950b3d097a147f0cc66daa03d5eb07b2d1e2c7ca62166ec",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/triodanis-texana/inat-649067587.jpg",
@@ -98,7 +108,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7f5754c233be887f7acfbc701243955783674ea1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -106,7 +116,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 355922094, photo 649067587, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3b62daa9c8824c037e9cb8a2553a03203cd87f63a16724fe13cb0034bdc8d17b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Triodanis texana maps to indexed species triodanis-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "3b62daa9c8824c037e9cb8a2553a03203cd87f63a16724fe13cb0034bdc8d17b"
+      "sha256": "3b62daa9c8824c037e9cb8a2553a03203cd87f63a16724fe13cb0034bdc8d17b",
+      "display_sha256": "2b8f9398b48277f279e0784c1f15a7172bbf1be36374d6bffe971c3d944dbd62",
+      "display_blob_sha": "0b9fbefdfd94b6cbce4b1b53df48393fca988f51",
+      "display_original_site_sha256": "3b62daa9c8824c037e9cb8a2553a03203cd87f63a16724fe13cb0034bdc8d17b",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/triodanis-texana/inat-650390470.jpg",

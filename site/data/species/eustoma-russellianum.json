@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "59c0eb89a0bf1973599c14997845da24d1bc91c1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 353011061, photo 644167493, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5bec72be936cef881322281ce4a8098ebafca2e56d47316aaa0e77cf0888c997. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Eustoma russellianum maps to indexed species eustoma-russellianum; specialist morphology and BONAP range deferred.",
-      "sha256": "5bec72be936cef881322281ce4a8098ebafca2e56d47316aaa0e77cf0888c997"
+      "sha256": "5bec72be936cef881322281ce4a8098ebafca2e56d47316aaa0e77cf0888c997",
+      "display_sha256": "23e9c7cdbbce51558d67ce13ee454d26f742f5af8f84093c7acc234722280252",
+      "display_blob_sha": "c3a245303220439fee3d30ca248c9673256b4368",
+      "display_original_site_sha256": "5bec72be936cef881322281ce4a8098ebafca2e56d47316aaa0e77cf0888c997",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/eustoma-russellianum/inat-673585186.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0ee2f0652fc07b02dff1c197265177d8e60e490b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 368779100, photo 673585186, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9989f0fe274fa433ba39601f6e1888959afd530db979d6a1f0d514a2deaf7558. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Eustoma russellianum maps to indexed species eustoma-russellianum; specialist morphology and BONAP range deferred.",
-      "sha256": "9989f0fe274fa433ba39601f6e1888959afd530db979d6a1f0d514a2deaf7558"
+      "sha256": "9989f0fe274fa433ba39601f6e1888959afd530db979d6a1f0d514a2deaf7558",
+      "display_sha256": "875e7f077a48fe0532106b80b3be67e93888617404d7e35cc0e692039d4a7a3f",
+      "display_blob_sha": "079b2819315f006c457569820f92313d441a2303",
+      "display_original_site_sha256": "9989f0fe274fa433ba39601f6e1888959afd530db979d6a1f0d514a2deaf7558",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/eustoma-russellianum/inat-673585886.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "260f5e68241729dafd681c35b585858017170845",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 368779533, photo 673585886, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3d395432243c9a390fc3fbe9b1172dd093fd6ab4079f1112fa2c88a5a2d323a7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Eustoma russellianum maps to indexed species eustoma-russellianum; specialist morphology and BONAP range deferred.",
-      "sha256": "3d395432243c9a390fc3fbe9b1172dd093fd6ab4079f1112fa2c88a5a2d323a7"
+      "sha256": "3d395432243c9a390fc3fbe9b1172dd093fd6ab4079f1112fa2c88a5a2d323a7",
+      "display_sha256": "431999e18615489d73806eac7882a923d2ad61447b65dd0650fc367d32eb97bc",
+      "display_blob_sha": "c26e5a9ca088905cc7402a9aee1c7f3d8fb5715e",
+      "display_original_site_sha256": "3d395432243c9a390fc3fbe9b1172dd093fd6ab4079f1112fa2c88a5a2d323a7",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/eustoma-russellianum/inat-673586087.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5b03bf2fd8e8d19922e02e2bbb5f0bca8ad75523",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 368779627, photo 673586087, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 67e92e522535160062935515dab403ff8e0166fbbb0a02366e5aa9eb6bda11c7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Eustoma russellianum maps to indexed species eustoma-russellianum; specialist morphology and BONAP range deferred.",
-      "sha256": "67e92e522535160062935515dab403ff8e0166fbbb0a02366e5aa9eb6bda11c7"
+      "sha256": "67e92e522535160062935515dab403ff8e0166fbbb0a02366e5aa9eb6bda11c7",
+      "display_sha256": "7e075eda5e00bb5d27a0bd6a2a15a94bb9f7a4c7222ac2197ec9b6acfd9a400c",
+      "display_blob_sha": "1e5cd0aa194a3804c5acb9fb65cf344eda292d81",
+      "display_original_site_sha256": "67e92e522535160062935515dab403ff8e0166fbbb0a02366e5aa9eb6bda11c7",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/eustoma-russellianum/inat-673586563.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "185a8f7c222b4ee177170734c88f0909404f3c4b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 368779815, photo 673586563, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8a7860edc6d5a0ccff91a1ee12e1a4c14b4bc56219476f97bba61664ce609e2c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Eustoma russellianum maps to indexed species eustoma-russellianum; specialist morphology and BONAP range deferred.",
-      "sha256": "8a7860edc6d5a0ccff91a1ee12e1a4c14b4bc56219476f97bba61664ce609e2c"
+      "sha256": "8a7860edc6d5a0ccff91a1ee12e1a4c14b4bc56219476f97bba61664ce609e2c",
+      "display_sha256": "91af485b87bd03213c55644f501e579d82bccf0d9ac6d74e0de5ed4a10bfe166",
+      "display_blob_sha": "cea7dc62c460e147aeb27290473995e8d9b7b332",
+      "display_original_site_sha256": "8a7860edc6d5a0ccff91a1ee12e1a4c14b4bc56219476f97bba61664ce609e2c",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

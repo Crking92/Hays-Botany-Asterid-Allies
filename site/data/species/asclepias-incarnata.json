@@ -87,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2a297e6951c475b041fad9277ad921ffc8e5f522",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -95,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 92621922 and photo 153386750 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 deb4e4b992acf6fa33588830d611cdf965af79bf6c6947652fa700d7a1dc6576; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/153386750/original.jpeg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias incarnata' matches this Apocynaceae species card asclepias-incarnata. Specialist morphology/field characters deferred.",
-      "sha256": "deb4e4b992acf6fa33588830d611cdf965af79bf6c6947652fa700d7a1dc6576"
+      "sha256": "deb4e4b992acf6fa33588830d611cdf965af79bf6c6947652fa700d7a1dc6576",
+      "display_sha256": "1839d386f372a6a8b29d75d0a191ba65028b1d5f483cbaa4b245af6f7f19a417",
+      "display_blob_sha": "824c8a3adc2507c9b7fa7d5b9bd1770d17f9257b",
+      "display_original_site_sha256": "deb4e4b992acf6fa33588830d611cdf965af79bf6c6947652fa700d7a1dc6576",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-incarnata/inat-560074150.jpg",
@@ -106,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "88f59a034f69566082d8b38c613582d9ffd9ec5e",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -114,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 310329806 and photo 560074150 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 a3047a5d08bb7a487cbefaa483f8e0881ca2832434cb1f71cf26b3dcdc3e6256; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/560074150/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias incarnata' matches this Apocynaceae species card asclepias-incarnata. Specialist morphology/field characters deferred.",
-      "sha256": "a3047a5d08bb7a487cbefaa483f8e0881ca2832434cb1f71cf26b3dcdc3e6256"
+      "sha256": "a3047a5d08bb7a487cbefaa483f8e0881ca2832434cb1f71cf26b3dcdc3e6256",
+      "display_sha256": "0cd101d97e46a882798e84e1dbce7fcfa7c012f3c4aa9abe95bed244af346f62",
+      "display_blob_sha": "c433953f2bb790e35ef6b0bfe0e2900df6fbd62d",
+      "display_original_site_sha256": "a3047a5d08bb7a487cbefaa483f8e0881ca2832434cb1f71cf26b3dcdc3e6256",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-incarnata/inat-582661347.jpg",
@@ -125,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "867263909c7fd0aed035701d0cd8251e49d3a119",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -133,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 322120121 and photo 582661347 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 a67b8ac802e9e057bc9a59d9e9dc42a5dfb520976885b0c58d4e006aaf41fe5d; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/582661347/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias incarnata' matches this Apocynaceae species card asclepias-incarnata. Specialist morphology/field characters deferred.",
-      "sha256": "a67b8ac802e9e057bc9a59d9e9dc42a5dfb520976885b0c58d4e006aaf41fe5d"
+      "sha256": "a67b8ac802e9e057bc9a59d9e9dc42a5dfb520976885b0c58d4e006aaf41fe5d",
+      "display_sha256": "725bf6ddc4e70cf4ec4bf64850856ddfd90790166bca4da22c35ec8bb8bda961",
+      "display_blob_sha": "911bd8553f1bb8c62f9d53c9e5c352cfcfa4e952",
+      "display_original_site_sha256": "a67b8ac802e9e057bc9a59d9e9dc42a5dfb520976885b0c58d4e006aaf41fe5d",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-incarnata/inat-704608613.jpg",
@@ -144,7 +159,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f2fee09b95a3c979844f85cea9751dc4d3c847b6",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -152,7 +167,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 384899407 and photo 704608613 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 4df1062a00ad37a6281d815538d9dee5da20cb756030ed250e88e46f0dd8e685; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/704608613/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias incarnata' matches this Apocynaceae species card asclepias-incarnata. Specialist morphology/field characters deferred.",
-      "sha256": "4df1062a00ad37a6281d815538d9dee5da20cb756030ed250e88e46f0dd8e685"
+      "sha256": "4df1062a00ad37a6281d815538d9dee5da20cb756030ed250e88e46f0dd8e685",
+      "display_sha256": "b2813270157c1b494938f04fcadb8f6e8faa5226fbae4058a0e72aa39f470e12",
+      "display_blob_sha": "8615a957773d38fb29b57b0f557b8851957be65f",
+      "display_original_site_sha256": "4df1062a00ad37a6281d815538d9dee5da20cb756030ed250e88e46f0dd8e685",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-incarnata/inat-728148452.jpg",
@@ -163,7 +183,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e39aa4e18fcf60b2652297e7ca07da06eadc08c8",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -171,7 +191,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 397029041 and photo 728148452 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 1cf8c775440292b3468250870bac972bf82d6a52cf7be4091f6264b50074f71e; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/728148452/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias incarnata' matches this Apocynaceae species card asclepias-incarnata. Specialist morphology/field characters deferred.",
-      "sha256": "1cf8c775440292b3468250870bac972bf82d6a52cf7be4091f6264b50074f71e"
+      "sha256": "1cf8c775440292b3468250870bac972bf82d6a52cf7be4091f6264b50074f71e",
+      "display_sha256": "47332ed751d1de6a4753fff0f8159a54f3645080997e182a5fbe5a735934d8e4",
+      "display_blob_sha": "6691a77b274bc10ed1e713bca969938be7bf3cbf",
+      "display_original_site_sha256": "1cf8c775440292b3468250870bac972bf82d6a52cf7be4091f6264b50074f71e",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

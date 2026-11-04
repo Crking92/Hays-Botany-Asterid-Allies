@@ -58,7 +58,7 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "3de9b06cba84fda3442458316b7020895a7cd68c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +66,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 276107094, photo 495922851, individual license cc0, exact source photo URL. Source media SHA256 matches supplied original ZIP: e079f9ea1fee9b1315ed23bfb1f5f0e1487adc3706b968d4546879800a5a3a18.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Physalis longifolia maps to indexed species physalis-longifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "e079f9ea1fee9b1315ed23bfb1f5f0e1487adc3706b968d4546879800a5a3a18"
+      "sha256": "e079f9ea1fee9b1315ed23bfb1f5f0e1487adc3706b968d4546879800a5a3a18",
+      "display_sha256": "29a65d477d67a3754d5342a8993840754775ff6a1de3e7b18ec3f869c138d91f",
+      "display_blob_sha": "b1f27b8d472a2f6a1896bebf210b4e4d7b84d695",
+      "display_original_site_sha256": "e079f9ea1fee9b1315ed23bfb1f5f0e1487adc3706b968d4546879800a5a3a18",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/physalis-longifolia/inat-666088207.jpg",

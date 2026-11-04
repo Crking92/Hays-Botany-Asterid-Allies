@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a552a544fbad8ae33967455388fd69ea0771f46a",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 342311678 and photo 623339591 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 6e2fd2578659bf694a0c09361eadbf43b6f800e00b8cb8fc69c82e0574975760; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/623339591/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Nama jamaicensis' matches this Cactaceae species card nama-jamaicensis. Specialist morphology/field characters deferred.",
-      "sha256": "6e2fd2578659bf694a0c09361eadbf43b6f800e00b8cb8fc69c82e0574975760"
+      "sha256": "6e2fd2578659bf694a0c09361eadbf43b6f800e00b8cb8fc69c82e0574975760",
+      "display_sha256": "cb0b8167216752d99bb1e3bf475351fe790182206a4cc426d02bdf6adad6e185",
+      "display_blob_sha": "1f49678b083a62b13cf0043401ec066060752160",
+      "display_original_site_sha256": "6e2fd2578659bf694a0c09361eadbf43b6f800e00b8cb8fc69c82e0574975760",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nama-jamaicensis/inat-625886400.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "feae2599b4443081f7392e47e8ac0d4f16e9f40e",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 343575083 and photo 625886400 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 9c41fa387b050ed1cf4d9e0599c27611cce09b9a0c0d28db591dfe2390e9755f; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/625886400/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Nama jamaicensis' matches this Cactaceae species card nama-jamaicensis. Specialist morphology/field characters deferred.",
-      "sha256": "9c41fa387b050ed1cf4d9e0599c27611cce09b9a0c0d28db591dfe2390e9755f"
+      "sha256": "9c41fa387b050ed1cf4d9e0599c27611cce09b9a0c0d28db591dfe2390e9755f",
+      "display_sha256": "aae6db6128ae68a8a8f84f4dacfc1fc0461497aa1601f48bb23933065df92fcd",
+      "display_blob_sha": "5306ae3410f35e3968e725fd624c0471e052890b",
+      "display_original_site_sha256": "9c41fa387b050ed1cf4d9e0599c27611cce09b9a0c0d28db591dfe2390e9755f",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nama-jamaicensis/inat-628809215.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ae20ba19a7d03e56e2eb634ba168891079af050a",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 345070118 and photo 628809215 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 7b100a9b17162344733f0f6c0b79126ebd9223c54f8ede4a090fe71ab72cf66a; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/628809215/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Nama jamaicensis' matches this Cactaceae species card nama-jamaicensis. Specialist morphology/field characters deferred.",
-      "sha256": "7b100a9b17162344733f0f6c0b79126ebd9223c54f8ede4a090fe71ab72cf66a"
+      "sha256": "7b100a9b17162344733f0f6c0b79126ebd9223c54f8ede4a090fe71ab72cf66a",
+      "display_sha256": "e3be7bed8a12c9490407aa2370a4124d173100a03262f515d8ae99243659099b",
+      "display_blob_sha": "25ce6b28a3c22b2266d5920aac7f96edc6c0e61a",
+      "display_original_site_sha256": "7b100a9b17162344733f0f6c0b79126ebd9223c54f8ede4a090fe71ab72cf66a",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nama-jamaicensis/inat-628969645.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a1e8e108e7ba97a654edc6c09dac8a8cbc18600f",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 345154393 and photo 628969645 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 1129ee220e3d3d32d3d009f11f53d3dc963e02ed536a0c2435e4144bd01b2961; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/628969645/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Nama jamaicensis' matches this Cactaceae species card nama-jamaicensis. Specialist morphology/field characters deferred.",
-      "sha256": "1129ee220e3d3d32d3d009f11f53d3dc963e02ed536a0c2435e4144bd01b2961"
+      "sha256": "1129ee220e3d3d32d3d009f11f53d3dc963e02ed536a0c2435e4144bd01b2961",
+      "display_sha256": "1b5fd9eebc0bf8f7f87f1a96e5849ef48d01edb3d78ebea6e776208a650379c1",
+      "display_blob_sha": "4bc59fe2dc8fab76e7529161fa5904e6b66cf47a",
+      "display_original_site_sha256": "1129ee220e3d3d32d3d009f11f53d3dc963e02ed536a0c2435e4144bd01b2961",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nama-jamaicensis/inat-645822424.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "798bdda51cc8e505eef8be860c5a56f3349ddf45",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 353987413 and photo 645822424 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 12e8daab7044c29f0d7cc2665961b415e07ebf7a9bc2177e87496617fb107e5d; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/645822424/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Nama jamaicensis' matches this Cactaceae species card nama-jamaicensis. Specialist morphology/field characters deferred.",
-      "sha256": "12e8daab7044c29f0d7cc2665961b415e07ebf7a9bc2177e87496617fb107e5d"
+      "sha256": "12e8daab7044c29f0d7cc2665961b415e07ebf7a9bc2177e87496617fb107e5d",
+      "display_sha256": "390507dffbab8087694adc88d87df3c7b27f712ffeb199d2f8709794bd6f2fbb",
+      "display_blob_sha": "f0124eaa9fa985176c4c0cf338525a4f0873a79e",
+      "display_original_site_sha256": "12e8daab7044c29f0d7cc2665961b415e07ebf7a9bc2177e87496617fb107e5d",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

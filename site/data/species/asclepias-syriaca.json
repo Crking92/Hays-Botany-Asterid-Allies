@@ -73,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "88ddb722df242e89c9a32f70fefea5c9664d5540",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -81,7 +81,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 344710158 and photo 628115028 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 d0f0f07de949b55f7f1963441ca7459002fd5d4cf35000a05b166ee95a13254d; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/628115028/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias syriaca' matches this Apocynaceae species card asclepias-syriaca. Specialist morphology/field characters deferred.",
-      "sha256": "d0f0f07de949b55f7f1963441ca7459002fd5d4cf35000a05b166ee95a13254d"
+      "sha256": "d0f0f07de949b55f7f1963441ca7459002fd5d4cf35000a05b166ee95a13254d",
+      "display_sha256": "4365bc0ebea8b4e600aa5307173cf863f7c9a1264457a22e92b29e1d3dfa5cde",
+      "display_blob_sha": "1521c514b83b1826e9bfd968dfddf83925bdad2f",
+      "display_original_site_sha256": "d0f0f07de949b55f7f1963441ca7459002fd5d4cf35000a05b166ee95a13254d",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-syriaca/inat-634945418.jpg",
@@ -92,7 +97,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6d2c81699b3435176dd84c8295d0c473fcd588a4",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -100,7 +105,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 348171228 and photo 634945418 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 d8e18ef218128cdedaf69c0f82ed9048e3d1a901470b462b3782ad7a7e2f4451; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/634945418/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias syriaca' matches this Apocynaceae species card asclepias-syriaca. Specialist morphology/field characters deferred.",
-      "sha256": "d8e18ef218128cdedaf69c0f82ed9048e3d1a901470b462b3782ad7a7e2f4451"
+      "sha256": "d8e18ef218128cdedaf69c0f82ed9048e3d1a901470b462b3782ad7a7e2f4451",
+      "display_sha256": "42db90b06d0159aeaa213293cccd7ee5e3fb1af6241b3939b4a27294fde8019a",
+      "display_blob_sha": "ee7396bf00933660326549547fa247a4d8ec0c4b",
+      "display_original_site_sha256": "d8e18ef218128cdedaf69c0f82ed9048e3d1a901470b462b3782ad7a7e2f4451",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-syriaca/inat-662792012.jpg",
@@ -111,7 +121,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6fc740b80bb60580094bfe1b850e1353626eec7c",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -119,7 +129,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 363110308 and photo 662792012 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 66d0e011acee361c7780da6ed588444139ac9b6d92653deab7e08963ab2bed5e; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/662792012/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias syriaca' matches this Apocynaceae species card asclepias-syriaca. Specialist morphology/field characters deferred.",
-      "sha256": "66d0e011acee361c7780da6ed588444139ac9b6d92653deab7e08963ab2bed5e"
+      "sha256": "66d0e011acee361c7780da6ed588444139ac9b6d92653deab7e08963ab2bed5e",
+      "display_sha256": "168736dc53c535bf0412dcefba1030fb573ebb08c71c543d345695238e52b855",
+      "display_blob_sha": "504b252ea8984dcbb26d2887fdde1e86d1afb01f",
+      "display_original_site_sha256": "66d0e011acee361c7780da6ed588444139ac9b6d92653deab7e08963ab2bed5e",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-syriaca/inat-662805835.jpg",
@@ -130,7 +145,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b75549c3cf2e574453ec4e473c2b2db7d0d5da9e",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -138,7 +153,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 363117678 and photo 662805835 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 c2f671cfd704462aae21af5c1c8944d6505500462d268fbaed1f5efce1337dd9; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/662805835/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias syriaca' matches this Apocynaceae species card asclepias-syriaca. Specialist morphology/field characters deferred.",
-      "sha256": "c2f671cfd704462aae21af5c1c8944d6505500462d268fbaed1f5efce1337dd9"
+      "sha256": "c2f671cfd704462aae21af5c1c8944d6505500462d268fbaed1f5efce1337dd9",
+      "display_sha256": "6ce5dc8545ebbe176da4355d2c6a352f632a6de4668437e5322e06a847a63569",
+      "display_blob_sha": "35b97dcf4d752dedffe064bfdf293b39352ee0f9",
+      "display_original_site_sha256": "c2f671cfd704462aae21af5c1c8944d6505500462d268fbaed1f5efce1337dd9",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-syriaca/inat-672873584.jpg",
@@ -149,7 +169,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "589761e046df095b8399cf04ec51477101baf6fe",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -157,7 +177,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 368406853 and photo 672873584 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 4e74b7db91406aa4118f3154ce0a52a3a533f9073de1643b51fb66e5398392be; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/672873584/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias syriaca' matches this Apocynaceae species card asclepias-syriaca. Specialist morphology/field characters deferred.",
-      "sha256": "4e74b7db91406aa4118f3154ce0a52a3a533f9073de1643b51fb66e5398392be"
+      "sha256": "4e74b7db91406aa4118f3154ce0a52a3a533f9073de1643b51fb66e5398392be",
+      "display_sha256": "7afa78359147f266c930e55827a6508fcb52e1bd47dba87776612fa660da1b8a",
+      "display_blob_sha": "f16e77b2b2983f8d79d521fa37e4d71cb9d202f0",
+      "display_original_site_sha256": "4e74b7db91406aa4118f3154ce0a52a3a533f9073de1643b51fb66e5398392be",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

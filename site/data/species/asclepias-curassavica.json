@@ -114,7 +114,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f1d09b8d9aceaf029f14f474727e5e5472697ec9",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -122,7 +122,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 314588773 and photo 568204421 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 9c384dccbb52be38a987717c3c99b550fe645317ff06c7a605795d6794b47062; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/568204421/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias curassavica' matches this Apocynaceae species card asclepias-curassavica. Specialist morphology/field characters deferred.",
-      "sha256": "9c384dccbb52be38a987717c3c99b550fe645317ff06c7a605795d6794b47062"
+      "sha256": "9c384dccbb52be38a987717c3c99b550fe645317ff06c7a605795d6794b47062",
+      "display_sha256": "a632bcf0c11ed7046724f6d1fe82993bc9acc5c39c16ee3d3d00ccc0c3bab5e3",
+      "display_blob_sha": "4509e35b29e0279a85e18cd8e13fb4e3af7b190d",
+      "display_original_site_sha256": "9c384dccbb52be38a987717c3c99b550fe645317ff06c7a605795d6794b47062",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-curassavica/inat-568218779.jpg",
@@ -133,7 +138,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "97aee378f7dfaeec0b6b132c0d4b2aab84709e89",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -141,7 +146,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 314596228 and photo 568218779 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 531dd2bb1f21e97ec548f768a0c945f59b8406accc9d3b11387739ef0fe4a9ac; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/568218779/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias curassavica' matches this Apocynaceae species card asclepias-curassavica. Specialist morphology/field characters deferred.",
-      "sha256": "531dd2bb1f21e97ec548f768a0c945f59b8406accc9d3b11387739ef0fe4a9ac"
+      "sha256": "531dd2bb1f21e97ec548f768a0c945f59b8406accc9d3b11387739ef0fe4a9ac",
+      "display_sha256": "9da3e2dd1f0b40601784d542fa12ad1df2813d101d67dd7c6f8d0a68179faad8",
+      "display_blob_sha": "97e890ac166cb75ab584ed6c448f5bec6dde139f",
+      "display_original_site_sha256": "531dd2bb1f21e97ec548f768a0c945f59b8406accc9d3b11387739ef0fe4a9ac",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-curassavica/inat-6020689.jpg",
@@ -152,7 +162,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "source_blob_sha": "c2f1ee7fe024c44e36b9087c674cc9994908faec",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -160,7 +170,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 4937973 and photo 6020689 checked individually for current cc-by-nc-sa rights, creator from live exact-photo attribution, and identical SHA256 86dd1b9f4edb1fb3c0f93d0481c1b29a0e41269bde250c226b2a08fa040e620f; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/6020689/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias curassavica' matches this Apocynaceae species card asclepias-curassavica. Specialist morphology/field characters deferred.",
-      "sha256": "86dd1b9f4edb1fb3c0f93d0481c1b29a0e41269bde250c226b2a08fa040e620f"
+      "sha256": "86dd1b9f4edb1fb3c0f93d0481c1b29a0e41269bde250c226b2a08fa040e620f",
+      "display_sha256": "619cc5896b47071871288c55bba64457c25c302e9f8c0dd15780a8269e20e055",
+      "display_blob_sha": "70ae195b73e359688c6a86695678dd40c5cc9bef",
+      "display_original_site_sha256": "86dd1b9f4edb1fb3c0f93d0481c1b29a0e41269bde250c226b2a08fa040e620f",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-curassavica/inat-626470742.jpg",

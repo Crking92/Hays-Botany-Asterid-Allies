@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "05f8949e428575ee679c271b24fc207aba7063b8",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 265834366 and photo 477567697 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 f962cc5635a2163894068271a55a115e5529e8491d806dabdf5ebed5a027a1a5; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/477567697/original.jpeg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Phacelia patuliflora' matches this Cactaceae species card phacelia-patuliflora. Specialist morphology/field characters deferred.",
-      "sha256": "f962cc5635a2163894068271a55a115e5529e8491d806dabdf5ebed5a027a1a5"
+      "sha256": "f962cc5635a2163894068271a55a115e5529e8491d806dabdf5ebed5a027a1a5",
+      "display_sha256": "eb891598bf389c2eb76a5b6267802df22a1d7a1525a88a3e8f243369dd9ebbf3",
+      "display_blob_sha": "eb0bc503ff0ae7e1185af6b6adcfca6666b8d3a3",
+      "display_original_site_sha256": "f962cc5635a2163894068271a55a115e5529e8491d806dabdf5ebed5a027a1a5",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phacelia-patuliflora/inat-478737840.jpeg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bfb6821918c2ee1e06768225ccfc411b555a157e",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 266457670 and photo 478737840 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 6c401d8f9aabc01e0bf71cbd095c8d3eb423e6c2b323187be12f3d3ac67a4767; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/478737840/original.jpeg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Phacelia patuliflora' matches this Cactaceae species card phacelia-patuliflora. Specialist morphology/field characters deferred.",
-      "sha256": "6c401d8f9aabc01e0bf71cbd095c8d3eb423e6c2b323187be12f3d3ac67a4767"
+      "sha256": "6c401d8f9aabc01e0bf71cbd095c8d3eb423e6c2b323187be12f3d3ac67a4767",
+      "display_sha256": "28721c4b24dfb8b052c28a76f172d4e7db124d03c6d81768a3b9962cc1c7295e",
+      "display_blob_sha": "8c1c5529d8a81fce9534cb1f3ab122581e07357c",
+      "display_original_site_sha256": "6c401d8f9aabc01e0bf71cbd095c8d3eb423e6c2b323187be12f3d3ac67a4767",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phacelia-patuliflora/inat-484011437.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "851ce0665b90a2b194f9eafc9286b713c3deb291",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 269210273 and photo 484011437 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 dbffdfe9726a25a5fe8b8d532793346b026861e010b837db58af94ecd567311f; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/484011437/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Phacelia patuliflora' matches this Cactaceae species card phacelia-patuliflora. Specialist morphology/field characters deferred.",
-      "sha256": "dbffdfe9726a25a5fe8b8d532793346b026861e010b837db58af94ecd567311f"
+      "sha256": "dbffdfe9726a25a5fe8b8d532793346b026861e010b837db58af94ecd567311f",
+      "display_sha256": "6366d4e99e97bb472330e115e23b9ab9388282550d136c06071d486af3136dae",
+      "display_blob_sha": "12c74863ba8c786b868747c7e6e4da4367230bb1",
+      "display_original_site_sha256": "dbffdfe9726a25a5fe8b8d532793346b026861e010b837db58af94ecd567311f",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phacelia-patuliflora/inat-484919860.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d8de513d64e86302715f386c4eb8dfd36fa5f034",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 269682103 and photo 484919860 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 ef9928aca7b666a83b5e3c07922a87360fe04e28a1addbf80f2abe73f2d70fc2; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/484919860/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Phacelia patuliflora' matches this Cactaceae species card phacelia-patuliflora. Specialist morphology/field characters deferred.",
-      "sha256": "ef9928aca7b666a83b5e3c07922a87360fe04e28a1addbf80f2abe73f2d70fc2"
+      "sha256": "ef9928aca7b666a83b5e3c07922a87360fe04e28a1addbf80f2abe73f2d70fc2",
+      "display_sha256": "86aece918bb1bc4d1ec608d0ef64c313d644f02e28374a9187dc93905b13346d",
+      "display_blob_sha": "c206addf7ba0e7fce933d7b3ea7af018bb40b9ec",
+      "display_original_site_sha256": "ef9928aca7b666a83b5e3c07922a87360fe04e28a1addbf80f2abe73f2d70fc2",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phacelia-patuliflora/inat-626088086.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ba02f9bc4de444e61ca1f0759db517d1c41cf69a",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 343675674 and photo 626088086 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 fed16e632f374901047153d85de0bb10d3d0e280431179616273a1e021361736; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/626088086/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Phacelia patuliflora' matches this Cactaceae species card phacelia-patuliflora. Specialist morphology/field characters deferred.",
-      "sha256": "fed16e632f374901047153d85de0bb10d3d0e280431179616273a1e021361736"
+      "sha256": "fed16e632f374901047153d85de0bb10d3d0e280431179616273a1e021361736",
+      "display_sha256": "8c3feff556d9feab57bc578598bc891e3d9ee151e7fff352d84db78d01bc52d4",
+      "display_blob_sha": "c05a1c830342eccf0ebb214a4e679cca77fc8e0f",
+      "display_original_site_sha256": "fed16e632f374901047153d85de0bb10d3d0e280431179616273a1e021361736",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

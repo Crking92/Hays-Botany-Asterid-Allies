@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "15aa639a7d4c95ef8e0b3f77d4da2919189a2495",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 343017218, photo 624747442, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8dbfb28ffcf0347a6437933348d6d0bc677e183fcfa580ce169fa85baa1f8e92.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Bouchetia erecta maps to indexed species bouchetia-erecta; specialist morphology and BONAP range deferred.",
-      "sha256": "8dbfb28ffcf0347a6437933348d6d0bc677e183fcfa580ce169fa85baa1f8e92"
+      "sha256": "8dbfb28ffcf0347a6437933348d6d0bc677e183fcfa580ce169fa85baa1f8e92",
+      "display_sha256": "3cffeb04e5de6ede881fca3cc70d3556c0b1fdcfee5e91275f099aea678dfab2",
+      "display_blob_sha": "f70f871475e49c2b857110da8447bc877ae9e4f7",
+      "display_original_site_sha256": "8dbfb28ffcf0347a6437933348d6d0bc677e183fcfa580ce169fa85baa1f8e92",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/bouchetia-erecta/inat-624805620.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cb2452078fc012169749c2b8b4bede08f6e22e30",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 343045280, photo 624805620, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8335ebf73d9c4b483f0a25af7035a6f671ad60bcea25ef8b54a6acfe9799337a.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Bouchetia erecta maps to indexed species bouchetia-erecta; specialist morphology and BONAP range deferred.",
-      "sha256": "8335ebf73d9c4b483f0a25af7035a6f671ad60bcea25ef8b54a6acfe9799337a"
+      "sha256": "8335ebf73d9c4b483f0a25af7035a6f671ad60bcea25ef8b54a6acfe9799337a",
+      "display_sha256": "781d19cd043aa704692511edec392e225f8852972a38936b53fd177d105890a2",
+      "display_blob_sha": "a4d71512573b5b01f81ec98c340bc6acc0d0a34d",
+      "display_original_site_sha256": "8335ebf73d9c4b483f0a25af7035a6f671ad60bcea25ef8b54a6acfe9799337a",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/bouchetia-erecta/inat-625785375.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7d07767f2af645ea72f7a105e8dd9de68408246b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 343526639, photo 625785375, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e4f28c63a82bfe6ac6512aaa1b605a7e285d77ecf3e1a28200b21a5f97eb8529.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Bouchetia erecta maps to indexed species bouchetia-erecta; specialist morphology and BONAP range deferred.",
-      "sha256": "e4f28c63a82bfe6ac6512aaa1b605a7e285d77ecf3e1a28200b21a5f97eb8529"
+      "sha256": "e4f28c63a82bfe6ac6512aaa1b605a7e285d77ecf3e1a28200b21a5f97eb8529",
+      "display_sha256": "365f9a079e0df6a8c2b04f4789e95322cae9546635b7a80a017d24db821e79cb",
+      "display_blob_sha": "b908c24e5031a1ce00456e7e055d641b42130ed5",
+      "display_original_site_sha256": "e4f28c63a82bfe6ac6512aaa1b605a7e285d77ecf3e1a28200b21a5f97eb8529",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/bouchetia-erecta/inat-627694765.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "54a08a15ddfced989de58577f630d2f8e036aeb2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 344494723, photo 627694765, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5583b80b95db627423f40320bfa451a1ab5a55d36012b96aee66187ca32a65f2.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Bouchetia erecta maps to indexed species bouchetia-erecta; specialist morphology and BONAP range deferred.",
-      "sha256": "5583b80b95db627423f40320bfa451a1ab5a55d36012b96aee66187ca32a65f2"
+      "sha256": "5583b80b95db627423f40320bfa451a1ab5a55d36012b96aee66187ca32a65f2",
+      "display_sha256": "38f22bb56df28120cbfda67ed6cdf3e590fc821afa9a475b7be09a8619a0a92f",
+      "display_blob_sha": "865a7b4309684846caffed79a75f84a2cb2d1993",
+      "display_original_site_sha256": "5583b80b95db627423f40320bfa451a1ab5a55d36012b96aee66187ca32a65f2",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/bouchetia-erecta/inat-628273073.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "87139f77ec84830afb743d8c1ce8673d63fa004d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 344796229, photo 628273073, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a35a1abe22d835c912acf64dafa2ccc36c186c15010cca35378107101b135945.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Bouchetia erecta maps to indexed species bouchetia-erecta; specialist morphology and BONAP range deferred.",
-      "sha256": "a35a1abe22d835c912acf64dafa2ccc36c186c15010cca35378107101b135945"
+      "sha256": "a35a1abe22d835c912acf64dafa2ccc36c186c15010cca35378107101b135945",
+      "display_sha256": "308b26638e07458fa043aa1b53f875ed040ef1d78bb67899db4f119b07fc91c3",
+      "display_blob_sha": "79520daa1ca56d3b0955ee9a47cf56b120df0048",
+      "display_original_site_sha256": "a35a1abe22d835c912acf64dafa2ccc36c186c15010cca35378107101b135945",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/bouchetia-erecta/archived-0a015f1b6cf10990.jpg",

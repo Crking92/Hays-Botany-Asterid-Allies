@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c32d09591ab5bb1be04578da1d9b301e4796ce22",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341458406, photo 621613522, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b84036f09a1b10e855b8ce8caa164b31d8d48563c5f40cba13d9f08fcaae9303.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Chamaesaracha edwardsiana maps to indexed species chamaesaracha-edwardsiana; specialist morphology and BONAP range deferred.",
-      "sha256": "b84036f09a1b10e855b8ce8caa164b31d8d48563c5f40cba13d9f08fcaae9303"
+      "sha256": "b84036f09a1b10e855b8ce8caa164b31d8d48563c5f40cba13d9f08fcaae9303",
+      "display_sha256": "7365fc25f73b068f176e2e681e5cd4ccc2d3075bfaa293c1dac035f94aa16a6f",
+      "display_blob_sha": "be54869a65524b391503dceaa88a364cdb34385f",
+      "display_original_site_sha256": "b84036f09a1b10e855b8ce8caa164b31d8d48563c5f40cba13d9f08fcaae9303",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/chamaesaracha-edwardsiana/inat-621988378.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "source_blob_sha": "3bfbc70011a1eb29427cf510d58f03f44e446451",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341640720, photo 621988378, individual license cc-by-nc-sa, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4ceaaeb1c22e753abdb8e974b35f715a2654d5b2b8ff954fa418f62fc9d9b79d.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Chamaesaracha edwardsiana maps to indexed species chamaesaracha-edwardsiana; specialist morphology and BONAP range deferred.",
-      "sha256": "4ceaaeb1c22e753abdb8e974b35f715a2654d5b2b8ff954fa418f62fc9d9b79d"
+      "sha256": "4ceaaeb1c22e753abdb8e974b35f715a2654d5b2b8ff954fa418f62fc9d9b79d",
+      "display_sha256": "33892ff034fe8ac085c91535df343913a99b1239b4338f9f49b11bb20afb68a5",
+      "display_blob_sha": "3883305f1257e54ba740c9f0c5c4a6fc31919c9e",
+      "display_original_site_sha256": "4ceaaeb1c22e753abdb8e974b35f715a2654d5b2b8ff954fa418f62fc9d9b79d",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/chamaesaracha-edwardsiana/inat-627844970.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "76dacd137db2ddd3580d5b2f449d32e17a75959b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 344572134, photo 627844970, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 24b1f615f1931623d74eca68f371bb074bc01158a9e51d06efa976b6ac2ff765.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Chamaesaracha edwardsiana maps to indexed species chamaesaracha-edwardsiana; specialist morphology and BONAP range deferred.",
-      "sha256": "24b1f615f1931623d74eca68f371bb074bc01158a9e51d06efa976b6ac2ff765"
+      "sha256": "24b1f615f1931623d74eca68f371bb074bc01158a9e51d06efa976b6ac2ff765",
+      "display_sha256": "fb1cbf8eca7de2c7126eec2a5c3271a25b1f087d7d66883584da8a75b7c55d7d",
+      "display_blob_sha": "a00a483297c639b9219e68e9a82e538ac2c428ab",
+      "display_original_site_sha256": "24b1f615f1931623d74eca68f371bb074bc01158a9e51d06efa976b6ac2ff765",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/chamaesaracha-edwardsiana/inat-632434979.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c5b8ddbce49dd058eed3d6a751bea1c143a52ab5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 346909914, photo 632434979, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: dc13f1301f2152ae95651c2285043b6b89c6b58adf7198af7a461b43e03df42d.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Chamaesaracha edwardsiana maps to indexed species chamaesaracha-edwardsiana; specialist morphology and BONAP range deferred.",
-      "sha256": "dc13f1301f2152ae95651c2285043b6b89c6b58adf7198af7a461b43e03df42d"
+      "sha256": "dc13f1301f2152ae95651c2285043b6b89c6b58adf7198af7a461b43e03df42d",
+      "display_sha256": "fc314dd5409c850085f5c58904abb80d91decad522bb049fbc95a71fb1b6f31c",
+      "display_blob_sha": "9ba7781ba34780d8ca698fb8ea12041ed6f7b346",
+      "display_original_site_sha256": "dc13f1301f2152ae95651c2285043b6b89c6b58adf7198af7a461b43e03df42d",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/chamaesaracha-edwardsiana/inat-637818783.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "51dc5ce87300010c0b88145e5ac36d19ae106290",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 349628177, photo 637818783, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 70302eacc15f3d7c4959374ba16285e1ff23cdd6b090e689a513e304afb86332.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Chamaesaracha edwardsiana maps to indexed species chamaesaracha-edwardsiana; specialist morphology and BONAP range deferred.",
-      "sha256": "70302eacc15f3d7c4959374ba16285e1ff23cdd6b090e689a513e304afb86332"
+      "sha256": "70302eacc15f3d7c4959374ba16285e1ff23cdd6b090e689a513e304afb86332",
+      "display_sha256": "8862f84fdb6d507333642f62159cebab98649a716dc822feb382163b6f75ddc7",
+      "display_blob_sha": "0c510a19fba70983541377a279f50219461b0a36",
+      "display_original_site_sha256": "70302eacc15f3d7c4959374ba16285e1ff23cdd6b090e689a513e304afb86332",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/chamaesaracha-edwardsiana/archived-a64d5a47343e60b4.jpg",

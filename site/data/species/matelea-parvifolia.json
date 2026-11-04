@@ -81,7 +81,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4c3d0497730b51a70c5ef8338fe7f18078328f25",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -89,7 +89,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 161900246 and photo 279883043 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 eadfc862971448985709bd63be75622f7770851b538c02e4f1a034488dfd98eb; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/279883043/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Matelea parvifolia' matches this Apocynaceae species card matelea-parvifolia. Specialist morphology/field characters deferred.",
-      "sha256": "eadfc862971448985709bd63be75622f7770851b538c02e4f1a034488dfd98eb"
+      "sha256": "eadfc862971448985709bd63be75622f7770851b538c02e4f1a034488dfd98eb",
+      "display_sha256": "0f603c49bc0184d5ca15069c0530a806ecd55b3533f2c2111d5b8aba23dfeada",
+      "display_blob_sha": "aa2da57097c60d61095f161d3fc41728a15f4bbb",
+      "display_original_site_sha256": "eadfc862971448985709bd63be75622f7770851b538c02e4f1a034488dfd98eb",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/matelea-parvifolia/inat-280479529.jpg",
@@ -100,7 +105,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8153dc474a02aa927f9ae3d650d4a0fa056167fc",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -108,7 +113,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 162222655 and photo 280479529 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 bd25bca45f0fcdf8f21f2fc2336963b1b5ea9ed1b4fa099de5f69a05885a19f9; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/280479529/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Matelea parvifolia' matches this Apocynaceae species card matelea-parvifolia. Specialist morphology/field characters deferred.",
-      "sha256": "bd25bca45f0fcdf8f21f2fc2336963b1b5ea9ed1b4fa099de5f69a05885a19f9"
+      "sha256": "bd25bca45f0fcdf8f21f2fc2336963b1b5ea9ed1b4fa099de5f69a05885a19f9",
+      "display_sha256": "a24a9e0c1f6e3a33b8f3205e9b4837fc2f3add4d72da10d89130a27f30b5ddb3",
+      "display_blob_sha": "23e23df8dc1a4446c9c368671f20a36522acb93d",
+      "display_original_site_sha256": "bd25bca45f0fcdf8f21f2fc2336963b1b5ea9ed1b4fa099de5f69a05885a19f9",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/matelea-parvifolia/inat-305480896.jpg",
@@ -119,7 +129,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "79703a1cb7097411f65bfdd8f8c42d2a1d8fc266",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -127,7 +137,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 175758957 and photo 305480896 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 ba30a643a7154d891082a3a44ac60b232d8401feddb875de3afa174db91bf262; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/305480896/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Matelea parvifolia' matches this Apocynaceae species card matelea-parvifolia. Specialist morphology/field characters deferred.",
-      "sha256": "ba30a643a7154d891082a3a44ac60b232d8401feddb875de3afa174db91bf262"
+      "sha256": "ba30a643a7154d891082a3a44ac60b232d8401feddb875de3afa174db91bf262",
+      "display_sha256": "83808474354ede9e5ed7babe2ab502e8805dd09930f5b17d322961465d49b252",
+      "display_blob_sha": "855b253a8f85c73ca0287ba343bd98df27b9f26a",
+      "display_original_site_sha256": "ba30a643a7154d891082a3a44ac60b232d8401feddb875de3afa174db91bf262",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/matelea-parvifolia/inat-638451957.jpg",
@@ -138,7 +153,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "b2224b3bec801b4ec0337f0fa3cf582484237109",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -146,7 +161,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 349953593 and photo 638451957 checked individually for current cc-by rights, creator from live exact-photo attribution, and identical SHA256 24c24d1007b264cd965aec6f172767a557bd73f859807bf08481f8f7abb26fda; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/638451957/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Matelea parvifolia' matches this Apocynaceae species card matelea-parvifolia. Specialist morphology/field characters deferred.",
-      "sha256": "24c24d1007b264cd965aec6f172767a557bd73f859807bf08481f8f7abb26fda"
+      "sha256": "24c24d1007b264cd965aec6f172767a557bd73f859807bf08481f8f7abb26fda",
+      "display_sha256": "7b9f22d6292d3806e751acf004cab56bb29a8a63ae3bce6e4fbb54ec6cc78ab7",
+      "display_blob_sha": "69127ca96c93c27331890817d7577f77cbcb4d21",
+      "display_original_site_sha256": "24c24d1007b264cd965aec6f172767a557bd73f859807bf08481f8f7abb26fda",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/matelea-parvifolia/inat-638455900.jpg",

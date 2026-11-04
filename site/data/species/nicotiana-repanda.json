@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e3381389ac4993f80fcf1a836634bdc6e7bd5eb1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 342756457, photo 624223730, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2300b3ed6638bf46285b2ede919298425b8df7b7cec0a9931b3c1db4d01e8750.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Nicotiana repanda maps to indexed species nicotiana-repanda; specialist morphology and BONAP range deferred.",
-      "sha256": "2300b3ed6638bf46285b2ede919298425b8df7b7cec0a9931b3c1db4d01e8750"
+      "sha256": "2300b3ed6638bf46285b2ede919298425b8df7b7cec0a9931b3c1db4d01e8750",
+      "display_sha256": "d91eabe660711bb79581dd3e5cd2dc00dc131dbcede2a0268cd376646a87d9eb",
+      "display_blob_sha": "b118a6154c712315a22547d1ffeab421c687cc07",
+      "display_original_site_sha256": "2300b3ed6638bf46285b2ede919298425b8df7b7cec0a9931b3c1db4d01e8750",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nicotiana-repanda/inat-630020192.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b3fee54078bec7ca428504120c48f9974f9cc2e8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 345684525, photo 630020192, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2a51db325408b955fd8fe962351db26a340abfbfda16d5928a8c4b9426f65823.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Nicotiana repanda maps to indexed species nicotiana-repanda; specialist morphology and BONAP range deferred.",
-      "sha256": "2a51db325408b955fd8fe962351db26a340abfbfda16d5928a8c4b9426f65823"
+      "sha256": "2a51db325408b955fd8fe962351db26a340abfbfda16d5928a8c4b9426f65823",
+      "display_sha256": "82acc9e559123c29a76b22f8143b00e4344dd3d6d0e2cdfc391d4ad29d66b84e",
+      "display_blob_sha": "97276ff5bdf1335f73f95dfb82eac1b2ae144b7b",
+      "display_original_site_sha256": "2a51db325408b955fd8fe962351db26a340abfbfda16d5928a8c4b9426f65823",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nicotiana-repanda/inat-631040401.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9cd23e9e47b358f414eba1d57b5ce335b047afea",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 346204119, photo 631040401, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 350a41993706daf7b7e66961361aff81fbb7e8ef29c58d62fd85ebaa575f6ee9.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Nicotiana repanda maps to indexed species nicotiana-repanda; specialist morphology and BONAP range deferred.",
-      "sha256": "350a41993706daf7b7e66961361aff81fbb7e8ef29c58d62fd85ebaa575f6ee9"
+      "sha256": "350a41993706daf7b7e66961361aff81fbb7e8ef29c58d62fd85ebaa575f6ee9",
+      "display_sha256": "0bfa20d0c32324b44fb8d0d96336b2aeffce81abe526d56d4f6b415a00a80518",
+      "display_blob_sha": "c25f4923f20198713f278b964f85044be9b78dfc",
+      "display_original_site_sha256": "350a41993706daf7b7e66961361aff81fbb7e8ef29c58d62fd85ebaa575f6ee9",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nicotiana-repanda/inat-632264889.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0259c7539154dc94db5139e2f78dcc7f87238d9d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 346822873, photo 632264889, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a78e12dd7a1bd9599ffdea4f8f7e5d7e0934922a1a80898c0637e91f7851bbb5.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Nicotiana repanda maps to indexed species nicotiana-repanda; specialist morphology and BONAP range deferred.",
-      "sha256": "a78e12dd7a1bd9599ffdea4f8f7e5d7e0934922a1a80898c0637e91f7851bbb5"
+      "sha256": "a78e12dd7a1bd9599ffdea4f8f7e5d7e0934922a1a80898c0637e91f7851bbb5",
+      "display_sha256": "aa33dd23114e3c58e9f40fbe9155e52a3340a5f6d92a3e8dd2e48fa3cc325ec7",
+      "display_blob_sha": "4cef449c4b79113ec32e50d20d818d336e5727ef",
+      "display_original_site_sha256": "a78e12dd7a1bd9599ffdea4f8f7e5d7e0934922a1a80898c0637e91f7851bbb5",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nicotiana-repanda/inat-636308156.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9a49772f7cd6e9055de90800bb7a0887e5585dad",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 348857185, photo 636308156, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7e2ee92ebdbf0e9cf2ca6f7b004ef71c1294836b29e150e420f9e6f4fccac840.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Nicotiana repanda maps to indexed species nicotiana-repanda; specialist morphology and BONAP range deferred.",
-      "sha256": "7e2ee92ebdbf0e9cf2ca6f7b004ef71c1294836b29e150e420f9e6f4fccac840"
+      "sha256": "7e2ee92ebdbf0e9cf2ca6f7b004ef71c1294836b29e150e420f9e6f4fccac840",
+      "display_sha256": "788fe8773d692afc35cbd186ea2161b6630e19905b2867f4d616c4b0f21f4eaf",
+      "display_blob_sha": "46c5d2306032ebdb04c13edd1a6d8ad87125842b",
+      "display_original_site_sha256": "7e2ee92ebdbf0e9cf2ca6f7b004ef71c1294836b29e150e420f9e6f4fccac840",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nicotiana-repanda/archived-29731ba2ead9499b.jpg",

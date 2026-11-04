@@ -60,10 +60,15 @@
       "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source_blob_sha": "be69658190c7e8d1f985b5e7f523d64058853efc",
       "role": "Recognize · flowering milkweed among grass with narrow pointed leaves and clustered green flowers",
-      "modified": "Exact archived original photograph; no modification",
+      "modified": "Resized and recompressed web display copy; source note: Exact archived original photograph; no modification",
       "noncommercial_only": false,
       "private_rights_review_only": false,
-      "source_page_is_exact": true
+      "source_page_is_exact": true,
+      "display_sha256": "97031a346fba44a5c6003fec5cf7e46e0bf2efdb2edc7fd9f8c7ecdd0e100f69",
+      "display_blob_sha": "f192c1b87d7d3f922592c8a6ff41349b5a324819",
+      "display_original_site_sha256": "0fe8df95c1bf2bf3ba48e02e2b637826940217a658b570652b300b394faf3f8f",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-asperula/02-flower-blanco.jpg",
@@ -73,10 +78,15 @@
       "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
       "source_blob_sha": "a074357e6b2e67e23dbab05e339a4ffa79ba5d18",
       "role": "Look closer · pale flowers crowded together on flowering stems; individual hood detail not resolved",
-      "modified": "Exact archived original photograph; no modification",
+      "modified": "Resized and recompressed web display copy; source note: Exact archived original photograph; no modification",
       "noncommercial_only": false,
       "private_rights_review_only": false,
-      "source_page_is_exact": true
+      "source_page_is_exact": true,
+      "display_sha256": "009753621b35b8df908470f85020711c3e179811ff8bee370e0c3bd5af994e41",
+      "display_blob_sha": "0a7243d9934bd1b849dc259c9b3637566abacbde",
+      "display_original_site_sha256": "fd8dae25cd859470a970577d5bf883f1d8e86c878c9a78885d5dd7923a7259be",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-asperula/03-fruit.jpg",
@@ -99,10 +109,15 @@
       "license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
       "source_blob_sha": "2487922db6beccd9b124683b611f63f67717eb90",
       "role": "Look closer · tightly packed greenish buds and nearby narrow leaves; hood macro still needed",
-      "modified": "Exact archived original photograph; no modification",
+      "modified": "Resized and recompressed web display copy; source note: Exact archived original photograph; no modification",
       "noncommercial_only": false,
       "private_rights_review_only": false,
-      "source_page_is_exact": true
+      "source_page_is_exact": true,
+      "display_sha256": "b0cbb70bb3828364aae13073bcf7ea12294e8ebc8e1b7726fd0beb3d5f8218f2",
+      "display_blob_sha": "6114952809a4665a8092526e2c929b4dbf492ccc",
+      "display_original_site_sha256": "74645b2bfb7b2921ca5a7158df2005b6fd4c136e15009277a1c1bee34dd46fb7",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-asperula/05-diagnostic.jpg",
@@ -112,10 +127,15 @@
       "license_url": "https://creativecommons.org/licenses/by/2.0/",
       "source_blob_sha": "54e9947b013f6710c0876a9750fb6d2f56183eff",
       "role": "Recognize · low spreading plant with long narrow leaves on rocky ground",
-      "modified": "Exact archived original photograph; no modification",
+      "modified": "Resized and recompressed web display copy; source note: Exact archived original photograph; no modification",
       "noncommercial_only": false,
       "private_rights_review_only": false,
-      "source_page_is_exact": true
+      "source_page_is_exact": true,
+      "display_sha256": "414c4e6b3405f302beafc2bc13ba92a1c2a1938ab356bf01095a304cbfb9340f",
+      "display_blob_sha": "34451745d69b898c79185944dc5d5badc147db8b",
+      "display_original_site_sha256": "0b0e387db674c30f74c8c1698b64022dc998ddeb3271c4cd5f9906490a189fb5",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-asperula/inat-623220027.jpg",
@@ -126,7 +146,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "600a731589538a7eea0285d70a65e005c0b30c56",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -134,7 +154,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 342252840 and photo 623220027 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 ae91ae36216c1258c6544b6b8621ee2abe2458f9ed79d3b59b4e2f05ccbaf6f9; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/623220027/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias asperula' matches this Apocynaceae species card asclepias-asperula. Specialist morphology/field characters deferred.",
-      "sha256": "ae91ae36216c1258c6544b6b8621ee2abe2458f9ed79d3b59b4e2f05ccbaf6f9"
+      "sha256": "ae91ae36216c1258c6544b6b8621ee2abe2458f9ed79d3b59b4e2f05ccbaf6f9",
+      "display_sha256": "71bb29b4df2f0ba7724ec0095817602858778530db6efb391d3187b0ef492813",
+      "display_blob_sha": "dfd94972a52ba8fe3d1f39e119f934e66595b7b2",
+      "display_original_site_sha256": "ae91ae36216c1258c6544b6b8621ee2abe2458f9ed79d3b59b4e2f05ccbaf6f9",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-asperula/inat-623457755.jpg",
@@ -145,7 +170,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "46c8015d6707fffaecc3ad0668625f88bd1ffad9",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -153,7 +178,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 342368269 and photo 623457755 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 961d8cbb96364853e0829c4046930b474fe63e97a5d6c3b818329d3105ce41c7; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/623457755/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias asperula capricornu' matches this Apocynaceae species card asclepias-asperula. Specialist morphology/field characters deferred.",
-      "sha256": "961d8cbb96364853e0829c4046930b474fe63e97a5d6c3b818329d3105ce41c7"
+      "sha256": "961d8cbb96364853e0829c4046930b474fe63e97a5d6c3b818329d3105ce41c7",
+      "display_sha256": "9ac358e000ff7e6e90faf27add9a9d1c99f19113d84aad513930860dfe374f82",
+      "display_blob_sha": "9de2a780200c94a7b372a383c45af007d0baf8e3",
+      "display_original_site_sha256": "961d8cbb96364853e0829c4046930b474fe63e97a5d6c3b818329d3105ce41c7",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-asperula/inat-623670394.jpg",
@@ -164,7 +194,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c1bb3a4bb4e38019edae54a362b82be775de6e08",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -172,7 +202,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 342474117 and photo 623670394 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 fb165b529b478077066a964da8907a006151ed291099731c28cd203d599d95c0; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/623670394/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias asperula capricornu' matches this Apocynaceae species card asclepias-asperula. Specialist morphology/field characters deferred.",
-      "sha256": "fb165b529b478077066a964da8907a006151ed291099731c28cd203d599d95c0"
+      "sha256": "fb165b529b478077066a964da8907a006151ed291099731c28cd203d599d95c0",
+      "display_sha256": "87c4872e3c28ff47629a82f486ceeb82ba2b4d58d0e3b8d7161f08aa449e75a0",
+      "display_blob_sha": "5c6367204efff9485896857661a24ebd894a0bca",
+      "display_original_site_sha256": "fb165b529b478077066a964da8907a006151ed291099731c28cd203d599d95c0",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-asperula/inat-624931794.jpg",
@@ -183,7 +218,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f2ecffa50b84980130d61e525b0b35a692bd7a0b",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -191,7 +226,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 343106852 and photo 624931794 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 632289639a619ad4a8a22669e8b3be914c7e32e4f9a04ab46542c0869e0690c3; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/624931794/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias asperula' matches this Apocynaceae species card asclepias-asperula. Specialist morphology/field characters deferred.",
-      "sha256": "632289639a619ad4a8a22669e8b3be914c7e32e4f9a04ab46542c0869e0690c3"
+      "sha256": "632289639a619ad4a8a22669e8b3be914c7e32e4f9a04ab46542c0869e0690c3",
+      "display_sha256": "90c802f6bf94e261e7b482eaefcb601a51cb8f05971cf2787f3cc15fb86f9bf8",
+      "display_blob_sha": "ef033a1442f81c93b1fd3ba0b0519182bfbf05f5",
+      "display_original_site_sha256": "632289639a619ad4a8a22669e8b3be914c7e32e4f9a04ab46542c0869e0690c3",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-asperula/inat-624977641.jpg",
@@ -202,7 +242,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4e530263fc89e6710fdfa759d8da57a0ee6b29cb",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -210,7 +250,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 343130356 and photo 624977641 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 0b4346e6c5d4a04f05145ed679f9b3a5a3d84472309d5857d4f928ed1704b0a1; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/624977641/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias asperula' matches this Apocynaceae species card asclepias-asperula. Specialist morphology/field characters deferred.",
-      "sha256": "0b4346e6c5d4a04f05145ed679f9b3a5a3d84472309d5857d4f928ed1704b0a1"
+      "sha256": "0b4346e6c5d4a04f05145ed679f9b3a5a3d84472309d5857d4f928ed1704b0a1",
+      "display_sha256": "9a363e5819b81006ef68cbc86a2f7381287948bc991a8802b9082f425878b0d0",
+      "display_blob_sha": "88eaa2ddf8178f64cd3668fa52c37a64c5bab902",
+      "display_original_site_sha256": "0b4346e6c5d4a04f05145ed679f9b3a5a3d84472309d5857d4f928ed1704b0a1",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

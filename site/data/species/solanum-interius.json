@@ -96,7 +96,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "64b57766d818cfa4193f91ae4813bdd9dc3f079e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +104,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 51946382, photo 82555173, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 18a43a7db496f31ad886458df72e2718eee4bb466d784e26b587224ae6ad7c9b.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Solanum interius maps to indexed species solanum-interius; specialist morphology and BONAP range deferred.",
-      "sha256": "18a43a7db496f31ad886458df72e2718eee4bb466d784e26b587224ae6ad7c9b"
+      "sha256": "18a43a7db496f31ad886458df72e2718eee4bb466d784e26b587224ae6ad7c9b",
+      "display_sha256": "b840cf9144e3e7d7b3114b310944a87867aea1c6a128840b4bfdb4c319298bcf",
+      "display_blob_sha": "96867a6ff14759f0de7df728dc4ef462c554dcdb",
+      "display_original_site_sha256": "18a43a7db496f31ad886458df72e2718eee4bb466d784e26b587224ae6ad7c9b",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/solanum-interius/historical-phytokeys-0e4a1297811ecfbc.jpg",

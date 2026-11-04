@@ -56,10 +56,15 @@
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
       "source_blob_sha": "76b29056517cde6d7c80a7768e4c10ade8eb096f",
       "role": "Recognize · orange flowering umbel above an upright leafy stem in grassland habitat",
-      "modified": "Exact archived original photograph; no modification",
+      "modified": "Resized and recompressed web display copy; source note: Exact archived original photograph; no modification",
       "noncommercial_only": false,
       "private_rights_review_only": false,
-      "source_page_is_exact": true
+      "source_page_is_exact": true,
+      "display_sha256": "f0c8157c4998bbaaec91c4ca10cda55d5bf2f06eb3586d635928555fc7a5f484",
+      "display_blob_sha": "af218c5ccb3e1ff188d8ab5fcf425e0e00d8fa97",
+      "display_original_site_sha256": "ab9962e26b20638d2f402a1dd91cecdad5639f8117f9bfce19866c4571fd7761",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-tuberosa/02-foliage-and-inflorescence.jpg",
@@ -82,10 +87,15 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "7943ea6d5d6670a9d346af1ec6ed09e7c4d210f1",
       "role": "Look closer · orange individual flowers, recurved corolla lobes and central corona structures",
-      "modified": "Exact archived original photograph; no modification",
+      "modified": "Resized and recompressed web display copy; source note: Exact archived original photograph; no modification",
       "noncommercial_only": false,
       "private_rights_review_only": false,
-      "source_page_is_exact": true
+      "source_page_is_exact": true,
+      "display_sha256": "a63b35566835301d1873d9e59894ec0d509c4ff49f73a04570a3ecfb77d8c9a5",
+      "display_blob_sha": "072c64687b5a672b69f79e93853167a44d6cf2de",
+      "display_original_site_sha256": "89e050fe3c1bc97e5cf2a3d1d8110a0335a87161ed9f158cafdeb4b3f16eb385",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-tuberosa/04-fruit.jpg",
@@ -95,10 +105,15 @@
       "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
       "source_blob_sha": "fb27ca01cf776e1aea50e680e1736ab5e0b86c36",
       "role": "Look closer · elongated green follicles developing on upright leafy stems; seeds are not visible",
-      "modified": "Exact archived original photograph; no modification",
+      "modified": "Resized and recompressed web display copy; source note: Exact archived original photograph; no modification",
       "noncommercial_only": false,
       "private_rights_review_only": false,
-      "source_page_is_exact": true
+      "source_page_is_exact": true,
+      "display_sha256": "c5546bae8dcb1295975c26def5344ce6c77845bf12e49c37e7a6500446f37e17",
+      "display_blob_sha": "6be6ca1ca0a77190f7e23c6908395805528059be",
+      "display_original_site_sha256": "407579d2d9f9a13090e85891fdd5246eaa169a17d1d760924b7331c987080e8b",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-tuberosa/05-botanical-illustration.png",
@@ -122,7 +137,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d6f3e6b887eff1c1bb9922978fbb9392405b509c",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -130,7 +145,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 352445505 and photo 643279867 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 4df8cf3b0bf58787c2a5456fe24ab4a5cbdfa758e7209da0a79d7601ce5ff351; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/643279867/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias tuberosa' matches this Apocynaceae species card asclepias-tuberosa. Specialist morphology/field characters deferred.",
-      "sha256": "4df8cf3b0bf58787c2a5456fe24ab4a5cbdfa758e7209da0a79d7601ce5ff351"
+      "sha256": "4df8cf3b0bf58787c2a5456fe24ab4a5cbdfa758e7209da0a79d7601ce5ff351",
+      "display_sha256": "7769fbc23bb8faeae4becdb77800225307fd3b2b1ec9d3c0c296b40887905e81",
+      "display_blob_sha": "f4552e8b02e4795a737268fc503e10e259d2d12f",
+      "display_original_site_sha256": "4df8cf3b0bf58787c2a5456fe24ab4a5cbdfa758e7209da0a79d7601ce5ff351",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-tuberosa/inat-647224913.jpg",
@@ -141,7 +161,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d70632c3c06f475569c23af209e334ae9a73968d",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -149,7 +169,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 354816858 and photo 647224913 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 ba3df05a9a85f18104edbb6a1e66609168324fd1765705f2e8f73e569a8e374d; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/647224913/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias tuberosa' matches this Apocynaceae species card asclepias-tuberosa. Specialist morphology/field characters deferred.",
-      "sha256": "ba3df05a9a85f18104edbb6a1e66609168324fd1765705f2e8f73e569a8e374d"
+      "sha256": "ba3df05a9a85f18104edbb6a1e66609168324fd1765705f2e8f73e569a8e374d",
+      "display_sha256": "c9681b42b67a826c9ad9304825b2088d60ca9a793c9a43f4c93e35f83c88c2d1",
+      "display_blob_sha": "cc51f21460f8fc103c04b3c5aa9330309bdad79c",
+      "display_original_site_sha256": "ba3df05a9a85f18104edbb6a1e66609168324fd1765705f2e8f73e569a8e374d",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-tuberosa/inat-658894901.jpg",
@@ -160,7 +185,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "075ebf4941e7c678239ebece34a7aa1e0ce332a5",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -168,7 +193,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 361054429 and photo 658894901 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 6e513f7690d97ffd83dec80c1d565c62680eb7d8d1927bd9dd45dbd12ec47b42; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/658894901/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias tuberosa' matches this Apocynaceae species card asclepias-tuberosa. Specialist morphology/field characters deferred.",
-      "sha256": "6e513f7690d97ffd83dec80c1d565c62680eb7d8d1927bd9dd45dbd12ec47b42"
+      "sha256": "6e513f7690d97ffd83dec80c1d565c62680eb7d8d1927bd9dd45dbd12ec47b42",
+      "display_sha256": "2260f71e384b68205e7318d4e69d881c2a1d2e12ccd73c9e829817676775e507",
+      "display_blob_sha": "50ba5ab2af87af9ee46b7c349fa74d546b470360",
+      "display_original_site_sha256": "6e513f7690d97ffd83dec80c1d565c62680eb7d8d1927bd9dd45dbd12ec47b42",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-tuberosa/inat-659571537.jpg",
@@ -179,7 +209,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "44b9dd70420fe5bcb1b6a5866ebf118e355fe1fc",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -187,7 +217,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 361409410 and photo 659571537 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 a2c3ca25a96f1a4322b3cd8ae7f4de50467367dc5a347053b64ba4ad40345f4b; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/659571537/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias tuberosa' matches this Apocynaceae species card asclepias-tuberosa. Specialist morphology/field characters deferred.",
-      "sha256": "a2c3ca25a96f1a4322b3cd8ae7f4de50467367dc5a347053b64ba4ad40345f4b"
+      "sha256": "a2c3ca25a96f1a4322b3cd8ae7f4de50467367dc5a347053b64ba4ad40345f4b",
+      "display_sha256": "4b49d7f609bcf730648a44611350395a66d43b5cb304501c157529b41ff6f4ca",
+      "display_blob_sha": "0b2b67c89fab7d28211b2b74e7b220a06d876e09",
+      "display_original_site_sha256": "a2c3ca25a96f1a4322b3cd8ae7f4de50467367dc5a347053b64ba4ad40345f4b",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-tuberosa/inat-662109873.jpg",
@@ -198,7 +233,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "107fe2c43e346ea08fd468487306de2aee7ea5a3",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -206,7 +241,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 362753415 and photo 662109873 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 9cc490c0b93c27f626f187107e3da7a666f3349f0410d36ec482428b24392772; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/662109873/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias tuberosa' matches this Apocynaceae species card asclepias-tuberosa. Specialist morphology/field characters deferred.",
-      "sha256": "9cc490c0b93c27f626f187107e3da7a666f3349f0410d36ec482428b24392772"
+      "sha256": "9cc490c0b93c27f626f187107e3da7a666f3349f0410d36ec482428b24392772",
+      "display_sha256": "6ad63fce805972a603a72818c04f755b3e52bc04bcd33a9ee3175c0e7cf3eaf2",
+      "display_blob_sha": "f15ef301578605bc406ca273c7f97cc102ede058",
+      "display_original_site_sha256": "9cc490c0b93c27f626f187107e3da7a666f3349f0410d36ec482428b24392772",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

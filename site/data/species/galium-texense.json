@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "09d9ac74451cf41121d14fe5c755e03c20d5f449",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 72853500, photo 118859007, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 99dd38614338d672841255b9a04a9c17cc79922379f168cedf561f8d64d5b038.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Galium texense maps to indexed species galium-texense; specialist morphology and BONAP range deferred.",
-      "sha256": "99dd38614338d672841255b9a04a9c17cc79922379f168cedf561f8d64d5b038"
+      "sha256": "99dd38614338d672841255b9a04a9c17cc79922379f168cedf561f8d64d5b038",
+      "display_sha256": "ba6d0f9ef235661a99840b56c9cee65a70604c9de016f9772582497d13832570",
+      "display_blob_sha": "226d1d0c412be8d87eaaa56bd2d13dd9441361b1",
+      "display_original_site_sha256": "99dd38614338d672841255b9a04a9c17cc79922379f168cedf561f8d64d5b038",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/galium-texense/inat-127343310.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5c89bcab60f6a03025a39a28b01b6822342b0f27",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 152583537, photo 263422021, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 45ab1fd8592ad30094e15e5506d87d30a66785102a454ac1c479dd87fff821f3.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Galium texense maps to indexed species galium-texense; specialist morphology and BONAP range deferred.",
-      "sha256": "45ab1fd8592ad30094e15e5506d87d30a66785102a454ac1c479dd87fff821f3"
+      "sha256": "45ab1fd8592ad30094e15e5506d87d30a66785102a454ac1c479dd87fff821f3",
+      "display_sha256": "98dd67fd2eed28f3c61f400c2a4e8be75d5b1afdb3da17d4ab05714e5d717823",
+      "display_blob_sha": "e693e0955b9ccddcfaca84b6a22f89f8ca897adc",
+      "display_original_site_sha256": "45ab1fd8592ad30094e15e5506d87d30a66785102a454ac1c479dd87fff821f3",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/galium-texense/inat-32245082.jpeg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "7beb7edef7eb2c70311e2905fcce8b534a134c9a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 20896544, photo 32245082, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 75d23e8e8d2fff738969b4c3b52fc7e38ad03264496fc553a0f868e8d7262323.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Galium texense maps to indexed species galium-texense; specialist morphology and BONAP range deferred.",
-      "sha256": "75d23e8e8d2fff738969b4c3b52fc7e38ad03264496fc553a0f868e8d7262323"
+      "sha256": "75d23e8e8d2fff738969b4c3b52fc7e38ad03264496fc553a0f868e8d7262323",
+      "display_sha256": "2d1df3b2c5459551567b965193c7bfb61e24aac13eb4376c7c86b789764ade2b",
+      "display_blob_sha": "9399b498fc43336f750a670ab8940bb7a68816ae",
+      "display_original_site_sha256": "75d23e8e8d2fff738969b4c3b52fc7e38ad03264496fc553a0f868e8d7262323",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/galium-texense/inat-648706546.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "faa34ea80b9986bb9ef7904b90825984d8dae102",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 355721195, photo 648706546, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5256be38a8c2c88a5be727d9b48be1adab46480802440f3aadae80907f01447d.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Galium texense maps to indexed species galium-texense; specialist morphology and BONAP range deferred.",
-      "sha256": "5256be38a8c2c88a5be727d9b48be1adab46480802440f3aadae80907f01447d"
+      "sha256": "5256be38a8c2c88a5be727d9b48be1adab46480802440f3aadae80907f01447d",
+      "display_sha256": "3e30a40fcde8ed01a21c50810e4977a08259bcaf5064cfa73a6e4eddd75cd0fb",
+      "display_blob_sha": "727dd3db52c994251ac00d1c454b92b253a87a26",
+      "display_original_site_sha256": "5256be38a8c2c88a5be727d9b48be1adab46480802440f3aadae80907f01447d",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/galium-texense/archived-b86eb3d20b342275.jpg",

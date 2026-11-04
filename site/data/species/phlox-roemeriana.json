@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "55a886577f638ffe2bc11bea3b83f9ddab4ac06a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341186200, photo 621051816, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f78a83527b735ac175f8e95027a7391609124ca219d96ba5d9697c825fec83e2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Phlox roemeriana maps to indexed species phlox-roemeriana; specialist morphology and BONAP range deferred.",
-      "sha256": "f78a83527b735ac175f8e95027a7391609124ca219d96ba5d9697c825fec83e2"
+      "sha256": "f78a83527b735ac175f8e95027a7391609124ca219d96ba5d9697c825fec83e2",
+      "display_sha256": "fdd1d5022bd4b516d4dfc93c663b2c6bd1c490e01a3174d7b7db4fb664088fa0",
+      "display_blob_sha": "a11b50138609ba524637a153cf62b8f4c23a6104",
+      "display_original_site_sha256": "f78a83527b735ac175f8e95027a7391609124ca219d96ba5d9697c825fec83e2",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phlox-roemeriana/inat-622067521.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "183922aa342917c067f03cbe1c5d9bcbb311fba9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341679722, photo 622067521, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7ab2d1bb1a8ca7ffb75d22bf5884186f812e6aa0a778ee680e3047e75e4d812d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Phlox roemeriana maps to indexed species phlox-roemeriana; specialist morphology and BONAP range deferred.",
-      "sha256": "7ab2d1bb1a8ca7ffb75d22bf5884186f812e6aa0a778ee680e3047e75e4d812d"
+      "sha256": "7ab2d1bb1a8ca7ffb75d22bf5884186f812e6aa0a778ee680e3047e75e4d812d",
+      "display_sha256": "d924be0defd4a2d0ec583e65538c97075d10f8a8579135ab0a14caff956d2d77",
+      "display_blob_sha": "45a96ee4b9766e504fa82a041451f2d13d814660",
+      "display_original_site_sha256": "7ab2d1bb1a8ca7ffb75d22bf5884186f812e6aa0a778ee680e3047e75e4d812d",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phlox-roemeriana/inat-622092513.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c1f17e25dfff2ea92eef1ee54c5316c3087286a7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341692478, photo 622092513, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 26a4bb9c677bf2086c20fbd709d3890dace9cf8fef88a519e1e9eaabbef058f5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Phlox roemeriana maps to indexed species phlox-roemeriana; specialist morphology and BONAP range deferred.",
-      "sha256": "26a4bb9c677bf2086c20fbd709d3890dace9cf8fef88a519e1e9eaabbef058f5"
+      "sha256": "26a4bb9c677bf2086c20fbd709d3890dace9cf8fef88a519e1e9eaabbef058f5",
+      "display_sha256": "3387b1863c2d8d0e1795a98f982e7619bf1ffa3ceb6ce8daa84aaf052d80ebf3",
+      "display_blob_sha": "ece8a3d47677fe412435239ecae48b423d553533",
+      "display_original_site_sha256": "26a4bb9c677bf2086c20fbd709d3890dace9cf8fef88a519e1e9eaabbef058f5",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phlox-roemeriana/inat-623452502.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b2701ec238776900d9fcf3a6a68d0ab3916e1203",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 342366077, photo 623452502, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d87b12ba438c90ee8129f40e61594bb7161bc5ff9ffb157ef5288e8ddea74c0a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Phlox roemeriana maps to indexed species phlox-roemeriana; specialist morphology and BONAP range deferred.",
-      "sha256": "d87b12ba438c90ee8129f40e61594bb7161bc5ff9ffb157ef5288e8ddea74c0a"
+      "sha256": "d87b12ba438c90ee8129f40e61594bb7161bc5ff9ffb157ef5288e8ddea74c0a",
+      "display_sha256": "4eacd2c092e4d4c14bb498bd1d17fb6446df6a3e6c49294557b98818d0421cfd",
+      "display_blob_sha": "04002df70701b10c6bd51c8466bc8b01a1d47c8c",
+      "display_original_site_sha256": "d87b12ba438c90ee8129f40e61594bb7161bc5ff9ffb157ef5288e8ddea74c0a",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phlox-roemeriana/inat-625251056.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5adc51fed53d388c0bae8a5d3d94fcb495c4d0ba",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 343263546, photo 625251056, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 13e974e27e80bf17feb3aeb2d7f17944427331c71634eba07de4094c21a753a8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Phlox roemeriana maps to indexed species phlox-roemeriana; specialist morphology and BONAP range deferred.",
-      "sha256": "13e974e27e80bf17feb3aeb2d7f17944427331c71634eba07de4094c21a753a8"
+      "sha256": "13e974e27e80bf17feb3aeb2d7f17944427331c71634eba07de4094c21a753a8",
+      "display_sha256": "dfe8967770092e2624ffbf61a4a57284d2690e39a49d43aa5e0b5cfdf79fa3ce",
+      "display_blob_sha": "3f0ebc0351dad00a430916a679550341107e33d8",
+      "display_original_site_sha256": "13e974e27e80bf17feb3aeb2d7f17944427331c71634eba07de4094c21a753a8",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phlox-roemeriana/archived-2830fe86b95a8278.jpg",

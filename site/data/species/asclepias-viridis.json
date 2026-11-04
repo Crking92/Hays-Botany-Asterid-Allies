@@ -68,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "96affef0ed9c670280ca113f7aa0fbc023673378",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -76,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 349544382 and photo 637655584 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 b663fa645fc3a554db20da47f5dcd0f0058af8d9ea7233c8a14500f9cb46d774; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/637655584/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias viridis' matches this Apocynaceae species card asclepias-viridis. Specialist morphology/field characters deferred.",
-      "sha256": "b663fa645fc3a554db20da47f5dcd0f0058af8d9ea7233c8a14500f9cb46d774"
+      "sha256": "b663fa645fc3a554db20da47f5dcd0f0058af8d9ea7233c8a14500f9cb46d774",
+      "display_sha256": "f8c9a7fdc2421a6aadabb08d4647828d551f594ed436dda2d2fd34b7b1209386",
+      "display_blob_sha": "c34a1d6ae634cb20293d74a2c223ce404efce9dd",
+      "display_original_site_sha256": "b663fa645fc3a554db20da47f5dcd0f0058af8d9ea7233c8a14500f9cb46d774",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-viridis/inat-639627227.jpg",
@@ -87,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "29d7ec596123af5c2f2a6ef44f92a6c8ee695865",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -95,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 350554292 and photo 639627227 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 355d971eef880e299f1428a316e8e42e1dc07fd5b8406ce052aa8ca49a40b572; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/639627227/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias viridis' matches this Apocynaceae species card asclepias-viridis. Specialist morphology/field characters deferred.",
-      "sha256": "355d971eef880e299f1428a316e8e42e1dc07fd5b8406ce052aa8ca49a40b572"
+      "sha256": "355d971eef880e299f1428a316e8e42e1dc07fd5b8406ce052aa8ca49a40b572",
+      "display_sha256": "45948024c5bb11a23d70f297fa0c20bfc943e00b220d214ed578c967c92e2b16",
+      "display_blob_sha": "f064edf0ed270690a11727738f89cbca235675a7",
+      "display_original_site_sha256": "355d971eef880e299f1428a316e8e42e1dc07fd5b8406ce052aa8ca49a40b572",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-viridis/inat-644490307.jpg",
@@ -106,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ba3409f86aacc3462ad3eb5fa1952de4c303ca49",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -114,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 353193774 and photo 644490307 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 62a898588285a40a8e05da99918e28b6252bc7500579c605c13c14dd49c11314; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/644490307/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias viridis' matches this Apocynaceae species card asclepias-viridis. Specialist morphology/field characters deferred.",
-      "sha256": "62a898588285a40a8e05da99918e28b6252bc7500579c605c13c14dd49c11314"
+      "sha256": "62a898588285a40a8e05da99918e28b6252bc7500579c605c13c14dd49c11314",
+      "display_sha256": "df4040141a36adf41b2dd07c044c1825d16e2c69abadfc5b172d571b4b1ab8dd",
+      "display_blob_sha": "5251e9991a8c35d4ba67fbe58b1dbf4f367c4250",
+      "display_original_site_sha256": "62a898588285a40a8e05da99918e28b6252bc7500579c605c13c14dd49c11314",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-viridis/inat-644496835.jpg",
@@ -125,7 +140,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0abc44790fa2fe7c86da35b3fb3ff6df6d763dd3",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -133,7 +148,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 353197801 and photo 644496835 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 53c18212f3e70b7ab681d1f2c0c44c92a2bfdcaa7c9af40578b27bda1be5c670; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/644496835/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias viridis' matches this Apocynaceae species card asclepias-viridis. Specialist morphology/field characters deferred.",
-      "sha256": "53c18212f3e70b7ab681d1f2c0c44c92a2bfdcaa7c9af40578b27bda1be5c670"
+      "sha256": "53c18212f3e70b7ab681d1f2c0c44c92a2bfdcaa7c9af40578b27bda1be5c670",
+      "display_sha256": "fcd3d00ea412cd0c0a15c7786c47f0c419bd5779c12494d29f563e409b7d8407",
+      "display_blob_sha": "be7bb4ec8a73940c3bdce36ae4a0744d2f0c78af",
+      "display_original_site_sha256": "53c18212f3e70b7ab681d1f2c0c44c92a2bfdcaa7c9af40578b27bda1be5c670",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-viridis/inat-647092337.jpg",
@@ -144,7 +164,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a67ef4bb1caf8d7b64abc55f2d268291006e236a",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -152,7 +172,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 354741138 and photo 647092337 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 e2c976f6b55c19269b37f21772c36b7a86cc00d9838726fcfa469284aa2c8135; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/647092337/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias viridis' matches this Apocynaceae species card asclepias-viridis. Specialist morphology/field characters deferred.",
-      "sha256": "e2c976f6b55c19269b37f21772c36b7a86cc00d9838726fcfa469284aa2c8135"
+      "sha256": "e2c976f6b55c19269b37f21772c36b7a86cc00d9838726fcfa469284aa2c8135",
+      "display_sha256": "709be75ebb9ba728a644341ef4d8386d66865810c6ff56e3a4db7ccb853af909",
+      "display_blob_sha": "e725aa1cdd664184e1bb5810a6e77c2b1a0e7189",
+      "display_original_site_sha256": "e2c976f6b55c19269b37f21772c36b7a86cc00d9838726fcfa469284aa2c8135",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

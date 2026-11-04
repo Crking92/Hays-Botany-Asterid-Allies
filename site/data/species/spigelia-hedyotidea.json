@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "da0c20d38b9f8da5ba017f25afd0a8438e60fa1a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 264511886, photo 474972882, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 55ab3399fc6c0565b8b66ed58839073b88ccec243ea72c9859cccf9e2427a1dd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Spigelia hedyotidea maps to indexed species spigelia-hedyotidea; specialist morphology and BONAP range deferred.",
-      "sha256": "55ab3399fc6c0565b8b66ed58839073b88ccec243ea72c9859cccf9e2427a1dd"
+      "sha256": "55ab3399fc6c0565b8b66ed58839073b88ccec243ea72c9859cccf9e2427a1dd",
+      "display_sha256": "60bb68b568bbbaf66e3066f564fc2953115a648f370c9fe17371b3f4dc1d5378",
+      "display_blob_sha": "0846598d2dbd8e9aeedbee1723d56a050bed851e",
+      "display_original_site_sha256": "55ab3399fc6c0565b8b66ed58839073b88ccec243ea72c9859cccf9e2427a1dd",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/spigelia-hedyotidea/inat-481201912.jpeg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "3d6ede7a4842caacc97a21371e06a0d0aedf4a56",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 267748377, photo 481201912, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7f925fc6ba530d8d7e56609d65b32302d6aec0454dc998097d4257f83ae1b99b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Spigelia hedyotidea maps to indexed species spigelia-hedyotidea; specialist morphology and BONAP range deferred.",
-      "sha256": "7f925fc6ba530d8d7e56609d65b32302d6aec0454dc998097d4257f83ae1b99b"
+      "sha256": "7f925fc6ba530d8d7e56609d65b32302d6aec0454dc998097d4257f83ae1b99b",
+      "display_sha256": "54389d5185213011de1346037ea9adfa12725f480e732062e48281fc99209dc5",
+      "display_blob_sha": "a7baef2924ce3de1aa2f94b4658ac34b56e9c8d3",
+      "display_original_site_sha256": "7f925fc6ba530d8d7e56609d65b32302d6aec0454dc998097d4257f83ae1b99b",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/spigelia-hedyotidea/inat-495515725.jpeg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "468cb692b07208c24a5e8efd21c65309a15c7880",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 350920983, photo 640329796, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: b671208192556df8847556a9aa73c0754a6fa80566f8b153b3472ddb99b36284. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Spigelia hedyotidea maps to indexed species spigelia-hedyotidea; specialist morphology and BONAP range deferred.",
-      "sha256": "b671208192556df8847556a9aa73c0754a6fa80566f8b153b3472ddb99b36284"
+      "sha256": "b671208192556df8847556a9aa73c0754a6fa80566f8b153b3472ddb99b36284",
+      "display_sha256": "e2cf1696cfdd109763431156a7e31d0630e05e0ca49731925de8c8aee3acb3e8",
+      "display_blob_sha": "b411a525f66f1ee0d3ed1a0f8668584df481fb9b",
+      "display_original_site_sha256": "b671208192556df8847556a9aa73c0754a6fa80566f8b153b3472ddb99b36284",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/spigelia-hedyotidea/inat-648728932.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c2b8ac35edb06c51c235ce3918596f659eae61af",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355733189, photo 648728932, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2afb9acc03cfd44bbe428dddc824c04b68fd01ee5cbbbd3b005baad612e062e5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Spigelia hedyotidea maps to indexed species spigelia-hedyotidea; specialist morphology and BONAP range deferred.",
-      "sha256": "2afb9acc03cfd44bbe428dddc824c04b68fd01ee5cbbbd3b005baad612e062e5"
+      "sha256": "2afb9acc03cfd44bbe428dddc824c04b68fd01ee5cbbbd3b005baad612e062e5",
+      "display_sha256": "c6a278055a477895561ce8e43cd8779389bfec14703e36b37a0fd5ce1bf70d9c",
+      "display_blob_sha": "ed8478a793e6d582fc4f29969891eb9fb739ce88",
+      "display_original_site_sha256": "2afb9acc03cfd44bbe428dddc824c04b68fd01ee5cbbbd3b005baad612e062e5",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

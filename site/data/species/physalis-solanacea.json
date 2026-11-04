@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f29eb7c155b9e38d05ba8de625152612f710c315",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 137791327, photo 235391825, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0b8e1ee557e3b17988076ccae73d6a4455f6edad1eb186eb53e6c1e641ddb96d.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Physalis solanacea maps to indexed species physalis-solanacea; specialist morphology and BONAP range deferred.",
-      "sha256": "0b8e1ee557e3b17988076ccae73d6a4455f6edad1eb186eb53e6c1e641ddb96d"
+      "sha256": "0b8e1ee557e3b17988076ccae73d6a4455f6edad1eb186eb53e6c1e641ddb96d",
+      "display_sha256": "8d0746c9c024981a191f032057d31ab6db9ae1f750a0dbfa672f07cc8f47f8c7",
+      "display_blob_sha": "8ee29265bffc5f517149df996b1806089ab5e985",
+      "display_original_site_sha256": "0b8e1ee557e3b17988076ccae73d6a4455f6edad1eb186eb53e6c1e641ddb96d",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/physalis-solanacea/inat-576522341.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2f7462e1bd3b0ea6d23a0bcadcec6002dcbe37b9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 350909411, photo 640307797, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0c4fcedb6b4dbd9d5899e9cc2925e5860926142b5b179ab4b1c317e20261703f.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Physalis solanacea maps to indexed species physalis-solanacea; specialist morphology and BONAP range deferred.",
-      "sha256": "0c4fcedb6b4dbd9d5899e9cc2925e5860926142b5b179ab4b1c317e20261703f"
+      "sha256": "0c4fcedb6b4dbd9d5899e9cc2925e5860926142b5b179ab4b1c317e20261703f",
+      "display_sha256": "2268cbd2b9bdc700e8c24e5ea5b9010665d542869a86e0e09e763934b77cf423",
+      "display_blob_sha": "9a1435d22bebb5e76aca8b7df34c6b20bd1aed39",
+      "display_original_site_sha256": "0c4fcedb6b4dbd9d5899e9cc2925e5860926142b5b179ab4b1c317e20261703f",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/physalis-solanacea/inat-666854807.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "982de2f872a20c3b87dcbec2af01d91265f52877",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 365257286, photo 666854807, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0c56aaab887ce0e3d17a175a3c1a41e00b4f07f9631241d6aa3529b51c773161.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Physalis solanacea maps to indexed species physalis-solanacea; specialist morphology and BONAP range deferred.",
-      "sha256": "0c56aaab887ce0e3d17a175a3c1a41e00b4f07f9631241d6aa3529b51c773161"
+      "sha256": "0c56aaab887ce0e3d17a175a3c1a41e00b4f07f9631241d6aa3529b51c773161",
+      "display_sha256": "a6bbd32e1e6a6e70aeaf61d102d0f06110bc946091da9689dcd4d1ca02a2f79f",
+      "display_blob_sha": "73d51d853fc7ea78128ed8278a9d78bb7dc0c92b",
+      "display_original_site_sha256": "0c56aaab887ce0e3d17a175a3c1a41e00b4f07f9631241d6aa3529b51c773161",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/physalis-solanacea/inat-693661206.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0ab6c6be2412ad01196a2526cb98b0e492452830",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 379228094, photo 693661206, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f6002a11a4ed259423d13328cc5d1067fbfb729ef22d30abbb9f99e41126ee97.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Physalis solanacea maps to indexed species physalis-solanacea; specialist morphology and BONAP range deferred.",
-      "sha256": "f6002a11a4ed259423d13328cc5d1067fbfb729ef22d30abbb9f99e41126ee97"
+      "sha256": "f6002a11a4ed259423d13328cc5d1067fbfb729ef22d30abbb9f99e41126ee97",
+      "display_sha256": "0027f241945fa9abafae4bc0149f5cb8dc9d62cc7a809082650bd90536887b78",
+      "display_blob_sha": "45cfa00ca2808d204662738160277be79d063174",
+      "display_original_site_sha256": "f6002a11a4ed259423d13328cc5d1067fbfb729ef22d30abbb9f99e41126ee97",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/physalis-solanacea/archived-4474d9c7f430608f.jpg",

@@ -69,7 +69,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8a0c6a8c33e987541085aae43e136e3af645bc22",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -77,7 +77,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 341979816 and photo 622669974 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 77161b8c0b26d94c99405b4c1f3f77ede7de2c0b7e965f342051f232a7e73faa; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/622669974/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Amsonia ciliata' matches this Apocynaceae species card amsonia-ciliata. Specialist morphology/field characters deferred.",
-      "sha256": "77161b8c0b26d94c99405b4c1f3f77ede7de2c0b7e965f342051f232a7e73faa"
+      "sha256": "77161b8c0b26d94c99405b4c1f3f77ede7de2c0b7e965f342051f232a7e73faa",
+      "display_sha256": "139acede0532e064575cda7d9289e8c62010c026f4b3705eafc2131e7038a56d",
+      "display_blob_sha": "a847e119b09ee096d1a5cb6ae233763a95bd7cd7",
+      "display_original_site_sha256": "77161b8c0b26d94c99405b4c1f3f77ede7de2c0b7e965f342051f232a7e73faa",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/amsonia-ciliata/inat-623680787.jpg",
@@ -88,7 +93,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "96bf99d053e62dc4c788a4e3a2d9104094620576",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -96,7 +101,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 342478948 and photo 623680787 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 35838377a628701872c6124b06d45aa35a4cfc2ea6b8b37bdbe4c64e878c0d78; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/623680787/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Amsonia ciliata' matches this Apocynaceae species card amsonia-ciliata. Specialist morphology/field characters deferred.",
-      "sha256": "35838377a628701872c6124b06d45aa35a4cfc2ea6b8b37bdbe4c64e878c0d78"
+      "sha256": "35838377a628701872c6124b06d45aa35a4cfc2ea6b8b37bdbe4c64e878c0d78",
+      "display_sha256": "e99a630b072415738fe1fc1d26fe4240555c02bc382724764ceee90a6bd63f9b",
+      "display_blob_sha": "7c1fdc4458e629900085efcd044d8e94b48bdd5b",
+      "display_original_site_sha256": "35838377a628701872c6124b06d45aa35a4cfc2ea6b8b37bdbe4c64e878c0d78",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/amsonia-ciliata/inat-631017983.jpg",
@@ -107,7 +117,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "f44d2ecc0bef904c4d0870ae0f17bb981c749d35",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -115,7 +125,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 346192968 and photo 631017983 checked individually for current cc-by rights, creator from live exact-photo attribution, and identical SHA256 924f1feaad49e589a772e764d47bf5561ff6be6e52bc426ab492a046c5899963; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/631017983/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Amsonia ciliata' matches this Apocynaceae species card amsonia-ciliata. Specialist morphology/field characters deferred.",
-      "sha256": "924f1feaad49e589a772e764d47bf5561ff6be6e52bc426ab492a046c5899963"
+      "sha256": "924f1feaad49e589a772e764d47bf5561ff6be6e52bc426ab492a046c5899963",
+      "display_sha256": "c629c07ab29a8fcbc93124cfa97e8d84ede2ba02ea006e939f541067bb03f635",
+      "display_blob_sha": "868d5bd7f6d731d50604f88a35a730e341519264",
+      "display_original_site_sha256": "924f1feaad49e589a772e764d47bf5561ff6be6e52bc426ab492a046c5899963",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/amsonia-ciliata/inat-631626700.jpg",
@@ -126,7 +141,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "033acb5764b6c0abf26a4072bdf3df86ca203320",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -134,7 +149,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 346500986 and photo 631626700 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 c26839d7f8f10113373ee0056571660a21ad8d144dc4db5c32260c3008ed67d9; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/631626700/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Amsonia ciliata' matches this Apocynaceae species card amsonia-ciliata. Specialist morphology/field characters deferred.",
-      "sha256": "c26839d7f8f10113373ee0056571660a21ad8d144dc4db5c32260c3008ed67d9"
+      "sha256": "c26839d7f8f10113373ee0056571660a21ad8d144dc4db5c32260c3008ed67d9",
+      "display_sha256": "796b2b62c27e0a571f1bae5ba23faf0becf58b97b019da07d8660f1260b5a115",
+      "display_blob_sha": "edd574106b07e68fcc1524a54af183b03a8a29ff",
+      "display_original_site_sha256": "c26839d7f8f10113373ee0056571660a21ad8d144dc4db5c32260c3008ed67d9",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/amsonia-ciliata/inat-634584819.jpg",
@@ -145,7 +165,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e9d4b21222f92af6fe90fd9d6a84e34a584fc651",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -153,7 +173,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 347988267 and photo 634584819 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 d012759ec028ccbd9db2c33d82e6acf122803aebe5701bda52d1861e9da728f3; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/634584819/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Amsonia ciliata' matches this Apocynaceae species card amsonia-ciliata. Specialist morphology/field characters deferred.",
-      "sha256": "d012759ec028ccbd9db2c33d82e6acf122803aebe5701bda52d1861e9da728f3"
+      "sha256": "d012759ec028ccbd9db2c33d82e6acf122803aebe5701bda52d1861e9da728f3",
+      "display_sha256": "6d1bbff2ed2215e9aa5938321a506f36bf1d3e043cf7aa0fa92027b5f7915f36",
+      "display_blob_sha": "85689da396a502b9782a45f197f071a152d911c6",
+      "display_original_site_sha256": "d012759ec028ccbd9db2c33d82e6acf122803aebe5701bda52d1861e9da728f3",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -58,7 +58,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "74ce751e2d6b130c19ff7d1edec8f1dfd4818b85",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -66,7 +66,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 342477255 and photo 623676623 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 3ffaddc2e7422f8865e3341b08e528a3e018bf028ec45ee85a01e0db3e8e8d48; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/623676623/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Ehretia anacua' matches this Cactaceae species card ehretia-anacua. Specialist morphology/field characters deferred.",
-      "sha256": "3ffaddc2e7422f8865e3341b08e528a3e018bf028ec45ee85a01e0db3e8e8d48"
+      "sha256": "3ffaddc2e7422f8865e3341b08e528a3e018bf028ec45ee85a01e0db3e8e8d48",
+      "display_sha256": "b404338205e5c30e538f2d586dde20adfff3abbf0f311e37a36ecee94a395e13",
+      "display_blob_sha": "43473dd9ade5a4dc96719ed61921bbe9dd96c7f7",
+      "display_original_site_sha256": "3ffaddc2e7422f8865e3341b08e528a3e018bf028ec45ee85a01e0db3e8e8d48",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ehretia-anacua/inat-623682456.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "89e6315ef98cd3422aee4cac6bfaa7727b5f9ea5",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 342479823 and photo 623682456 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 593756a98847f99552299925dfdc6b3fccdb325f71cfedf27a455c03a9cb1475; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/623682456/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Ehretia anacua' matches this Cactaceae species card ehretia-anacua. Specialist morphology/field characters deferred.",
-      "sha256": "593756a98847f99552299925dfdc6b3fccdb325f71cfedf27a455c03a9cb1475"
+      "sha256": "593756a98847f99552299925dfdc6b3fccdb325f71cfedf27a455c03a9cb1475",
+      "display_sha256": "32e5da741b3c37f62f4c7fc3b1d4ef10ed4fabf49aa985b8750afde00571d5b7",
+      "display_blob_sha": "e5b16024f4973c55c05c726850c62f6a4eb59f52",
+      "display_original_site_sha256": "593756a98847f99552299925dfdc6b3fccdb325f71cfedf27a455c03a9cb1475",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ehretia-anacua/inat-623792363.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9a05bc12931d75be2402260614a9578aa2cea348",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 342532593 and photo 623792363 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 e0fa514c3ede253e29640dabd03022d042cf888bb25a7180ba8f0e5d9068be62; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/623792363/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Ehretia anacua' matches this Cactaceae species card ehretia-anacua. Specialist morphology/field characters deferred.",
-      "sha256": "e0fa514c3ede253e29640dabd03022d042cf888bb25a7180ba8f0e5d9068be62"
+      "sha256": "e0fa514c3ede253e29640dabd03022d042cf888bb25a7180ba8f0e5d9068be62",
+      "display_sha256": "225f21917bdc32ab85ec1f426b3e9f2cfe1282569d151c46f55434ae9eb3af7a",
+      "display_blob_sha": "9b925d8578aa292ba210a956b20464e1aa956a68",
+      "display_original_site_sha256": "e0fa514c3ede253e29640dabd03022d042cf888bb25a7180ba8f0e5d9068be62",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ehretia-anacua/inat-625034000.jpg",
@@ -134,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "221c2ed41368d04c06c07194e4bcb276060ae2bf",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -142,7 +157,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Boraginaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 343301107 and photo 625327327 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 72af5e52a5a904a0a18871a1ee4897c0fbc614603969d75e9b9d3d8f543b8720; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/625327327/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Ehretia anacua' matches this Cactaceae species card ehretia-anacua. Specialist morphology/field characters deferred.",
-      "sha256": "72af5e52a5a904a0a18871a1ee4897c0fbc614603969d75e9b9d3d8f543b8720"
+      "sha256": "72af5e52a5a904a0a18871a1ee4897c0fbc614603969d75e9b9d3d8f543b8720",
+      "display_sha256": "7f0e41ec38edb92c5d906d0d90b9899cbb203bab494e6532cc9061d7454ee182",
+      "display_blob_sha": "0ed55f9b6f4b2ba7b053d3505fa8d4a096cdba24",
+      "display_original_site_sha256": "72af5e52a5a904a0a18871a1ee4897c0fbc614603969d75e9b9d3d8f543b8720",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

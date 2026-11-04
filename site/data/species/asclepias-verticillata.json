@@ -60,10 +60,15 @@
       "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
       "source_blob_sha": "1bc74d1572e7978c0bb5ed8ce6616287be0a2b39",
       "role": "flowering habit",
-      "modified": "Exact archived original photograph; no modification",
+      "modified": "Resized and recompressed web display copy; source note: Exact archived original photograph; no modification",
       "noncommercial_only": false,
       "private_rights_review_only": false,
-      "source_page_is_exact": true
+      "source_page_is_exact": true,
+      "display_sha256": "eb07e28a06233feb002cbb851c329f6b4a9973727204fdb764a40143e4100e7e",
+      "display_blob_sha": "b093dfacbf229ca034795a67fb7232fd46deb679",
+      "display_original_site_sha256": "b4980dacba7b6f2a188633daa5be454774b36de363699d72f14626fd61af0bcb",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-verticillata/02-leaves.jpg",
@@ -73,10 +78,15 @@
       "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
       "source_blob_sha": "e6971c4ccbd5d8c25b36c3f596743bb276f078d5",
       "role": "diagnostic whorled leaves",
-      "modified": "Exact archived original photograph; no modification",
+      "modified": "Resized and recompressed web display copy; source note: Exact archived original photograph; no modification",
       "noncommercial_only": false,
       "private_rights_review_only": false,
-      "source_page_is_exact": true
+      "source_page_is_exact": true,
+      "display_sha256": "e567f7aa1f621637e79214f3a9b7cb6931533d95c6b73ca4cfca7989875266c2",
+      "display_blob_sha": "9ac21a55b862470b2766258e36870a11770fd30b",
+      "display_original_site_sha256": "1b5573212c5df4d5e2323fa1a76602a2bc20f5ecc07cc40d4900675735253e8c",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-verticillata/03-flower-cluster.jpg",
@@ -86,10 +96,15 @@
       "license_url": "https://creativecommons.org/licenses/by/3.0/",
       "source_blob_sha": "dd196e786350916e039b2e3778374bc65038d2a2",
       "role": "flower cluster macro",
-      "modified": "Exact archived original photograph; no modification",
+      "modified": "Resized and recompressed web display copy; source note: Exact archived original photograph; no modification",
       "noncommercial_only": false,
       "private_rights_review_only": false,
-      "source_page_is_exact": true
+      "source_page_is_exact": true,
+      "display_sha256": "b1aba87877d2e0fbdb4caa7cfcc7b7e54eb88bec5fa30f4264fb0bb893380d20",
+      "display_blob_sha": "db5beb5dcf1a48637afd64a2eb641aafb703f864",
+      "display_original_site_sha256": "520c8f2275376d93b50526bf159add4426adac6d559530e029d751238d812183",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-verticillata/04-texas-habit.jpg",
@@ -99,10 +114,15 @@
       "license_url": "https://creativecommons.org/licenses/by/2.0/",
       "source_blob_sha": "90efa482c46495d78651c23cd019bd5d94617f6f",
       "role": "Texas flowering habit",
-      "modified": "Exact archived original photograph; no modification",
+      "modified": "Resized and recompressed web display copy; source note: Exact archived original photograph; no modification",
       "noncommercial_only": false,
       "private_rights_review_only": false,
-      "source_page_is_exact": true
+      "source_page_is_exact": true,
+      "display_sha256": "26ff4239d34986435d15c89fdaf06155d70e2effc706d28b22cadcf7362f6f87",
+      "display_blob_sha": "c3526368a5219339eaa21396bd785f0dba0ae997",
+      "display_original_site_sha256": "b5edb0d94f3150832137200c12ccedce8a7f337a0365b635bb3a70a7a1f82953",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-verticillata/05-diagnostic.jpg",
@@ -112,10 +132,15 @@
       "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
       "source_blob_sha": "398fc972ed9acb2d3d54cf8bad40cb6fe5bfdefe",
       "role": "diagnostic flowering view",
-      "modified": "Exact archived original photograph; no modification",
+      "modified": "Resized and recompressed web display copy; source note: Exact archived original photograph; no modification",
       "noncommercial_only": false,
       "private_rights_review_only": false,
-      "source_page_is_exact": true
+      "source_page_is_exact": true,
+      "display_sha256": "5ef3088102f3891c1b7eac19a88bc16245ba44f78a8205b5e32c4bbdff0ed94e",
+      "display_blob_sha": "c781e3c4f7f26a20a948f47fde74171afe004e80",
+      "display_original_site_sha256": "21a470336174168f706510ada6addb8e520700d53bcc3d260b4eae7af4483fe9",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-verticillata/inat-380316724.jpg",
@@ -126,7 +151,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ef93c3ffd081ce58811124f9813f0c2983d09121",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -134,7 +159,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 215130906 and photo 380316724 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 838ffb48a662ce179cc50a9ee541253207be2403b3646bf92774cf3217dba68c; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/380316724/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias verticillata' matches this Apocynaceae species card asclepias-verticillata. Specialist morphology/field characters deferred.",
-      "sha256": "838ffb48a662ce179cc50a9ee541253207be2403b3646bf92774cf3217dba68c"
+      "sha256": "838ffb48a662ce179cc50a9ee541253207be2403b3646bf92774cf3217dba68c",
+      "display_sha256": "84079719b6d805feff21bb4da898cfa428165e599374af4b1d1866ddfa1157c8",
+      "display_blob_sha": "d422c08f2d3c1aec3e41eec67455b1ab1542a07b",
+      "display_original_site_sha256": "838ffb48a662ce179cc50a9ee541253207be2403b3646bf92774cf3217dba68c",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-verticillata/inat-384009972.jpeg",
@@ -164,7 +194,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d5ca0ec010ea978002385278cda2ad735a4f196a",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -172,7 +202,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 280559904 and photo 503904228 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 953d263d8caad7aa1480277cee9e410187b6059ea7818effe2878f39b08b9aba; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/503904228/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias verticillata' matches this Apocynaceae species card asclepias-verticillata. Specialist morphology/field characters deferred.",
-      "sha256": "953d263d8caad7aa1480277cee9e410187b6059ea7818effe2878f39b08b9aba"
+      "sha256": "953d263d8caad7aa1480277cee9e410187b6059ea7818effe2878f39b08b9aba",
+      "display_sha256": "6203dfe8a2f54f813c2d9587fd5218431db2a2fc53a96d641816ead8ae0530e4",
+      "display_blob_sha": "e44cdb0d4727c55e30d684349ac52c3b37de0d5e",
+      "display_original_site_sha256": "953d263d8caad7aa1480277cee9e410187b6059ea7818effe2878f39b08b9aba",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-verticillata/inat-669824750.jpg",
@@ -183,7 +218,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "108bf8814d1503b8fef9a2ea7de54409a24736fd",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -191,7 +226,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 366819648 and photo 669824750 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 0734fd953e75ddeff8a3dec34612cf78871a22eaef984ff520cf407f575dde86; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/669824750/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias verticillata' matches this Apocynaceae species card asclepias-verticillata. Specialist morphology/field characters deferred.",
-      "sha256": "0734fd953e75ddeff8a3dec34612cf78871a22eaef984ff520cf407f575dde86"
+      "sha256": "0734fd953e75ddeff8a3dec34612cf78871a22eaef984ff520cf407f575dde86",
+      "display_sha256": "0b91fe242c0fda5598c4e2eaaf656959e4c66d013469ccc2e07a99f549004329",
+      "display_blob_sha": "fd2e3453eff092246021799e5651d95ff697c384",
+      "display_original_site_sha256": "0734fd953e75ddeff8a3dec34612cf78871a22eaef984ff520cf407f575dde86",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/asclepias-verticillata/inat-669938305.jpg",
@@ -202,7 +242,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ad3bee7749d9c6ddc18c839968f24af0641e143d",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -210,7 +250,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apocynaceae exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 366878125 and photo 669938305 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 a6be5161b9ecb3ae9750d9f048e5e54edb156fcb7079f84f06adfdab9504255b; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/669938305/original.jpg.",
       "taxon_review_evidence": "Actual ZIP images and three contact sheets reviewed for basic plant identity and useful whole-plant, leaf, flower and fruit coverage. Live source taxon 'Asclepias verticillata' matches this Apocynaceae species card asclepias-verticillata. Specialist morphology/field characters deferred.",
-      "sha256": "a6be5161b9ecb3ae9750d9f048e5e54edb156fcb7079f84f06adfdab9504255b"
+      "sha256": "a6be5161b9ecb3ae9750d9f048e5e54edb156fcb7079f84f06adfdab9504255b",
+      "display_sha256": "ba4c9ec5eb80e2253728a4c92fa009393a7b8c0448523c3d5ef8cec3edf6d52c",
+      "display_blob_sha": "8edbbe62ecc580108e85121f3fa6b8f7d9d41c24",
+      "display_original_site_sha256": "a6be5161b9ecb3ae9750d9f048e5e54edb156fcb7079f84f06adfdab9504255b",
+      "display_original_archive_commit": "d74162071a75e6c3bec3114284f756d84202c341",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
