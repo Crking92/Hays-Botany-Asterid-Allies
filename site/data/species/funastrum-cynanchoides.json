@@ -91,6 +91,25 @@
       "source_review_evidence": "iNaturalist observation 61237706 photo 97969685 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 1; archived source SHA 8ef9f1de28e5fb6b4cad76cb55bbd0ca772ffa9f; exact image source https://www.inaturalist.org/photos/97969685",
       "taxon_review_evidence": "Original species record Funastrum cynanchoides linked to an original image and matching current inat photo of source taxon Funastrum cynanchoides. Basic source-backed field recognition only; no diagnostic arrow certification.",
       "sha256": "db4d359fa9a721d0c232c64ba20acb86a65c18e03ded52596a3bf841a61c2f25"
+    },
+    {
+      "src": "media/funastrum-cynanchoides/archived-90d658978c7914a6.jpg",
+      "creator": "BLMArizona",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Climbing_milkweed_(54821170528).jpg",
+      "source_page_is_exact": true,
+      "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
+      "license_url": "https://www.copyright.gov/title17/92chap1.html#105",
+      "source_blob_sha": "5e03fb2af7ccea4a2e90263bedfd37d623b05c17",
+      "role": "Flowering climbing milkweed in Arizona habitat",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Exact Commons file page, creator and image-specific PUBLIC DOMAIN (U.S. FEDERAL WORK) independently reviewed 2026-11-03; same original URL https://upload.wikimedia.org/wikipedia/commons/0/06/Climbing_milkweed_%2854821170528%29.jpg; image fingerprint distance 0; archived source SHA 5e03fb2af7ccea4a2e90263bedfd37d623b05c17; exact image source https://commons.wikimedia.org/wiki/File:Climbing_milkweed_(54821170528).jpg",
+      "taxon_review_evidence": "Original species record Funastrum cynanchoides linked to an original image and matching current commons photo of source taxon Funastrum cynanchoides. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "90d658978c7914a6bf35d28b08efb945281dc0dc31c48e126b2356844d1d0358"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
