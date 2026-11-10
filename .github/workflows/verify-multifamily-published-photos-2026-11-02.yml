@@ -84,10 +84,16 @@ jobs:
               raise SystemExit("Published photo totals inconsistent")
           def verify(rel):
               source=(site/rel).read_bytes()
-              live=retrieve(rel)
-              if hashlib.sha256(source).digest()!=hashlib.sha256(live).digest():
-                  raise ValueError("Live photo or species bytes differ from GitHub: "+rel)
-              return rel
+              expected_sha=hashlib.sha256(source).digest()
+              # Pages may update the index before individual species JSON files.
+              # Retry stale bytes with cache-busting, but never accept a mismatch.
+              for attempt in range(7):
+                  live=retrieve(rel,"?verify="+str(attempt))
+                  if hashlib.sha256(live).digest()==expected_sha:
+                      return rel
+                  if attempt<6:
+                      time.sleep(10)
+              raise ValueError("Live photo or species bytes differ from GitHub after bounded retries: "+rel)
           with concurrent.futures.ThreadPoolExecutor(max_workers=5) as pool:
               checked=list(pool.map(verify,sorted(paths)))
           print("LIVE_PUBLIC_GALLERY_IMAGE_PASS",json.dumps({
