@@ -2,9 +2,9 @@
   "id": "convolvulus-equitans",
   "family": "Convolvulaceae",
   "genus": "Convolvulus",
-  "scientific_name": "",
+  "scientific_name": "Convolvulus equitans",
   "common_name": "Texas Bindweed",
-  "look_here_first": "",
+  "look_here_first": "This existing photograph shows a white funnel-shaped flower with a deep rose-red throat. To distinguish Texas bindweed from look-alikes, also inspect the trailing habit, velvety arrow-shaped leaves, hairy sepals and fruit; those structures are not established by this flower close-up.",
   "key_traits": [
     {
       "label": "Life cycle",
@@ -60,7 +60,7 @@
       "license": "CC BY-NC-SA 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "source_blob_sha": "33923b34150be94914b2b2f21733522837e76005",
-      "role": "curated taxon reference",
+      "role": "Open flower close-up: white funnel-shaped corolla with deep rose-red throat and visible central reproductive parts; leaf shape, whole-plant habit, sepals and fruit not established",
       "modified": "Historical archived photograph; no new changes.",
       "noncommercial_only": true,
       "private_rights_review_only": false,
