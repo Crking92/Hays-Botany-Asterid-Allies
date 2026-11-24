@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "record_type": "targeted_authoritative_varietal_treatment_and_scope_hold",
+  "review_date": "2026-11-24",
+  "inventory_name": "Cuscuta obtusiflora Kunth",
+  "inventory_path": "content/taxa/Convolvulaceae/Cuscuta/cuscuta-obtusiflora/species.json",
+  "sources": [
+    {
+      "citation": "Kew POWO, Cuscuta obtusiflora",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:72898-2",
+      "role": "Accepted species with several accepted infraspecific taxa"
+    },
+    {
+      "citation": "Flora of North America vol. 14, Cuscuta obtusiflora var. glandulosa",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250131316",
+      "role": "Detailed North American variety-level morphology"
+    },
+    {
+      "citation": "Flora of North America, genus Cuscuta",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=108730",
+      "role": "Microscopic floral diagnosis often necessary"
+    }
+  ],
+  "taxon_scope_warning": "FNA numeric measurements below apply specifically to var. glandulosa, NOT automatically to all plants or all accepted varieties of C. obtusiflora.",
+  "var_glandulosa_morphology": {
+    "stems": "Orange, slender to medium",
+    "inflorescence": "Dense glomerules",
+    "flower_length_mm": "1.8–2.5",
+    "calyx": "Shallowly cupulate, divided about halfway, with blunt lobes",
+    "corolla": "Creamy white, 1.6–2.5 mm, spreading lobes with rounded or obtuse ends",
+    "infrastaminal_scales": "Oblong to obovate, 1–1.5 mm, often fimbriate distally",
+    "capsule": "Depressed-globose, 1.5–3 × 2.5–4 mm, indehiscent with relatively large interstylar opening; corolla remnants envelop basal capsule",
+    "seeds": "Usually 4, occasionally 3",
+    "flowering": "Jun–Sep(–Oct), across FNA treatment range"
+  },
+  "diagnostic_comparison": "FNA notes var. glandulosa versus Cuscuta polygonorum: five-merous flowers, blunt corolla lobes, and fimbriate infrastaminal scales; distinguish from C. gronovii var. latiflora by depressed capsules not thickened around the interstylar opening.",
+  "existing_learner_limitation": "Original species.json has only generic yellow-orange threads and clustered flowers; taxon-level identity cannot be confirmed from host threads or flower color alone.",
+  "status": "VARIETAL_SOURCE_GAP_PARTIALLY_FILLED_SPECIES_LEVEL_ID_HOLD",
+  "next_action": "Find authoritative species-level or Hays-relevant variety treatment; preserve provisional identity until microscopic floral examination or exact determination evidence. General photos still absent from current repository record.",
+  "bonap": "DEFERRED",
+  "preservation": "No images, site, or existing species record modified"
+}
